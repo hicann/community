@@ -1,0 +1,26 @@
+name: ops-nn
+description: 提供神经网络（Neural Network，NN）类的高阶算子库，涵盖了常见的Matmul、卷积等算子
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - cann/ops-nn
+  committers:
+  - gitcode_id: zhou-qilong
+  - gitcode_id: chenqi317
+  - gitcode_id: fangqirui
+  - gitcode_id: lileizheng
+  - gitcode_id: liu-wei
+  - gitcode_id: yu-xinjie62
+  reviewers:
+  - gitcode_id: zhou-qilong
+  - gitcode_id: chenqi317
+  - gitcode_id: fangqirui
+  - gitcode_id: lileizheng
+  - gitcode_id: liu-wei
+  - gitcode_id: yu-xinjie62
+  entry_configs: []
+

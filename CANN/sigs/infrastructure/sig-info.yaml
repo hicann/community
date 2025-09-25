@@ -1,0 +1,20 @@
+name: infrastructure
+description: 构建围绕CANN的基础设施生态，优化构建流程、提高软件质量、促进社区协作，为用户提供提供更优质的构建服务.
+mailing_list: infrastructure@cann.osinfra.cn
+meeting_url: https://meeting.osinfra.cn/cann/
+mentors: []
+committers:
+- gitcode_id: sognchangxia
+- gitcode_id: mywaaagh_admin
+reviewers:
+- gitcode_id: shentukangjun
+- gitcode_id: lixi9527
+- gitcode_id: aflyingto
+- gitcode_id: craylea
+- gitcode_id: weixin_39767879
+- gitcode_id: yangbinhua
+- gitcode_id: chrisffjx
+- gitcode_id: drizzlezyk
+repositories:
+- repo:
+  - cann/community

@@ -1,0 +1,23 @@
+name: ops-transformer
+description: 提供transformer类大模型算子的高阶算子库，简称ops-transformer，涵盖了常见的FlashAttention、MoE（Mixture of Experts）等算子
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - cann/ops-transformer
+  committers:
+  - gitcode_id: chenjianjun11
+  - gitcode_id: yang-binrong
+  - gitcode_id: wang-minbo
+  - gitcode_id: chenkang30
+  - gitcode_id: songkai111
+  reviewers:
+  - gitcode_id: chenjianjun11
+  - gitcode_id: yang-binrong
+  - gitcode_id: wang-minbo
+  - gitcode_id: chenkang30
+  - gitcode_id: songkai111
+  entry_configs: []

@@ -1,0 +1,161 @@
+name: CANN  
+description: 
+tsc_members:
+  - gitcode_id: hengliao2025
+    name: LIAO HENG
+    email: liao.heng@hisilicon.com
+  - gitcode_id: jiangming_lightring
+    name: 蒋铭
+    email: jiangming@huawei.com
+  - gitcode_id: xy869268
+    name: 熊怡
+    email: albert.xiong@huawei.com
+  - gitcode_id: ygao00402060
+    name: Yaoqing Gao
+    email: yaoqing.gao@huawei.com
+  - gitcode_id: river10989
+    name: 闫长江
+    email: yanchangjiang@huawei.com
+  - gitcode_id: Justin-2019
+    name: 丁玉军
+    email: dingyujun@huawei.com
+  - gitcode_id: slx2008
+    name: 邵立欣
+    email: shaolixin@huawei.com
+  - gitcode_id: lishouping
+    name: 李守平
+    email: lishouping@huawei.com
+  - gitcode_id: yeshenghua00
+    name: 叶生华
+    email: yeyuxuan2@huawei.com
+  - gitcode_id: zhouhao176
+    name: 周浩
+    email: zhouhao176@huawei.com
+  - gitcode_id: HongjieLiu
+    name: 刘洪杰
+    email: hongjieliu@huawei.com
+  - gitcode_id: zhuxiaosixu
+    name: 雷森
+    email: leisen@huawei.com
+  - gitcode_id: hitianjun
+    name: 田军
+    email: hitianjun@qq.com
+  - gitcode_id: FredyLiu
+    name: 刘虎
+    email: liu_hu@hisilicon.com
+  - gitcode_id: Minghui-BD
+    name: 余墨
+    email: leonardo.physh@outlook.com
+  - gitcode_id: mryufeng
+    name: 余锋
+    email: mryufeng@gmail.com
+  - gitcode_id: zc911
+    name: 陈震
+    email: zack.m.chen@gmail.com
+  - gitcode_id: qhpan
+    name: 潘青华
+    email: qhpan@iflytek.com
+  - gitcode_id: Lulu_scut
+    name: 陆璐
+    email: lul@scut.edu.cn
+  - gitcode_id: sutonghua
+    name: 苏统华
+    email: thsu@hit.edu.cn
+  - gitcode_id: wanghoude
+    name: 王斌
+    email: 13911975964@139.com
+  - gitcode_id: gcw_LpVT5k8w
+    name: 刘敬谦
+    email: noahero_liu@hotmail.com
+  - gitcode_id: thierryzhong
+    name: 钟忻
+    email: thierryzhong@hotmail.com
+  - gitcode_id: jason2025
+    name: 梁寿愚
+    email: lsynd@126.com
+  - gitcode_id: maoqiuli
+    name: 毛秋力
+    email: mql17@tsinghua.org.cn
+  - gitcode_id: DrTangxc
+    name: 汤雄超
+    email: txc@qingcheng.ai  
+
+sigs:
+  - sig_name: ops-basic
+    maintainers: 
+      - gitcode_id: zhou-qilong
+        name: 周奇龙
+        email: zhouqilong2@huawei.com
+      - gitcode_id: gubaocheng
+        name: 顾宝成
+        email: gubaocheng@huawei.com
+      - gitcode_id: loov1
+        name: 徐鲁威
+        email: xuluwei@huawei.com
+  - sig_name: ops-nn
+    maintainers: 
+      - gitcode_id: tangweiwei2
+        name: 唐玮玮
+        email: tangweiwei2@huawei.com
+      - gitcode_id: chenqi317
+        name: 陈琦
+        email: chenqi317@huawei.com
+      - gitcode_id: liubo75
+        name: 刘波
+        email: liubo75@huawei.com
+      - gitcode_id: crystalhu
+        name: 胡碧霞
+        email: hubixia1@huawei.com
+  - sig_name: ops-transformer
+    maintainers: 
+    - gitcode_id: liudan12
+      name: 刘丹
+      email: liudan12@huawei.com
+    - gitcode_id: Allan_Yu
+      name: 俞郑中
+      email: yuzhengzhong1@huawei.com
+    - gitcode_id: monologue815
+      name: 黄俊健
+      email: huangjunjian3@huawei.com
+    - gitcode_id: mabing726
+      name: 马兵
+      email: mabing726@huawei.com
+  - sig_name: QA
+    maintainers: 
+      - gitcode_id: wangshouguo
+        name: 王寿国
+        email: wangshouguo@huawei.com
+      - gitcode_id: zhaolinlin
+        name: 赵林林
+        email: zhaolinlin14@huawei.com
+      - gitcode_id: khmeng_2025
+        name: 孟科华
+        email: mengkehua@huawei.com
+  - sig_name: security
+    maintainers: 
+      - gitcode_id: Xing_Cai
+        name: 蔡兴
+        email: xing.cai@huawei.com
+      - gitcode_id: AlleyWang
+        name: 王蕾
+        email: wanglei391@huawei.com
+      - gitcode_id: HZFeng
+        name: 胡占锋
+        email: huzhanfeng@huawei.com
+  - sig_name: infrastructure
+    maintainers: 
+      - gitcode_id: songchangxia
+        name: 宋常霞
+        email: songchangxia@huawei.com
+      - gitcode_id: mywaaagh_admin
+        name: 李超然
+        email: lichaoran1@huawei.com
+  - sig_name: doc
+    maintainers: 
+      - gitcode_id: TianXL
+        name: 田晓亮
+        email: tian.xiaoliang@huawei.com
+      - gitcode_id: cherry_03
+        name: 王艳秋
+        email: wangyanqiu2@huawei.com
+ 
