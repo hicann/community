@@ -12,7 +12,7 @@
 # 成员
 
 ### Maintainer列表
-- 宋常霞[@sognchangxia](https://gitcode.com/songchangxia), *songchangxia@huawei.com*
+- 宋常霞[@songchangxia](https://gitcode.com/songchangxia), *songchangxia@huawei.com*
 - 李超然[@mywaaagh_admin](https://gitcode.com/mywaaagh_admin), *lichaoran1@huawei.com*
 
 ### Committer列表
