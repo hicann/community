@@ -9,7 +9,7 @@
   </tr>
     <tr>
     <td><span style="font-size:16px;">算子库</span></td>
-    <td><span style="font-size:16px;">提供了丰富的深度优化、硬件亲和的高性能算子，包括神经网络库、线性代数库等，为神经网络在昇腾硬件上加速计算奠定了基础。</span></td>
+    <td><span style="font-size:16px;">提供了丰富的深度优化、硬件亲和的高性能算子，为神经网络在昇腾硬件上加速计算提供基础。</span></td>
 	<td>
       <span style="font-size:16px;">ops-nn</span></a><br>
       <a href="https://gitcode.com/cann/ops-math"><span style="font-size:16px;">ops-math</span></a><br>
@@ -53,8 +53,11 @@
 - [CANN训练营](https://www.hiascend.com/developer/activities/cann20251)：2025年CANN训练营全新升级，定制化四大专题直播课程，帮助不同阶段的开发者快速入门和提升Ascend C算子开发技术。
 - [昇腾AI创新大赛-算子挑战赛](https://www.hiascend.com/developer/ops)：昇腾AI创新大赛-算子挑战赛旨在培养一批精通Ascend C算子开发的开发者，鼓励开发者基于CANN的基础能力进行深度创新与实践。
 
+## 如何参与
+- [社区介绍](https://gitcode.com/cann/community)
+
 ## 开发者论坛
-[昇腾论坛](https://www.hiascend.com/forum/forum-0106101385921175004-1.html)
+- [昇腾论坛](https://www.hiascend.com/forum/forum-0106101385921175004-1.html)
 
 
 ## 合作联系
