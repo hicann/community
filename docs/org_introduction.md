@@ -59,7 +59,7 @@
 
 
 ## 开发者论坛
-[昇腾论坛](https://www.hiascend.com/forum/forum-0106101385921175004-1.html)
+- [昇腾论坛](https://www.hiascend.com/forum/forum-0106101385921175004-1.html)
 
 
 ## 合作联系
