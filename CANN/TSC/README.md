@@ -19,7 +19,7 @@
 - Yaoqing Gao yaoqing.gao@huawei.com [[@ygao00402060]](https://gitcode.com/ygao00402060)
 - 闫长江 yanchangjiang@huawei.com [[@river10989]](https://gitcode.com/river10989)
 - 丁玉军 dingyujun@huawei.com [[@Justin-2019]](https://gitcode.com/Justin-2019)
-- 卲立欣 shaolixin@huawei.com [[@slx2008]](https://gitcode.com/slx2008)
+- 邵立欣 shaolixin@huawei.com [[@slx2008]](https://gitcode.com/slx2008)
 - 李守平 lishouping@huawei.com [[@lishouping]](https://gitcode.com/lishouping)
 - 叶生华 yeyuxuan2@huawei.com [[@yeshenghua00]](https://gitcode.com/yeshenghua00)
 - 周浩 zhouhao176@huawei.com [[@zhouhao176]](https://gitcode.com/zhouhao176)
