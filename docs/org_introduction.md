@@ -9,7 +9,7 @@
   </tr>
     <tr>
     <td><span style="font-size:16px;">算子库</span></td>
-    <td><span style="font-size:16px;">提供了丰富的深度优化、硬件亲和的高性能算子，包括神经网络库、线性代数库等，为神经网络在昇腾硬件上加速计算奠定了基础。</span></td>
+    <td><span style="font-size:16px;">提供了丰富的深度优化、硬件亲和的高性能算子，为神经网络在昇腾硬件上加速计算提供基础。</span></td>
 	<td>
       <span style="font-size:16px;">ops-nn</span></a><br>
       <a href="https://gitcode.com/cann/ops-math"><span style="font-size:16px;">ops-math</span></a><br>
