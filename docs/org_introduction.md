@@ -54,7 +54,10 @@
 - [昇腾AI创新大赛-算子挑战赛](https://www.hiascend.com/developer/ops)：昇腾AI创新大赛-算子挑战赛旨在培养一批精通Ascend C算子开发的开发者，鼓励开发者基于CANN的基础能力进行深度创新与实践。
 
 ## 开发者论坛
-[昇腾论坛](https://www.hiascend.com/forum/forum-0106101385921175004-1.html)
+- [社区介绍](https://gitcode.com/cann/community)
+
+## 开发者论坛
+- [昇腾论坛](https://www.hiascend.com/forum/forum-0106101385921175004-1.html)
 
 
 ## 合作联系
