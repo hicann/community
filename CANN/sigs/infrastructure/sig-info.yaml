@@ -4,7 +4,7 @@ mailing_list: infrastructure@cann.osinfra.cn
 meeting_url: https://meeting.osinfra.cn/cann/
 mentors: []
 committers:
-- gitcode_id: sognchangxia
+- gitcode_id: songchangxia
 - gitcode_id: mywaaagh_admin
 reviewers:
 - gitcode_id: shentukangjun
