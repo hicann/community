@@ -88,7 +88,7 @@ Community仓主要承载关于CANN开源社区的相关信息，包括社区治�
    当您在提交PR过程中遇到问题，常见问题的解决方法可参见[FAQs](docs/FAQ/infra-faqs.md)。
 
 ### 参与社区会议
-如果您希望参加社区TSC/PMC/SIGs等组织会议，可以访问[社区会议看板](https://meeting.osinfra.cn/cann)获取更多信息。
+如果您希望参加社区TSC/PMC/SIGs等组织会议，可以访问[社区会议看板](https://meeting.osinfra.cn/cann)获取更多信息，同时社区也为您提供了[相关模板](templates/ppt_template.pptx)用于社区交流材料编写。
 
 ### 教程与规范文档
 - [CANN社区协作指南](https://gitcode.com/cann/community/blob/master/role-guidance.md)： 所有角色的完整操作流程
