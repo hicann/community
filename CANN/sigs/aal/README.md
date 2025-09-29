@@ -34,4 +34,4 @@
 
 仓库地址：
 - https://gitcode.com/cann/ascend-transformer-boost
-- https://gitcode.com/cann/Mind-KernelInfra
+- https://gitcode.com/cann/ascend-boost-comm
