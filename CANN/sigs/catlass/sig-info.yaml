@@ -1,7 +1,7 @@
 name: catlass
 description: 提供高性能矩阵乘类算子的模块化组件与完整算子样例，提升昇腾算子定制开发效率。
-mailing_list: NA
-meeting_url: NA
+mailing_list: https://mailweb.cann.osinfra.cn/mailman3/lists/catlass.cann.osinfra.cn/
+meeting_url: https://meeting.osinfra.cn/cann/
 mentors: []
 approvers: []
 reviewers: []
