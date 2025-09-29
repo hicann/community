@@ -120,6 +120,17 @@ sigs:
     - gitcode_id: mabing726
       name: 马兵
       email: mabing726@huawei.com
+  - sig_name: catlass
+    maintainers: 
+    - gitcode_id: zhouhao176
+      name: 周浩
+      email: zhouhao176@huawei.com
+    - gitcode_id: huangxin361
+      name: 黄鑫
+      email: huangxin36@huawei.com
+    - gitcode_id: tianxinghui
+      name: 田行辉
+      email: tianxinghui@huawei.com
   - sig_name: QA
     maintainers: 
       - gitcode_id: wangshouguo
@@ -158,4 +169,4 @@ sigs:
       - gitcode_id: cherry_03
         name: 王艳秋
         email: wangyanqiu2@huawei.com
- 
+
