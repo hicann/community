@@ -46,7 +46,7 @@
 - [算子开发](https://gitcode.com/cann/ops-math/blob/master/docs/context/quick_op_develop.md)：介绍开发算子的基本流程，一键创建算子工程目录，实现Tiling、Kernel核心交付件。
 
 ## 热门样例
-- [DeepSeek-V3.2-Exp模型在昇腾Atlas A3系列上已0day支持推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)：基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。
+- [<span style="color:#e60000;">DeepSeek-V3.2-Exp模型在昇腾Atlas A3系列上已0day支持推理部署</span>](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)：基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。
 
 
 ## 会议日历
