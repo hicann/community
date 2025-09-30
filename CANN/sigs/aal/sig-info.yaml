@@ -1,0 +1,66 @@
+name: aal
+description: NA
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers:
+- gitcode_id: nino888
+- gitcode_id: goodpeople233
+- gitcode_id: ztj0209
+- gitcode_id: monologue815
+- gitcode_id: kpxing
+- gitcode_id: godantshen_
+reviewers:
+- gitcode_id: loov1
+- gitcode_id: qq_35468730
+- gitcode_id: shenzhaofeng
+- gitcode_id: fengrui886
+- gitcode_id: QK_25415
+- gitcode_id: lord_of_ironhill
+- gitcode_id: vallenChen
+- gitcode_id: yuanxinzhuo15
+- gitcode_id: ZZYuan
+- gitcode_id: yuantao_
+- gitcode_id: liuboxi
+- gitcode_id: candy_cloud_fly
+- gitcode_id: zhu-mingzhe71
+- gitcode_id: CLu_
+- gitcode_id: hanru-xu
+- gitcode_id: wy519
+- gitcode_id: li_wei21
+- gitcode_id: xutianhao556
+- gitcode_id: ryan_li
+- gitcode_id: RookieAjuu
+- gitcode_id: skyqwzw
+- gitcode_id: ADAMAS33
+- gitcode_id: davahkiiin
+- gitcode_id: ivanshan05075
+- gitcode_id: ninihihi
+- gitcode_id: zhangyunqi
+- gitcode_id: qiuqianjin233
+- gitcode_id: HallCin
+- gitcode_id: caixilong
+- gitcode_id: weixin_44577815
+- gitcode_id: Ascendyh
+- gitcode_id: huangxiaolan
+- gitcode_id: qq_44359711
+- gitcode_id: tianxinghui
+- gitcode_id: zjw666888
+- gitcode_id: triwooder
+- gitcode_id: zhouhao176
+- gitcode_id: weixin_42818618
+- gitcode_id: huangxin36
+- gitcode_id: dongpeng65563
+- gitcode_id: longjihui
+- gitcode_id: zhu-wangyi
+- gitcode_id: oioring
+- gitcode_id: handsome20
+- gitcode_id: xuwenjie
+- gitcode_id: ascend-ruxi
+- gitcode_id: hongshiyi
+
+repositories:
+- repo:
+  - cann/ascend-transformer-boost
+  - cann/ascend-boost-comm
+
