@@ -5,7 +5,7 @@
 
 ### Maintainer列表
 - 尹祺然[@nino888](https://gitcode.com/nino888), *yinqiran1@huawei.com*
-- 徐鲁威[@loov1](https://gitcode.com/loov1), *loovix@foxmail.com*
+- 徐鲁威[@loov1](https://gitcode.com/loov1), *xuluwei@huawei.com*
 - 朱志明[@QK_25415](https://gitcode.com/QK_25415), *zhuzhiming1@huawei.com*
 ### Committer列表
 - 郭炅[@goodpeople233](https://gitcode.com/goodpeople233), *guojiong1@huawei.com*
@@ -28,7 +28,7 @@
 
 # SIG订阅
 
-- [邮件列表](订阅清单)
+- [邮件列表](https://mailweb.cann.osinfra.cn/mailman3/lists/aal.cann.osinfra.cn/)
 
 # 仓库清单
 
