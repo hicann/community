@@ -3,34 +3,34 @@ description: 提供神经网络（Neural Network，NN）类的高阶算子库，
 mailing_list: NA
 meeting_url: NA
 mentors: []
-committers: []
-reviewers: []
+committers:
+- gitcode_id: zhou-qilong
+- gitcode_id: fanqirui
+- gitcode_id: lileizheng
+- gitcode_id: liu-wei
+- gitcode_id: wangyongguang
+- gitcode_id: yu-xinjie62
+- gitcode_id: chaotang233
+- gitcode_id: zhajianqing123
+- gitcode_id: FelixTang7
+- gitcode_id: zhangyuxiang0119
+- gitcode_id: zhang-wu
+reviewers: 
+- gitcode_id: zhou-qilong
+- gitcode_id: fanqirui
+- gitcode_id: lileizheng
+- gitcode_id: liu-wei
+- gitcode_id: wangyongguang
+- gitcode_id: yu-xinjie62
+- gitcode_id: chaotang233
+- gitcode_id: zhajianqing123
+- gitcode_id: FelixTang7
+- gitcode_id: zhangyuxiang0119
+- gitcode_id: zhang-wu
 repositories:
 - repo:
   - cann/ops-nn
-  committers:
-  - gitcode_id: zhou-qilong
-  - gitcode_id: fanqirui
-  - gitcode_id: lileizheng
-  - gitcode_id: liu-wei
-  - gitcode_id: wangyongguang
-  - gitcode_id: yu-xinjie62
-  - gitcode_id: chaotang233
-  - gitcode_id: zhajianqing123
-  - gitcode_id: FelixTang7
-  - gitcode_id: zhangyuxiang0119
-  - gitcode_id: zhang-wu
-  reviewers:
-  - gitcode_id: zhou-qilong
-  - gitcode_id: fanqirui
-  - gitcode_id: lileizheng
-  - gitcode_id: liu-wei
-  - gitcode_id: wangyongguang
-  - gitcode_id: yu-xinjie62
-  - gitcode_id: chaotang233
-  - gitcode_id: zhajianqing123
-  - gitcode_id: FelixTang7
-  - gitcode_id: zhangyuxiang0119
-  - gitcode_id: zhang-wu
+  committers: []
+  reviewers: []
   entry_configs: []
 
