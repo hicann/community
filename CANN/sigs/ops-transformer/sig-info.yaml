@@ -9,15 +9,40 @@ repositories:
 - repo:
   - cann/ops-transformer
   committers:
+  - gitcode_id: liudan12
+  - gitcode_id: Allan_Yu
+  - gitcode_id: monologue815
+  - gitcode_id: mabing1118
   - gitcode_id: chenjianjun11
   - gitcode_id: yang-binrong
   - gitcode_id: wang-minbo
   - gitcode_id: chenkang30
   - gitcode_id: songkai111
+  - gitcode_id: gaoxiang618
+  - gitcode_id: huangwei791 
+  - gitcode_id: miaofangzheng
+  - gitcode_id: wenxin_fight
+  - gitcode_id: wangyongguang
+  - gitcode_id: yu-xinjie62 
+  - gitcode_id: liuboxi
+  - gitcode_id: chaotang233
+
   reviewers:
+  - gitcode_id: liudan12
+  - gitcode_id: Allan_Yu
+  - gitcode_id: monologue815
+  - gitcode_id: mabing1118
   - gitcode_id: chenjianjun11
   - gitcode_id: yang-binrong
   - gitcode_id: wang-minbo
   - gitcode_id: chenkang30
   - gitcode_id: songkai111
+  - gitcode_id: gaoxiang618
+  - gitcode_id: huangwei791 
+  - gitcode_id: miaofangzheng
+  - gitcode_id: wenxin_fight
+  - gitcode_id: wangyongguang
+  - gitcode_id: yu-xinjie62 
+  - gitcode_id: liuboxi
+  - gitcode_id: chaotang233
   entry_configs: []
