@@ -53,20 +53,20 @@ Community仓主要承载关于CANN开源社区的相关信息，包括社区治�
 
     1）每个CANN开源项目使用的编码语言、开发编译环境等都可能存在差异，请参考每个开源项目中的README.md，了解编码贡献的一些要求。
 
-    2）CANN开源项目软件编码遵循许可协议：CANN Open Software License Agreement Version 2.0，详细的协议说明请参见每个开源项目中的LICENSE文件，如果您贡献代码到CANN开源项目的源码仓，请遵循此协议。
+    2）CANN开源项目软件编码遵循许可协议：CANN Open Software License Agreement Version 2.0，详细的协议说明请参见每个开源项目中的LICENSE文件，如果您贡献代码到CANN开源项目的源码仓是使用CANN Open Software License Agreement Version 2.0，请遵循此协议。
 
      请在新建的源码文件（包括cpp、py、h等文件）头部增加如下声明（其中版权信息可以由提交作者定义）：
 
      ```
      /**
-     * Copyright (c) Huawei Technologies Co., Ltd. 2025. All rights reserved.
-     * This file is a part of the CANN Open Software.
-     * Licensed under CANN Open Software License Agreement Version 2.0 (the "License").
-     * Please refer to the License for details. You may not use this file except in compliance with the License.
-     * THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED,
-     * INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
-     * See LICENSE in the root of the software repository for the full text of the License.
-     */
+      * This program is free software, you can redistribute it and/or modify it.
+      * Copyright (c) 2025 Huawei Technologies Co., Ltd.
+      * This file is a part of the CANN Open Software.
+      * Licensed under CANN Open Software License Agreement Version 2.0 (the "License").
+      * Please refer to the License for details. You may not use this file except in compliance with the License.
+      * THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+      * See LICENSE in the root of the software repository for the full text of the License.
+      */
      ```
 
 3. 代码下载与贡献流程
