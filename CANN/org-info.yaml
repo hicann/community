@@ -180,4 +180,12 @@ sigs:
       - gitcode_id: QK_25415
         name: 朱志明
         email: zhuzhiming1@huawei.com
+  - sig_name: ops-dxl
+    maintainers:
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
+      - gitcode_id: songmingyang
+        name: 宋明阳
+        email: songmingyang@huawei.com
  
