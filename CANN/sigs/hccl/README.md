@@ -51,4 +51,4 @@
 # 仓库清单
 
 仓库地址：
-- https://gitcode.com/cann/ops-dxl
+- https://gitcode.com/cann/hixl

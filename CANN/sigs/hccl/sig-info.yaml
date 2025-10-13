@@ -1,4 +1,4 @@
-name: ops-dxl
+name: hixl
 description: NA
 mailing_list: NA
 meeting_url: NA
@@ -7,7 +7,7 @@ committers: []
 reviewers: []
 repositories:
 - repo:
-  - cann/ops-dxl
+  - cann/hixl
   committers:
   - gitcode_id: yanyefeng
   - gitcode_id: wenxuemin
