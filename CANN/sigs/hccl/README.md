@@ -31,6 +31,8 @@
 - 宋明阳[@songmingyang](https://gitcode.com/songmingyang), *songmingyang@huawei.com*
 - 朱晶晶[@zhujingjing](https://gitcode.com/zhujingjing), *zhujingjing6@huawei.com*
 - 李沛洋[@peiyang](https://gitcode.com/peiyang), *lipeiyang@huawei.com*
+- 张兴平[@zhangxp1030](https://gitcode.com/zhangxp1030), *zhangxingping4@huawei.com*
+- 郑楷[@hey_yahei](https://gitcode.com/hey_yahei), *zhengkai38@huawei.com*
 
 # 社区运作
 
