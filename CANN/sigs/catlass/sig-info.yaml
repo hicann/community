@@ -19,5 +19,24 @@ repositories:
   - gitcode_id: longjihui
   - gitcode_id: sunhao_hw
   - gitcode_id: jxlang
+  - gitcode_id: hanru-xu
   reviewers:
+  - gitcode_id: zhouhao176
+  - gitcode_id: huangxin361
+  - gitcode_id: tianxinghui
+  - gitcode_id: zjw666888
+  - gitcode_id: triwooder
+  - gitcode_id: weixin_42818618
+  - gitcode_id: yuantao_
+  - gitcode_id: longjihui
+  - gitcode_id: sunhao_hw
+  - gitcode_id: jxlang
+  - gitcode_id: hanru-xu
+  - gitcode_id: xutianhao556
+  - gitcode_id: li_wei21
+  - gitcode_id: xuchengyang
+  - gitcode_id: yangziqi007
+  - gitcode_id: yjp-hw
+  - gitcode_id: init__zhb__
+  - gitcode_id: CheaterAbec
   entry_configs: []
