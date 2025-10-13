@@ -22,6 +22,7 @@
 - 龙吉晖[@longjihui](https://gitcode.com/longjihui), *longjihui@huawei.com*
 - 孙昊[@sunhao_hw](https://gitcode.com/sunhao_hw), *sunhao164@h-partners.com*
 - 金修浪[@jxlang](https://gitcode.com/jxlang), *jinxiulang@huawei.com*
+- 徐汉儒[@hanru-xu](https://gitcode.com/hanru-xu), *xuhanru@huawei.com*
 
 # 社区运作
 
