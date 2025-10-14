@@ -1,0 +1,28 @@
+name: hixl
+description: NA
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - cann/hixl
+  committers:
+  - gitcode_id: yanyefeng
+  - gitcode_id: wenxuemin
+  - gitcode_id: leabclove
+  - gitcode_id: songmingyang
+  - gitcode_id: zhujingjing
+  - gitcode_id: peiyang
+  - gitcode_id: zhaozhihui
+  - gitcode_id: lining23666
+  - gitcode_id: youyx
+  reviewers:
+  - gitcode_id: songmingyang
+  - gitcode_id: zhujingjing
+  - gitcode_id: peiyang
+  - gitcode_id: zhaozhihui
+  - gitcode_id: lining23666
+  - gitcode_id: youyx
+  entry_configs: []
