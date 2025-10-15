@@ -19,7 +19,10 @@
   <tr>
     <td><span style="font-size:16px;">通信库</span></td>
     <td><span style="font-size:16px;">基于昇腾硬件的高性能通信库，提供单机多卡及多机多卡间的数据并行、模型并行通信方案。</span></td>
-	<td><span style="font-size:16px;">建设中</span></td>
+	<td><a href="https://gitcode.com/cann/hixl"><span style="font-size:16px;">hixl</span></a><br>
+      <span style="font-size:16px;">hccl(建设中)</span></a><br>
+      <span style="font-size:16px;">hcomm(建设中)</span></a><br>
+       </td>
   </tr>
   <tr>
     <td><span style="font-size:16px;">图引擎</span></td>
