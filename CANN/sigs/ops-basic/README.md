@@ -16,6 +16,8 @@
 - 徐鲁威[@loov1](https://gitcode.com/loov1), *loovix@foxmail.com*
 
 ### Committer列表
+- 王林木[@llimwang](https://gitcode.com/llimwang), *wanglinmu@huawei.com*
+- 骆文[@luowen203_gg123](https://gitcode.com/luowen203_gg123), *luowen203@qq.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *sym660@126.com*
 - 陈佳良[@jia0liang](https://gitcode.com/jia0liang), *541127580@qq.com*
 - 王瑞[@wangrui_](https://gitcode.com/wangrui_), *wangrui124@huawei.com*
@@ -27,10 +29,12 @@
 - 刘鑫鑫[@LiuXinxin23](https://gitcode.com/LiuXinxin23), *liuxinxin23@hisilicon.com*
 - 唐燕锋[@FelixTang7](https://gitcode.com/FelixTang7), *tangyanfeng@huawei.com*
 - 冯彤[@rxtfeng](https://gitcode.com/rxtfeng), *fengtong5@huawei.com*
-- 骆文[@luowen203_gg123](https://gitcode.com/luowen203_gg123), *luowen203@qq.com*
 - 张浩[@demoauguste](https://gitcode.com/demoauguste), *393493772@qq.com*
 - 张喻翔[@zhangyuxiang0119](https://gitcode.com/zhangyuxiang0119), *2541674162@qq.com*
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *729079106@qq.com*
+- 史凯[@shikai-1](https://gitcode.com/shikai-1), *shikai4@huawei.com*
+- 任如海[@renruhai](https://gitcode.com/renruhai), *renruhai1@huawei.com*
+- 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
 
 # 社区运作
 
