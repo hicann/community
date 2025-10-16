@@ -22,6 +22,7 @@
 - 黄俊健 [[@monologue815]](https://gitcode.com/monologue815)
 - 马兵 [[@mabing1118]](https://gitcode.com/mabing1118)
 
+
 ### Committer列表
 - 陈建军 [[@chenjianjun11]](https://gitcode.com/chenjianjun11)
 - 杨彬榕 [[@yang-binrong]](https://gitcode.com/yang-binrong)
@@ -36,6 +37,8 @@
 - 於欣洁 [[@yu-xinjie62]](https://gitcode.com/yu-xinjie62)
 - 刘博熙 [[@liuboxi]](https://gitcode.com/liuboxi)
 - 唐超 [[@chaotang233]](https://gitcode.com/chaotang233)
+- 胡碧霞 [@crystalhu](https://gitcode.com/crystalhu)
+
 
 ### 细分领域：
 ### moe committer列表：
@@ -64,3 +67,9 @@
 - 苗方正 [@miaofangzheng]
 - 杨彬榕 [@yang-binrong]
 - 马兵 [@mabing1118]
+- 胡碧霞 [@crystalhu]
+
+# 仓库清单
+
+仓库地址：
+- https://gitcode.com/cann/transformer
