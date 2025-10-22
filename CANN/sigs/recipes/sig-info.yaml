@@ -1,0 +1,25 @@
+name: recipes
+description: 提供基于CANN平台的各类算法样例，如LLM、多模态、空间智能、具身智能、推荐等领域
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - cann/cann-recipes-infer
+  committers:
+  - gitcode_id: zhangky_gitcode
+  - gitcode_id: huangwayne28
+  - gitcode_id: lianghengyi
+  - gitcode_id: fafahan
+  - gitcode_id: lin_lin_lene
+
+  reviewers:
+  - gitcode_id: diaoyingyu
+  - gitcode_id: keke_x
+  - gitcode_id: rous_zhang
+  - gitcode_id: hiliPP
+  - gitcode_id: xushunqi
+  - gitcode_id: jason_yuan_ye
+  entry_configs: []
