@@ -4,17 +4,10 @@ mailing_list: NA
 meeting_url: NA
 mentors: []
 committers:
-- gitcode_id: zhou-qilong
-- gitcode_id: fanqirui
-- gitcode_id: lileizheng
-- gitcode_id: liu-wei
-- gitcode_id: wangyongguang
-- gitcode_id: yu-xinjie62
-- gitcode_id: chaotang233
-- gitcode_id: zhajianqing123
-- gitcode_id: FelixTang7
-- gitcode_id: zhangyuxiang0119
-- gitcode_id: zhang-wu
+- gitcode_id: tangweiwei2
+- gitcode_id: chenqi317
+- gitcode_id: liubo75
+- gitcode_id: crystalhu
 reviewers: 
 - gitcode_id: zhou-qilong
 - gitcode_id: fanqirui
