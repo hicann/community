@@ -17,7 +17,7 @@
 
 ### Committer列表
 - 申屠康俊[@shentukangjun](https://gitcode.com/shentukangjun), *shentukangjun@huawei.com*
-- 熊风波[@lixi9527](https://gitcode.com/lixi9527), *xiongfengbo@huawei.com*
+- 熊风波[@linxi9527](https://gitcode.com/linxi9527), *xiongfengbo@huawei.com*
 - 吴鹏飞[@aflyingto](https://gitcode.com/aflyingto), *wupengfei10@huawei.com*
 - 黎客来[@craylea](https://gitcode.com/craylea), *likelai@huawei.com*
 - 朱征[@weixin_39767879](https://gitcode.com/weixin_39767879), *zhuzheng@huawei.com*
@@ -29,7 +29,7 @@
 
 ### 会议组织
 
-- 公开的会议时间：北京时间，两周一次例会，单周周五下午14:00-16:00
+- 公开的会议时间：北京时间，两周一次例会，每周2下午14:00-15:00
 - [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-infrastructure)
 
 ### 会议纪要
