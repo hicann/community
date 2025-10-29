@@ -1,4 +1,4 @@
-# cann-recipes SIG
+# recipes SIG
 recipes领域相关的兴趣小组，负责cann平台样例仓建设，如LLM、多模态、空间智能、具身智能等算法领域的样例规划及建设
 
 ## 工作目标
@@ -10,36 +10,42 @@ recipes领域相关的兴趣小组，负责cann平台样例仓建设，如LLM、
 ## 成员
 
 ### Maintainer列表
-- 张凯宇 [[@zhangky_gitcode]](https://gitcode.com/zhangky_gitcode)
-- 黄伟 [[@huangwayne28]](https://gitcode.com/huangwayne28)
-- 梁横溢 [[@lianghengyi]](https://gitcode.com/lianghengyi)
-- 韩树发 [[@fafahan]](https://gitcode.com/fafahan)
-- 林惠敏 [[@lin_lin_lene]](https://gitcode.com/lin_lin_lene)
+- 张凯宇 [[@zhangky_gitcode]](https://gitcode.com/zhangky_gitcode), *zhangkaiyu4@hisilicon.com*
+- 黄伟 [[@huangwayne28]](https://gitcode.com/huangwayne28), *huangwei188@hisilicon.com*
+- 梁横溢 [[@lianghengyi]](https://gitcode.com/lianghengyi), *lianghengyi1@huawei.com*
+- 韩树发 [[@fafahan]](https://gitcode.com/fafahan), *hanshufa1@hisilicon.com*
+- 林惠敏 [[@lin_lin_lene]](https://gitcode.com/lin_lin_lene), *linhuimin@huawei.com*
 
 ### Committer列表
-- 刁莹煜 [[@diaoyingyu]](https://gitcode.com/diaoyingyu)
-- 许可 [[@keke_x]](https://gitcode.com/keke_x)
-- 皮华立 [[@hiliPP]](https://gitcode.com/rous_zhang)
-- 张心放 [[@rous_zhang]](https://gitcode.com/chenkang30)
-- 许顺琪 [[@xushunqi]](https://gitcode.com/songkai111)
-- 袁野 [[@jason_yuan_ye]](https://gitcode.com/gaoxiang618)
+- 刁莹煜 [[@diaoyingyu]](https://gitcode.com/diaoyingyu), *diaoyingyu1@hisilicon.com*
+- 许可 [[@keke_x]](https://gitcode.com/keke_x), *xuke99@hisilicon.com*
+- 皮华立 [[@hiliPP]](https://gitcode.com/hiliPP), *pihuali@hisilicon.com*
+- 邹楠[[@znmax]](https://gitcode.com/znmax), *zounan1@hisilicon.com*
+- 张心放 [[@rous_zhang]](https://gitcode.com/rous_zhang), *zhangxinfang5@hisilicon.com*
+- 许顺琪 [[@xushunqi]](https://gitcode.com/xushunqi), *xushunqi@huawei.com*
+- 袁野 [[@jason_yuan_ye]](https://gitcode.com/jason_yuan_ye), *yuanye17@huawei.com*
+- 张德鹏 [[@depeng1994]](https://gitcode.com/depeng1994), *zhangdepeng2@huawei.com*
+- 张昊卓 [[@zhanghz1]](https://gitcode.com/zhanghz1), *zhanghaozhuo1@hisilicon.com*
+- 叶嘉金琦 [[@HJ92]](https://gitcode.com/HJ92), *yejiajinqi@hisilicon.com*
 
 ## 社区运作
 
 ### 会议组织
 
-- 公开的会议时间：北京时间，两周一次例会，具体时间待定
+- 公开的会议时间：北京时间，两周一次例会，双周周二上午10:30-12:00
+- [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-recipes)
 
 ### 会议纪要
 
-- 会议地址：链接待定
-- 会议纪要：链接待定
+- [会议地址](https://meeting.osinfra.cn/cann/)
+- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-recipes)
 
 ## SIG订阅
 
-- 邮件订阅：链接待定
+- [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/recipes.cann.osinfra.cn/)
 
 ## 仓库清单
 
 仓库地址：
 - https://gitcode.com/cann/cann-recipes-infer
+- https://gitcode.com/cann/cann-recipes-train
