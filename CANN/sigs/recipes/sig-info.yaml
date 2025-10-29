@@ -19,7 +19,23 @@ repositories:
   - gitcode_id: diaoyingyu
   - gitcode_id: keke_x
   - gitcode_id: rous_zhang
+  - gitcode_id: znmax
   - gitcode_id: hiliPP
   - gitcode_id: xushunqi
   - gitcode_id: jason_yuan_ye
+  entry_configs: []
+
+- repo:
+  - cann/cann-recipes-train
+  committers:
+  - gitcode_id: zhangky_gitcode
+  - gitcode_id: huangwayne28
+  - gitcode_id: lianghengyi
+  - gitcode_id: fafahan
+  - gitcode_id: lin_lin_lene
+
+  reviewers:
+  - gitcode_id: depeng1994
+  - gitcode_id: zhanghz1
+  - gitcode_id: HJ92
   entry_configs: []

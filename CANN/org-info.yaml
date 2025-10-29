@@ -180,4 +180,20 @@ sigs:
       - gitcode_id: QK_25415
         name: 朱志明
         email: zhuzhiming1@huawei.com
- 
+  - sig_name: recipes
+    maintainers: 
+      - gitcode_id: zhangky_gitcode
+        name: 张凯宇
+        email: zhangkaiyu4@hisilicon.com
+      - gitcode_id: huangwayne28
+        name: 黄伟
+        email: huangwei188@hisilicon.com
+      - gitcode_id: lianghengyi
+        name: 梁横溢
+        email: lianghengyi1@huawei.com
+      - gitcode_id: fafahan
+        name: 韩树发
+        email: hanshufa1@hisilicon.com
+      - gitcode_id: lin_lin_lene
+        name: 林惠敏
+        email: linhuimin@huawei.com
