@@ -41,36 +41,52 @@
   </tr>
 </table>
 
-## 快速入门
 
-若您希望快速体验算子的调用和开发过程，请访问如下文档获取简易教程。
+## 关于社区
+### 组织架构
+  - [技术指导委员会（TSC-Technical Steering Committee）](../CANN/TSC/README.md)
+  - [项目管理委员会（PMC-Project Management Committee）](../CANN/PMC/README.md)
+  - [特别兴趣小组（SIG-Special Interest Group）](../CANN/sigs/)
+
+### 参与贡献
+  - [CANN社区协作指南](../role-guidance.md)
+  - [CANN社区用户交互流程](../docs/robot/cann/robot-command.md)
+  - [编码规范](../contributor/coding-standards)
+
+## 快速体验
+
+若您希望快速体验CANN算子的调用和开发过程，请访问如下文档获取简易教程。
 
 - [算子调用](https://gitcode.com/cann/ops-math/blob/master/docs/context/quick_op_invocation.md)：介绍调用算子的基本步骤，快速搭建环境，实现算子编译执行。
 - [算子开发](https://gitcode.com/cann/ops-math/blob/master/docs/context/quick_op_develop.md)：介绍开发算子的基本流程，一键创建算子工程目录，实现Tiling、Kernel核心交付件。
 
 ## 热门样例
-- 🔥[<span style="color:#e60000;">DeepSeek-V3.2-Exp模型在昇腾Atlas A3系列上已0day支持推理部署</span>](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)：基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。
+- 🔥[DeepSeek-V3.2-Exp模型在昇腾Atlas A3系列上已0day支持推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)：基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。
 
-
-## 会议日历
-
-如果您对CANN社区的各类会议感兴趣，请访问[会议日历](https://meeting.osinfra.cn/cann/)。
 
 ## 社区活动
+
+- 🔥[CANN开源开放系列直播](../events/meetup/README.md)：大咖细剖开源政策和计划，maintainer全面解读热门开源项目。
+- [社区会议日历](https://meeting.osinfra.cn/cann)：如果您对CANN社区的各类会议感兴趣，可访问会议日历。
 - [CANN训练营](https://www.hiascend.com/developer/activities/cann20251)：2025年CANN训练营全新升级，定制化四大专题直播课程，帮助不同阶段的开发者快速入门和提升Ascend C算子开发技术。
 - [昇腾AI创新大赛-算子挑战赛](https://www.hiascend.com/developer/ops)：昇腾AI创新大赛-算子挑战赛旨在培养一批精通Ascend C算子开发的开发者，鼓励开发者基于CANN的基础能力进行深度创新与实践。
 
-## 如何参与
-- [社区介绍](https://gitcode.com/cann/community)
-
-## 开发者论坛
-- [昇腾论坛](https://www.hiascend.com/forum/forum-0106101385921175004-1.html)
 
 
-## 合作联系
+## 联系我们
+-   [社区邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists)：选择需要订阅的组织（TSC/PMC/SIG等），填写相关信息，进行邮件订阅（邮件推送内容包含：会议通知、会议纪要、内容讨论等），如果您对相关组织有诉求或者问题，也可以通过邮箱途径联系。
+- 昇腾CANN（社交媒体）
 
-官方邮箱：cann@cann.team
+  |<center><a href="https://space.bilibili.com/1190614918?spm_id_from=333.337.0.0">B站</a></center> | <center>微信公众号</center> | <center><a href="https://www.zhihu.com/people/ha-ha-ha-ha-51-33-24">知乎</a></center> |<center><a href="https://blog.csdn.net/m0_71340392">CSDN</a></center>|
+  |--|--|--|--|
+  | <img src="https://raw.gitcode.com/user-images/assets/7860879/9801d95a-df2b-45ee-acfe-4700466bb185/昇腾CANN_B站二维码.png" width="130" height="130" alt="cann_bilibili">  | <img src="https://raw.gitcode.com/user-images/assets/7860879/5bb520d4-98a6-425c-aa54-d95dd8a7c8fa/昇腾CANN微信公众号.jpg" width="130" height="130" alt="CANN微信公众号">| <img src="https://raw.gitcode.com/user-images/assets/7860879/a4aec200-c71b-4340-80c4-c22cbad5057f/zhihu.png" width="130" height="130" alt="昇腾CANN知乎"></a> | <img src="https://raw.gitcode.com/user-images/assets/7860879/8a47d24c-0a33-4ab7-9fb9-252771a90b47/CSDN.png" width="130" height="130" alt="昇腾CANN_CSDN"> |
+
+- [cann@cann.team](mailto:cann@cann.team)
+
+
 
 ## 相关链接
 - [昇腾社区](https://www.hiascend.com/cann)
+
+
     
