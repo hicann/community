@@ -4,9 +4,9 @@ AsNumpy是一款 深度支持昇腾NPU并高度兼容numpy接口的轻量级Pyth
 
 ## 工作目标
 
-- 构建并维护AsNumpy的持续集成/持续部署 (CI/CD) 流程，确保多平台和多版本的兼容性及稳定性
+- 构建并维护AsNumpy的CI/CD流程，确保多平台和多版本的兼容性及稳定性
 - 实现并支持AsNumpy的高效能计算特性，并提供准确的性能指标
-- 负责SIG范围内的代码仓的Bug、Issuse和用户诉求等处理
+- 负责SIG范围内的代码仓的Bug、Isuse和用户诉求等处理
 - 提供项目所需的基础设施服务，保障社区开发和用户使用的顺畅进行
 
 # 成员
@@ -14,6 +14,7 @@ AsNumpy是一款 深度支持昇腾NPU并高度兼容numpy接口的轻量级Pyth
 ### Maintainer列表
 - 武震卿[@wuzhenqing](https://gitcode.com/wuzhenqing), *wuzhenqing@stu.hit.edu.cn*
 - 赵宇彤[@hyyisasleep](https://gitcode.com/hyyisasleep), *2106975800@qq.com*
+- 李行[@li-xingHIT](https://gitcode.com/li-xingHIT), *1780785127@qq.com*
 - 苏统华[@sutonghua](https://gitcode.com/sutonghua), *tonghuasu@gmail.com*
 - 王甜甜[@TiantianWang_Hit](https://gitcode.com/TiantianWang_Hit), *sweetwtt@126.com*
 
@@ -28,6 +29,13 @@ AsNumpy是一款 深度支持昇腾NPU并高度兼容numpy接口的轻量级Pyth
 # 社区运作
 
 - SIG会议时间：北京时间，每周二晚上19:00-20:00
+- [会议地址](https://meeting.osinfra.cn/cann/)
+- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-asnumpy)
+- [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-asnumpy)
+
+# SIG订阅
+
+- [邮件订阅地址](https://mailweb.cann.osinfra.cn/mailman3/lists/asnumpy.cann.osinfra.cn/)
 
 # 仓库清单
 
