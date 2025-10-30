@@ -27,6 +27,8 @@ recipes领域相关的兴趣小组，负责cann平台样例仓建设，如LLM、
 - 张德鹏 [[@depeng1994]](https://gitcode.com/depeng1994), *zhangdepeng2@huawei.com*
 - 张昊卓 [[@zhanghz1]](https://gitcode.com/zhanghz1), *zhanghaozhuo1@hisilicon.com*
 - 叶嘉金琦 [[@HJ92]](https://gitcode.com/HJ92), *yejiajinqi@hisilicon.com*
+- 黄立 [[@huang_li]](https://gitcode.com/huang_li), *huangli84@hisilicon.com*
+- 黄伟 [[@huangwei791]](https://gitcode.com/huangwei791), *huangwei791@huawei.com*
 
 ## 社区运作
 

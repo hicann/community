@@ -23,6 +23,8 @@ repositories:
   - gitcode_id: hiliPP
   - gitcode_id: xushunqi
   - gitcode_id: jason_yuan_ye
+  - gitcode_id: huang_li
+  - gitcode_id: huangwei791
   entry_configs: []
 
 - repo:
