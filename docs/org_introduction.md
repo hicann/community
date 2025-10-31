@@ -27,7 +27,8 @@
   <tr>
     <td><span style="font-size:16px;">图引擎</span></td>
     <td><span style="font-size:16px;">计算图编译和运行的控制中心，提供图优化、图编译管理以及图执行控制等功能。</span></td>
-	<td><span style="font-size:16px;">建设中</span></td>
+		<td><a href="https://gitcode.com/cann/graph-autofusion"><span style="font-size:16px;">graph-autofusion</span></a><br>
+      <span style="font-size:16px;">ge(建设中)</span></a><br>
   </tr>
   <tr>
     <td><span style="font-size:16px;">编程语言</span></td>
