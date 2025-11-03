@@ -47,12 +47,12 @@
 ### 组织架构
   - [技术指导委员会（TSC-Technical Steering Committee）](../CANN/TSC/README.md)
   - [项目管理委员会（PMC-Project Management Committee）](../CANN/PMC/README.md)
-  - [特别兴趣小组（SIG-Special Interest Group）](../CANN/sigs/)
+  - [特别兴趣小组（SIG-Special Interest Group）](https://gitcode.com/cann/community/tree/master/CANN/sigs)
 
 ### 参与贡献
   - [CANN社区协作指南](../role-guidance.md)
   - [CANN社区用户交互流程](../docs/robot/cann/robot-command.md)
-  - [编码规范](../contributor/coding-standards)
+  - [编码规范](https://gitcode.com/cann/community/tree/master/contributor/coding-standards)
 
 ## 快速体验
 
@@ -61,8 +61,16 @@
 - [算子调用](https://gitcode.com/cann/ops-math/blob/master/docs/context/quick_op_invocation.md)：介绍调用算子的基本步骤，快速搭建环境，实现算子编译执行。
 - [算子开发](https://gitcode.com/cann/ops-math/blob/master/docs/context/quick_op_develop.md)：介绍开发算子的基本流程，一键创建算子工程目录，实现Tiling、Kernel核心交付件。
 
-## 热门样例
-- 🔥[DeepSeek-V3.2-Exp模型在昇腾Atlas A3系列上已0day支持推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)：基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。
+## 实践样例
+
+⚓[推理(cann-recipes-infer)](https://gitcode.com/cann/cann-recipes-infer) &nbsp; | &nbsp;🚈 [训练(cann-recipes-train)](https://gitcode.com/cann/cann-recipes-train)
+
+|热门实践  |描述  | 
+|--|--|
+|[DeepSeek-V3.2-Exp模型支持0day推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)  | 基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。 | 
+|[DeepSeek-R1 RL训练优化实践](https://gitcode.com/cann/cann-recipes-train/blob/master/rl_train/deepseek/README.md)  | 基于开源veRL框架，搭配MindSpeed+vLLM-Ascend框架，在Atlas A3集群实现GRPO算法的高吞吐RL训练，并达到120TPS/卡的系统吞吐量。 | 
+|[HunyuanVideo模型推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/HunyuanVideo/README.md)  | 基于xDiT框架，在Atlas A2环境中采用了Ulysses序列并行和RingAttention序列并行测量，同时适配了TeaCache加速，实现了较高的吞吐推理性能。 | 
+
 
 
 ## 社区活动
