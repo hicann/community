@@ -18,3 +18,4 @@ reviewers:
 repositories:
 - repo:
   - cann/community
+  - cann/infrastructure
