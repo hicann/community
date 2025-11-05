@@ -10,6 +10,8 @@ committers:
 - gitcode_id: monologue815
 - gitcode_id: kpxing
 - gitcode_id: godantshen_
+- gitcode_id: east_yang
+- gitcode_id: demoauguste
 reviewers:
 - gitcode_id: loov1
 - gitcode_id: qq_35468730
@@ -60,9 +62,12 @@ reviewers:
 - gitcode_id: hongshiyi
 - gitcode_id: hechangcheng2303
 - gitcode_id: liuhaoyu35
+- gitcode_id: luowen203_gg123
+- gitcode_id: kerten
 
 repositories:
 - repo:
   - cann/ascend-transformer-boost
   - cann/ascend-boost-comm
+  - cann/sip
 
