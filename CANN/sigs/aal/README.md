@@ -14,12 +14,16 @@
 - 尹祺然[@nino888](https://gitcode.com/nino888), *yinqiran1@huawei.com*
 - 徐鲁威[@loov1](https://gitcode.com/loov1), *xuluwei@huawei.com*
 - 朱志明[@QK_25415](https://gitcode.com/QK_25415), *zhuzhiming1@huawei.com*
+- 张浩[@demoauguste](https://gitcode.com/demoauguste), *zhanghao418@huawei.com*
 ### Committer列表
 - 郭炅[@goodpeople233](https://gitcode.com/goodpeople233), *guojiong1@huawei.com*
 - 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 - 黄俊健[@monologue815](https://gitcode.com/monologue815), *huangjunjian3@huawei.com*
 - 邢凯鹏[@kpxing](https://gitcode.com/kpxing), *xingkaipeng@huawei.com*
 - 沈俊辉[@godantshen_](https://gitcode.com/godantshen_), *shenjunhui1@huawei.com*
+- 杨东[@east_yang](https://gitcode.com/east_yang), *yangdong48@huawei.com*
+- 开腾[@kerten](https://gitcode.com/kerten), *kaiteng1@huawei.com*
+- 骆文[@luowen203_gg123](https://gitcode.com/luowen203_gg123), *luowen16@huawei.com*
 
 # 社区运作
 
@@ -42,3 +46,4 @@
 仓库地址：
 - https://gitcode.com/cann/ascend-transformer-boost
 - https://gitcode.com/cann/ascend-boost-comm
+- https://gitcode.com/cann/sip
