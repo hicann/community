@@ -35,15 +35,9 @@ Community仓主要承载关于CANN开源社区的相关信息，包括社区治�
 
 ### 提交Issue/处理Issue任务
 
-- **查找Issue**：在您感兴趣的CANN开源项目GitCode主页内，点击“Issues”，即可找到 Issue 列表。
+CANN 社区基于 GitCode 提供的Issue管理功能，完整记录每一个开发者 Issue 的处理全流程，您可以对 Issue 进行查找、创建、评论、处理等操作，详细的操作步骤和说明，请参阅：[Issue 操作指南](contributor/issue-operation.md)。
 
-- **提交Issue**：如果您准备向社区上报Bug或者提交需求，或者为社区贡献自己的意见或建议，请在CANN开源项目对应的仓库上提交Issue。
-  提交Issue请参考 [Issue提交指南](contributor/issue-submit.md)。
 
-- **参与Issue讨论**：每个Issue下面都支持开发者们交流讨论，如果您感兴趣，可以在评论区中发表自己的意见。
-
-- **处理Issue**：如果您愿意处理其中的一个issue，可以将它分配给自己。只需要在评论框内输入“/assign”或 “/assign @yourself”，机器人就会将问题分配给您，您的名字将显示在负责人列表里。
-  
 ### 贡献编码
 1. 准备CANN开发环境
 
