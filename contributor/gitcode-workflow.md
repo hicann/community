@@ -1,285 +1,239 @@
 # GitCode 工作流说明
 
-### 1. 开展工作流前的准备
+## 1. 准备工作
 
-- 安装Git：请先确保您的电脑上已经安装了Git软件。如您需了解Git，可以在Google、baidu或其他搜索引擎上求助相关内容。
-- 在开展GitCode的工作流之前，您需要先在CANN的代码托管平台的上找到您感兴趣的项目。如果您还未找到对应的项目，请参考[CANN组织介绍](https://gitcode.com/cann)。
+在开始 GitCode 工作流之前，请确保完成以下准备：
 
+- **安装 Git**：确保您的计算机已安装 Git。如需学习 Git 使用方法，可通过 Google、百度等搜索引擎查询相关教程。
+- **寻找项目**：在 CANN 代码托管平台上找到您感兴趣的项目。如尚未找到，请参考 [CANN 组织介绍](https://gitcode.com/cann)。
 
+## 2. 准备本地代码
 
-### 2. 准备本地代码
+### 2.1 Fork 个人分支
 
-#### 2.1 Fork个人分支
+1. 打开目标项目首页
+2. 点击右上角的 `Fork` 按钮，按照指引创建属于**个人**的云端 Fork 分支
 
-1)  找到并打开对应的项目的首页
-2)  点击右上角的 `Fork` 按钮，按照指引，建立一个属于"**个人**"的云上fork分支。
+![gitcode-fork](figures/gitcode-fork.png)
 
-  ![gitcode-fork](figures/gitcode-fork.png)   
+### 2.2 克隆 Fork 分支到本地
 
-#### 2.2 把fork分支克隆到本地
+#### 2.2.1 创建本地工作目录
 
-请按照以下复制过程将项目内的代码下载到您的在计算机上。
-
-1）**创建本地工作目录**：
-
-您需要创建本地工作目录，以便于本地代码的查找和管理
-
-```
+```bash
 mkdir ${your_working_dir}
 ```
 
-2）**完成git上用户名和邮箱的全局配置**（如果您之前已经完成过此项配置，请忽略）
+#### 2.2.2 配置 Git 用户信息
 
-把git上的 `user` 设置成您GitCode的个人名称：
+> **注意**：如已配置过，可跳过此步骤
 
-```
-git config --global user.name "your GitCode Name"
-```
-
-配置您的git邮箱
-
-```
-git config --global user.mail "email@your_GitCode_email"
+设置 GitCode 个人用户名：
+```bash
+git config --global user.name "your_GitCode_Name"
 ```
 
-3）**完成SSH公钥注册（如果您没有完成此注册，每次都要重新输入账户和密码）**
+配置 Git 邮箱：
+> **注意**：建议与CLA签署邮箱保持一致
 
-- ① 生成ssh公钥
-
-  ```
-  ssh-keygen -t rsa -C "email@your_GitCode_email"
-  cat ~/.ssh/id_rsa.pub
-  ```
-
-- ② 登录GitCode网站，并在个人设置中添加您的ssh公钥
-
-  请在GitCode网页点击右上角的“个人头像”进入个人GitCode账户，并点击个人头像下的“个人设置”，进入个人设置页面。在“个人设置->安全设置”下，选择“SSH公钥”菜单，单击“+SSH公钥”，把cat命令获取到的ssh公钥添加进去。
-
-  ![gitcode-ssh](figures/gitcode-ssh.png)
-
-  在个人电脑上完成gitcode在SSH上的登记
-
-  ```
-  ssh -T git@gitcode.com
-  ```
-
-  如果获得如下“成功”提示，则表示 ssh 公钥已经生效：  
-  `remote: Welcome to GitCode, $user_name`
-
-4）**复制远程仓库到本地**
-
-- ① **切换到本地路径**
-
-  ```
-  cd $your_working_dir
-  ```
-  
-- ② **复制远程仓库到本地**
-
-  - 您可以在需要下载的远程仓库首页，单击“Clone”，得到`$remote_link`：
-
-    ![gitcode-clone](figures/gitcode-clone.png)
-
-  - 在本地电脑执行如下命令：
-
-    ```
-    #下载远程仓库到本地
-    git clone git@gitcode.com:$user_name/$repository_name.git
-    
-    # 设置本地工作目录的upstream源（被fork的上游仓库）
-    git remote add upstream git@gitcode.com:cann/$repository_name.git
-    
-    ```
-
-
-#### 2.3 拉分支
-
-更新您的本地分支
-
+```bash
+git config --global user.email "email@your_GitCode_email"
 ```
+
+#### 2.2.3 注册 SSH 公钥
+
+> **说明**：完成此注册可避免每次操作都需要输入账户密码
+
+1. **生成 SSH 公钥**：
+   ```bash
+   ssh-keygen -t rsa -C "email@your_GitCode_email"
+   cat ~/.ssh/id_rsa.pub
+   ```
+
+2. **在 GitCode 网站添加公钥**：
+   - 登录 GitCode，点击右上角个人头像进入"个人设置"
+   - 在"安全设置" → "SSH 公钥"中点击"+SSH 公钥"
+   - 添加刚才生成的公钥内容
+
+   ![gitcode-ssh](figures/gitcode-ssh.png)
+
+3. **验证 SSH 连接**：
+   ```bash
+   ssh -T git@gitcode.com
+   ```
+   看到 `remote: Welcome to GitCode, $user_name` 提示表示配置成功。
+
+#### 2.2.4 克隆远程仓库到本地
+
+1. **切换至工作目录**：
+   ```bash
+   cd ${your_working_dir}
+   ```
+
+2. **克隆仓库**：
+   - 在远程仓库首页点击"Clone"获取 `$remote_link`
+   
+   ![gitcode-clone](figures/gitcode-clone.png)
+   
+   - 执行克隆命令：
+   ```bash
+   # 克隆远程仓库到本地
+   git clone git@gitcode.com:${user_name}/${repository_name}.git
+   
+   # 设置上游仓库（被 Fork 的原始仓库）
+   git remote add upstream git@gitcode.com:cann/${repository_name}.git
+   ```
+
+### 2.3 创建本地分支
+
+更新并同步本地分支：
+```bash
 git fetch upstream
 git checkout master
 git rebase upstream/master
 ```
 
-创建本地个人分支:
-
-```
+创建个人开发分支：
+```bash
 git checkout -b myfeature
 ```
+其中 `myfeature` 为个人分支名称，后续在此分支上进行代码编辑和修改。
 
- `myfeature` 为个人分支名称，后续在此分支上编辑和修改代码。
+## 3. 本地构建和验证
 
+具体构建和验证方法请参考对应开源项目仓库中的相关文档。
 
+## 4. 保持分支与 Master 同步
 
-### 3. 本地构建和验证
-
-本地构建和验证的具体方法，请参考所在开源项目对应仓库中的文档。
-
-
-
-### 4. 保持您的分支和master的同步
-
-```
-# While on your myfeature branch
+```bash
+# 在 myfeature 分支上执行
 git fetch upstream
 git rebase upstream/master
 ```
 
-执行merge的时候，请不要使用 `git pull` 替代上面的 `fetch` / `rebase`. `git pull` 。因为这种方式会使提交历史变得混乱，并使代码更难被理解。您也可以通过更改文件来达到目的， `.git/config` 文件通过 `git config branch.autoSetupRebase always` 去改变 `git pull`的行为。
+> **重要建议**：
+> - 不建议使用 `git pull` 代替 `fetch` / `rebase`，因为 `git pull` 会产生合并提交，使提交历史变得混乱
+> - 可通过配置改变默认行为：`git config branch.autoSetupRebase always`
 
+## 5. 提交本地变更
 
-
-### 5. 在本地工作目录提交变更
-
-提交您的变更
-
-```
+提交代码变更：
+```bash
 git add .
-git commit -m "提交原因"
+git commit -m "提交说明"
 ```
 
-您可能会在前次提交的基础上，继续编辑构建并测试更多内容，可以使用 `commit --amend` 继续添加提交。
-
-
-
-### 6. 将变更推送到你的远端目录
-
-准备进行审查（或只是建立工作的异地备份）时，将分支推到你在`gitcode.com`的fork分支:
-
+如需在前次提交基础上继续修改，可使用：
+```bash
+git commit --amend
 ```
+
+## 6. 推送变更到远程仓库
+
+准备代码审查时，将分支推送到 GitCode 上的 Fork 分支：
+```bash
 git push -f origin myfeature
 ```
 
+## 7. 创建 Pull Request
 
+1. 访问 `https://gitcode.com/${user}/${repository_name}` 页面
 
-### 7. 在GitCode上创建一个 pull request
+2. 进入"Pull Requests"标签页，点击右上角`+新建 Pull Request`
 
-1) 访问你在 `https://gitcode.com/$user/$repository_name`的页面，进入“Pull Requests”页签，单击右上角的`+新建Pull Request`。
+3. 在创建界面确认源分支和目标分支，创建 PR
 
-2) 在创建新PR的界面，确认源分支和目标分支，选择创建。
+> **注意**：PR 是对项目分支的一次合入操作，请谨慎操作以确保代码质量。
 
-   提交PR是对项目上对应分支的一次合入，为保证合入的质量，请谨慎操作。
+## 8. 查看门禁状态和代码审查意见
 
+### 8.1 查看门禁状态
+PR 提交后，请在评论中输入 "/compile" 触发门禁检查。检查时间因仓库而异，请关注检查状态并及时修复问题。
 
+### 8.2 查看代码审查意见
+门禁检查通过后，PR 会被分配给一个或多个审查者进行代码审查。您可以在 PR 页面查看所有评论和评审意见。
 
+## 9. 附录：常用操作
 
-### 8. 查看门禁状态以及代码检视意见
+### 9.1 回退提交
 
-- 查看门禁状态
+如需回退某个提交，请按以下步骤操作：
 
-  PR提交后，请输入“compile”触发门禁检查，检查时间每个仓库有所不同，请关注检查状态，并及时修改问题。
-
-
-- 查看代码检视意见
-
-   门禁检查通过后，你提交PR申请后，PR被分配给一个或多个检视者。这些检视者将对代码进行检视，以确保提交的正确性，不仅包括代码的正确，也包括注释和文档等。
-
-   您可以在PR列表内找到您提交的PR，并看到对该PR的评论和评审意见。
-
-
-
-### 常用操作
-
-#### 回退一个提交
-
-如果你想回退提交，请采用下面的方式
-
-
-- 创建一个分支并用upstream进行同步
-
-  ```
-  # create a branch
-  git checkout -b myrevert
-  
-  # sync the branch with upstream
-  git fetch upstream
-  git rebase upstream/master
-  ```
-
-- 如果您希望还原的提交是:
-
-  - **merge commit:**
-
-    ```
-    # SHA is the hash of the merge commit you wish to revert
-    git revert -m 1 SHA
-    ```
-
-  - **single commit:**
-
-    ```
-    # SHA is the hash of the single commit you wish to revert
-    git revert SHA
-    ```
-
-- 这将创建一个新的提交以回退到更新前，push这次提交到远程工作目录
-
-```
-git push ${your_remote_name} myrevert
-```
-
-- 用这个分支创建一个PR.
-
-
-
-#### 处理提交冲突
-
-如果您发现提交的PR带有以下的标记，说明您提交的PR和您本地存在冲突，您需要处理冲突。
-
-![](figures/gitcode-conflict.png)
-
-1. 先将分支切换到master上，并完成master的rebase
-
+1. **创建回退分支并同步**：
+   ```bash
+   git checkout -b myrevert
+   git fetch upstream
+   git rebase upstream/master
    ```
+
+2. **执行回退操作**：
+   - **回退合并提交**：
+     ```bash
+     # SHA 为要回退的合并提交哈希值
+     git revert -m 1 SHA
+     ```
+   - **回退单个提交**：
+     ```bash
+     # SHA 为要回退的单个提交哈希值
+     git revert SHA
+     ```
+
+3. **推送到远程回退分支**：
+   ```bash
+   git push ${your_remote_name} myrevert
+   ```
+
+### 9.2 处理提交冲突
+
+如果 PR 显示冲突标记，说明存在代码冲突需要解决：
+
+![gitcode-conflict](figures/gitcode-conflict.png)
+
+1. **切换到 master 分支并同步**：
+   ```bash
    git checkout master
    git fetch upstream
    git rebase upstream/master
    ```
 
-2. 再将分支切换到您使用的分支上，并开始rebase
-
-   ```
+2. **切换回个人分支并变基**：
+   ```bash
    git checkout yourbranch
    git rebase master
    ```
 
-3. 此时您可以在git上看到冲突的提示，你可以通过vi等工具查看冲突
+3. **解决冲突**：使用编辑器查看并解决所有冲突文件
 
-4. 解决冲突以后，再把修改提交上去
-
-   ```
+4. **完成变基并推送**：
+   ```bash
    git add .
    git rebase --continue
    git push -f origin yourbranch
    ```
 
+### 9.3 合并提交
 
+如果多次提交后希望整理提交历史，可以使用压缩提交：
 
-#### 合并提交
-
-如果您提交了一个PR以后，根据检视意见完成修改并再次提交了PR，您不想让审阅者看到多次提交的PR，因为这不便于继续在检视中修改，那么您可以合并提交的PR。合并提交的PR是通过压缩Commit来实现的。
-
-1. 先在本地分支上查看日志。
-
-   ```
+1. **查看提交日志**：
+   ```bash
    git log
    ```
 
-2. 然后把顶部的n个提交记录聚合到一起进入，注意n是一个数字。
-
+2. **交互式变基**：
+   ```bash
+   git rebase -i HEAD~n  # n 为要合并的提交数量
    ```
-   git rebase -i HEAD~n
-   ```
+   在编辑界面中将需要压缩的提交前的 `pick` 改为 `squash` 或 `s`（保留至少一个 `pick`）
 
-   把需求压缩的日志前面的pick都改成s，s是squash的缩写。注意必须保留一个pick，如果将所有的pick都改成了s就没有合并的目标了，会发生错误。
+3. **编辑提交信息**：
+   - 按 `ESC` 键后输入 `:wq` 保存
+   - 根据需要编辑合并后的提交信息
+   - 再次按 `ESC` 后输入 `:wq` 完成
 
-3. 修改完成以后，按ESC键，再输入`:wq`，会跳出一个界面，问你是否进入编辑提交备注的页面，输入e以后，进入合并提交备注的页面。请把需要合并的备注都删掉，只保留合并目标的备注，再按ESC键，输入`:wq`保存退出即可。
-
-4. 最后完成提交
-
-   ```
+4. **强制推送**：
+   ```bash
    git push -f origin yourbranch
    ```
 
-5. 回到GitCode上的PR提交页面查看，您就可以看到之前的提交已经合并了。
+完成后再 GitCode PR 页面即可看到提交已合并。
