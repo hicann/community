@@ -76,6 +76,7 @@
 ## 社区活动
 
 - 🔥[CANN开源开放系列直播](../events/meetup/README.md)：大咖细剖开源政策和计划，maintainer全面解读热门开源项目。
+- 🔥[昇腾AI算法挑战赛进阶赛](https://developer.huaweicloud.com/competition/information/1300000204)：昇腾AI算法挑战赛旨在汇聚全球各领域的优秀开发者同台竞技。开放昇腾AI计算平台的全栈能力与API资源，鼓励开发者构建高效创新的AI模型，解决实际场景问题。
 - [社区会议日历](https://meeting.osinfra.cn/cann)：如果您对CANN社区的各类会议感兴趣，可访问会议日历。
 - [CANN训练营](https://www.hiascend.com/developer/activities/cann20251)：2025年CANN训练营全新升级，定制化四大专题直播课程，帮助不同阶段的开发者快速入门和提升Ascend C算子开发技术。
 - [昇腾AI创新大赛-算子挑战赛](https://www.hiascend.com/developer/ops)：昇腾AI创新大赛-算子挑战赛旨在培养一批精通Ascend C算子开发的开发者，鼓励开发者基于CANN的基础能力进行深度创新与实践。
