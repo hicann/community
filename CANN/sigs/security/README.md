@@ -11,7 +11,7 @@
 ### Maintainer列表
 - 蔡兴[@Xing_Cai](https://gitcode.com/Xing_Cai), *xing.cai@huawei.com*
 - 王蕾[@AlleyWang](https://gitcode.com/AlleyWang), *wanglei391@huawei.com*
-- 胡占峰[@HZFeng](https://gitcode.com/HZFeng), *huzhanfeng@huawei.com*
+- 胡占锋[@HZFeng](https://gitcode.com/HZFeng), *huzhanfeng@huawei.com*
 
 ### Committer列表
 - 江起明[@cage.jiang](https://gitcode.com/cage.jiang), *jiang.qiming@hisilicon.com*
@@ -21,12 +21,15 @@
 - 汤浩然[@tanghaoran7](https://gitcode.com/tanghaoran7), *tanghaoran7@huawei.com*
 - 宫少博[@gongpipi](https://gitcode.com/gongpipi), *gongshaobo2@huawei.com*
 - 何太航[@Ezreal007](https://gitcode.com/Ezreal007), *hetaihang@huawei.com*
+- 刘志强[@JL1234](https://gitcode.com/JL1234), *liuzhiqiang1@huawei.com*
+- 刘拓[@IceT_5](https://gitcode.com/IceT_5), *liutuo10@huawei.com*
 
 # 社区运作
 
 ### 会议组织
 
 - 公开的会议时间：北京时间，按需召开，提前一周发布会议通知。
+- 会议时间初步定在每月月末周五上午10:00-12:00，遇节假日、紧急事务共同讨论进行调整
 
 ### 会议通知与会议纪要
 
