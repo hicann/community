@@ -30,7 +30,7 @@
 ### 会议组织
 
 - 公开的会议时间：北京时间，两周一次例会，单周周五下午14:00-16:00
-- [议题申报](https://etherpad.meeting.osinfra.cn/p/aal)
+- [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/aal)
 
 ### 会议纪要
 

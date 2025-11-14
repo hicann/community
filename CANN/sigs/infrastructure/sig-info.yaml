@@ -1,7 +1,7 @@
 name: infrastructure
 description: 构建围绕CANN的基础设施生态，优化构建流程、提高软件质量、促进社区协作，为用户提供提供更优质的构建服务.
 mailing_list: infrastructure@cann.osinfra.cn
-meeting_url: https://meeting.osinfra.cn/cann/
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-infrastructure
 mentors: []
 committers:
 - gitcode_id: songchangxia
