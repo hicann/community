@@ -1,0 +1,17 @@
+name: ascendc
+description: NA
+mailing_list: NA
+meeting_url: NA
+mentors: []
+
+repositories:
+- repo:
+  - cann/atvc
+  committers:
+  - gitcode_id: wangxiaozhi
+  - gitcode_id: wly451717
+  reviewers:
+  - gitcode_id: zhuliangying
+  - gitcode_id: fujun19
+  - gitcode_id: wly451717
+  entry_configs: []
