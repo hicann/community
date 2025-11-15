@@ -33,7 +33,9 @@
   <tr>
     <td><span style="font-size:16px;">编程语言</span></td>
     <td><span style="font-size:16px;">CANN针对算子开发场景推出的编程语言，最大化匹配用户开发习惯，提供算子模板库，支持算子极简编程。</span></td>
-	<td><span style="font-size:16px;">建设中</span><span style="font-size:16px;"></span></td>
+    <td><a href="https://gitcode.com/cann/atvc"><span style="font-size:16px;">atvc</span></a><br>
+      <span style="font-size:16px;">asc-devkit(建设中)</span><br>
+    </td>
   </tr>
    <tr>
     <td><span style="font-size:16px;">运行时</span></td>
@@ -65,11 +67,11 @@
 
 ⚓[推理(cann-recipes-infer)](https://gitcode.com/cann/cann-recipes-infer) &nbsp; | &nbsp;🚈 [训练(cann-recipes-train)](https://gitcode.com/cann/cann-recipes-train)
 
-|热门实践  |描述  | 
+|热门实践  |描述  |
 |--|--|
-|[DeepSeek-V3.2-Exp模型支持0day推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)  | 基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。 | 
-|[DeepSeek-R1 RL训练优化实践](https://gitcode.com/cann/cann-recipes-train/blob/master/rl_train/deepseek/README.md)  | 基于开源veRL框架，搭配MindSpeed+vLLM-Ascend框架，在Atlas A3集群实现GRPO算法的高吞吐RL训练，并达到120TPS/卡的系统吞吐量。 | 
-|[HunyuanVideo模型推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/HunyuanVideo/README.md)  | 基于xDiT框架，在Atlas A2环境中采用了Ulysses序列并行和RingAttention序列并行测量，同时适配了TeaCache加速，实现了较高的吞吐推理性能。 | 
+|[DeepSeek-V3.2-Exp模型支持0day推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)  | 基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。 |
+|[DeepSeek-R1 RL训练优化实践](https://gitcode.com/cann/cann-recipes-train/blob/master/rl_train/deepseek/README.md)  | 基于开源veRL框架，搭配MindSpeed+vLLM-Ascend框架，在Atlas A3集群实现GRPO算法的高吞吐RL训练，并达到120TPS/卡的系统吞吐量。 |
+|[HunyuanVideo模型推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/HunyuanVideo/README.md)  | 基于xDiT框架，在Atlas A2环境中采用了Ulysses序列并行和RingAttention序列并行测量，同时适配了TeaCache加速，实现了较高的吞吐推理性能。 |
 
 
 
@@ -99,4 +101,3 @@
 - [昇腾社区](https://www.hiascend.com/cann)
 
 
-    
