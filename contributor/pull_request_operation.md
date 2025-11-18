@@ -64,7 +64,7 @@ See LICENSE in the root of the software repository for the full text of the Lice
 
 ### 3.3 提交 Pull Request
 - 代码验证通过后，提交 PR 到目标项目；
-- 参照[社区评论命令](../docs/robot/cann/robot-command.md)触发门禁测试
+- 参照[社区评论命令](https://gitcode.com/cann/infrastructure/blob/main/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)触发门禁测试
 
 ### 3.4 代码审查
 - **测试未通过**：根据门禁反馈修改代码
@@ -76,7 +76,7 @@ See LICENSE in the root of the software repository for the full text of the Lice
 ### 📚 扩展资源
 
 - [**GitCode 工作流详细说明**](gitcode-workflow.md) - 完整的代码贡献流程指南
-- [**常见问题解答 (FAQs)**](../docs/FAQ/infra-faqs.md) - 提交 PR 过程中遇到的问题解决方案
+- [**常见问题解答 (FAQs)**](https://gitcode.com/cann/infrastructure/tree/main/docs/FAQ) - 提交 PR 过程中遇到的问题解决方案
 
 ---
 如您在贡献过程中遇到任何问题，欢迎通过社区渠道（ISSUE、邮件等）寻求帮助！
