@@ -42,7 +42,7 @@ CANN社区通过持续集成（CI，Continuous Integration）及时发现代码�
    
    基础设施团队收到Issue后，将根据提供的信息部署集成流水线。如遇问题，会与协助人沟通解决。
 
-门禁流程包括代码下载、编译构建、代码检查和测试用例等环节，均由基础设施团队默认配置。提交PR触发门禁的详细指导请参考[门禁流程使用指导](../../docs/robot/cann/robot-command.md)。
+门禁流程包括代码下载、编译构建、代码检查和测试用例等环节，均由基础设施团队默认配置。提交PR触发门禁的详细指导请参考[门禁流程使用指导](https://gitcode.com/cann/infrastructure/blob/main/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)。
 
 ---
 
@@ -102,6 +102,6 @@ CANN社区通过持续集成（CI，Continuous Integration）及时发现代码�
 ---
 
 **相关链接**
-- [门禁流程使用指导](../../docs/robot/cann/robot-command.md)
+- [社区机器人使用指导](https://gitcode.com/cann/infrastructure/blob/main/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 - [SIG组织信息](../../CANN/sigs/infrastructure/README.md)
 - [问题反馈](https://gitcode.com/cann/infrastructure/issues)

@@ -53,7 +53,7 @@
 
 ### 参与贡献
   - [CANN社区协作指南](../role-guidance.md)
-  - [CANN社区用户交互流程](../docs/robot/cann/robot-command.md)
+  - [CANN社区用户交互流程](https://gitcode.com/cann/infrastructure/blob/main/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
   - [编码规范](https://gitcode.com/cann/community/tree/master/contributor/coding-standards)
 
 ## 快速体验

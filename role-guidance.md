@@ -3,7 +3,7 @@
 ## 📖 概述
 
 欢迎来到 CANN 社区！本文档旨在为不同角色的社区成员提供清晰的操作指南。无论您是代码贡献者、SIG maintainer，还是项目TSC成员，都可以在此找到对应的协作流程。
-![](./figures/guide.png)
+![](./guide.png)
 
 ### ✍️ 如何签署CANN社区贡献者许可协议CLA
 在参与社区贡献前，您需要签署[CANN社区贡献者许可协议（CLA）](https://clasign.osinfra.cn/sign/68cbd4a3dbabc050b436cdd4)
