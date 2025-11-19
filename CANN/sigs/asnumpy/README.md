@@ -28,7 +28,7 @@ AsNumpy是一款 深度支持昇腾NPU并高度兼容numpy接口的轻量级Pyth
 
 # 社区运作
 
-- SIG会议时间：北京时间，每周二晚上19:00-20:00
+- SIG会议时间：北京时间，每周三晚上19:00-20:00
 - [会议地址](https://meeting.osinfra.cn/cann/)
 - [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-asnumpy)
 - [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-asnumpy)
