@@ -46,15 +46,19 @@
 
 
 ## 关于社区
-### 组织架构
+### 社区治理架构及章程
+
+CANN 社区采用分层协作的治理模式，当前架构主要包括以下组织：
+
   - [技术指导委员会（TSC-Technical Steering Committee）](../CANN/TSC/README.md)
   - [项目管理委员会（PMC-Project Management Committee）](../CANN/PMC/README.md)
   - [特别兴趣小组（SIG-Special Interest Group）](https://gitcode.com/cann/community/tree/master/CANN/sigs)
 
+更多社区治理内容，详见：[社区治理章程](../README.md#社区治理章程)
+
 ### 参与贡献
-  - [CANN社区协作指南](../role-guidance.md)
-  - [CANN社区用户交互流程](https://gitcode.com/cann/infrastructure/blob/main/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
-  - [编码规范](https://gitcode.com/cann/community/tree/master/contributor/coding-standards)
+  -  [基础贡献](../README.md#基础贡献)：包含参与社区会议、社区邮件讨论、提交 Issue 、处理 Issue 任务、提交PR等。
+  -  [进阶贡献](../README.md#进阶贡献)：包含新建 SIG、成为核心贡献者、组织会议、新建仓库、引入开源软件、发布新版本或新仓库等。
 
 ## 快速体验
 
