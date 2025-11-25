@@ -28,7 +28,7 @@
      ![](figures/issue-banner.png)
    
 2）根据需求选择 Issue 类型（如 Bug-Report、Documentation、Requirement、Question、安全漏洞等），单击 **使用该模板** 或 **报告安全漏洞** 或 **创建 Issue** 进入Issue详细页面。
-     ![](figures/iusse_select.png)
+     ![](figures/issue-select.png)
   
 ### 1.2.2 填写 Issue
 

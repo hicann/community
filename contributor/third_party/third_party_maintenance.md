@@ -115,7 +115,7 @@
 
 ### 2.3 软件引入配置
 
-申请人完成开源软件引入后，需在使用该软件的仓库对应文件（通常为 `cmake/Third_Party_Open_Source_Software_List.yaml`）中完成配置（以 `eigen` 为例），配置完成后进一步开发构建脚本：
+申请人完成开源软件引入后，需在使用该软件的仓库对应文件（通常为 `cmake/Third_Party_Open_Source_Software_List.yaml`）中完成配置（以 `eigen` 为例），配置完成后用于进一步开发构建脚本以及后续的漏洞感知处理：
 
 ```yaml
 observability:  # 顶层公共节点
