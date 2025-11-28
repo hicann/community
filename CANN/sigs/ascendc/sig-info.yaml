@@ -15,3 +15,77 @@ repositories:
   - gitcode_id: fujun19
   - gitcode_id: wly451717
   entry_configs: []
+
+repositories:
+- repo:
+  - cann/pyasc
+  committers:
+  - gitcode_id: jiangZD
+  - gitcode_id: gao_dafa
+  - gitcode_id: qin437231
+  - gitcode_id: ai_xin
+  - gitcode_id: kong0808
+  - gitcode_id: sutonghua
+  - gitcode_id: wuzhenqing
+  reviewers:
+  - gitcode_id: suqwe
+  - gitcode_id: xiaoting624
+  - gitcode_id: dengjing_aoe
+  - gitcode_id: YeZZzzz1
+  - gitcode_id: bluesky901
+  - gitcode_id: DragonBornHD84
+  - gitcode_id: kong0808
+  - gitcode_id: hyyisasleep
+  - gitcode_id: gehaoxuan
+  - gitcode_id: li_zeran
+  entry_configs: []
+
+- repo:
+  - cann/asc-devkit
+  committers:
+  - gitcode_id: wangxiaozhi
+  - gitcode_id: xun_zhuge
+  - gitcode_id: jiangZD
+  - gitcode_id: shi_nanxiang
+  - gitcode_id: gao_dafa
+  - gitcode_id: ookkkkoo1122
+  - gitcode_id: bianque
+  - gitcode_id: wqtshg_wt
+  - gitcode_id: zhudi22
+  reviewers:
+  - gitcode_id: wuyang_hw
+  - gitcode_id: houyuyang
+  - gitcode_id: yangbinhua
+  - gitcode_id: XuebinYang
+  - gitcode_id: sjtulxh
+  - gitcode_id: chenyiyuan
+  - gitcode_id: dengjing_aoe
+  - gitcode_id: YeZZzzz1
+  - gitcode_id: DragonBornHD84
+  - gitcode_id: zhanghao_0689
+  - gitcode_id: suqwe
+  - gitcode_id: kong0808
+  - gitcode_id: jiangxinyu3
+  - gitcode_id: zhuliangying
+  - gitcode_id: wly451717
+  - gitcode_id: bluesky901
+  - gitcode_id: yanqingshang
+  - gitcode_id: yukangchen
+  entry_configs: []
+
+- repo:
+  - cann/asc-tools
+  committers:
+  - gitcode_id: xun_zhuge
+  - gitcode_id: ookkkkoo1122
+  - gitcode_id: bianque
+  - gitcode_id: zhudi22
+  reviewers:
+  - gitcode_id: houyuyang
+  - gitcode_id: XuebinYang
+  - gitcode_id: sjtulxh
+  - gitcode_id: chenyiyuan
+  - gitcode_id: zhanghao_0689
+  - gitcode_id: wuyang_hw
+  - gitcode_id: yukangchen
+  entry_configs: []

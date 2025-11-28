@@ -1,10 +1,19 @@
 # Ascend C SIG
-Ascend C是CANN (Compute Architecture for Neural Networks) 针对算子开发场景推出的编程语言，原生支持C/C++标准规范，兼具开发效率和运行性能。基于Ascend C编写的算子程序，通过编译器编译和运行时调度，运行在昇腾AI处理器上。使用Ascend C，开发者可以基于昇腾AI硬件，高效的实现自定义的创新算法。
+Ascend C是昇腾AI处理器专用的算子程序开发语言，基于C/C++扩展，遵循C/C++标准规范，提供底层芯片完备编程能力，支撑实现极致性能。此外，AscendC 也通过构建多级接口，满足多场景算子开发诉求，尽可能匹配业界开发习惯，提升算子开发效率。
 
 # 工作目标
-- 负责Ascend C算子基础编程能力领域技术路线探讨与规划。
-- 组织Ascend C算子基础编程能力领域例会，引导技术讨论和决策。
-- 负责SIG范围内的代码仓的Bug、Issue和用户诉求等处理。
+- 负责AscendC 多级编程接口（含Python前端）的规划、设计，满足多维场景算子开发诉求，兼顾效率和性能；
+- 负责AscendC 编译能力、调试调优领域技术路线探讨和规划；
+- 组织Ascend C 算子编程领域例会，引导技术讨论和决策。
+- 负责AscendC 范围内的代码仓的Bug、Issue和用户诉求等处理。
+
+# 项目路标
+- 2025/11: 基于A2/A3 AscendC 能力全面开源开放；新增PyAsc提供Python前端完备编程能力；
+- 2025/12: 基于A2/A3 AscendC 开放语言扩展层C API，提供业界类似的C API编程体验；
+- 2026 上半年：
+    - 基于A5 全面开放SIMT、SIMD/SIMT新同构编程、基于寄存器的SIMD编程能力；
+    - 基于A2/A3/A5 基础API全面支持Tensor Tile API，基于Layout支持Tile编程；
+    - PyAsc前端支持基于Layout实现Tensor编程，提供业界类似的Tensor编程体验；
 
 # 成员
 
@@ -40,12 +49,14 @@ Ascend C是CANN (Compute Architecture for Neural Networks) 针对算子开发场
 - 闫庆尚[@yanqingshang](https://gitcode.com/yanqingshang), *yanqingshang@huawei.com*
 - 艾鑫[@ai_xin](https://gitcode.com/ai_xin), *aixin2@hisilicon.com*
 - 秦名扬[@qin437231](https://gitcode.com/qin437231), *qinmingyang@huawei.com*
+- 苏统华[@sutonghua](https://gitcode.com/sutonghua), *tonghuasu@gmail.com*
+- 武震卿[@wuzhenqing](https://gitcode.com/wuzhenqing), *wuzhenqing@stu.hit.edu.cn*
 
 # 社区运作
 
 ### 会议组织
 
-- 公开的会议时间：北京时间，两周一次例会，双周周四下午14:15-16:00
+- 公开的会议时间：北京时间，两周一次例会，双周周五上午11:00-12:00
 - [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-ascendc)
 
 ### 会议纪要
@@ -61,3 +72,6 @@ Ascend C是CANN (Compute Architecture for Neural Networks) 针对算子开发场
 
 仓库地址：
 - https://gitcode.com/cann/atvc
+- https://gitcode.com/cann/pyasc
+- https://gitcode.com/cann/asc-devkit
+- https://gitcode.com/cann/asc-tools
