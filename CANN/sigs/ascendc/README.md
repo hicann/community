@@ -44,7 +44,7 @@ Ascend C是昇腾AI处理器专用的算子程序开发语言，基于C/C++扩�
 - 孔琼卓[@kong0808](https://gitcode.com/kong0808), *kongqiongzhuo@huawei.com*
 - 姜新誉[@jiangxinyu3](https://gitcode.com/jiangxinyu3), *jiangxinyu3@hisilicon.com*
 - 朱梁英[@zhuliangying](https://gitcode.com/zhuliangying), *zhuliangying@huawei.com*
-- 吴林玉[@wly451717](https://gitcode.com/wly451717), *wulinyu4@huawei.com*
+- 吴林玉[@wulinyu](https://gitcode.com/wulinyu), *wulinyu4@huawei.com*
 - 傅珺[@fujun19](https://gitcode.com/fujun19), *fujun19@hisilicon.com*
 - 闫庆尚[@yanqingshang](https://gitcode.com/yanqingshang), *yanqingshang@huawei.com*
 - 艾鑫[@ai_xin](https://gitcode.com/ai_xin), *aixin2@hisilicon.com*
