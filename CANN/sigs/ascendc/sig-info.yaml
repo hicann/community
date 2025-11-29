@@ -16,7 +16,6 @@ repositories:
   - gitcode_id: wulinyu
   entry_configs: []
 
-repositories:
 - repo:
   - cann/pyasc
   committers:
