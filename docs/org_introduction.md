@@ -14,7 +14,8 @@
       <a href="https://gitcode.com/cann/ops-nn"><span style="font-size:16px;">ops-nn</span></a><br>
       <a href="https://gitcode.com/cann/ops-math"><span style="font-size:16px;">ops-math</span></a><br>
       <a href="https://gitcode.com/cann/ops-transformer"><span style="font-size:16px;">ops-transformer</span></a><br>
-       <a href="https://gitcode.com/cann/ops-cv"><span style="font-size:16px;">ops-cv</span></a></td>
+      <a href="https://gitcode.com/cann/ops-cv"><span style="font-size:16px;">ops-cv</span></a><br>
+      <a href="https://gitcode.com/cann/atvoss"><span style="font-size:16px;">atvoss</span></a></td>
   </tr>
   <tr>
     <td><span style="font-size:16px;">通信库</span></td>

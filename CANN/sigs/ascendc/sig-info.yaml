@@ -9,11 +9,11 @@ repositories:
   - cann/atvc
   committers:
   - gitcode_id: wangxiaozhi
-  - gitcode_id: wly451717
+  - gitcode_id: wulinyu
   reviewers:
   - gitcode_id: zhuliangying
   - gitcode_id: fujun19
-  - gitcode_id: wly451717
+  - gitcode_id: wulinyu
   entry_configs: []
 
 repositories:
@@ -67,7 +67,7 @@ repositories:
   - gitcode_id: kong0808
   - gitcode_id: jiangxinyu3
   - gitcode_id: zhuliangying
-  - gitcode_id: wly451717
+  - gitcode_id: wulinyu
   - gitcode_id: bluesky901
   - gitcode_id: yanqingshang
   - gitcode_id: yukangchen
