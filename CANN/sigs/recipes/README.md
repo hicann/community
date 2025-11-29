@@ -29,6 +29,13 @@ recipes领域相关的兴趣小组，负责cann平台样例仓建设，如LLM、
 - 叶嘉金琦 [[@HJ92]](https://gitcode.com/HJ92), *yejiajinqi@hisilicon.com*
 - 黄立 [[@huang_li]](https://gitcode.com/huang_li), *huangli84@hisilicon.com*
 - 黄伟 [[@huangwei791]](https://gitcode.com/huangwei791), *huangwei791@huawei.com*
+- 许虞俊[[@xuyujun]](https://gitcode.com/xuyujun), *xuyujun5@hisilicon.com*
+- 位金弈[[@lrwei0709]](https://gitcode.com/lrwei0709), *weijinyi3@huawei.com*
+- 吕诗睿[[@lushirui22]](https://gitcode.com/lushirui22), *lushirui@hisilicon.com*
+- 汪超[[@qq_41667743]](https://gitcode.com/qq_41667743), *wangchao725@huawei.com*
+- 宦睿智[[@huanruizhi]](https://gitcode.com/huanruizhi), *huanruizhi@hisilicon.com*
+- 潘超[[@panchao-gitcode]](https://gitcode.com/panchao-gitcode), *panchao13@huawei.com*
+- 丘志成[[@kevinchiu]](https://gitcode.com/kevinchiu), *chiu.chih.cheng@hisilicon.com*
 
 ## 社区运作
 
@@ -51,3 +58,5 @@ recipes领域相关的兴趣小组，负责cann平台样例仓建设，如LLM、
 仓库地址：
 - https://gitcode.com/cann/cann-recipes-infer
 - https://gitcode.com/cann/cann-recipes-train
+- https://gitcode.com/cann/cann-recipes-spatial-intelligence
+- https://gitcode.com/cann/cann-recipes-embodied-intelligence

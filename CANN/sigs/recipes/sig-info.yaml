@@ -25,6 +25,9 @@ repositories:
   - gitcode_id: jason_yuan_ye
   - gitcode_id: huang_li
   - gitcode_id: huangwei791
+  - gitcode_id: huanruizhi
+  - gitcode_id: qq_41667743
+  - gitcode_id: lushirui22
   entry_configs: []
 
 - repo:
@@ -40,4 +43,34 @@ repositories:
   - gitcode_id: depeng1994
   - gitcode_id: zhanghz1
   - gitcode_id: HJ92
+  - gitcode_id: panchao-gitcode
+  - gitcode_id: lrwei0709
+  - gitcode_id: xuyujun
+  entry_configs: []
+
+- repo:
+  - cann/cann-recipes-spatial-intelligence
+  committers:
+  - gitcode_id: zhangky_gitcode
+  - gitcode_id: huangwayne28
+  - gitcode_id: lianghengyi
+  - gitcode_id: fafahan
+  - gitcode_id: lin_lin_lene
+
+  reviewers:
+  - gitcode_id: lushirui22
+  - gitcode_id: kevinchiu
+  entry_configs: []
+
+- repo:
+  - cann/cann-recipes-embodied-intelligence
+  committers:
+  - gitcode_id: zhangky_gitcode
+  - gitcode_id: huangwayne28
+  - gitcode_id: lianghengyi
+  - gitcode_id: fafahan
+  - gitcode_id: lin_lin_lene
+
+  reviewers:
+  - gitcode_id: rous_zhang
   entry_configs: []
