@@ -57,3 +57,5 @@
 
 仓库地址：
 - https://gitcode.com/cann/hixl
+- https://gitcode.com/cann/hccl
+- https://gitcode.com/cann/hcomm
