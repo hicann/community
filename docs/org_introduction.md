@@ -36,6 +36,7 @@
     <td><span style="font-size:16px;">CANN针对算子开发场景推出的编程语言，最大化匹配用户开发习惯，提供算子模板库，支持算子极简编程。</span></td>
     <td>
       <a href="https://gitcode.com/cann/asc-devkit"><span style="font-size:16px;">asc-devkit</span></a><br>
+      <a href="https://gitcode.com/cann/pyasc"><span style="font-size:16px;">pyasc</span></a><br>
       <span style="font-size:16px;">pypto(建设中)</span><br>
     </td>
   </tr>
