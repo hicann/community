@@ -108,10 +108,10 @@ SIG 的生命周期包括创建申请、运作、变更和终止四个阶段。
 
 技术指导委员会审批通过后，SIG 发起人需在 CANN/community 仓库中完成以下操作：
 
-1\. Fork 并 Clone 代码库：将 CANN/community 库 Fork 到个人空间后 Clone 到本地。
-2\. 创建 SIG 文件夹：在 sig 目录下创建以 SIG 名称命名的文件夹（如 sig_YOURSIGNAME）。
-3\. 创建 SIG 描述文件：将 community/CANN/sigs/sig_template 文件夹(模板，待规划)中的模板文件拷贝至新创建的 SIG 文件夹，并根据 SIG 实际情况重命名和填写内容。
-4\. # 假设Fork 到个人空间后 Clone 到本地  
+1\. Fork 并 Clone 代码库：将 CANN/community 库 Fork 到个人空间后 Clone 到本地  
+2\. 创建 SIG 文件夹：在 sig 目录下创建以 SIG 名称命名的文件夹（如 sig_YOURSIGNAME）  
+3\. 创建 SIG 描述文件：将 community/CANN/sigs/sig_template 文件夹(模板，待规划)中的模板文件拷贝至新创建的 SIG 文件夹，并根据 SIG 实际情况重命名和填写内容  
+4\. 假设Fork 到个人空间后 Clone 到本地  
 5\. cd ./community/CANN/sigs  
 6\. cp -r sig_template sig_YOURSIGNAME  
 7\. cd sig_YOURSIGNAME  
