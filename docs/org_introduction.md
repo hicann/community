@@ -72,13 +72,15 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
 ## 实践样例
 
-⚓[推理(cann-recipes-infer)](https://gitcode.com/cann/cann-recipes-infer) &nbsp; | &nbsp;🚈 [训练(cann-recipes-train)](https://gitcode.com/cann/cann-recipes-train)
+⚓[推理](https://gitcode.com/cann/cann-recipes-infer) &nbsp; | &nbsp;🚈 [训练](https://gitcode.com/cann/cann-recipes-train) | &nbsp; 🔮 [空间智能](https://gitcode.com/cann/cann-recipes-spatial-intelligence) | &nbsp; 🎮 [具身智能](https://gitcode.com/cann/cann-recipes-embodied-intelligence)
 
 |热门实践  |描述  |
 |--|--|
 |[DeepSeek-V3.2-Exp模型支持0day推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)  | 基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。 |
 |[DeepSeek-R1 RL训练优化实践](https://gitcode.com/cann/cann-recipes-train/blob/master/rl_train/deepseek/README.md)  | 基于开源veRL框架，搭配MindSpeed+vLLM-Ascend框架，在Atlas A3集群实现GRPO算法的高吞吐RL训练，并达到120TPS/卡的系统吞吐量。 |
 |[HunyuanVideo模型推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/HunyuanVideo/README.md)  | 基于xDiT框架，在Atlas A2环境中采用了Ulysses序列并行和RingAttention序列并行测量，同时适配了TeaCache加速，实现了较高的吞吐推理性能。 |
+|[VGGT模型推理优化实践](https://gitcode.com/cann/cann-recipes-spatial-intelligence/blob/master/models/vggt/README.md)  | 基于VGGT开源模型，完成其在Atlas A2上的推理适配，并提供其在相机位姿估计、点云三维重建、深度估计三个任务上的精度评测脚本。 |
+|[Pi0模型推理优化实践](https://gitcode.com/cann/cann-recipes-embodied-intelligence/blob/master/models/pi0/README.md)  | 基于LeRobot库，在Atlas A2环境适配Pi0模型，通过使能融合算子、图模式、计算逻辑优化等手段，实现了较低的推理时延。 |
 
 
 
