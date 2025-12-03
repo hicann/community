@@ -216,3 +216,14 @@ sigs:
       - gitcode_id: wangtao43
         name: 王涛
         email: wangtao43@huawei.com
+  - sig_name: hccl
+    maintainers: 
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
+      - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
+      - gitcode_id: leabclove
+        name: 程祥乐
+        email: chengxiangle1@huawei.com
