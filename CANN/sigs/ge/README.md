@@ -38,6 +38,10 @@ GE是计算图编译和运行的控制中心，提供图编译、图优化以及
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *ylovline.liuwei@huawei.com*
 - 杨学斌[@XuebinYang](https://gitcode.com/XuebinYang), *yangxuebin@hisilicon.com*
 - 廖晓辉[@sjtulxh](https://gitcode.com/sjtulxh), *liaoxiaohui3@hisilicon.com*
+- 郭一伟[@guoyiwei1111](https://gitcode.com/guoyiwei1111), *guoyiwei2@huawei.com*
+- 盛楠[@shengnan666](https://gitcode.com/shengnan666), *titan.sheng@huawei.com*
+- 于海涛[@yuht9](https://gitcode.com/yuht9), *yuhaitao6@huawei.com*
+- 傅骏[@fu-jun2](https://gitcode.com/fu-jun2), *fujun2@huawei.com*
 
 # 社区运作
 
@@ -59,3 +63,4 @@ GE是计算图编译和运行的控制中心，提供图编译、图优化以及
 
 仓库地址：
 - https://gitcode.com/cann/graph-autofusion
+- https://gitcode.com/cann/triton-inference-server-ge-backend
