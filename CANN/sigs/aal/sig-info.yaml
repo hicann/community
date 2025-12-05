@@ -1,6 +1,6 @@
 name: aal
-description: NA
-mailing_list: NA
+description: 每个领域加速库可以根据需要提供不同形式的功能：包括但不限于本领域算子的补充、特定算法或机制、特定辅助类工具等。
+mailing_list: aal@cann.osinfra.cn
 meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/aal
 mentors: []
 committers:
@@ -45,7 +45,7 @@ reviewers:
 - gitcode_id: weixin_44577815
 - gitcode_id: Ascendyh
 - gitcode_id: huangxiaolan
-- gitcode_id: qq_44359711
+- gitcode_id: vector5
 - gitcode_id: tianxinghui
 - gitcode_id: zjw666888
 - gitcode_id: triwooder
@@ -65,6 +65,7 @@ reviewers:
 - gitcode_id: luowen203_gg123
 - gitcode_id: kerten
 - gitcode_id: sakya_gyq
+- gitcode_id: Ezreal007
 
 repositories:
 - repo:
