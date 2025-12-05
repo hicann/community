@@ -16,3 +16,12 @@ repositories:
   - gitcode_id: XuebinYang
   - gitcode_id: sjtulxh
   entry_configs: []
+- repo:
+  - cann/triton-inference-server-ge-backend
+  committers:
+  - gitcode_id: guoyiwei1111
+  - gitcode_id: shengnan666
+  - gitcode_id: hugo111
+  - gitcode_id: yuht9
+  - gitcode_id: fu-jun2
+  entry_configs: []
