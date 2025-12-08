@@ -1,6 +1,37 @@
 # ops-nn SIG
-提供神经网络计算能力的高阶算子库，简称ops-nn，涵盖常见的张量matmul、activation、loss计算等操作。 ops-nn在CANN架构中位置如下图所示：
+## 概述
+ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、卷积、激活等神经网络常用算子。 
+
+## 工作目标
+- 1、负责神经网络算子领域技术路线规划和落地；
+- 2、组织神经网络算子领域例会，引导技术讨论和决策；
+- 3、负责周边组织沟通协调，推动落地相关项目；
+- 4、负责SIG 仓库权限和邮件列表等基础设施的管理；
+- 5、负责社区Bug、issue和邮件列表等渠道反馈的问题分发处理。
+
+## 职责与范围
+本SIG主要负责[ops-nn](https://gitcode.com/cann/ops-nn) 仓库的开发与维护：
+- ops-nn(神经网络算子)
+    - 定位：提供神经网络计算常用算子
+    - 功能：开发和管理以下类别的算子：
+        - activation（激活类）：提供如relu、gelu等激活类算子
+        - control（控制流类）：提供如条件分支、循环等流程控制能力算子，如assert算子
+        - conv（卷积类）：提供conv2d等卷积操作类算子
+        - foreach（循环操作类）：提供如foreach_abs、foreach_add等遍历计算算子
+        - index（索引操作类）：提供index_fill、scatter等索引操作类算子
+        - loss（损失函数类）：提供l1_loss、mse_loss等loss计算类算子
+        - matmul（矩阵乘类）：提供matmul、batchmatmul等矩阵乘计算类算子
+        - norm（归一化类）：提供layer_nrom、batch_norm等数据归一化计算算子
+        - optim（优化器类）：提供adamw等优化器类算子
+        - pooling（池化类）：提供avgpool、maxpool等池化计算类算子 
+        - quant（量化操作类）：提供quant、dequant等量化计算类算子 
+        - rnn（循环神经网络类）：提供rnn计算算子
+        - vfusion（融合操作类）：提供vector融合计算类算子
+
+## 边界与协作
+为保持清晰的职责划分，ops-nn SIG与社区其他算子兴趣小组紧密协作，但专注于上述核心领域。 本SIG与[ops-basic SIG](../ops-basic/README.md)和[ops-transformer SIG](../ops-transformer/README.md)共同提供深度学习网络服务。本SIG负责ops-nn仓，其中在CANN架构中位置如下图所示：
 ![alt text](image.png)
+
 
 # 成员
 
@@ -33,6 +64,9 @@
 
 - [会议地址](https://meeting.osinfra.cn/cann/)
 - [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-ops-nn)
+
+### 贡献指南
+- [贡献指南](https://gitcode.com/cann/ops-nn/blob/master/CONTRIBUTING.md)
 
 # SIG订阅
 
