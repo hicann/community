@@ -23,10 +23,11 @@
 - 孙昊[@sunhao_hw](https://gitcode.com/sunhao_hw), *sunhao164@h-partners.com*
 - 金修浪[@jxlang](https://gitcode.com/jxlang), *jinxiulang@huawei.com*
 - 徐汉儒[@hanru-xu](https://gitcode.com/hanru-xu), *xuhanru@huawei.com*
+- 陆璐[@Lulu_scut](https://gitcode.com/Lulu_scut), *lul@scut.edu.cn*
 
 # 社区运作
 
-- 双周例会，每月奇数周周四 15:00-16:00 (北京时间)
+- 双周例会，每双周周三 16:00-17:30 (北京时间)；首次例会在`2025-10-29`举办，具体时间与调整可关注下方纪要与邮件列表
 - [会议地址](https://meeting.osinfra.cn/cann/)
 - [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-catlass)
 - [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-catlass)
