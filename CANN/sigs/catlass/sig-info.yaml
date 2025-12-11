@@ -20,6 +20,7 @@ repositories:
   - gitcode_id: sunhao_hw
   - gitcode_id: jxlang
   - gitcode_id: hanru-xu
+  - gitcode_id: Lulu_scut
   reviewers:
   - gitcode_id: zhouhao176
   - gitcode_id: huangxin361
@@ -39,4 +40,12 @@ repositories:
   - gitcode_id: yjp-hw
   - gitcode_id: init__zhb__
   - gitcode_id: CheaterAbec
-  entry_configs: []
+  - gitcode_id: Lulu_scut
+  entry_configs: 
+  - path: tools
+    committers:
+    - gitcode_id: gong-siwei
+    reviewers:
+    - gitcode_id: gong-siwei
+    - gitcode_id: yan_yw
+    - gitcode_id: MTQ999
