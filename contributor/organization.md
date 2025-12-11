@@ -38,7 +38,7 @@
 - lgtm：请联系org-info.yaml中该SIG组的maintainers进行评审。评审通过后，由 maintainer评论/lgtm;
 - approved：联系该SIG组的maintainers进行批准。批准后，由maintainer评论 /approve。
 
-（4）PR合入后，您需要登录[社区会议平台](https://meeting.osinfra.cn/cann)的个人中心将gitcode账号与华为账号绑定，绑定GitCode ID后，CANN社区SIG maintainer、committer自动拥有创建会议权限。具体会议指导详见[会议指南](https://gitcode.com/cann/infrastructure/blob/main/meeting/cann/CANN%E7%A4%BE%E5%8C%BA%E4%BC%9A%E8%AE%AE%E6%8C%87%E5%8D%97.md)。
+（4）PR合入后，您需要登录[社区会议平台](https://meeting.osinfra.cn/cann)的个人中心将gitcode账号与华为账号绑定，绑定GitCode ID后，CANN社区SIG maintainer、committer自动拥有创建会议权限。具体会议指导详见[会议指南](https://gitcode.com/cann/infrastructure/blob/main/docs/meeting/CANN%E7%A4%BE%E5%8C%BA%E4%BC%9A%E8%AE%AE%E6%8C%87%E5%8D%97.md)。
 
 + 注意：<font color="red">权限每隔1小时刷新一次，配置后请耐心等待</font>
 
