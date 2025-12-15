@@ -2,6 +2,10 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20251204 | CANN-HCCL开源开放全面解读 | sig-hccl | [链接](./slides/sig-hccl/20251204) | [链接](https://www.bilibili.com/video/BV1GA2DBjEfB/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) | 
+| 20251203 | CANN 算子库 ATVOSS | sig-ops-basic | [链接](./slides/sig-ops-basic/20251203) | [链接](https://www.bilibili.com/video/BV1WLmnBSEzP?spm_id_from=333.788.player.switch&vd_source=40a01afa50d31f7f76277e5baa2faa1f) | 
+| 20251201 | Ascend C 构建多级API，支撑多维场景算子开发 | sig-ascendc | [链接](./slides/sig-ascendc/20251201) | [链接](https://www.bilibili.com/video/BV1ma2SBqEff/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) | 
+| 20251115 | CANN开源社区 线下meetup 北京站 | meetup | [链接](./slides/meetup/20251115) | [链接](https://www.bilibili.com/video/BV1yDUVBiEQr/?spm_id_from=333.1387.search.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f)  | 
 | 20251031 | 图融合SuperKernel技术大揭秘 | sig-ge | [链接](./slides/sig-ge/20251031) | [链接](https://www.bilibili.com/video/BV1bd1WBwEHv/?share_source=copy_web&vd_source=b6f9b8499e5d2ac52b70c4306c6f632c)  | 
 | 20251030 | DeepSeek-R1 RL训练优化实践分享 | sig-recipes | [链接](./slides/sig-recipes/20251030) | [链接](https://www.bilibili.com/video/BV1bd1WBwEyu/?share_source=copy_web&vd_source=b6f9b8499e5d2ac52b70c4306c6f632c) | 
 | 20251029 | TileLang Ascend：让AI算子开发更简单！ | sig-recipes | [链接](./slides/sig-recipes/20251029) | [链接](https://www.bilibili.com/video/BV1bd1WBwEUM/?share_source=copy_web&vd_source=b6f9b8499e5d2ac52b70c4306c6f632c) | 
