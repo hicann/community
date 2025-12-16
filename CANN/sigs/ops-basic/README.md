@@ -1,12 +1,33 @@
 # ops-basic SIG
-提供算子基础框架和调度能力，同时包括数学类算子、视觉类算子等。
-本SIG负责opbase、ops-math、ops-cv仓，其在CANN架构中的位置如下图所示：
-![alt text](image.png)
+## 概述
+ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(数学计算、张量变换、随机数、计算机视觉)的兴趣小组。我们致力于提供高性能、高可靠性的基础运算组件，为上层模型和应用构建坚实的计算基石，覆盖了从基础张量变换、基础的数学计算到经典计算机视觉任务的核心计算需求。
 
 ## 工作目标
 - 负责基础框架和调度能力、数学类、视觉类算子领域技术路线探讨与规划。
 - 组织基础框架和调度能力、数学类、视觉类算子领域例会，引导技术讨论和决策。
 - 负责SIG范围内的代码仓的Bug、Issuse和用户诉求等处理。
+
+## 职责范围与核心仓库
+本SIG主要负责以下三个核心仓库的开发与维护：
+*  opbase (基础框架与公共依赖)
+   *  定位： 整个算子生态的基石。
+   *  功能： 提供aclnn接口运行的基础框架，所有算子仓host侧和kernel侧的一些公共接口，如日志接口、infershape、tiling和kernel的公共函数。
+*  ops-math (数学与张量变换算子)
+   *  定位： 提供基础的数学与张量操作能力。
+   *  功能： 开发和管理以下类别的算子：
+      *  数学运算类 (math)： 如基本的加、减、乘、除、指数、对数、三角函数等算子。
+      *  张量变换类 (conversion)： 如形状变换、转置、拼接、分割、广播等算子。
+      *  随机数生成类 (random)： 提供符合各种分布的随机数生成算子。
+*  ops-cv (计算机视觉算子)
+   *  定位： 提供传统与基础深度学习计算机视觉任务的核心操作能力。
+   *  功能： 开发和管理以下类别的算子：
+      *  图像处理类 (image)： 如插值缩放、空间变换、图像扭曲等算子。
+      *  目标检测类 (objdetect)： 计算两个矩阵的重叠面积占两个矩阵总面积的比例、旋转的感兴趣区域对齐等算子。
+
+## 边界与协作
+为保持清晰的职责划分，ops-basic SIG与社区其他算子兴趣小组紧密协作，但专注于上述核心领域。 本SIG与[ops-nn SIG](https://gitcode.com/cann/community/blob/f12a0baeb315f1302e92ae8d98e527b43286bf8d/CANN/sigs/ops-nn/README.md)和[ops-transformer SIG](https://gitcode.com/cann/community/tree/f12a0baeb315f1302e92ae8d98e527b43286bf8d/CANN/sigs/ops-transformer)共同提供深度学习网络服务。
+本SIG负责opbase、ops-math、ops-cv仓，其在CANN架构中的位置如下图所示：
+<img src="image.png" width="600px" height="320px">
 
 # 成员
 
@@ -36,6 +57,9 @@
 - 任如海[@renruhai](https://gitcode.com/renruhai), *renruhai1@huawei.com*
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
 
+# 优秀贡献者
+*欢迎大家积极贡献成为优秀贡献者*
+
 # 社区运作
 
 ### 会议组织
@@ -58,3 +82,14 @@
 - https://gitcode.com/cann/opbase
 - https://gitcode.com/cann/ops-math
 - https://gitcode.com/cann/ops-cv
+
+# 贡献指南
+- [贡献指南](CONTRIBUTING.md)
+
+
+# 优秀实践
+- [CANN插值类算子启用矩阵化实现，性能提升10倍，助力多模态模型大幅增效](https://mp.weixin.qq.com/s/Yz9sElLEgtJSUC-kJVoaMg)
+- [算子开发入门讲解——IsInf算子开发实践](https://www.hiascend.com/developer/blog/details/0278197035732674115)
+
+# 精彩活动
+- [【重磅大奖来袭】25年CANN训练营第二季社区任务开启！完成任务赢取华为三折叠手机、万元笔记本电脑！](https://gitcode.com/org/cann/discussions/22)
