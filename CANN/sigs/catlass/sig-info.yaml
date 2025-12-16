@@ -42,7 +42,8 @@ repositories:
   - gitcode_id: CheaterAbec
   - gitcode_id: Lulu_scut
   entry_configs: 
-  - path: tools
+  - path: 
+    - tools
     committers:
     - gitcode_id: gong-siwei
     reviewers:
