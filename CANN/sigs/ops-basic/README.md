@@ -11,7 +11,7 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 本SIG主要负责以下三个核心仓库的开发与维护：
 *  opbase (基础框架与公共依赖)
    *  定位： 整个算子生态的基石。
-   *  功能： 提供aclnn接口运行的基础框架，所有算子仓host侧和kernel侧的一些公共接口，如日志接口、infershape、tiling和kernel的公共函数。
+   *  功能： 提供aclnn接口运行的基础框架，所有算子仓host侧和kernel侧的公共接口，如日志接口、infershape、tiling和kernel的公共函数。
 *  ops-math (数学与张量变换算子)
    *  定位： 提供基础的数学与张量操作能力。
    *  功能： 开发和管理以下类别的算子：
@@ -64,12 +64,12 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 
 ### 会议组织
 
-- 公开的会议时间：北京时间，两周一次例会，单周(每月第一、第三周，节假日跳过)周四下午14:00-16:00
+- 公开的会议时间：北京时间，两周一次例会，单周(每月第一、第三周，节假日跳过)周四下午14:15-16:00
 - [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-ops-basic)
+- [会议地址](https://meeting.osinfra.cn/cann/)
 
 ### 会议纪要
 
-- [会议地址](https://meeting.osinfra.cn/cann/)
 - [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-ops-basic)
 
 # SIG订阅
