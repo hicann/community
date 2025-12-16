@@ -4,6 +4,7 @@ mailing_list: "https://mailweb.cann.osinfra.cn/mailman3/lists/ops-basic.cann.osi
 meeting_url: "https://etherpad.meeting.osinfra.cn/p/sig-ops-basic"
 maintainers: [zhou-qilong, gubaocheng, loov1]
 committers: []
+reviewers: []
 repositories:
 - repo:
   - cann/opbase
@@ -11,6 +12,7 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
+  reviewers:
   - gitcode_id: su-yueming
   - gitcode_id: jia0liang
   - gitcode_id: wangrui_
@@ -36,6 +38,7 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
+  reviewers:
   - gitcode_id: songkai111
   - gitcode_id: shikai-1
   - gitcode_id: yu-xinjie62
@@ -58,6 +61,7 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
+  reviewers:
   - gitcode_id: su-yueming
   - gitcode_id: jia0liang
   - gitcode_id: wangrui_
