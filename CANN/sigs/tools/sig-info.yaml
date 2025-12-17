@@ -1,0 +1,36 @@
+name: tools
+description: 提供CANN平台的各种工具，如故障定位，模型压缩等
+mailing_list: tools@open-cann.org
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - cann/amct
+  committers:
+  - gitcode_id: yaoguangxiu
+  - gitcode_id: lianghengyi
+  - gitcode_id: lipengcheng30
+  reviewers:
+  - gitcode_id: fujun19
+  - gitcode_id: zhuliangying
+  - gitcode_id: wulinyu
+  - gitcode_id: nice_123
+  - gitcode_id: daijiayin
+  - gitcode_id: zchenbm97
+  - gitcode_id: li_ting
+  entry_configs: []
+- repo:
+  - cann/oam-tools
+  committers:
+  - gitcode_id: jinyingqi
+  - gitcode_id: yuanjiang_
+  - gitcode_id: wowenjie
+  reviewers:
+  - gitcode_id: fujun19
+  - gitcode_id: zhuliangying
+  - gitcode_id: wulinyu
+  - gitcode_id: wangkai134
+  - gitcode_id: chenhao61
+  - gitcode_id: zhangjie230
