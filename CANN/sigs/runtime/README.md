@@ -1,12 +1,54 @@
 # runtime SIG
 
-本SIG提供Ascend NPU资源管理和任务调度运行时(runtime)组件；维测功能组件(msprof, dump, trace)和基础组件(日志, mmpa, error_manager)。
+Runtime SIG专注于 CANN 生态中运行时的设计、开发、维护与性能优化。我们致力于构建一个高性能、可扩展、开放且面向未来的 AI 运行时系统，帮助 Ascend 生态向更通用、更可扩展、更友好的方向演进。
 
-## 工作目标
+Runtime 是连接算子编译、图执行、调度器、通信库与NPU硬件的核心基础设施，是整个CANN软件栈中性能、稳定性与可用性最关键的组件之一。
 
-* 负责NPU运行时（Runtime）技术讨论，功能规划和开发。
-* 负责维测功能组件的技术讨论，功能规划和开发。
-* 负责SIG范围内的代码仓的Bug、Issuse和用户诉求等处理。
+在未来的生态中，我们希望CANN运行时不仅仅服务于框架和模型，更能成为产业级AI计算的统一执行底座。
+
+## 工作目标（Goals）
+- **开放并规范运行时API**
+
+使其适合 PyTorch、TensorFlow、MindSpore 以及未来的统一编程框架使用。
+
+- **提升运行时的性能与确定性**
+
+Kernel高效下发和调度执行
+
+流调度更高效和可控
+
+更高的异步执行效率和加速器间的高效同步
+
+基于device CPU创新的调度机制
+
+- **增强多设备、多机通信能力**
+
+P2P、零拷贝、共享内存等跨设备机制进一步开放
+
+Runtime 与 HCCL/SHMEM 的深度协同
+
+- **全面完善错误体系、可观测性、调试能力**
+
+包含 Trace、Profiler、Dump、资源快照等。
+
+## 工作愿景（Vision）
+
+构建一个开放、透明、协作友好的CANN运行时社区，共同推进 AI 加速体系的基础设施革新。
+
+推动Stream调度、任务调度、内存、事件、通信、集群执行等能力全面对齐国际主流架构，如 CUDA Runtime、ROCm Runtime，同时保留 Ascend 自身优势。
+
+我们正在寻找热爱底层技术、对高性能计算与系统软件充满激情的开发者、架构师与研究者。
+如果你想：
+- 参与构建全球领先的 NPU Runtime
+- 设计底层 API、调度系统、内存模型
+- 优化 AICore、DMA、HCCS 的性能潜力
+- 推动开源社区的技术方向
+- 在真实的高性能 AI 体系中贡献关键代码
+
+那么 Runtime SIG 将是最适合你的地方。让我们一起打造 开放、强大、可持续的 AI 运行时基础设施!
+
+
+
 
 # 成员
 
@@ -43,6 +85,7 @@
 * 沈勇武 [@huawei_programmer_011](https://gitcode.com/huawei_programmer_011), *[shenyongwu@huawei.com](mailto:shenyongwu@huawei.com)*
 * 周武啸 [@zhou-wuxiao](https://gitcode.com/zhou-wuxiao), *[zhouwuxiao@hisilicon.com](mailto:zhouwuxiao@hisilicon.com)*
 * 张金超 [@alenzhang86](https://gitcode.com/alenzhang86), *[zhangjinchao@huawei.com](mailto:zhangjinchao@huawei.com)*
+* 陈伟伟 [@chen_vvjob](https://gitcode.com/chen_vvjob), *[chenweiwei22@huawei.com](mailto:chenweiwei22@huawei.com)*
 
 **维测功能组件**
 
