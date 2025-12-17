@@ -227,3 +227,17 @@ sigs:
       - gitcode_id: leabclove
         name: 程祥乐
         email: chengxiangle1@huawei.com
+  - sig_name: tools
+    maintainers:
+      - gitcode_id: jinyingqi
+        name: 金瑛琪
+        email: jinyingqi@huawei.com
+      - gitcode_id: wowenjie
+        name: 沃文杰
+        email: wowenjie@huawei.com
+      - gitcode_id: yaoguangxiu
+        name: 姚广修
+        email: yaoguangxiu@huawei.com
+      - gitcode_id: yuanjiang_
+        name: 袁江
+        email: yuanjiang@huawei.com
