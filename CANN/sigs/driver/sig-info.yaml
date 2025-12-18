@@ -1,7 +1,7 @@
 name: driver
 description: Driver SIG致力于构建一个高性能、高稳定、可持续演进的昇腾基础设施软件。
 mailing_list: https://mailweb.cann.osinfra.cn/mailman3/lists/driver.cann.osinfra.cn/
-meeting_url: https://etherpad.meeting.osinfra.cn/p/sig-driver
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-driver
 maintainers: []
 committers: []
 repositories:
