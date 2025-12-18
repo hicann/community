@@ -1,8 +1,15 @@
 name: security
 description: 致力于提升CANN开源社区的网络安全质量与竞争力，并持续做好应急响应。
-mailing_list: NA
-meeting_url: NA
-mentors: []
-committers: []
-reviewers: []
-repositories: []
+mailing_list: security@cann.osinfra.cn
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-security
+committers: 
+- gitcode_id: cage.jiang
+- gitcode_id: charly_litao
+- gitcode_id: zhou-qilong
+- gitcode_id: wanglong9
+- gitcode_id: tanghaoran7
+- gitcode_id: gongpipi
+- gitcode_id: Ezreal007
+- gitcode_id: JL1234
+- gitcode_id: IceT_5
+- gitcode_id: hac425
