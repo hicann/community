@@ -1,0 +1,25 @@
+name: driver
+description: Driver SIG致力于构建一个高性能、高稳定、可持续演进的昇腾基础设施软件。
+mailing_list: https://mailweb.cann.osinfra.cn/mailman3/lists/driver.cann.osinfra.cn/
+meeting_url: https://etherpad.meeting.osinfra.cn/p/sig-driver
+maintainers: []
+committers: []
+repositories:
+- repo:
+  - cann/driver
+  maintainers:
+  - gitcode_id: tangguijin
+  - gitcode_id: Panyuyuan
+  - gitcode_id: feizheng
+  - gitcode_id: qili93
+  committers:
+  - gitcode_id: StarMickey33
+  - gitcode_id: ad_cx
+  - gitcode_id: linyongtian
+  - gitcode_id: xxwyhq0
+  - gitcode_id: yangxiaoyuan
+  - gitcode_id: yanmingxiang
+  - gitcode_id: RubickRT
+  - gitcode_id: fangtianwei
+  - gitcode_id: lishengvictor
+  entry_configs: []
