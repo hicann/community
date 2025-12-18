@@ -9,13 +9,6 @@ repositories:
 - repo:
   - cann/cann-recipes-infer
   committers:
-  - gitcode_id: zhangky_gitcode
-  - gitcode_id: huangwayne28
-  - gitcode_id: lianghengyi
-  - gitcode_id: fafahan
-  - gitcode_id: lin_lin_lene
-
-  reviewers:
   - gitcode_id: diaoyingyu
   - gitcode_id: keke_x
   - gitcode_id: rous_zhang
@@ -33,13 +26,6 @@ repositories:
 - repo:
   - cann/cann-recipes-train
   committers:
-  - gitcode_id: zhangky_gitcode
-  - gitcode_id: huangwayne28
-  - gitcode_id: lianghengyi
-  - gitcode_id: fafahan
-  - gitcode_id: lin_lin_lene
-
-  reviewers:
   - gitcode_id: depeng1994
   - gitcode_id: zhanghz1
   - gitcode_id: HJ92
@@ -51,13 +37,6 @@ repositories:
 - repo:
   - cann/cann-recipes-spatial-intelligence
   committers:
-  - gitcode_id: zhangky_gitcode
-  - gitcode_id: huangwayne28
-  - gitcode_id: lianghengyi
-  - gitcode_id: fafahan
-  - gitcode_id: lin_lin_lene
-
-  reviewers:
   - gitcode_id: lushirui22
   - gitcode_id: kevinchiu
   entry_configs: []
@@ -65,12 +44,5 @@ repositories:
 - repo:
   - cann/cann-recipes-embodied-intelligence
   committers:
-  - gitcode_id: zhangky_gitcode
-  - gitcode_id: huangwayne28
-  - gitcode_id: lianghengyi
-  - gitcode_id: fafahan
-  - gitcode_id: lin_lin_lene
-
-  reviewers:
   - gitcode_id: rous_zhang
   entry_configs: []
