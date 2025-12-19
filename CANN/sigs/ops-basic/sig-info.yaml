@@ -12,88 +12,391 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
-  reviewers:
-  - gitcode_id: su-yueming
-  - gitcode_id: jia0liang
-  - gitcode_id: wangrui_
-  - gitcode_id: wei-peng-1991
-  - gitcode_id: songkai111
-  - gitcode_id: chenqi317
-  - gitcode_id: LiWei79
-  - gitcode_id: liu-wei
-  - gitcode_id: yu-xinjie62
-  - gitcode_id: LiuXinxin23
-  - gitcode_id: FelixTang7
-  - gitcode_id: rxtfeng
-  - gitcode_id: luowen203_gg123
-  - gitcode_id: demoauguste
-  - gitcode_id: zhangyuxiang0119
-  - gitcode_id: zhajianqing123
-  - gitcode_id: llimwang
-  - gitcode_id: shikai-1
-  entry_configs: []
+  entry_configs: 
+  - path:
+    - aicpu_common
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: LiWei79
+    - gitcode_id: liu-wei
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+  - path:
+    - op_common
+    committers:
+    - gitcode_id: jia0liang
+    - gitcode_id: wangrui_
+    - gitcode_id: chenqi317
+    - gitcode_id: llimwang
+    - gitcode_id: songkai111
+    - gitcode_id: LiuXinxin23
 - repo:
   - cann/ops-cv
   committers:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
-  reviewers:
-  - gitcode_id: songkai111
-  - gitcode_id: shikai-1
-  - gitcode_id: yu-xinjie62
-  - gitcode_id: LiWei79
-  - gitcode_id: liu-wei
-  - gitcode_id: ZhaiPeiChao
-  - gitcode_id: zhajianqing123
-  - gitcode_id: hanru-xu
-  - gitcode_id: liujie12345678
-  - gitcode_id: jia0liang
-  - gitcode_id: wangrui_
-  - gitcode_id: llimwang
-  - gitcode_id: zhangyuxiang0119
-  - gitcode_id: luowen203_gg123
-  - gitcode_id: renruhai
-  entry_configs: []
+  entry_configs:
+  - path:
+    - image/crop_and_resize
+    committers:
+    - gitcode_id: LiWei79
+    - gitcode_id: liu-wei
+  - path:
+    - image/grid_sample
+    - image/grid_sample2_d
+    - image/grid_sample3_d
+    - image/grid_sample2_d_grad
+    - image/grid_sample3_d_grad
+    committers:
+    - gitcode_id: luowen203_gg123
+    - gitcode_id: renruhai
+    - gitcode_id: demoauguste
+    - gitcode_id: zhajianqing123
+  - path:
+    - image/image_warp_offsets
+    committers:
+    - gitcode_id: LiWei79
+    - gitcode_id: liu-wei
+  - path:
+    - image/resize_bicubic_v2
+    - image/resize_bicubic_v2_grad
+    - image/resize_bilinear_v2
+    - image/resize_bilinear_v2_grad
+    - image/resize_d
+    - image/resize_grad
+    - image/resize_grad_d
+    - image/resize_linear
+    - image/resize_linear_grad
+    committers:
+    - gitcode_id: wei-peng-1991
+    - gitcode_id: llimwang
+    - gitcode_id: songkai111
+  - path:
+    - image/resize_nearest_neighbor_v2
+    - image/resize_nearest_neighbor_v2_grad
+    - image/resize_upsample_trilinear
+    - image/upsample_bicubic2d
+    - image/upsample_bicubic2d_aa
+    - image/upsample_bicubic2d_aa_grad
+    - image/upsample_bicubic2d_grad
+    - image/upsample_bilinear2d
+    - image/upsample_bilinear2d_aa
+    - image/upsample_bilinear2d_aa_backward
+    - image/upsample_bilinear2d_grad
+    - image/upsample_linear1d
+    - image/upsample_nearest
+    - image/upsample_nearest2d_grad
+    - image/upsample_nearest3d
+    - image/upsample_nearest3d_grad
+    - image/upsample_nearest_exact2d_grad
+    - image/upsample_nearest_exact3d
+    - image/upsample_nearest_exact3d_grad
+    - image/upsample_trilinear3d_backward
+    committers:
+    - gitcode_id: luowen203_gg123
+    - gitcode_id: renruhai
+    - gitcode_id: demoauguste
+    - gitcode_id: zhajianqing123
+  - path:
+    - objdetect/iou_v2
+    - objdetect/non_max_suppression_v6
+    - objdetect/roi_align
+    - objdetect/roi_align_grad
+    - objdetect/roi_align_rotated
+    - objdetect/roi_align_rotated_grad
+    - objdetect/stack_group_points
+    committers:
+    - gitcode_id: yu-xinjie62
 - repo:
   - cann/ops-math
   committers:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
-  reviewers:
-  - gitcode_id: su-yueming
-  - gitcode_id: jia0liang
-  - gitcode_id: wangrui_
-  - gitcode_id: wei-peng-1991
-  - gitcode_id: songkai111
-  - gitcode_id: chenqi317
-  - gitcode_id: LiWei79
-  - gitcode_id: liu-wei
-  - gitcode_id: yu-xinjie62
-  - gitcode_id: LiuXinxin23
-  - gitcode_id: FelixTang7
-  - gitcode_id: rxtfeng
-  - gitcode_id: luowen203_gg123
-  - gitcode_id: demoauguste
-  - gitcode_id: zhangyuxiang0119
-  - gitcode_id: zhajianqing123
-  - gitcode_id: llimwang
-  - gitcode_id: shikai-1
-  entry_configs: []
+  entry_configs: 
+  - path:
+    - conversion/as_strided
+    - conversion/clip_by_value_v2
+    - conversion/coalesce_sparse
+    - conversion/contiguous
+    - conversion/feeds_repeat
+    - conversion/fill
+    - conversion/fill_diagonal_v2
+    - conversion/flatten
+    - conversion/matmul_v2_compress_dequant
+    - conversion/npu_format_cast
+    - conversion/reshape
+    - conversion/roll
+    - conversion/squeeze
+    - conversion/stack_ball_query
+    - conversion/strided_slice_assign_v2
+    - conversion/tensor_move
+    - conversion/unfold_grad
+    - conversion/unsqueeze
+    - conversion/view_copy
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+  - path:
+    - conversion/broadcast_to
+    - conversion/circular_pad
+    - conversion/circular_pad_grad
+    - conversion/concat
+    - conversion/diag_flat
+    - conversion/im2col
+    - conversion/masked_fill
+    - conversion/masked_select_v3
+    - conversion/mirror_pad
+    - conversion/pack
+    - conversion/pack_v3
+    - conversion/pack_v3_grad
+    - conversion/pack_v3_grad_replicate
+    - conversion/pack_v3_grad_replication
+    - conversion/pack_pad_v4_grad
+    - conversion/reflection_pad3d_grad
+    - conversion/slice
+    - conversion/strided_slice
+    - conversion/strided_slice_v3
+    - conversion/trans_data
+    - conversion/transpose
+    - conversion/transposev2
+    - math/addr
+    - math/arg_max_v2
+    - math/arg_max_with_value
+    - math/arg_min
+    - math/arg_min_with_value
+    - math/cummax
+    - math/cummin
+    - math/cumprod
+    - math/diag_v2
+    - math/dot
+    - math/kl_div_v2
+    - math/reduce_all
+    - math/reduce_any
+    - math/reduce_log_sum
+    - math/reduce_log_sum_exp
+    - math/reduce_max
+    - math/reduce_min
+    - math/reduce_mean
+    - math/reduce_nansum
+    - math/reduce_prod
+    - math/reduce_std_v2
+    - math/reduce_std_v2_update
+    - math/reduce_std_with_mean
+    - math/reduce_sum_op
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: wangrui_
+  - path:
+    - conversion/split_v
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: wangrui_
+    - gitcode_id: jia0liang
+  - path:
+    - math/abs
+    - math/cast
+    - math/ceil
+    - math/cos
+    - math/erf
+    - math/exp
+    - math/expm1
+    - math/is_finite
+    - math/is_inf
+    - math/is_neg_inf
+    - math/is_pos_inf
+    - math/log
+    - math/log_1p
+    - math/tanh
+    - math/sqrt
+    - math/sin
+    - math/sign
+    - math/rsqrt
+    - math/round
+    - math/reciprocal
+    - math/neg
+    - math/logical_not
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: su-yueming
+  - path:
+    - math/accumulate_nv2
+    - math/acos
+    - math/acosh
+    - math/add
+    - math/addcdiv
+    - math/addcmul
+    - math/angle_v2
+    - math/asin
+    - math/asinh
+    - math/atan
+    - math/atan2
+    - math/atanh
+    - math/axpy
+    - math/axpy_v2
+    - math/bincount
+    - math/bitwise_and
+    - math/bitwise_not
+    - math/bitwise_or
+    - math/bitwise_xor
+    - math/complex
+    - math/cosh
+    - math/comsum_cube
+    - math/div
+    - math/equal
+    - math/erfc
+    - math/expand
+    - math/eye
+    - math/floor
+    - math/floor_div
+    - math/floor_mod
+    - math/gcd
+    - math/ger
+    - math/greater
+    - math/greater_equal
+    - math/group_bias_add_grad
+    - math/hans_decode
+    - math/hans_encode
+    - math/histogram_v2
+    - math/invert
+    - math/is_close
+    - math/lerp
+    - math/less
+    - math/less_equal
+    - math/lin_space
+    - math/log_add_exp
+    - math/log_add_exp
+    - math/logical_and
+    - math/logical_or
+    - math/masked_scale
+    - math/maximum
+    - math/minimum
+    - math/mod
+    - math/mul
+    - math/mul_addn
+    - math/muls
+    - math/nan_to_num
+    - math/non_finite_check
+    - math/not_equal
+    - math/one_hot
+    - math/ones_like
+    - math/pdist
+    - math/pow
+    - math/pows
+    - math/range
+    - math/real
+    - math/real_div
+    - math/ring_attention_update
+    - math/scale
+    - math/select
+    - math/sign_bits_pack
+    - math/sign_bits_unpack
+    - math/silent_check
+    - math/sinh
+    - math/sinkhorn
+    - math/sort
+    - math/square
+    - math/sub
+    - math/tan
+    - math/tanh_grad
+    - math/tile
+    - math/triangular_solve
+    - math/trunc
+    - math/x_log_y
+    - math/zero_op
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+  - path:
+    - math/add_lora
+    - math/transform_bias_rescale_qkv
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: luowen203_gg123
+    - gitcode_id: demoauguste
+    - gitcode_id: zhajianqing123
+  - path:
+    - math/stft
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: luowen203_gg123
+    - gitcode_id: demoauguste
+    - gitcode_id: zhajianqing123
+    - gitcode_id: renruhai
+  - path:
+    - math/cumsum
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: jia0liang
+    - gitcode_id: wangrui_
+  - path:
+    - math/search_sorted
+    - math/right_shift
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: LiWei79
+    - gitcode_id: liu-wei
+  - path:
+    - math/segsum
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: liujie12345678
+    - gitcode_id: luowen203_gg123
+    - gitcode_id: renruhai
+    - gitcode_id: demoauguste
+  - path:
+    - math/rfft1_d
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: llimwang
+  - path:
+    - experimental
+    committers:
+    - gitcode_id: FelixTang7
+    - gitcode_id: rxtfeng
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: llimwang
+    - gitcode_id: luowen203_gg123
+    - gitcode_id: su-yueming
+    - gitcode_id: jia0liang
+    - gitcode_id: wangrui_
+    - gitcode_id: wei-peng-1991
+    - gitcode_id: songkai111
+    - gitcode_id: chenqi317
+    - gitcode_id: LiWei79
+    - gitcode_id: yu-xinjie62
+    - gitcode_id: LiuXinxin23
+    - gitcode_id: demoauguste
+    - gitcode_id: zhajianqing123
+    - gitcode_id: shikai-1
+    - gitcode_id: renruhai
+    - gitcode_id: liu-wei   
 - repo:
   - cann/atvoss
   committers:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
-  - gitcode_id: wangxiaozhi
-  reviewers:
-  - gitcode_id: su-yueming
-  - gitcode_id: jia0liang
-  - gitcode_id: wangrui_
-  - gitcode_id: wulinyu
-  - gitcode_id: zhuliangying
-  - gitcode_id: xukaiwei
   entry_configs: []
 
