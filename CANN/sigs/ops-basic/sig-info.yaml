@@ -87,12 +87,13 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
+  - gitcode_id: wangxiaozhi
   reviewers:
   - gitcode_id: su-yueming
   - gitcode_id: jia0liang
   - gitcode_id: wangrui_
   - gitcode_id: wulinyu
-  - gitcode_id: wangxiaozhi
+  - gitcode_id: zhuliangying
   - gitcode_id: xukaiwei
   entry_configs: []
 
