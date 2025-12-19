@@ -12,6 +12,9 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
+  - gitcode_id: jia0liang
+  - gitcode_id: songkai111
+  - gitcode_id: wangrui_
   entry_configs: 
   - path:
     - aicpu_common
@@ -21,6 +24,12 @@ repositories:
     - gitcode_id: liu-wei
     - gitcode_id: rxtfeng
     - gitcode_id: zhangyuxiang0119
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: jia0liang
+    - gitcode_id: songkai111
+    - gitcode_id: wangrui_
   - path:
     - op_common
     committers:
@@ -30,18 +39,28 @@ repositories:
     - gitcode_id: llimwang
     - gitcode_id: songkai111
     - gitcode_id: LiuXinxin23
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: jia0liang
+    - gitcode_id: songkai111
+    - gitcode_id: wangrui_
 - repo:
   - cann/ops-cv
   committers:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
+  - gitcode_id: liu-wei
   entry_configs:
   - path:
     - image/crop_and_resize
     committers:
     - gitcode_id: LiWei79
     - gitcode_id: liu-wei
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
   - path:
     - image/grid_sample
     - image/grid_sample2_d
@@ -53,11 +72,18 @@ repositories:
     - gitcode_id: renruhai
     - gitcode_id: demoauguste
     - gitcode_id: zhajianqing123
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: liu-wei
   - path:
     - image/image_warp_offsets
     committers:
     - gitcode_id: LiWei79
     - gitcode_id: liu-wei
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
   - path:
     - image/resize_bicubic_v2
     - image/resize_bicubic_v2_grad
@@ -72,6 +98,10 @@ repositories:
     - gitcode_id: wei-peng-1991
     - gitcode_id: llimwang
     - gitcode_id: songkai111
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: liu-wei
   - path:
     - image/resize_nearest_neighbor_v2
     - image/resize_nearest_neighbor_v2_grad
@@ -98,6 +128,10 @@ repositories:
     - gitcode_id: renruhai
     - gitcode_id: demoauguste
     - gitcode_id: zhajianqing123
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: liu-wei
   - path:
     - objdetect/iou_v2
     - objdetect/non_max_suppression_v6
@@ -108,12 +142,18 @@ repositories:
     - objdetect/stack_group_points
     committers:
     - gitcode_id: yu-xinjie62
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: liu-wei
 - repo:
   - cann/ops-math
   committers:
   - gitcode_id: zhou-qilong
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
+  - gitcode_id: wangrui_
+  - gitcode_id: songkai111
   entry_configs: 
   - path:
     - conversion/as_strided
@@ -139,6 +179,11 @@ repositories:
     - gitcode_id: FelixTang7
     - gitcode_id: rxtfeng
     - gitcode_id: zhangyuxiang0119
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - conversion/broadcast_to
     - conversion/circular_pad
@@ -191,6 +236,10 @@ repositories:
     - gitcode_id: rxtfeng
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: wangrui_
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: songkai111
   - path:
     - conversion/split_v
     committers:
@@ -199,6 +248,10 @@ repositories:
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: wangrui_
     - gitcode_id: jia0liang
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: songkai111
   - path:
     - math/abs
     - math/cast
@@ -227,6 +280,11 @@ repositories:
     - gitcode_id: rxtfeng
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: su-yueming
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - math/accumulate_nv2
     - math/acos
@@ -316,6 +374,11 @@ repositories:
     - gitcode_id: FelixTang7
     - gitcode_id: rxtfeng
     - gitcode_id: zhangyuxiang0119
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - math/add_lora
     - math/transform_bias_rescale_qkv
@@ -326,6 +389,11 @@ repositories:
     - gitcode_id: luowen203_gg123
     - gitcode_id: demoauguste
     - gitcode_id: zhajianqing123
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - math/stft
     committers:
@@ -336,6 +404,11 @@ repositories:
     - gitcode_id: demoauguste
     - gitcode_id: zhajianqing123
     - gitcode_id: renruhai
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - math/cumsum
     committers:
@@ -344,6 +417,10 @@ repositories:
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: jia0liang
     - gitcode_id: wangrui_
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: songkai111
   - path:
     - math/search_sorted
     - math/right_shift
@@ -353,6 +430,11 @@ repositories:
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: LiWei79
     - gitcode_id: liu-wei
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - math/segsum
     committers:
@@ -363,6 +445,11 @@ repositories:
     - gitcode_id: luowen203_gg123
     - gitcode_id: renruhai
     - gitcode_id: demoauguste
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - math/rfft1_d
     committers:
@@ -370,6 +457,11 @@ repositories:
     - gitcode_id: rxtfeng
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: llimwang
+    - gitcode_id: zhou-qilong
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: wangrui_
+    - gitcode_id: songkai111
   - path:
     - experimental
     committers:
