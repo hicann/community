@@ -7,7 +7,7 @@
 - 其他对社区有重要影响的技术工作。
 
 ## 会议准则  
-会议频次：月度，欢迎订阅[TSC邮箱](https://mailweb.cann.osinfra.cn/mailman3/lists/tsc.cann.osinfra.cn/)了解相关会议公告及内容，我们欢迎任何感兴趣的开发者旁听会议。
+会议频次：月度，默认每个月的月末周六，欢迎订阅[TSC邮箱](https://mailweb.cann.osinfra.cn/mailman3/lists/tsc.cann.osinfra.cn/)了解相关会议公告及内容，我们欢迎任何感兴趣的开发者旁听会议。
 
 ## 会议纪要  
 您可以在[TSC会议纪要](https://etherpad.meeting.osinfra.cn/p/TSC)查看到相关内容，TSC并会在每次会议后将会议纪要发布到tsc@cann.osinfra.cn邮件列表中。
@@ -45,3 +45,6 @@
 
 ## 联系信息  
 tsc@cann.osinfra.cn
+
+## 治理章程
+[技术指导委员会治理章程](https://gitcode.com/cann/community/blob/master/governance/tsc-governance.md)
