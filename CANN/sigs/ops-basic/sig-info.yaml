@@ -2,7 +2,11 @@ name: ops-basic
 description: 负责维护和开发深度学习框架中核心、基础算子(数学计算、张量变换、随机数、计算机视觉)的兴趣小组。我们致力于提供高性能、高可靠性的基础运算组件，为上层模型和应用构建坚实的计算基石，覆盖了从基础张量变换、基础的数学计算到经典计算机视觉任务的核心计算需求。
 mailing_list: "https://mailweb.cann.osinfra.cn/mailman3/lists/ops-basic.cann.osinfra.cn/"
 meeting_url: "https://etherpad.meeting.osinfra.cn/p/sig-ops-basic"
-maintainers: [zhou-qilong, gubaocheng, loov1]
+maintainers:
+  - gitcode_id: zhou-qilong
+  - gitcode_id: gubaocheng
+  - gitcode_id: loov1
+mentors: []
 committers: []
 reviewers: []
 repositories:
@@ -15,7 +19,7 @@ repositories:
   - gitcode_id: jia0liang
   - gitcode_id: songkai111
   - gitcode_id: wangrui_
-  entry_configs: 
+  entry_configs:
   - path:
     - aicpu_common
     committers:
@@ -154,7 +158,7 @@ repositories:
   - gitcode_id: loov1
   - gitcode_id: wangrui_
   - gitcode_id: songkai111
-  entry_configs: 
+  entry_configs:
   - path:
     - conversion/as_strided
     - conversion/clip_by_value_v2
@@ -483,7 +487,7 @@ repositories:
     - gitcode_id: zhajianqing123
     - gitcode_id: shikai-1
     - gitcode_id: renruhai
-    - gitcode_id: liu-wei   
+    - gitcode_id: liu-wei
 - repo:
   - cann/atvoss
   committers:
