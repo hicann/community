@@ -68,7 +68,7 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 若您希望快速体验CANN算子的调用和开发过程，请访问如下文档获取简易教程。
 
 - [算子调用](https://gitcode.com/cann/ops-math/blob/master/docs/invocation/quick_op_invocation.md)：介绍调用算子的基本步骤，快速搭建环境，实现算子编译执行。
-- [算子开发](https://gitcode.com/cann/ops-math/blob/master/docs/develop/quick_op_develop.md)：介绍开发算子的基本流程，一键创建算子工程目录，实现Tiling、Kernel核心交付件。
+- [算子开发](https://gitcode.com/cann/ops-math/blob/master/docs/develop/aicore_develop_guide.md)：介绍开发算子的基本流程，一键创建算子工程目录，实现Tiling、Kernel核心交付件。
 
 ## 实践样例
 
