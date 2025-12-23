@@ -2,16 +2,12 @@ name: ge
 description: NA
 mailing_list: NA
 meeting_url: NA
-mentors: []
-committers: []
-reviewers: []
 repositories:
 - repo:
   - cann/graph-autofusion
   committers:
   - gitcode_id: shengnan666
   - gitcode_id: wqtshg_wt
-  reviewers:
   - gitcode_id: zhanj
   - gitcode_id: XuebinYang
   - gitcode_id: sjtulxh
@@ -24,4 +20,29 @@ repositories:
   - gitcode_id: hugo111
   - gitcode_id: yuht9
   - gitcode_id: fu-jun2
+  entry_configs: []
+  - repo:
+  - cann/ge
+  committers:
+  - gitcode_id: tangqunzhang
+  - gitcode_id: kobemini
+  - gitcode_id: stevenaw
+  - gitcode_id: wangxiaotian995
+  - gitcode_id: lining23666
+  - gitcode_id: zhanj
+  - gitcode_id: hugo111
+  - gitcode_id: yuht9
+  - gitcode_id: fu-jun2
+  - gitcode_id: medivh-x
+  - gitcode_id: xchu42
+  - gitcode_id: jason_yuan_ye
+  - gitcode_id: liu-wei
+  - gitcode_id: wei_chengaung
+  entry_configs: []
+  - repo:
+  - cann/metadef
+  committers:
+  - gitcode_id: kobemini
+  - gitcode_id: zhanj
+  - gitcode_id: tangqunzhang
   entry_configs: []
