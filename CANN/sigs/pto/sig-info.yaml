@@ -1,0 +1,59 @@
+name: pto
+description: NA
+mailing_list: NA
+meeting_url: NA
+mentors: []
+
+repositories:
+- repo:
+  - cann/pypto
+  committers:
+    - foundea
+    - jason_yuan_ye
+    - DCGDDD
+    - tsungl4
+    - gguuaanngg
+    - dai-zhentao
+    - zhangyuebing
+    - cam_bxh
+    - gaoxingwang
+    - lyfne
+    - poursoul
+    - hw_zhangzhiqi
+    - wcwxy
+    - zhangqi-chen
+  reviewers:
+    - foundea
+    - jason_yuan_ye
+    - DCGDDD
+    - tsungl4
+    - gguuaanngg
+    - dai-zhentao
+    - zhangyuebing
+    - cam_bxh
+    - gaoxingwang
+    - lyfne
+    - poursoul
+    - hw_zhangzhiqi
+    - wcwxy
+    - zhangqi-chen
+  entry_configs: []
+- repo:
+    - cann/pto-tile-lib
+  committers:
+    - changxianyu
+    - ChanKaLok
+    - HuangXingYuan_777
+    - csjlchen
+    - Zhanghaijian
+    - qukelin
+    - bluesky901
+  reviewers:
+    - changxianyu
+    - ChanKaLok
+    - HuangXingYuan_777
+    - csjlchen
+    - Zhanghaijian
+    - qukelin
+    - bluesky901
+  entry_configs: []
