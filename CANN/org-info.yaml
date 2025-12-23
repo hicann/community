@@ -254,7 +254,7 @@ sigs:
         email: feizheng@huawei.com
       - gitcode_id: qili93
         name: 李琦
-        email: liqi259@huawei.com 
+        email: liqi259@huawei.com
   - sig_name: ge
     maintainers:
       - gitcode_id: wqtshg_wt
@@ -263,3 +263,20 @@ sigs:
       - gitcode_id: shengnan666
         name: 盛楠
         email: titan.sheng@huawei.com
+  - sig_name: pto
+    maintainers:
+      - gitcode_id: linjiashu
+        name: 林嘉树
+        email: linjiashu@huawei.com
+      - gitcode_id: zhoubotcam
+        name: 周若愚
+        email: ruoyu.zhou@hisilicon.com
+      - gitcode_id: syfeng
+        name: 冯思远
+        email: syfeng@sii.edu.cn
+      - gitcode_id: yinjie27_
+        name: 尹杰
+        email: yinjie27@huawei.com
+      - gitcode_id: gcw_9WvwSY5N
+        name: 孙文博
+        email: sunwenbo1@huawei.com
