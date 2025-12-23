@@ -1,10 +1,11 @@
 name: hccl
-description: NA
-mailing_list: NA
-meeting_url: NA
-mentors: []
-committers: []
-reviewers: []
+description: 依托昇腾芯片高效的通信引擎与总线/网络协议，为多卡/多机的计算集群场景提供高性能、高可靠、高易用的分布式通信能力，支持集合通信、点对点通信等主流通信原语，为数据并行、模型并行、通信掩盖、PD分离等业务场景提供一系列通信解决方案。
+mailing_list: "https://mailweb.cann.osinfra.cn/mailman3/lists/hccl.cann.osinfra.cn/"
+meeting_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-hccl"
+maintainers:
+  - gitcode_id: yanyefeng
+  - gitcode_id: wenxuemin
+  - gitcode_id: leabclove
 repositories:
 - repo:
   - cann/hixl
@@ -12,13 +13,6 @@ repositories:
   - gitcode_id: yanyefeng
   - gitcode_id: wenxuemin
   - gitcode_id: leabclove
-  - gitcode_id: songmingyang
-  - gitcode_id: zhujingjing
-  - gitcode_id: peiyang
-  - gitcode_id: zhaozhihui
-  - gitcode_id: lining23666
-  - gitcode_id: youyx
-  reviewers:
   - gitcode_id: songmingyang
   - gitcode_id: zhujingjing
   - gitcode_id: peiyang
@@ -35,14 +29,6 @@ repositories:
   - gitcode_id: leabclove
   - gitcode_id: yanzhenghang
   - gitcode_id: yin_ding
-  - gitcode_id: yangshaohua
-
-  reviewers:
-  - gitcode_id: yanyefeng
-  - gitcode_id: wenxuemin
-  - gitcode_id: leabclove
-  - gitcode_id: yanzhenghang
-  - gitcode_id: yin_ding
   - gitcode_id: lilianlin_hw
   - gitcode_id: yangxiaoyuan
   - gitcode_id: bz_lee
@@ -67,34 +53,10 @@ repositories:
   entry_configs:
     - path:
       - pkg_inc
-      - inc
+      - include
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
-      reviewers:
-      - gitcode_id: wenxuemin
-      - gitcode_id: leabclove
-      - gitcode_id: yin_ding
-      - gitcode_id: lilianlin_hw
-      - gitcode_id: yangxiaoyuan
-      - gitcode_id: bz_lee
-      - gitcode_id: ccl_ligang
-      - gitcode_id: zhongqin2020
-      - gitcode_id: laodazhao1
-      - gitcode_id: chenyia
-      - gitcode_id: hulk1997
-      - gitcode_id: Innoecho
-      - gitcode_id: lilin_137
-      - gitcode_id: chenke2026
-      - gitcode_id: temper7620
-      - gitcode_id: zhangxp1030
-      - gitcode_id: hey_yahei
-      - gitcode_id: dingweiqin_57
-      - gitcode_id: abiggg
-      - gitcode_id: chenhao_
-      - gitcode_id: yangshaohua
-      - gitcode_id: chenliang267
-      - gitcode_id: linyf950
 
 - repo:
   - cann/hcomm
@@ -104,14 +66,6 @@ repositories:
   - gitcode_id: leabclove
   - gitcode_id: yanzhenghang
   - gitcode_id: yin_ding
-  - gitcode_id: yangshaohua
-
-  reviewers:
-  - gitcode_id: yanyefeng
-  - gitcode_id: wenxuemin
-  - gitcode_id: leabclove
-  - gitcode_id: yanzhenghang
-  - gitcode_id: yin_ding
   - gitcode_id: lilianlin_hw
   - gitcode_id: yangxiaoyuan
   - gitcode_id: bz_lee
@@ -136,31 +90,20 @@ repositories:
   entry_configs:
     - path:
       - pkg_inc
-      - inc
+      - include
+      - CMakeLists.txt
+      - src/CMakeLists.txt
+      - src/pub_inc
+      - src/platform/CMakeLists.txt
+      - src/hccd/CMakeLists.txt
+      - src/framework/CMakeLists.txt
+      - src/algorithm/CMakeLists.txt
+      - src/platform/hccp/CMakeLists.txt
+      - src/platform/hccp/rdma_service/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/adapter/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/client/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/hdc/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/peer/CMakeLists.txt
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
-      reviewers:
-      - gitcode_id: wenxuemin
-      - gitcode_id: leabclove
-      - gitcode_id: yin_ding
-      - gitcode_id: lilianlin_hw
-      - gitcode_id: yangxiaoyuan
-      - gitcode_id: bz_lee
-      - gitcode_id: ccl_ligang
-      - gitcode_id: zhongqin2020
-      - gitcode_id: laodazhao1
-      - gitcode_id: chenyia
-      - gitcode_id: hulk1997
-      - gitcode_id: Innoecho
-      - gitcode_id: lilin_137
-      - gitcode_id: chenke2026
-      - gitcode_id: temper7620
-      - gitcode_id: zhangxp1030
-      - gitcode_id: hey_yahei
-      - gitcode_id: dingweiqin_57
-      - gitcode_id: abiggg
-      - gitcode_id: chenhao_
-      - gitcode_id: yangshaohua
-      - gitcode_id: chenliang267
-      - gitcode_id: linyf950
