@@ -2,10 +2,6 @@ name: hccl
 description: 依托昇腾芯片高效的通信引擎与总线/网络协议，为多卡/多机的计算集群场景提供高性能、高可靠、高易用的分布式通信能力，支持集合通信、点对点通信等主流通信原语，为数据并行、模型并行、通信掩盖、PD分离等业务场景提供一系列通信解决方案。
 mailing_list: "https://mailweb.cann.osinfra.cn/mailman3/lists/hccl.cann.osinfra.cn/"
 meeting_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-hccl"
-maintainers:
-  - gitcode_id: yanyefeng
-  - gitcode_id: wenxuemin
-  - gitcode_id: leabclove
 repositories:
 - repo:
   - cann/hixl
