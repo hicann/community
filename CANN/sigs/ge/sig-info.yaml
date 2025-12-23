@@ -1,5 +1,5 @@
 name: ge
-description: NA
+description: ge-sig致力于打造开放、易用、性能领先的图编译基础设施，深度融入开源生态，让用户在主流框架获得稳定高效、持续演进的图模式体验
 mailing_list: NA
 meeting_url: NA
 repositories:
@@ -12,6 +12,7 @@ repositories:
   - gitcode_id: XuebinYang
   - gitcode_id: sjtulxh
   entry_configs: []
+
 - repo:
   - cann/triton-inference-server-ge-backend
   committers:
@@ -21,7 +22,8 @@ repositories:
   - gitcode_id: yuht9
   - gitcode_id: fu-jun2
   entry_configs: []
-  - repo:
+
+- repo:
   - cann/ge
   committers:
   - gitcode_id: tangqunzhang
@@ -39,7 +41,8 @@ repositories:
   - gitcode_id: liu-wei
   - gitcode_id: wei_chengaung
   entry_configs: []
-  - repo:
+  
+- repo:
   - cann/metadef
   committers:
   - gitcode_id: kobemini
