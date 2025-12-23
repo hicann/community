@@ -62,6 +62,14 @@ Ascend C总体逻辑架构图如下所示：
     - 姜新誉[@jiangxinyu3](https://gitcode.com/jiangxinyu3), *jiangxinyu3@hisilicon.com*
     - 张文涛[@zwtzhang](https://gitcode.com/zwtzhang), *zhangwentao92@huawei.com*
 
+- ### ATVC：https://gitcode.com/cann/atvc
+  - #### 简介：Ascend C提供Vector算子模板库，助力用户快速实现Vector类算子开发。
+  - #### Committer 列表：
+    - 吴林玉[@wulinyu](https://gitcode.com/wulinyu), *wulinyu4@huawei.com*
+    - 王筱治[@wangxiaozhi](https://gitcode.com/wangxiaozhi), *wangxiaozhi2@huawei.com*
+    - 朱梁英[@zhuliangying](https://gitcode.com/zhuliangying), *zhuliangying@huawei.com*
+    - 傅珺[@fujun19](https://gitcode.com/fujun19), *fujun19@hisilicon.com*
+
 # 项目路标
 - 2025/11: 基于A2/A3 AscendC 能力全面开源开放；新增PyAsc基于A2/A3提供Python前端完备编程能力；
 - 2025/12: 基于A2/A3 AscendC 开放语言扩展层C API，提供业界类似的C API编程体验；
