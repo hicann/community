@@ -255,3 +255,11 @@ sigs:
       - gitcode_id: qili93
         name: 李琦
         email: liqi259@huawei.com 
+  - sig_name: ge
+    maintainers:
+      - gitcode_id: wqtshg_wt
+        name: 王涛
+        email: wangtao123@huawei.com
+      - gitcode_id: shengnan666
+        name: 盛楠
+        email: titan.sheng@huawei.com
