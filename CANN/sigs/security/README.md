@@ -14,7 +14,7 @@
 - 胡占锋[@HZFeng](https://gitcode.com/HZFeng), *huzhanfeng@huawei.com*
 
 ### Committer列表
-- 江起明[@cage.jiang](https://gitcode.com/cage.jiang), *jiang.qiming@hisilicon.com*
+- 江起明[@cage_jiang](https://gitcode.com/cage_jiang), *jiang.qiming@hisilicon.com*
 - 李涛[@charly_litao](https://gitcode.com/charly_litao), *charly.litao@huawei.com*
 - 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
 - 王龙[@wanglong9](https://gitcode.com/wanglong9), *wanglong9@huawei.com*

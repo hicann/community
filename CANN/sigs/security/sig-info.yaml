@@ -3,7 +3,7 @@ description: 致力于提升CANN开源社区的网络安全质量与竞争力，
 mailing_list: security@cann.osinfra.cn
 meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-security
 committers: 
-- gitcode_id: cage.jiang
+- gitcode_id: cage_jiang
 - gitcode_id: charly_litao
 - gitcode_id: zhou-qilong
 - gitcode_id: wanglong9
