@@ -47,12 +47,12 @@ P2P、零拷贝、共享内存等跨机跨设备内存管理机制进一步完�
 
 * 缪超 [@StarMickey33](https://gitcode.com/StarMickey33), *[miaochao2@huawei.com](mailto:miaochao2@huawei.com)*
 * 冯呈祥 [@ad_cx](https://gitcode.com/ad_cx), *[fengchengxiang@huawei.com](mailto:fengchengxiang@huawei.com)*
-* 林永添 [@linyongtian](https://gitcode.com/linyongtian), *[linyongtian@huawei.com](mailto:linyongtian@huawei.com)*
+* 林永添 [@linyt_86](https://gitcode.com/linyt_86), *[linyongtian@huawei.com](mailto:linyongtian@huawei.com)*
 * 徐心 [@xxwyhq0](https://gitcode.com/xxwyhq0), *[xuxin18@huawei.com](mailto:xuxin18@huawei.com)*
 * 杨小渊 [@LiWei79](https://gitcode.com/yangxiaoyuan), *[yangxiaoyuan@huawei.com](mailto:yangxiaoyuan@huawei.com)*
 * 晏名香 [@zhaozhixuan](https://gitcode.com/yanmingxiang), *[yanmingxiang@huawei.com](mailto:yanmingxiang@huawei.com)*
-* 谢英太 [@RubickRT](https://gitcode.com/RubickRT), *[xieyingtai@huawei.com](mailto:xieyingtai@huawei.com)*
-* 方天位 [@fangtianwei](https://gitcode.com/fangtianwei), *[fangtianwei@huawei.com](mailto:fangtianwei@huawei.com)*
+* 谢英太 [@RubickRT1](https://gitcode.com/RubickRT1), *[xieyingtai@huawei.com](mailto:xieyingtai@huawei.com)*
+* 方天位 [@fangtianwei2025](https://gitcode.com/fangtianwei2025), *[fangtianwei@huawei.com](mailto:fangtianwei@huawei.com)*
 * 李胜 [@lishengvictor](https://gitcode.com/lishengvictor), *[victor.lisheng@huawei.com](mailto:victor.lisheng@huawei.com)*
 
 # 社区运作
