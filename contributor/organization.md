@@ -39,8 +39,11 @@
 - approved：联系该SIG组的maintainers进行批准。批准后，由maintainer评论 /approve。
 
 （4）PR合入后，您需要登录[社区会议平台](https://meeting.osinfra.cn/cann)的个人中心将gitcode账号与华为账号绑定，绑定GitCode ID后，CANN社区SIG maintainer、committer自动拥有创建会议权限。具体会议指导详见[会议指南](https://gitcode.com/cann/infrastructure/blob/main/docs/meeting/CANN%E7%A4%BE%E5%8C%BA%E4%BC%9A%E8%AE%AE%E6%8C%87%E5%8D%97.md)。
-
 + 注意：<font color="red">权限每隔1小时刷新一次，配置后请耐心等待</font>
+ 
+（5）PR合入后，如果该SIG组需要新建邮件列表，需要maintainer在新建sig的community的Gitcode的PR里[@weixin_43493709](https://gitcode.com/weixin_43493709)，并描述："你好，需要新建邮件列表，邮件列表名为xxx@cann.osinfra.cn"（其中xxx代表sig名）。
+
+
 
 ## 二、SIG组变更(任免 maintainer committer)
 ### 变更流程
