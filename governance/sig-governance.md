@@ -135,7 +135,7 @@ CANN 项目从开源建仓到孵化成熟并进入主干，需经历以下阶段
 #### 3.3.2 仓库新增、退出、更名申请
 1. **申请技术指导委员会评审**
    - 向技术指导委员会提交[议题申请](https://etherpad-cann.meeting.osinfra.cn/p/TSC)
-   - 准备相关内容（使用相应模板，例：建仓使用[新建仓申报模板](templates/新建仓申报模板%20v0.1.pptx)）
+   - 准备相关内容（使用相应模板，例：建仓使用[新建仓申报模板](../templates/新建仓申报模板%20v0.1.pptx)）
    - 参加技术指导委员会会议进行内容评审
 
 2. **申请执行相关操作**
@@ -144,7 +144,7 @@ CANN 项目从开源建仓到孵化成熟并进入主干，需经历以下阶段
 #### 3.3.3 仓库孵化准出
 1. **申请 QA SIG 仓库孵化准出预审**
    - 向 QA SIG 提交[议题申请](https://etherpad-cann.meeting.osinfra.cn/p/QA)
-   - 参考[测试报告模板](contributor/testing/test-templates/测试报告模板.md)准备内容
+   - 参考[测试报告模板](../contributor/testing/test-templates/测试报告模板.md)准备内容
    - 参加 QA SIG 会议进行孵化预审
 
 2. **申请项目管理委员会仓库孵化准出终审**
