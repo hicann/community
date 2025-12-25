@@ -43,7 +43,7 @@
    <tr>
     <td><span style="font-size:16px;">运行时</span></td>
     <td><span style="font-size:16px;">提供了高效的硬件资源管理、媒体数据预处理、单算子加载执行、模型推理等开发接口，供开发者轻松构建高性能人工智能应用。</span></td>
-	<td><span style="font-size:16px;">建设中</span></td>
+	  <td><a href="https://gitcode.com/cann/runtime"><span style="font-size:16px;">runtime</span></a></td>
   </tr>
    <tr>
     <td><span style="font-size:16px;">驱动</span></td>
