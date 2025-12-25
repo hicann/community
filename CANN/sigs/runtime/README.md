@@ -9,27 +9,27 @@ Runtime 是连接算子编译、图执行、调度器、通信库与NPU硬件的
 ## 工作目标（Goals）
 - **开放并规范运行时API**
 
-使其适合 PyTorch、TensorFlow、MindSpore 以及未来的统一编程框架使用。
+    使其适合 PyTorch、TensorFlow、MindSpore 以及未来的统一编程框架使用。
 
 - **提升运行时的性能与确定性**
 
-Kernel高效下发和调度执行
+    Kernel高效下发和调度执行
 
-流调度更高效和可控
+    流调度更高效和可控
 
-更高的异步执行效率和加速器间的高效同步
+    更高的异步执行效率和加速器间的高效同步
 
-基于device CPU创新的调度机制
+    基于device CPU创新的调度机制
 
 - **增强多设备、多机通信能力**
 
-P2P、零拷贝、共享内存等跨设备机制进一步开放
+    P2P、零拷贝、共享内存等跨设备机制进一步开放
 
-Runtime 与 HCCL/SHMEM 的深度协同
+    Runtime 与 HCCL/SHMEM 的深度协同
 
 - **全面完善错误体系、可观测性、调试能力**
 
-包含 Trace、Profiler、Dump、资源快照等。
+    包含 Trace、Profiler、Dump、资源快照等。
 
 ## 工作愿景（Vision）
 
@@ -69,7 +69,7 @@ Runtime 与 HCCL/SHMEM 的深度协同
 * 李伟 [@LiWei79](https://gitcode.com/LiWei79), *[liwei174@huawei.com](mailto:liwei174@huawei.com)*
 * 赵之轩 [@zhaozhixuan](https://gitcode.com/zhaozhixuan), *[zhaozhixuan2@hisilicon.com](mailto:zhaozhixuan2@hisilicon.com)*
 * 王东安 [@wda1991](https://gitcode.com/wda1991), *[wangdongan@hisilicon.com](mailto:wangdongan@hisilicon.com)*
-* 侯延保 [@hou-yanbao](https://gitcode.com/hou-yanbao), *[houyanbao@huawei.com](mailto:houyanbao@huawei.com)*
+* 侯延保 [@houyanbao](https://gitcode.com/houyanbao), *[houyanbao@huawei.com](mailto:houyanbao@huawei.com)*
 * 王涛 [@wangtao43](https://gitcode.com/wangtao43), *[wangtao43@huawei.com](mailto:wangtao43@huawei.com)*
 * 罗宇舟 [@luoyuzhou2](https://gitcode.com/luoyuzhou2), *[luoyuzhou2@huawei.com](mailto:luoyuzhou2@huawei.com)*
 * 翟沛超 [@ZhaiPeiChao](https://gitcode.com/ZhaiPeiChao), *[zhaipeichao@huawei.com](mailto:zhaipeichao@huawei.com)*
@@ -79,7 +79,7 @@ Runtime 与 HCCL/SHMEM 的深度协同
 * 薛蕾 [@Axiaolei](https://gitcode.com/Axiaolei), *[xuelei1@huawei.com](mailto:xuelei1@huawei.com)*
 * 曾益刚 [@gcw_9B2nSsjo](https://gitcode.com/gcw_9B2nSsjo), *[zengyigang@huawei.com](mailto:zengyigang@huawei.com)*
 * 孙娜娜 [@sunnana_004434229](https://gitcode.com/sunnana_004434229), *[sunnana@huawei.com](mailto:sunnana@huawei.com)*
-* 刘斌 [@liubin99](https://gitcode.com/liubin99), *[merlin.liubin@huawei.com](mailto:merlin.liubin@huawei.com)*
+* 刘斌 [@liubin1986](https://gitcode.com/liubin1986), *[merlin.liubin@huawei.com](mailto:merlin.liubin@huawei.com)*
 * 秦传瑜 [@qinchuanyu](https://gitcode.com/qinchuanyu), *[qinchuanyu@huawei.com](mailto:qinchuanyu@huawei.com)*
 * 李良华 [@lilianghua_2025](https://gitcode.com/lilianghua_2025), *[lilianghua@huawei.com](mailto:lilianghua@huawei.com)*
 * 沈勇武 [@huawei_programmer_011](https://gitcode.com/huawei_programmer_011), *[shenyongwu@huawei.com](mailto:shenyongwu@huawei.com)*
