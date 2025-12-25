@@ -35,7 +35,7 @@
 
 #### Committer列表
 - 傅珺 [[@fujun19]](https://gitcode.com/fujun19), *fujun19@hisilicon.com*
-- 朱梁英 [[@zhuliangyiing]](https://gitcode.com/zhuliangying), *zhuliangying@huawei.com*
+- 朱梁英 [[@zhuliangying]](https://gitcode.com/zhuliangying), *zhuliangying@huawei.com*
 - 吴林玉 [[@wulinyu]](https://gitcode.com/wulinyu), *wulinyu4@huawei.com*
 - 李鹏程 [[@lipengcheng30]](https://gitcode.com/lipengcheng30), *lipengcheng30@hisilicon.com*
 - 焦同辉 [[@nice_123]](https://gitcode.com/nice_123), *jiaotonghui1@hisilicon.com*
@@ -45,5 +45,5 @@
 - 李艇 [[@li_ting]](https://gitcode.com/li_ting), *liting73@hisilicon.com*
 - 汪凯 [[@wk0911]](https://gitcode.com/wk0911), *wangkai134@huawei.com*
 - 陈豪 [[@chenhao_1209]](https://gitcode.com/chenhao_1209), *chenhao61@huawei.com*
-- 张杰 [[@zhangjie]](https://gitcode.com/newstarzj), *zhangjie230@huawei.com*
+- 张杰 [[@newstarzj]](https://gitcode.com/newstarzj), *zhangjie230@huawei.com*
 
