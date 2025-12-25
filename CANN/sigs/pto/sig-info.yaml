@@ -8,52 +8,52 @@ repositories:
 - repo:
   - cann/pypto
   committers:
-    - foundea
-    - jason_yuan_ye
-    - DCGDDD
-    - tsungl4
-    - gguuaanngg
-    - dai-zhentao
-    - zhangyuebing
-    - cam_bxh
-    - gaoxingwang
-    - lyfne
-    - poursoul
-    - hw_zhangzhiqi
-    - wcwxy
-    - zhangqi-chen
+    - gitcode_id: foundea
+    - gitcode_id: jason_yuan_ye
+    - gitcode_id: DCGDDD
+    - gitcode_id: tsungl4
+    - gitcode_id: gguuaanngg
+    - gitcode_id: dai-zhentao
+    - gitcode_id: zhangyuebing
+    - gitcode_id: cam_bxh
+    - gitcode_id: gaoxingwang
+    - gitcode_id: lyfne
+    - gitcode_id: poursoul
+    - gitcode_id: hw_zhangzhiqi
+    - gitcode_id: wcwxy
+    - gitcode_id: zhangqi-chen
   reviewers:
-    - foundea
-    - jason_yuan_ye
-    - DCGDDD
-    - tsungl4
-    - gguuaanngg
-    - dai-zhentao
-    - zhangyuebing
-    - cam_bxh
-    - gaoxingwang
-    - lyfne
-    - poursoul
-    - hw_zhangzhiqi
-    - wcwxy
-    - zhangqi-chen
+    - gitcode_id: foundea
+    - gitcode_id: jason_yuan_ye
+    - gitcode_id: DCGDDD
+    - gitcode_id: tsungl4
+    - gitcode_id: gguuaanngg
+    - gitcode_id: dai-zhentao
+    - gitcode_id: zhangyuebing
+    - gitcode_id: cam_bxh
+    - gitcode_id: gaoxingwang
+    - gitcode_id: lyfne
+    - gitcode_id: poursoul
+    - gitcode_id: hw_zhangzhiqi
+    - gitcode_id: wcwxy
+    - gitcode_id: zhangqi-chen
   entry_configs: []
 - repo:
     - cann/pto-tile-lib
   committers:
-    - changxianyu
-    - ChanKaLok
-    - HuangXingYuan_777
-    - csjlchen
-    - Zhanghaijian
-    - qukelin
-    - bluesky901
+    - gitcode_id: changxianyu
+    - gitcode_id: ChanKaLok
+    - gitcode_id: HuangXingYuan_777
+    - gitcode_id: csjlchen
+    - gitcode_id: Zhanghaijian
+    - gitcode_id: qukelin
+    - gitcode_id: bluesky901
   reviewers:
-    - changxianyu
-    - ChanKaLok
-    - HuangXingYuan_777
-    - csjlchen
-    - Zhanghaijian
-    - qukelin
-    - bluesky901
+    - gitcode_id: changxianyu
+    - gitcode_id: ChanKaLok
+    - gitcode_id: HuangXingYuan_777
+    - gitcode_id: csjlchen
+    - gitcode_id: Zhanghaijian
+    - gitcode_id: qukelin
+    - gitcode_id: bluesky901
   entry_configs: []
