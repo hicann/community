@@ -51,7 +51,7 @@ GE SIG是CANN图模式研发的兴趣小组，聚焦于图编译器的设计与�
 - 李沛洋[@peiyang](https://gitcode.com/peiyang), *lipeiyang@huawei.com*
 - 李宁[@lining23666](https://gitcode.com/lining23666), *lining.li@huawei.com*
 - 耿超[@kobemini](https://gitcode.com/kobemini), *gengchao4@huawei.com*
-- 黄桂军[@stevenaw](https://gitcode.com/stevenaw), *huangguijun@huawei.com*
+- 黄桂军[@stevenaw0](https://gitcode.com/stevenaw0), *huangguijun@huawei.com*
 - 詹隽[@zhanj](https://gitcode.com/zhanj), *zhanjun6@hisilicon.com*
 - 薛鹏[@medivh-x](https://gitcode.com/medivh-x), *xuepeng4@huawei.com*
 - 赵鑫鑫[@hugo111](https://gitcode.com/hugo111), *zhaoxinxin1@huawei.com*
