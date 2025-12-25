@@ -37,7 +37,7 @@
     <td>
       <a href="https://gitcode.com/cann/asc-devkit"><span style="font-size:16px;">asc-devkit</span></a><br>
       <a href="https://gitcode.com/cann/pyasc"><span style="font-size:16px;">pyasc</span></a><br>
-      <span style="font-size:16px;">pypto(建设中)</span><br>
+      <a href="https://gitcode.com/cann/pypto"><span style="font-size:16px;">pypto</span></a><br>
     </td>
   </tr>
    <tr>
