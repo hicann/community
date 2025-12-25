@@ -45,6 +45,11 @@
     <td><span style="font-size:16px;">提供了高效的硬件资源管理、媒体数据预处理、单算子加载执行、模型推理等开发接口，供开发者轻松构建高性能人工智能应用。</span></td>
 	<td><span style="font-size:16px;">建设中</span></td>
   </tr>
+   <tr>
+    <td><span style="font-size:16px;">驱动</span></td>
+    <td><span style="font-size:16px;">提供了基础驱动、设备管理、资源管理及调度、通信能力等功能，使能昇腾芯片，充分发挥硬件能力，支撑CANN上层软件高效稳定运行。</span></td>
+	  <td><a href="https://gitcode.com/cann/driver"><span style="font-size:16px;">driver</span></a><br> </td>
+  </tr>
 </table>
 
 
