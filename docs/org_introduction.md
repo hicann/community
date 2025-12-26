@@ -27,9 +27,11 @@
   </tr>
   <tr>
     <td><span style="font-size:16px;">图引擎</span></td>
-    <td><span style="font-size:16px;">计算图编译和运行的控制中心，提供图优化、图编译管理以及图执行控制等功能。</span></td>
-		<td><a href="https://gitcode.com/cann/graph-autofusion"><span style="font-size:16px;">graph-autofusion</span></a><br>
-      <span style="font-size:16px;">ge(建设中)</span></a><br>
+    <td><span style="font-size:16px;">面向昇腾的图编译器和执行器，提供图优化、多流并行、内存复用和模型下沉等功能。</span></td>
+   	<td><a href="https://gitcode.com/cann/ge"><span style="font-size:16px;">ge</span></a><br>
+      <a href="https://gitcode.com/cann/metadef"><span style="font-size:16px;">metadef</span></a><br>
+      <a href="https://gitcode.com/cann/graph-autofusion"><span style="font-size:16px;">graph-autofusion</span></a><br>
+       </td> 
   </tr>
   <tr>
     <td><span style="font-size:16px;">编程语言</span></td>
@@ -49,6 +51,13 @@
     <td><span style="font-size:16px;">驱动</span></td>
     <td><span style="font-size:16px;">提供了基础驱动、设备管理、资源管理及调度、通信能力等功能，使能昇腾芯片，充分发挥硬件能力，支撑CANN上层软件高效稳定运行。</span></td>
 	  <td><a href="https://gitcode.com/cann/driver"><span style="font-size:16px;">driver</span></a><br> </td>
+  </tr>
+  <tr>
+    <td><span style="font-size:16px;">工具</span></td>
+    <td><span style="font-size:16px;">提供CANN平台的各种工具，如故障定位、模型压缩等。</span></td>
+	  <td><a href="https://gitcode.com/cann/oam-tools"><span style="font-size:16px;">oam-tools</span></a><br>
+    <a href="https://gitcode.com/cann/amct"><span style="font-size:16px;">amct</span></a>
+    </td>
   </tr>
 </table>
 
