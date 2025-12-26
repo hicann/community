@@ -8,6 +8,9 @@ repositories:
 - repo:
   - cann/pypto
   committers:
+    - gitcode_id: linjiashu
+    - gitcode_id: syfeng
+    - gitcode_id: yinjie27_
     - gitcode_id: foundea
     - gitcode_id: jason_yuan_ye
     - gitcode_id: DCGDDD
@@ -22,7 +25,11 @@ repositories:
     - gitcode_id: hw_zhangzhiqi
     - gitcode_id: wcwxy
     - gitcode_id: zhangqi-chen
+    - gitcode_id: zhuangjiawei
   reviewers:
+    - gitcode_id: linjiashu
+    - gitcode_id: syfeng
+    - gitcode_id: yinjie27_
     - gitcode_id: foundea
     - gitcode_id: jason_yuan_ye
     - gitcode_id: DCGDDD
@@ -37,6 +44,7 @@ repositories:
     - gitcode_id: hw_zhangzhiqi
     - gitcode_id: wcwxy
     - gitcode_id: zhangqi-chen
+    - gitcode_id: zhuangjiawei
   entry_configs: []
 - repo:
     - cann/pto-tile-lib
