@@ -54,7 +54,6 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
 
-  entry_configs:
     - path:
       - src
       committers:
@@ -119,7 +118,6 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
 
-  entry_configs:
     - path:
       - src
       - python
