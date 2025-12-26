@@ -87,7 +87,7 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
 ## 实践样例
 
-⚓[推理](https://gitcode.com/cann/cann-recipes-infer) &nbsp; | &nbsp;🚈 [训练](https://gitcode.com/cann/cann-recipes-train) | &nbsp; 🔮 [空间智能](https://gitcode.com/cann/cann-recipes-spatial-intelligence) | &nbsp; 🎮 [具身智能](https://gitcode.com/cann/cann-recipes-embodied-intelligence)
+⚓[推理](https://gitcode.com/cann/cann-recipes-infer) &nbsp; | &nbsp;🚈 [训练](https://gitcode.com/cann/cann-recipes-train) | &nbsp; 🔮 [空间智能](https://gitcode.com/cann/cann-recipes-spatial-intelligence) | &nbsp; 🎮 [具身智能](https://gitcode.com/cann/cann-recipes-embodied-intelligence) | &nbsp; 📱 [鸿蒙推理](https://gitcode.com/cann/cann-recipes-harmony-infer)
 
 |热门实践  |描述  |
 |--|--|
@@ -96,6 +96,7 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 |[HunyuanVideo模型推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/HunyuanVideo/README.md)  | 基于xDiT框架，在Atlas A2环境中采用了Ulysses序列并行和RingAttention序列并行测量，同时适配了TeaCache加速，实现了较高的吞吐推理性能。 |
 |[VGGT模型推理优化实践](https://gitcode.com/cann/cann-recipes-spatial-intelligence/blob/master/models/vggt/README.md)  | 基于VGGT开源模型，完成其在Atlas A2上的推理适配，并提供其在相机位姿估计、点云三维重建、深度估计三个任务上的精度评测脚本。 |
 |[Pi0模型推理优化实践](https://gitcode.com/cann/cann-recipes-embodied-intelligence/blob/master/models/pi0/README.md)  | 基于LeRobot库，在Atlas A2环境适配Pi0模型，通过使能融合算子、图模式、计算逻辑优化等手段，实现了较低的推理时延。 |
+|[QQ音乐声伴分离鸿蒙推理优化实践](https://gitcode.com/cann/cann-recipes-harmony-infer/blob/master/ops/ascendc/docs/custom-npu_bandNorm.md)  | 基于Ascend C实现QQ音乐声伴分离业务模型中的BandNorm等算子在Kirin 9030上的高性能推理部署。 |
 
 
 
@@ -123,5 +124,6 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
 ## 相关链接
 - [昇腾社区](https://www.hiascend.com/cann)
+- [鸿蒙社区](https://developer.huawei.com/consumer/cn/sdk/cann-kit/)
 
 
