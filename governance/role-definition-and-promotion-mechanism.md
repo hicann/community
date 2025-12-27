@@ -53,7 +53,7 @@
 
 #### 2.2.4 投票结果公告
 
-投票通过后，Maintainer将在CANN社区公告新晋升的Maintainer/Committer。
+投票通过后，Maintainer将在CANN社区公告新晋升的Maintainer/Committer，并同步更新对应SIG [README.md](../CANN/sigs/)及Maintainer配置（详见：[org-info.yaml文件指导说明](../CANN/org-info-guidance.md))/ Committer配置（详见：[sig-info.yaml文件指导说明](../CANN/sig-info-guidance.md)）。
 
 ### 2.3 晋升项目管理委员会委员投票流程
 
@@ -67,7 +67,7 @@
 
 #### 2.3.3 投票结果公告
 
-投票通过后，项目管理委员会主席在技术指导委员会审议通过后，将在CANN社区公告新晋升的项目管理委员会委员。
+投票通过后，项目管理委员会主席在技术指导委员会审议通过后，将在CANN社区公告新晋升的项目管理委员会委员，并同步更新PMC [README.md](../CANN/PMC/README.md)及[PMC委员配置](../CANN/pmc.yaml)。
 
 ### 2.4 晋升技术指导委员会委员投票流程
 
@@ -81,7 +81,7 @@
 
 #### 2.4.3 投票结果公告
 
-投票通过后，将在CANN社区公告新晋升的技术指导委员会委员。
+投票通过后，将在CANN社区公告新晋升的技术指导委员会委员，并同步更新TSC [README.md](../CANN/TSC/README.md)及[TSC委员配置](../CANN/org-info.yaml)。
 
 ## 3. 非活跃成员退出标准和流程
 

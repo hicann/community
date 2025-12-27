@@ -5,9 +5,9 @@
 ## 介绍
 CANN社区SIG成员和仓库管理需要规范管理。
 
-CANN社区基于**Community代码仓库**，实现CANN社区的**项目、SIG、仓库、成员及其权限的统一管理**。
+CANN社区基于**community代码仓库**，实现CANN社区的**项目、SIG、仓库、成员及其权限的统一管理**。
 
-community仓库中infrastructure SIG组的sig-info.yaml管理community仓库的PR合入权限。
+> 补充说明：community仓库中infrastructure SIG组的sig-info.yaml管理community仓库的PR合入权限（CANN/sigs下的具体SIG目录除外）。
 
 ## 关键角色配置
 角色|	字段|	权限范围|
@@ -20,7 +20,7 @@ community仓库中infrastructure SIG组的sig-info.yaml管理community仓库的P
 
 ###  sig-info.yaml 文件格式
 
-sig-info.yaml 文件为yaml格式承载，主要包含如下一层基本元素：
+每个SIG在community仓库下`CANN/sigs`目录下都可以配置1个sig-info.yaml，sig-info.yaml 文件为yaml格式承载，主要包含如下一层基本元素：
 | 字段 | 类型 |层级| 说明 |
 |--|--|--|--|
 | name | 字符串 |一层| SIG组名称 |
@@ -60,16 +60,16 @@ sig-info.yaml 文件为yaml格式承载，主要包含如下一层基本元素�
 | name | 字符串 |-| 姓名(或者网名), 可选 |
 | email| 字符串 |-|  个人邮箱地址, 可选 |
 
-> 注意：maintainer自动拥有SIG层的committer权限，无需重复配置。（例如下面例子1中，SIG maintainer自动拥有ccc，ddd用户同等权限）
+> 注意：maintainer自动拥有SIG层的committer权限，无需重复配置。
 
 ### 下面介绍在以下几种场景sig-info.yaml应该怎么配置
-#### 1.只有sig组的committers，sig组下各仓库不单独设置committers,branch_keeper配置是可选的
+#### 1.只有sig组的committers，sig组下各仓库不单独设置committers，branch_keeper配置是可选的
 ```yaml
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
-mailing_list: ops-basic@open-cann.org    #SIG组讨论邮件列表地址
-meeting_url: NA                          #SIG例会纪要URL
-committers:                           #SIG组所有committer名单 （ccc和ddd拥有MindI sig组下所有仓库的committer权限）
+mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+committers:                           #SIG组所有committer名单 （ccc和ddd拥有ops-basic sig组下所有仓库的committer权限）
 - gitcode_id: ccc
 - gitcode_id: ddd
 repositories:                         #repositories 字段会说明SIG组所管理的仓库组的信息
@@ -93,9 +93,9 @@ repositories:                         #repositories 字段会说明SIG组所管�
 ```yaml
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
-mailing_list: ops-basic@open-cann.org    #SIG组讨论邮件列表地址
-meeting_url: NA                          #SIG例会纪要URL
-committers:                           #SIG组所有committer名单 （ccc和ddd拥有MindI sig组下除了ops-basic-AAA、ops-basic-BBB仓库以外的其它仓库的committer权限）
+mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+committers:                           #SIG组所有committer名单 （ccc和ddd拥有ops-basic sig组下除了ops-basic-AAA、ops-basic-BBB仓库以外的其它仓库的committer权限）
 - gitcode_id: ccc
 - gitcode_id: ddd
 repositories:                         #repositories 字段会说明SIG组所管理的仓库组的信息
@@ -113,12 +113,12 @@ repositories:                         #repositories 字段会说明SIG组所管�
   - gitcode_id: lll
 ```
 
-#### 3.针对sig组各仓库单独设置committers,并且针对仓库所有分支设置某个目录或者文件的committers
+#### 3.针对sig组各仓库单独设置committers，并且针对仓库所有分支设置某个目录或者文件的committers
 ```yaml
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
-mailing_list: ops-basic@open-cann.org    #SIG组讨论邮件列表地址
-meeting_url: NA                          #SIG例会纪要URL
+mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -144,12 +144,12 @@ repositories:                         #repositories 字段会说明SIG组所管�
     - gitcode_id: asd
 ```
 
-#### 4.针对sig组各仓库单独设置committers,并且针对仓库某些分支设置committers
+#### 4.针对sig组各仓库单独设置committers，并且针对仓库某些分支设置committers
 ```yaml
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
-mailing_list: ops-basic@open-cann.org    #SIG组讨论邮件列表地址
-meeting_url: NA                          #SIG例会纪要URL
+mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -183,8 +183,8 @@ repositories:                         #repositories 字段会说明SIG组所管�
 ```yaml
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
-mailing_list: ops-basic@open-cann.org    #SIG组讨论邮件列表地址
-meeting_url: NA                          #SIG例会纪要URL
+mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -243,8 +243,8 @@ repositories:                         #repositories 字段会说明SIG组所管�
 ```yaml
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
-mailing_list: ops-basic@open-cann.org    #SIG组讨论邮件列表地址
-meeting_url: NA                          #SIG例会纪要URL
+mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                            #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -313,4 +313,3 @@ repositories:                         #repositories 字段会说明SIG组所管�
       - gitcode_id: uuu
       - gitcode_id: vvv
 ```
-

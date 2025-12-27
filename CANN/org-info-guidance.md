@@ -2,7 +2,7 @@
 ***
 
 ## 简介
-org-info.yaml 文件用于记录CANN组织中各SIG的管理配置和关键责任人信息。该文件位于组织目录下（CANN/community/CANN/org-info.yaml）。
+org-info.yaml 文件用于记录CANN组织中TSC委员及各SIG的Maintainer信息。该文件位于community仓`CANN/org-info.yaml`目录下。
 
 ## 关键角色与权限
 ### TSC 成员 (Technical Steering Committee Members)
@@ -25,14 +25,14 @@ org-info.yaml 是 YAML 格式文件，包含以下顶层字段：
 |--|--|--|--|
 | name | 字符串 |一层| 项目名称，此处是CANN |
 | description |  字符串 |一层| 项目描述信息 |
-| tsc_members | 列表 | 一层| TC 成员列表 |
+| tsc_members | 列表 | 一层| TsC 成员列表 |
 | sigs| 列表 |一层| 项目组内所有sig的信息清单|
 
 上述 tsc_members 的每一条个人信息记录包含如下元素：
 | 字段 | 类型 | 层级|说明 |
 |--|--|--|--|
 | gitcode_id | 字符串 |二层| **GitCode ID**, 必填 |
-| name | 字符串 |二层| 姓名(或者网名), 可选 |
+| name | 字符串 |二层| 姓名（或者网名）, 可选 |
 | email| 字符串 |二层|  个人邮箱地址, 可选 |
 
 上述 sigs 的每一条个人信息记录包含如下元素：
@@ -45,7 +45,7 @@ org-info.yaml 是 YAML 格式文件，包含以下顶层字段：
 | 字段 | 类型 | 层级|说明 |
 |--|--|--|--|
 | gitcode_id | 字符串 |三层|  **GitCode ID**, 必填 |
-| name | 字符串 |三层| 姓名(或者网名), 可选 |
+| name | 字符串 |三层| 姓名（或者网名）, 可选 |
 | email| 字符串 |三层|  个人邮箱地址, 可选 |
 
 ## org-info.yaml 样例
@@ -54,7 +54,7 @@ org-info.yaml 是 YAML 格式文件，包含以下顶层字段：
 name: CANN  # 组织/项目名称
 description: 项目描述
 
-# TC 成员列表
+# TSC 成员列表
 tsc_members:
 - gitcode_id: aaa  # GitCode ID (必填)
   name: aaa        # 姓名/网名 (可选)
