@@ -25,7 +25,7 @@ repositories:
     - gitcode_id: hw_zhangzhiqi
     - gitcode_id: wcwxy
     - gitcode_id: zhangqi-chen
-    - gitcode_id: zhuangjiawei
+    - gitcode_id: jiawei_zhuang
   reviewers:
     - gitcode_id: linjiashu
     - gitcode_id: syfeng
@@ -44,7 +44,7 @@ repositories:
     - gitcode_id: hw_zhangzhiqi
     - gitcode_id: wcwxy
     - gitcode_id: zhangqi-chen
-    - gitcode_id: zhuangjiawei
+    - gitcode_id: jiawei_zhuang
   entry_configs: []
 - repo:
     - cann/pto-tile-lib
