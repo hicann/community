@@ -280,3 +280,20 @@ sigs:
       - gitcode_id: gcw_9WvwSY5N
         name: 孙文博
         email: sunwenbo1@huawei.com
+  - sig_name: asnumpy
+    maintainers:
+      - gitcode_id: wuzhenqing
+        name: 武震卿
+        email: wuzhenqing@stu.hit.edu.cn
+      - gitcode_id: hyyisasleep
+        name: 赵宇彤
+        email: 2106975800@qq.com
+      - gitcode_id: li-xingHIT
+        name: 李行
+        email: 1780785127@qq.com
+      - gitcode_id: sutonghua
+        name: 苏统华
+        email: tonghuasu@gmail.com
+      - gitcode_id: TiantianWang_Hit
+        name: 王甜甜
+        email: sweetwtt@126.com
