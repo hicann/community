@@ -21,7 +21,7 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - [PyPTO框架](https://gitcode.com/cann/pypto)
     - 定位：提供基于Python的高性能算子开发框架
     - 功能：简化算子Kernel开发流程，提供Tile编程模型和计算图编译能力
-- [PTO虚拟指令集](https://gitcode.com/cann/pto-tile-lib)
+- [PTO虚拟指令集](https://gitcode.com/cann/pto-isa)
     - 定位：提供硬件无关的虚拟指令集抽象
     - 功能：定义PTO虚拟指令规范，支持跨硬件平台的可移植性
 
@@ -55,7 +55,7 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 陈章麒 [@zhangqi-chen](https://gitcode.com/zhangqi-chen), *zhangqi.chen@hisilicon.com*
 - 庄佳威 [@jiawei_zhuang](https://gitcode.com/jiawei_zhuang), *zhuangjiawei@hisilicon.com*
 
-#### PTO仓库: https://gitcode.com/cann/pto-tile-lib
+#### PTO仓库: https://gitcode.com/cann/pto-isa
 
 - 常先宇 [@changxianyu](https://gitcode.com/changxianyu), *changxianyu@hisilicon.com*
 - 陈家乐  [@ChanKaLok](https://gitcode.com/ChanKaLok), *chan.ka.lok@huawei.com*
@@ -89,4 +89,4 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 
 仓库地址：
 - https://gitcode.com/cann/pypto
-- https://gitcode.com/cann/pto-tile-lib
+- https://gitcode.com/cann/pto-isa
