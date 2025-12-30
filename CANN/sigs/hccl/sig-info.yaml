@@ -23,6 +23,17 @@ repositories:
   - gitcode_id: yanyefeng
   - gitcode_id: wenxuemin
   - gitcode_id: leabclove
+  - gitcode_id: ccl_ligang
+  - gitcode_id: Innoecho
+  - gitcode_id: chenke2026
+  - gitcode_id: temper7620
+  - gitcode_id: hey_yahei
+  - gitcode_id: dingweiqin_57
+  - gitcode_id: chenhao_
+  reviewers:
+  - gitcode_id: yanyefeng
+  - gitcode_id: wenxuemin
+  - gitcode_id: leabclove
   - gitcode_id: yanzhenghang
   - gitcode_id: yin_ding
   - gitcode_id: lilianlin_hw
@@ -53,24 +64,47 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
-
-    - path:
-      - src
-      committers:
+      reviewers:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: leabclove
+      - gitcode_id: yanzhenghang
+      - gitcode_id: yin_ding
+      - gitcode_id: lilianlin_hw
+      - gitcode_id: yangxiaoyuan
+      - gitcode_id: bz_lee
       - gitcode_id: ccl_ligang
+      - gitcode_id: zhongqin2020
+      - gitcode_id: laodazhao1
+      - gitcode_id: chenyia
+      - gitcode_id: hulk1997
       - gitcode_id: Innoecho
+      - gitcode_id: lilin_137
       - gitcode_id: chenke2026
       - gitcode_id: temper7620
+      - gitcode_id: zhangxp1030
       - gitcode_id: hey_yahei
       - gitcode_id: dingweiqin_57
+      - gitcode_id: abiggg
       - gitcode_id: chenhao_
+      - gitcode_id: yangshaohua
+      - gitcode_id: chenliang267
+      - gitcode_id: linyf950
 
 - repo:
   - cann/hcomm
   committers:
+  - gitcode_id: yanyefeng
+  - gitcode_id: wenxuemin
+  - gitcode_id: leabclove
+  - gitcode_id: ccl_ligang
+  - gitcode_id: Innoecho
+  - gitcode_id: chenke2026
+  - gitcode_id: temper7620
+  - gitcode_id: hey_yahei
+  - gitcode_id: dingweiqin_57
+  - gitcode_id: chenhao_
+  reviewers:
   - gitcode_id: yanyefeng
   - gitcode_id: wenxuemin
   - gitcode_id: leabclove
@@ -117,18 +151,29 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
-
-    - path:
-      - src
-      - python
-      committers:
+      reviewers:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: leabclove
+      - gitcode_id: yanzhenghang
+      - gitcode_id: yin_ding
+      - gitcode_id: lilianlin_hw
+      - gitcode_id: yangxiaoyuan
+      - gitcode_id: bz_lee
       - gitcode_id: ccl_ligang
+      - gitcode_id: zhongqin2020
+      - gitcode_id: laodazhao1
+      - gitcode_id: chenyia
+      - gitcode_id: hulk1997
       - gitcode_id: Innoecho
+      - gitcode_id: lilin_137
       - gitcode_id: chenke2026
       - gitcode_id: temper7620
+      - gitcode_id: zhangxp1030
       - gitcode_id: hey_yahei
       - gitcode_id: dingweiqin_57
+      - gitcode_id: abiggg
       - gitcode_id: chenhao_
+      - gitcode_id: yangshaohua
+      - gitcode_id: chenliang267
+      - gitcode_id: linyf950
