@@ -197,6 +197,9 @@ sigs:
       - gitcode_id: lin_lin_lene
         name: 林惠敏
         email: linhuimin@huawei.com
+      - gitcode_id: LiuXinxin23
+        name: 刘鑫鑫
+        email: liuxinxin23@hisilicon.com
   - sig_name: ascendc
     maintainers: 
       - gitcode_id: xun_zhuge
