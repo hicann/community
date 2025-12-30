@@ -46,3 +46,10 @@ repositories:
   committers:
   - gitcode_id: rous_zhang
   entry_configs: []
+
+- repo:
+  - cann/cann-recipes-harmony-infer
+  committers:
+  - gitcode_id: wdongming
+  - gitcode_id: jxkongyue
+  entry_configs: []

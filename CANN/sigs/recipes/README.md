@@ -12,6 +12,7 @@
 | [cann-recipes-train](https://gitcode.com/cann/cann-recipes-train) | LLM/多模态训练样例 |
 | [cann-recipes-spatial-intelligence](https://gitcode.com/cann/cann-recipes-spatial-intelligence) | 空间智能算法样例 |
 | [cann-recipes-embodied-intelligence](https://gitcode.com/cann/cann-recipes-embodied-intelligence) | 具身智能算法样例 |
+| [cann-recipes-harmony-infer](https://gitcode.com/cann/cann-recipes-harmony-infer) | 鸿蒙设备推理实践样例 |
 
 ### 🎯 愿景与使命 (Vision & Mission)
 
@@ -56,6 +57,7 @@
 - 梁横溢 [[@lianghengyi]](https://gitcode.com/lianghengyi), *lianghengyi1@huawei.com*
 - 韩树发 [[@fafahan]](https://gitcode.com/fafahan), *hanshufa1@hisilicon.com*
 - 林惠敏 [[@lin_lin_lene]](https://gitcode.com/lin_lin_lene), *linhuimin@huawei.com*
+- 刘鑫鑫 [[@LiuXinxin23]](https://gitcode.com/LiuXinxin23), *liuxinxin23@hisilicon.com*
 
 #### Committer列表
 - 刁莹煜 [[@diaoyingyu]](https://gitcode.com/diaoyingyu), *diaoyingyu1@hisilicon.com*
