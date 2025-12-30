@@ -60,6 +60,12 @@
     <a href="https://gitcode.com/cann/amct"><span style="font-size:16px;">amct</span></a>
     </td>
   </tr>
+  <tr>
+    <td><span style="font-size:16px;">虚拟指令集</span></td>
+    <td><span style="font-size:16px;">由昇腾CANN研发的虚拟指令集架构，聚焦于分块级运算，在各类昇腾平台上提供高性能、跨平台的分块运算能力。</span></td>
+	  <td><a href="https://gitcode.com/cann/pto-isa"><span style="font-size:16px;">pto-isa</span></a>
+    </td>
+  </tr>
 </table>
 
 

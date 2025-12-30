@@ -47,7 +47,7 @@ repositories:
     - gitcode_id: jiawei_zhuang
   entry_configs: []
 - repo:
-    - cann/pto-tile-lib
+    - cann/pto-isa
   committers:
     - gitcode_id: changxianyu
     - gitcode_id: ChanKaLok
