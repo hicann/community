@@ -1,18 +1,13 @@
 name: tools
-description: 提供CANN平台的各种工具，如故障定位，模型压缩等
-mailing_list: tools@open-cann.org
-meeting_url: NA
-mentors: []
-committers: []
-reviewers: []
+description: 提供CANN平台的各种工具，如故障定位，模型压缩等。
+mailing_list: tools@cann.osinfra.cn
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-tools
 repositories:
 - repo:
   - cann/amct
   committers:
-  - gitcode_id: yaoguangxiu
   - gitcode_id: lianghengyi
   - gitcode_id: lipengcheng30
-  reviewers:
   - gitcode_id: fujun19
   - gitcode_id: zhuliangying
   - gitcode_id: wulinyu
@@ -24,10 +19,6 @@ repositories:
 - repo:
   - cann/oam-tools
   committers:
-  - gitcode_id: jinyingqi
-  - gitcode_id: yuanjiang_
-  - gitcode_id: wowenjie
-  reviewers:
   - gitcode_id: fujun19
   - gitcode_id: zhuliangying
   - gitcode_id: wulinyu
