@@ -300,3 +300,23 @@ sigs:
       - gitcode_id: TiantianWang_Hit
         name: 王甜甜
         email: sweetwtt@126.com
+  - sig_name: shmem
+    maintainers: 
+      - gitcode_id: mlidongfeng
+        name: 李东锋
+        email: lidongfeng@huawei.com
+      - gitcode_id: minibao
+        name: 包小明
+        email: baoxiaoming@huawei.com
+      - gitcode_id: Joyce_An
+        name: 安宝怡
+        email: anbaoyi@huawei.com
+      - gitcode_id: shi_nanxiang
+        name: 石楠翔
+        email: shinanxiang@huawei.com
+      - gitcode_id: nino888
+        name: 尹祺然
+        email: yinqiran1@huawei.com
+      - gitcode_id: suqwe
+        name: 苏建加
+        email: sujianjia@huawei.com

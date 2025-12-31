@@ -1,0 +1,161 @@
+name: shmem
+description: 提供便携易用的多机多卡内存访问方式，加速通信或通算融合类算子开发。
+mailing_list:
+meeting_url:
+maintainers:
+  - gitcode_id: mlidongfeng
+  - gitcode_id: minibao
+  - gitcode_id: Joyce_An
+  - gitcode_id: shi_nanxiang
+  - gitcode_id: nino888
+  - gitcode_id: suqwe
+mentors: []
+commiters: []
+reviewers: []
+repositories:
+- repo:
+  - cann/shmem
+  commiters:
+  - gitcode_id: zhu-wangyi
+  - gitcode_id: oioring
+  - gitcode_id: victor7wang
+  - gitcode_id: lishaoxun
+  - gitcode_id: gcw_hhwuOOa5
+  - gitcode_id: qin437231
+  - gitcode_id: YeZZzzz1
+  - gitcode_id: songmingyang
+  - gitcode_id: jiangxinyu3
+  - gitcode_id: james88liu
+  - gitcode_id: linyt_86
+  - gitcode_id: hyolee
+  entry_configs:
+  - path:
+    - include
+    commiters:
+    - gitcode_id: mlidongfeng
+    - gitcode_id: minibao
+    - gitcode_id: Joyce_An
+    - gitcode_id: shi_nanxiang
+    - gitcode_id: nino888
+    - gitcode_id: suqwe
+  - path:
+    - src/device/ub2gm
+    commiters:
+    - gitcode_id: nino888
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: qin437231
+    - gitcode_id: oioring
+    - gitcode_id: victor7wang
+    - gitcode_id: YeZZzzz1
+  - path:
+    - src/device/gm2gm
+    commiters:
+    - gitcode_id: shi_nanxiang
+    - gitcode_id: nino888
+    - gitcode_id: Joyce_An
+    - gitcode_id: suqwe
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: qin437231
+    - gitcode_id: oioring
+    - gitcode_id: victor7wang
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: gcw_hhwuOOa5
+  - path:
+    - src/host/init
+    commiters:
+    - gitcode_id: nino888
+    - gitcode_id: minibao
+    - gitcode_id: suqwe
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: oioring
+    - gitcode_id: victor7wang
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: songmingyang
+  - path:
+    - src/host/team
+    - src/device/team
+    commiters:
+    - gitcode_id: mlidongfeng
+    - gitcode_id: suqwe
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: oioring
+    - gitcode_id: YeZZzzz1
+  - path:
+    - src/host/mem
+    - src/host/hybm
+    commiters:
+    - gitcode_id: minibao
+    - gitcode_id: mlidongfeng
+    - gitcode_id: nino888
+    - gitcode_id: victor7wang
+    - gitcode_id: suqwe
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: oioring
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: lishaoxun
+    - gitcode_id: james88liu
+    - gitcode_id: linyt_86
+    - gitcode_id: hyolee
+  - path:
+    - src/host/transport
+    - src/host/bootstrap
+    commiters:
+    - gitcode_id: victor7wang
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: oioring
+    - gitcode_id: lishaoxun
+    - gitcode_id: suqwe
+    - gitcode_id: shi_nanxiang
+    - gitcode_id: Joyce_An
+    - gitcode_id: gcw_hhwuOOa5  
+  - path:
+    - src/host/data_plane
+    - src/host/sync
+    commiters:
+    - gitcode_id: nino888
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: qin437231
+    - gitcode_id: oioring
+    - gitcode_id: victor7wang
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: gcw_hhwuOOa5
+    - gitcode_id: jiangxinyu3  
+  - path:
+    - src/host/utils
+    - src/host/python_wrapper
+    - src/host_device
+    - src/python
+    commiters:
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: qin437231
+    - gitcode_id: oioring
+    - gitcode_id: victor7wang
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: lishaoxun
+    - gitcode_id: nino888
+    - gitcode_id: songmingyang
+    - gitcode_id: jiangxinyu3  
+  - path:
+    - .gitcode
+    - docs
+    - examples
+    - scripts
+    - tests
+    commiters:
+    - gitcode_id: mlidongfeng
+    - gitcode_id: minibao
+    - gitcode_id: Joyce_An
+    - gitcode_id: shi_nanxiang
+    - gitcode_id: nino888
+    - gitcode_id: suqwe
+    - gitcode_id: zhu-wangyi
+    - gitcode_id: oioring
+    - gitcode_id: victor7wang
+    - gitcode_id: lishaoxun
+    - gitcode_id: gcw_hhwuOOa5
+    - gitcode_id: qin437231
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: songmingyang
+    - gitcode_id: jiangxinyu3
