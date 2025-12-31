@@ -34,3 +34,16 @@ repositories:
   - gitcode_id: wk0911
   - gitcode_id: chenhao_1209
   - gitcode_id: newstarzj
+  entry_configs:
+    - path:
+      - src/hccl_test
+      committers:
+      - gitcode_id: ccl_ligang
+      - gitcode_id: temper7620
+      - gitcode_id: Innoecho
+      - gitcode_id: yanyefeng
+      reviewers:
+      - gitcode_id: lilianlin_hw
+      - gitcode_id: ccl_ligang
+      - gitcode_id: Innoecho
+      - gitcode_id: lilin_137
