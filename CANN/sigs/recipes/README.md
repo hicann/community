@@ -46,8 +46,8 @@
 
 我们欢迎您参与我们的SIG会议，在线交流，一起探讨
 
-*   **[邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/recipes.cann.osinfra.cn/)** 
-*   **[在线会议](https://etherpad.meeting.osinfra.cn/p/sig-recipes)**：每两周一次，周二上午10:30 - 12:00
+*   **[邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/recipes.cann.osinfra.cn/)**
+*   **[在线会议](https://etherpad-cann.meeting.osinfra.cn/p/sig-recipes)**：每两周一次，周二上午10:30 - 12:00（UTC+8）
 
 ### 📝 SIG成员（Members）
 
@@ -63,7 +63,7 @@
 - 刁莹煜 [[@diaoyingyu]](https://gitcode.com/diaoyingyu), *diaoyingyu1@hisilicon.com*
 - 许可 [[@keke_x]](https://gitcode.com/keke_x), *xuke99@hisilicon.com*
 - 皮华立 [[@hiliPP]](https://gitcode.com/hiliPP), *pihuali@hisilicon.com*
-- 邹楠[[@znmax]](https://gitcode.com/znmax), *zounan1@hisilicon.com*
+- 邹楠 [[@znmax]](https://gitcode.com/znmax), *zounan1@hisilicon.com*
 - 张心放 [[@rous_zhang]](https://gitcode.com/rous_zhang), *zhangxinfang5@hisilicon.com*
 - 许顺琪 [[@xushunqi]](https://gitcode.com/xushunqi), *xushunqi@huawei.com*
 - 袁野 [[@jason_yuan_ye]](https://gitcode.com/jason_yuan_ye), *yuanye17@huawei.com*
@@ -72,10 +72,10 @@
 - 叶嘉金琦 [[@HJ92]](https://gitcode.com/HJ92), *yejiajinqi@hisilicon.com*
 - 黄立 [[@huang_li]](https://gitcode.com/huang_li), *huangli84@hisilicon.com*
 - 黄伟 [[@huangwei791]](https://gitcode.com/huangwei791), *huangwei791@huawei.com*
-- 许虞俊[[@xuyujun]](https://gitcode.com/xuyujun), *xuyujun5@hisilicon.com*
-- 位金弈[[@lrwei0709]](https://gitcode.com/lrwei0709), *weijinyi3@huawei.com*
-- 吕诗睿[[@lushirui22]](https://gitcode.com/lushirui22), *lushirui@hisilicon.com*
-- 汪超[[@qq_41667743]](https://gitcode.com/qq_41667743), *wangchao725@huawei.com*
-- 宦睿智[[@huanruizhi]](https://gitcode.com/huanruizhi), *huanruizhi@hisilicon.com*
-- 潘超[[@panchao-gitcode]](https://gitcode.com/panchao-gitcode), *panchao13@huawei.com*
-- 丘志成[[@kevinchiu]](https://gitcode.com/kevinchiu), *chiu.chih.cheng@hisilicon.com*
+- 许虞俊 [[@xuyujun]](https://gitcode.com/xuyujun), *xuyujun5@hisilicon.com*
+- 位金弈 [[@lrwei0709]](https://gitcode.com/lrwei0709), *weijinyi3@huawei.com*
+- 吕诗睿 [[@lushirui22]](https://gitcode.com/lushirui22), *lushirui@hisilicon.com*
+- 汪超 [[@qq_41667743]](https://gitcode.com/qq_41667743), *wangchao725@huawei.com*
+- 宦睿智 [[@huanruizhi]](https://gitcode.com/huanruizhi), *huanruizhi@hisilicon.com*
+- 潘超 [[@panchao-gitcode]](https://gitcode.com/panchao-gitcode), *panchao13@huawei.com*
+- 丘志成 [[@kevinchiu]](https://gitcode.com/kevinchiu), *chiu.chih.cheng@hisilicon.com*

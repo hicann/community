@@ -31,7 +31,7 @@
    	<td><a href="https://gitcode.com/cann/ge"><span style="font-size:16px;">ge</span></a><br>
       <a href="https://gitcode.com/cann/metadef"><span style="font-size:16px;">metadef</span></a><br>
       <a href="https://gitcode.com/cann/graph-autofusion"><span style="font-size:16px;">graph-autofusion</span></a><br>
-       </td> 
+       </td>
   </tr>
   <tr>
     <td><span style="font-size:16px;">编程语言</span></td>
@@ -99,9 +99,9 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 |--|--|
 |[DeepSeek-V3.2-Exp模型支持0day推理部署](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v3.2-exp/README.md)  | 基于Transformers库，在Atlas A3环境中Prefill阶段采用了长序列亲和的CP并行策略，Decode阶段沿用大EP并行，同时整网设计新的NPU融合Kernel和多流并行优化，实现较高的吞吐推理性能。 |
 |[DeepSeek-R1 RL训练优化实践](https://gitcode.com/cann/cann-recipes-train/blob/master/llm_rl/deepseek/README.md)  | 基于开源veRL框架，搭配MindSpeed+vLLM-Ascend框架，在Atlas A3集群实现GRPO算法的高吞吐RL训练，并达到120TPS/卡的系统吞吐量。 |
-|[HunyuanVideo模型推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/HunyuanVideo/README.md)  | 基于xDiT框架，在Atlas A2环境中采用了Ulysses序列并行和RingAttention序列并行测量，同时适配了TeaCache加速，实现了较高的吞吐推理性能。 |
+|[HunyuanVideo模型推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/hunyuan-video/README.md)  | 基于xDiT框架，在Atlas A2环境中采用了Ulysses序列并行和RingAttention序列并行测量，同时适配了TeaCache加速，实现了较优的推理性能。 |
 |[VGGT模型推理优化实践](https://gitcode.com/cann/cann-recipes-spatial-intelligence/blob/master/models/vggt/README.md)  | 基于VGGT开源模型，完成其在Atlas A2上的推理适配，并提供其在相机位姿估计、点云三维重建、深度估计三个任务上的精度评测脚本。 |
-|[Pi0模型推理优化实践](https://gitcode.com/cann/cann-recipes-embodied-intelligence/blob/master/models/pi0/README.md)  | 基于LeRobot库，在Atlas A2环境适配Pi0模型，通过使能融合算子、图模式、计算逻辑优化等手段，实现了较低的推理时延。 |
+|[Pi0模型推理优化实践](https://gitcode.com/cann/cann-recipes-embodied-intelligence/blob/master/manipulation/pi0/infer_with_torch/README.md)  | 基于LeRobot库，在Atlas A2环境适配Pi0模型，通过使能融合算子、图模式、计算逻辑优化等手段，实现了较低的推理时延。 |
 |[QQ音乐声伴分离鸿蒙推理优化实践](https://gitcode.com/cann/cann-recipes-harmony-infer/blob/master/ops/ascendc/docs/custom-npu_bandNorm.md)  | 实现QQ音乐声伴分离业务模型中的BandNorm等算子在鸿蒙设备上的高性能推理部署。 |
 
 
