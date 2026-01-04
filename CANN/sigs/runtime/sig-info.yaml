@@ -34,6 +34,7 @@ repositories:
     - src/acl/aclrt_impl
     - tests/ut/runtime
     committers:
+    - gitcode_id: wangtao43
     - gitcode_id: turing_yhy
     - gitcode_id: zhangpengpeng8
     - gitcode_id: Reyn52166
