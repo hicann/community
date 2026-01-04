@@ -60,6 +60,7 @@ repositories:
     - src/dfx
     committers:
     - gitcode_id: zhuliangying
+    - gitcode_id: newstarzj
   - path:
     - src/aicpu_sched
     committers:
