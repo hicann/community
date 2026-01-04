@@ -1,6 +1,6 @@
 name: recipes
 description: 提供基于CANN平台的各类算法样例，如LLM、多模态、空间智能、具身智能、推荐等领域
-mailing_list: https://mailweb.cann.osinfra.cn/mailman3/lists/recipes.cann.osinfra.cn/
+mailing_list: recipes@cann.osinfra.cn
 meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-recipes
 committers: []
 repositories:
