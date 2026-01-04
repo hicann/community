@@ -91,6 +91,15 @@ repositories:
       - gitcode_id: chenliang267
       - gitcode_id: linyf950
 
+    - path:
+      - test/st/algorithm
+      committers:
+      - gitcode_id: whk19940509
+      - gitcode_id: virtual_runtime
+      reviewers:
+      - gitcode_id: ZhanPhil
+      - gitcode_id: zheng555
+
 - repo:
   - cann/hcomm
   committers:
