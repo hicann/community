@@ -7,39 +7,60 @@ committers: []
 repositories:
 - repo:
   - cann/runtime
-  maintainers:
-  - gitcode_id: derekxu
-  - gitcode_id: tingwood
-  - gitcode_id: wangtao43
   committers:
-  - gitcode_id: turing_yhy
-  - gitcode_id: zhangpengpeng8
-  - gitcode_id: Reyn52166
-  - gitcode_id: yanmingxiang
-  - gitcode_id: LiWei79
-  - gitcode_id: zhaozhixuan
   - gitcode_id: wda1991
-  - gitcode_id: houyanbao
-  - gitcode_id: luoyuzhou2
-  - gitcode_id: ZhaiPeiChao
   - gitcode_id: wangtao43
   - gitcode_id: zlmay007
   - gitcode_id: Turing_JasonWen
-  - gitcode_id: changhaixun
-  - gitcode_id: Axiaolei
   - gitcode_id: gcw_9B2nSsjo
-  - gitcode_id: sunnana_004434229
-  - gitcode_id: liubin1986
-  - gitcode_id: qinchuanyu
-  - gitcode_id: lilianghua_2025
   - gitcode_id: huawei_programmer_011
-  - gitcode_id: zhou-wuxiao
   - gitcode_id: alenzhang86
-  - gitcode_id: zhuliangying
   - gitcode_id: fujun19
   - gitcode_id: chenhao_1209
-  - gitcode_id: zhangfan_hanq
-  - gitcode_id: chen_vvjob
-  - gitcode_id: arthur_morgan_hw
-  - gitcode_id: jason_yuan_ye
-  entry_configs: []
+  entry_configs:
+  - path:
+    - include
+    - pkg_inc
+    - src/runtime/feature/platform
+    - src/runtime/feature/runtime.cmake
+    - src/runtime/feature/CMakeLists.txt
+    committers:
+    - gitcode_id: wangtao43
+    - gitcode_id: tingwood
+    - gitcode_id: derekxu
+  - path:
+    - src/runtime
+    - src/acl/aclrt
+    - src/acl/aclrt_impl
+    - tests/ut/runtime
+    committers:
+    - gitcode_id: turing_yhy
+    - gitcode_id: zhangpengpeng8
+    - gitcode_id: Reyn52166
+    - gitcode_id: yanmingxiang
+    - gitcode_id: zhaozhixuan
+    - gitcode_id: houyanbao
+    - gitcode_id: luoyuzhou2
+    - gitcode_id: changhaixun
+    - gitcode_id: Axiaolei
+    - gitcode_id: sunnana_004434229
+    - gitcode_id: liubin1986
+    - gitcode_id: lilianghua_2025
+    - gitcode_id: zhou-wuxiao
+    - gitcode_id: qinchuanyu
+    - gitcode_id: chen_vvjob
+  - path:
+    - src/acl
+    - src/mmpa
+    - tests/ut/acl
+    committers:
+    - gitcode_id: zhangfan_hanq
+  - path:
+    - src/dfx
+    committers:
+    - gitcode_id: zhuliangying
+  - path:
+    - src/aicpu_sched
+    committers:
+    - gitcode_id: ZhaiPeiChao
+    - gitcode_id: LiWei79
