@@ -66,3 +66,10 @@ repositories:
     committers:
     - gitcode_id: ZhaiPeiChao
     - gitcode_id: LiWei79
+  - path:
+    - src/platform
+    - pkg_inc/platform
+    - tests/ut/platform
+    committers:
+    - gitcode_id: arthur_morgan_hw
+    - gitcode_id: jason_yuan_ye
