@@ -1,7 +1,7 @@
 name: pto
-description: NA
-mailing_list: NA
-meeting_url: NA
+description: PTO 旨在简化算子 Kernel 开发流程，提供高性能计算能力，并依托虚拟指令集，实现硬件平台的跨平台可移植性。
+mailing_list: pto@cann.osinfra.cn
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-pto
 mentors: []
 
 repositories:
@@ -26,37 +26,11 @@ repositories:
     - gitcode_id: wcwxy
     - gitcode_id: zhangqi-chen
     - gitcode_id: jiawei_zhuang
-  reviewers:
-    - gitcode_id: linjiashu
-    - gitcode_id: syfeng
-    - gitcode_id: yinjie27_
-    - gitcode_id: foundea
-    - gitcode_id: jason_yuan_ye
-    - gitcode_id: DCGDDD
-    - gitcode_id: tsungl4
-    - gitcode_id: gguuaanngg
-    - gitcode_id: dai-zhentao
-    - gitcode_id: zhangyuebing
-    - gitcode_id: cam_bxh
-    - gitcode_id: gaoxingwang
-    - gitcode_id: lyfne
-    - gitcode_id: poursoul
-    - gitcode_id: hw_zhangzhiqi
-    - gitcode_id: wcwxy
-    - gitcode_id: zhangqi-chen
-    - gitcode_id: jiawei_zhuang
   entry_configs: []
+
 - repo:
     - cann/pto-isa
   committers:
-    - gitcode_id: changxianyu
-    - gitcode_id: ChanKaLok
-    - gitcode_id: HuangXingYuan_777
-    - gitcode_id: csjlchen
-    - gitcode_id: Zhanghaijian
-    - gitcode_id: qukelin
-    - gitcode_id: bluesky901
-  reviewers:
     - gitcode_id: changxianyu
     - gitcode_id: ChanKaLok
     - gitcode_id: HuangXingYuan_777
