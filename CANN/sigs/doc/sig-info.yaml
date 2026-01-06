@@ -1,8 +1,11 @@
 name: doc
 description: 管理CANN开源开放项目的文档开发工作，致力于为开发者提供具备竞争力的文档体验。
-mailing_list: NA
-meeting_url: NA
-mentors: []
-committers: []
-reviewers: []
+mailing_list: doc@cann.osinfra.cn
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-doc
+committers: 
+- gitcode_id: flyswa
+- gitcode_id: wdongming
+- gitcode_id: munanhw
+- gitcode_id: gitcode-chenjiao
+- gitcode_id: Ww7012
 repositories: []

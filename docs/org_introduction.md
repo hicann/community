@@ -3,12 +3,12 @@
 
 <table style="width:100%">
   <tr>
-    <th style="width:10%"><span style="font-size:17px;">组件</span></th>
-    <th style="width:75%"><span style="font-size:17px;">描述</span></th>
-	  <th style="width:15%"><span style="font-size:17px;">源码仓</span></th>
+    <th style="width:10%;text-align: center;"><span style="font-size:17px; ">组件</span></th>
+    <th style="width:75%;text-align: center;"><span style="font-size:17px;">描述</span></th>
+	  <th style="width:15%;text-align: center;"><span style="font-size:17px;">源码仓</span></th>
   </tr>
     <tr>
-    <td><span style="font-size:16px;">算子库</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">算子库</span></td>
     <td><span style="font-size:16px;">提供了丰富的深度优化、硬件亲和的高性能算子，为神经网络在昇腾硬件上加速计算提供基础。</span></td>
 	<td>
       <a href="https://gitcode.com/cann/ops-nn"><span style="font-size:16px;">ops-nn</span></a><br>
@@ -18,7 +18,7 @@
       <a href="https://gitcode.com/cann/atvoss"><span style="font-size:16px;">atvoss</span></a></td>
   </tr>
   <tr>
-    <td><span style="font-size:16px;">通信库</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">通信库</span></td>
     <td><span style="font-size:16px;">基于昇腾硬件的高性能通信库，提供单机多卡及多机多卡间的数据并行、模型并行通信方案。</span></td>
 	<td><a href="https://gitcode.com/cann/hixl"><span style="font-size:16px;">hixl</span></a><br>
       <a href="https://gitcode.com/cann/hccl"><span style="font-size:16px;">hccl</span></a><br>
@@ -26,7 +26,7 @@
        </td>
   </tr>
   <tr>
-    <td><span style="font-size:16px;">图引擎</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">图引擎</span></td>
     <td><span style="font-size:16px;">面向昇腾的图编译器和执行器，提供图优化、多流并行、内存复用和模型下沉等功能。</span></td>
    	<td><a href="https://gitcode.com/cann/ge"><span style="font-size:16px;">ge</span></a><br>
       <a href="https://gitcode.com/cann/metadef"><span style="font-size:16px;">metadef</span></a><br>
@@ -34,7 +34,7 @@
        </td>
   </tr>
   <tr>
-    <td><span style="font-size:16px;">编程语言</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">编程语言</span></td>
     <td><span style="font-size:16px;">CANN针对算子开发场景推出的编程语言，最大化匹配用户开发习惯，提供算子模板库，支持算子极简编程。</span></td>
     <td>
       <a href="https://gitcode.com/cann/asc-devkit"><span style="font-size:16px;">asc-devkit</span></a><br>
@@ -44,24 +44,24 @@
     </td>
   </tr>
    <tr>
-    <td><span style="font-size:16px;">运行时</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">运行时</span></td>
     <td><span style="font-size:16px;">提供了高效的硬件资源管理、媒体数据预处理、单算子加载执行、模型推理等开发接口，供开发者轻松构建高性能人工智能应用。</span></td>
 	  <td><a href="https://gitcode.com/cann/runtime"><span style="font-size:16px;">runtime</span></a></td>
   </tr>
    <tr>
-    <td><span style="font-size:16px;">驱动</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">驱动</span></td>
     <td><span style="font-size:16px;">提供了基础驱动、设备管理、资源管理及调度、通信能力等功能，使能昇腾芯片，充分发挥硬件能力，支撑CANN上层软件高效稳定运行。</span></td>
 	  <td><a href="https://gitcode.com/cann/driver"><span style="font-size:16px;">driver</span></a><br> </td>
   </tr>
   <tr>
-    <td><span style="font-size:16px;">工具</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">工具</span></td>
     <td><span style="font-size:16px;">提供CANN平台的各种工具，如故障定位、模型压缩等。</span></td>
 	  <td><a href="https://gitcode.com/cann/oam-tools"><span style="font-size:16px;">oam-tools</span></a><br>
     <a href="https://gitcode.com/cann/amct"><span style="font-size:16px;">amct</span></a>
     </td>
   </tr>
   <tr>
-    <td><span style="font-size:16px;">虚拟指令集</span></td>
+    <td style="text-align:center"><span style="font-size:16px;">虚拟指令集</span></td>
     <td><span style="font-size:16px;">由昇腾CANN研发的虚拟指令集架构，聚焦于分块级运算，在各类昇腾平台上提供高性能、跨平台的分块运算能力。</span></td>
 	  <td><a href="https://gitcode.com/cann/pto-isa"><span style="font-size:16px;">pto-isa</span></a>
     </td>
