@@ -17,6 +17,10 @@ repositories:
   - gitcode_id: alenzhang86
   - gitcode_id: fujun19
   - gitcode_id: chenhao_1209
+  - gitcode_id: turing_yhy
+  - gitcode_id: zhangpengpeng8
+  - gitcode_id: yanmingxiang
+  - gitcode_id: zhaozhixuan
   entry_configs:
   - path:
     - include
