@@ -1,10 +1,7 @@
 name: asnumpy
 description: 深度支持昇腾NPU并高度兼容numpy接口的轻量级Python数学运算库,提供昇腾原生numpy编程接口
-mailing_list: https://mailweb.cann.osinfra.cn/mailman3/lists/asnumpy.cann.osinfra.cn/
-meeting_url: https://meeting.osinfra.cn/cann/
-mentors: []
-committers: []
-reviewers: []
+mailing_list: asnumpy@cann.osinfra.cn
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-asnumpy
 repositories:
 - repo:
   - cann/asnumpy
@@ -14,10 +11,6 @@ repositories:
   - gitcode_id: li-xingHIT
   - gitcode_id: sutonghua
   - gitcode_id: TiantianWang_Hit
-  reviewers:
-  - gitcode_id: wuzhenqing
-  - gitcode_id: hyyisasleep
-  - gitcode_id: li-xingHIT
   - gitcode_id: gehaoxuan
   - gitcode_id: zhi_yichao
   - gitcode_id: Sea-1024
