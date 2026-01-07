@@ -21,6 +21,8 @@ repositories:
   - gitcode_id: zhangpengpeng8
   - gitcode_id: yanmingxiang
   - gitcode_id: zhaozhixuan
+  - gitcode_id: zhangfan_hanq
+  - gitcode_id: fu-jun2
   entry_configs:
   - path:
     - include
@@ -34,8 +36,6 @@ repositories:
     - gitcode_id: derekxu
   - path:
     - src/runtime
-    - src/acl/aclrt
-    - src/acl/aclrt_impl
     - tests/ut/runtime
     committers:
     - gitcode_id: wangtao43
@@ -54,12 +54,6 @@ repositories:
     - gitcode_id: zhou-wuxiao
     - gitcode_id: qinchuanyu
     - gitcode_id: chen_vvjob
-  - path:
-    - src/acl
-    - src/mmpa
-    - tests/ut/acl
-    committers:
-    - gitcode_id: zhangfan_hanq
   - path:
     - src/dfx
     committers:
