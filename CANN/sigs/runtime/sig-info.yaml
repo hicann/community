@@ -58,6 +58,7 @@ repositories:
     committers:
     - gitcode_id: zhuliangying
     - gitcode_id: newstarzj
+    - gitcode_id: chenhao_1209
   - path:
     - src/aicpu_sched
     committers:
