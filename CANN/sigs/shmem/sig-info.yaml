@@ -10,12 +10,12 @@ maintainers:
   - gitcode_id: nino888
   - gitcode_id: suqwe
 mentors: []
-commiters: []
+committers: []
 reviewers: []
 repositories:
 - repo:
   - cann/shmem
-  commiters:
+  committers:
   - gitcode_id: zhu-wangyi
   - gitcode_id: oioring
   - gitcode_id: victor7wang
@@ -31,7 +31,7 @@ repositories:
   entry_configs:
   - path:
     - include
-    commiters:
+    committers:
     - gitcode_id: mlidongfeng
     - gitcode_id: minibao
     - gitcode_id: Joyce_An
@@ -40,7 +40,7 @@ repositories:
     - gitcode_id: suqwe
   - path:
     - src/device/ub2gm
-    commiters:
+    committers:
     - gitcode_id: nino888
     - gitcode_id: zhu-wangyi
     - gitcode_id: qin437231
@@ -49,7 +49,7 @@ repositories:
     - gitcode_id: YeZZzzz1
   - path:
     - src/device/gm2gm
-    commiters:
+    committers:
     - gitcode_id: shi_nanxiang
     - gitcode_id: nino888
     - gitcode_id: Joyce_An
@@ -63,7 +63,7 @@ repositories:
     - gitcode_id: gcw_hhwuOOa5
   - path:
     - src/host/init
-    commiters:
+    committers:
     - gitcode_id: nino888
     - gitcode_id: minibao
     - gitcode_id: suqwe
@@ -76,7 +76,7 @@ repositories:
   - path:
     - src/host/team
     - src/device/team
-    commiters:
+    committers:
     - gitcode_id: mlidongfeng
     - gitcode_id: suqwe
     - gitcode_id: zhu-wangyi
@@ -85,7 +85,7 @@ repositories:
   - path:
     - src/host/mem
     - src/host/hybm
-    commiters:
+    committers:
     - gitcode_id: minibao
     - gitcode_id: mlidongfeng
     - gitcode_id: nino888
@@ -101,7 +101,7 @@ repositories:
   - path:
     - src/host/transport
     - src/host/bootstrap
-    commiters:
+    committers:
     - gitcode_id: victor7wang
     - gitcode_id: zhu-wangyi
     - gitcode_id: oioring
@@ -113,7 +113,7 @@ repositories:
   - path:
     - src/host/data_plane
     - src/host/sync
-    commiters:
+    committers:
     - gitcode_id: nino888
     - gitcode_id: zhu-wangyi
     - gitcode_id: qin437231
@@ -127,7 +127,7 @@ repositories:
     - src/host/python_wrapper
     - src/host_device
     - src/python
-    commiters:
+    committers:
     - gitcode_id: zhu-wangyi
     - gitcode_id: qin437231
     - gitcode_id: oioring
@@ -143,7 +143,7 @@ repositories:
     - examples
     - scripts
     - tests
-    commiters:
+    committers:
     - gitcode_id: mlidongfeng
     - gitcode_id: minibao
     - gitcode_id: Joyce_An
