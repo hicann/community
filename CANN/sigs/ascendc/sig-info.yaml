@@ -1,16 +1,13 @@
 name: ascendc
-description: NA
-mailing_list: NA
-meeting_url: NA
-mentors: []
-
+description: ascendc-sig致力于打造面向昇腾AI处理器的专用算子开发语言，提升用户的算子开发体验。
+mailing_list: ascendc@cann.osinfra.cn
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ascendc
 repositories:
 - repo:
   - cann/atvc
   committers:
   - gitcode_id: wangxiaozhi
   - gitcode_id: wulinyu
-  reviewers:
   - gitcode_id: zhuliangying
   - gitcode_id: fujun19
   - gitcode_id: wulinyu
@@ -26,7 +23,6 @@ repositories:
   - gitcode_id: kong0808
   - gitcode_id: sutonghua
   - gitcode_id: wuzhenqing
-  reviewers:
   - gitcode_id: suqwe
   - gitcode_id: xiaoting624
   - gitcode_id: dengjing_aoe
@@ -51,7 +47,6 @@ repositories:
   - gitcode_id: bianque
   - gitcode_id: wqtshg_wt
   - gitcode_id: zhudi22
-  reviewers:
   - gitcode_id: wuyang_hw
   - gitcode_id: houyuyang
   - gitcode_id: yangbinhua
@@ -75,11 +70,11 @@ repositories:
 - repo:
   - cann/asc-tools
   committers:
+  - gitcode_id: wangxiaozhi
   - gitcode_id: xun_zhuge
   - gitcode_id: ookkkkoo1122
   - gitcode_id: bianque
   - gitcode_id: zhudi22
-  reviewers:
   - gitcode_id: houyuyang
   - gitcode_id: XuebinYang
   - gitcode_id: sjtulxh
