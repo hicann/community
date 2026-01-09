@@ -1,48 +1,55 @@
 # ge SIG
-# 概述
-GE SIG是CANN图模式研发的兴趣小组，聚焦于图编译器的设计与演进，我们致力于打造开放、易用、性能领先的图编译基础设施，深度融入开源生态，让用户在主流框架获得稳定高效、持续演进的图模式体验。
 
-# 工作目标
-- 负责图框架领域技术路线探讨与规划。
-- 组织图框架领域例会，引导技术讨论和决策。
-- 负责SIG范围内的代码仓的Bug、Issue和用户诉求等处理。
+## 概述
 
-# 职责范围与核心仓库
+GE SIG 是 CANN 图模式研发的技术兴趣小组，聚焦于**图编译器与图执行引擎的设计、演进与工程实践**。
+我们致力于打造**开放、易用、性能领先的图编译基础设施**，并持续推动其与主流 AI 框架和开源生态的深度融合，使开发者能够在昇腾 NPU 上获得**稳定、高效、可持续演进**的图模式体验。
+
+## 工作目标
+
+- 推动图编译与图执行相关技术路线的讨论、沉淀与演进。
+- 通过例会、设计评审与技术分享，形成可复用的设计共识与最佳实践。
+- 维护 SIG 范围内核心仓库的 Issue、Bug 与用户反馈，保障社区的响应效率与工程质量。
+
+## 职责范围与核心仓库
+
 本SIG 主要负责以下几个核心仓库的开发与维护：
 
-* ge
-  * 定位：GE是计算图编译和运行的控制中心，提供图编译、图优化以及图执行控制等功能。GE通过统一的图开发接口支持多种AI框架的接入，并支持自定义图结构，帮助开发者在昇腾硬件上快速部署神经网络业务。GE可应用于大模型推理、推荐、小模型等领域。
-  * 功能：图引擎核心仓，具备图编译和图执行的能力，功能上支持静态shape和动态shape，提供图融合优化、内存管理、资源管理、下沉调度等，接口上提供graph相关的API，支撑用户自主构图，运行图。
+- ge
+  - **定位**：GE 是图编译与运行的控制中心，负责计算图的编译、优化与执行调度，是昇腾图模式的核心引擎。
+  - **功能**：提供图编译与图执行能力，支持静态 / 动态 shape，包含图融合优化、内存与资源管理、下沉调度等关键机制，并通过统一的 Graph API 支撑用户自主构图与运行。
 
-* metadef
-  * 定位：昇腾元数据定义，即相关数据结构以及对外接口定义。
-  * 功能：提供算子和图共用的基础数据结构以及接口，支持eager模式调用以及图模式调用。 
+- metadef
+  - **定位**：昇腾图与算子相关的元数据定义仓库，提供跨组件共享的数据结构与接口规范。
+  - **功能**：提供算子与图共用的基础数据结构与接口，支持 eager 模式与图模式的统一调用。
 
-* graph-autofusion
-  * 定位：面向昇腾（Ascend）芯片的轻量级、解耦式组件集合，旨在通过自动融合技术加速模型执行。 目前已开源 SuperKernel 组件，未来将持续开放更多融合相关模块。
-  * 功能：基于 codegen 的 JIT 编译机制实现高效融合与加速。
+- graph-autofusion
+  - **定位**：面向昇腾 NPU 的轻量级、解耦式自动融合组件集合，聚焦通过自动融合提升模型执行效率。
+  - **功能**：基于 codegen 的 JIT 编译机制实现高效融合与加速，目前已开源 SuperKernel 组件，后续将逐步开放更多融合相关模块。
 
-* torchair
-  * 定位：torchair（全称：Torch Ascend Intermediate Representation）是一个扩展库，支持用户基于PyTorch框架和torch_npu插件在昇腾NPU上使用图模式进行推理。 
-  * 功能：TorchAir继承自PyTorch框架Dynamo模式，将PyTorch的FX图转换为GE计算图，并提供了GE计算图在昇腾NPU的编译与执行的能力。
+- torchair
+  - **定位**：TorchAir（Torch Ascend Intermediate Representation）是 PyTorch 与 GE 之间的图模式桥接组件，使 PyTorch 用户能够在昇腾 NPU 上使用图模式进行推理。
+  - **功能**：TorchAir 基于 PyTorch Dynamo 机制工作，将 PyTorch FX 图转换为 GE 计算图，并提供 GE 图在昇腾 NPU 上的编译与执行能力。
 
-* triton-inference-server-ge-backend
-  * 定位：GE图模式使用的优秀实践，通过调用GE API，实现ge_backend的推理服务化框架，为用户如何使用GE提供了参考。 
-  * 功能：ge-backend基于triton inference server框架实现对接NPU生态，快速实现传统CV\NLP模型的服务化。
+- triton-inference-server-ge-backend
+  - **定位**：Triton Inference Server 中面向昇腾 NPU 的 GE 推理后端。
+  - **功能**：通过 Triton Backend 接口，基于 GE 实现模型在昇腾 NPU 上的图编译与推理执行。
 
+## 边界与协作
 
-# 边界与协作
 本SIG负责的GE仓在CANN架构中位置如下图所示：
 
 ![alt text](image.png)
 
-# 成员
+## 成员
 
 ### Maintainer列表
+
 - 王涛[@wqtshg_wt](https://gitcode.com/wqtshg_wt), *wangtao123@huawei.com*
 - 盛楠[@shengnan666](https://gitcode.com/shengnan666), *titan.sheng@huawei.com*
 
 ### Committer列表
+
 - 唐群章[@tangqunzhang](https://gitcode.com/tangqunzhang), *tangqunzhang@huawei.com*
 - 许亚非[@xuyafei](https://gitcode.com/xuyafei), *yxuyafei3@huawei.com*  
 - 王笑天[@wangxiaotian995](https://gitcode.com/wangxiaotian995), *710309755@qq.com*
@@ -74,24 +81,29 @@ GE SIG是CANN图模式研发的兴趣小组，聚焦于图编译器的设计与�
 - 顾康[@qq_28230035](https://gitcode.com/qq_28230035), *gukang3@huawei.com*
 - 江潇[@jxkongyue](https://gitcode.com/jxkongyue), *jiangxiao2@huawei.com*
 
-# 社区运作
+## 社区运作
 
 ### 会议组织
 
-- 公开的会议时间：北京时间，两周一次例会，单周周五下午14:00-16:00
+- 公开的会议时间：北京时间，每两周一次例会，单周周五下午14:00-16:00
 - [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-ge)
+
+欢迎社区成员提交**技术讨论、设计提案、问题反馈或经验分享**等作为会议议题。
 
 ### 会议纪要
 
 - [会议地址](https://meeting.osinfra.cn/cann/)
 - [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-ge)
 
-# SIG订阅
+## SIG订阅
 
 - [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/ge.cann.osinfra.cn/)
 
-# 仓库清单
+## 仓库清单
 
 仓库地址：
+- https://gitcode.com/cann/ge
+- https://gitcode.com/cann/metadef
 - https://gitcode.com/cann/graph-autofusion
+- https://gitcode.com/Ascend/torchair
 - https://gitcode.com/cann/triton-inference-server-ge-backend
