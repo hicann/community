@@ -21,13 +21,13 @@
 
 ## 3. 自动化检查流程
 ### 3.1 触发检查
-   - PR 合入时自动触发开源代码片段引入检查（Codescan）
-   - 如 Codescan 显示为"NO PASS"，需点击右侧箭头进入数字化作业平台处理
+   - PR 合入时自动触发开源代码片段引入检查（SCA）
+   - 如 SCA 显示为"FAILED"，需点击上方任务链接进入数字化作业平台处理
    
 ![](./figures/PR-check.png)
 
 ### 3.2 查看风险列表
-   - 点击待处理风险数字进行跳转
+   - 点击“合规详情”页签
    - 查看待处理风险详情
 ![](./figures/openlibing.png)
 
@@ -55,16 +55,47 @@
 ```
 **关键要求**：引用项目的版权声明和许可证文本必须严格按照原始项目的表述，不得修改。
 
-**声明示例**：假设本项目是MyProject（使用MIT许可证），引入了OtherProject项目（使用Apache-2.0许可证）的代码片段：
+**声明示例一**：假设本项目是MyProject（使用Apache-2.0许可证），引入了OtherProject项目（使用MIT许可证）的代码片段：
 
 
 ```
 
 # Copyright (c) [Year] [MyProject Author(s)]. All rights reserved.
 #
-# This file is part of [MyProject], which is released under the MIT License.
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# The code snippet comes from [OtherProject].
+#
+# Copyright (c) [Year] [OtherProject Author(s)]. All rights reserved.
+#
+# This file is part of [OtherProject], which is released under the MIT License.
 # See the LICENSE file in the root directory of this source tree
 # or at https://opensource.org/licenses/MIT for details.
+#
+# --------------------------------------------------------------------------------
+```
+
+**声明示例二**：假设本项目是MyProject（使用CANN2.0许可证），引入了OtherProject项目（使用Apache-2.0许可证）的代码片段：
+
+```
+# Copyright (c) [Year] [MyProject Author(s)].
+#
+# This program is free software, you can redistribute it and/or modify it under the terms and conditions of
+# CANN Open Software License Agreement Version 2.0 (the "License").
+# Please refer to the License for details. You may not use this file except in compliance with the License.
+# THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED,
+# INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+# See LICENSE in the root of the software repository for the full text of the License.
 #
 # The code snippet comes from [OtherProject].
 #
@@ -83,8 +114,7 @@
 # limitations under the License.
 #
 # --------------------------------------------------------------------------------
-```
-
+ ```
 
 ### 4.2 Third_Party_Open_Source_Software_Notice更新
 在项目根目录找到 Third_Party_Open_Source_Software_Notice 文件，请参考以下格式添加声明：

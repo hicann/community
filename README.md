@@ -53,7 +53,7 @@ CANN 社区基于 GitCode 的 Issue 管理功能，完整记录每个开发者 I
 
 #### 提交 PR
 
-参与 CANN 社区代码贡献时，提交 PR 前需完成开发环境准备，并仔细了解项目特定的开发规范和版权声明要求，确保您的贡献符合项目标准。具体操作步骤请参阅：[PR 操作指南](contributor/pull_request_operation.md)。
+参与 CANN 社区代码贡献时，提交 PR 前需完成开发环境准备，并仔细了解项目特定的开发规范和版权声明要求（如涉及开源代码片段引用，请参考[片段引用指导](contributor/third_party/snippet-reference-guildline.md)），确保您的贡献符合项目标准。具体操作步骤请参阅：[PR 操作指南](contributor/pull_request_operation.md)。
 
 ### 进阶贡献
 
