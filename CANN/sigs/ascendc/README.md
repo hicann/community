@@ -102,3 +102,8 @@ Ascend C总体逻辑架构图如下所示：
 
 - [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/ascendc.cann.osinfra.cn/)
 
+# 优秀实践
+
+### asc-tools
+
+- [孪生调试：基于Matmul高阶API快速落地矩阵乘法操作，以轻量Matmul算子为示例，具象化呈现孪生调试能力](https://gitcode.com/cann/asc-tools/tree/master/examples/02_matmul_kernellaunch/)
