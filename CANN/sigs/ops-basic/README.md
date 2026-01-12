@@ -26,7 +26,7 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 
 ## 边界与协作
 为保持清晰的职责划分，ops-basic SIG与社区其他算子兴趣小组紧密协作，但专注于上述核心领域。 本SIG与[ops-nn SIG](https://gitcode.com/cann/community/blob/f12a0baeb315f1302e92ae8d98e527b43286bf8d/CANN/sigs/ops-nn/README.md)和[ops-transformer SIG](https://gitcode.com/cann/community/tree/f12a0baeb315f1302e92ae8d98e527b43286bf8d/CANN/sigs/ops-transformer)共同提供深度学习网络服务。
-本SIG负责opbase、ops-math、ops-cv仓，其在CANN架构中的位置如下图所示：
+本SIG负责opbase、ops-math、ops-cv仓，其在CANN架构中的位置如下图所示：<br>
 <img src="image.png" width="600px" height="320px">
 
 # 成员
