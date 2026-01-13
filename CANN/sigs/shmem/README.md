@@ -36,14 +36,14 @@ shmem SIG 致力于面向昇腾AI集群的分布式共享内存编程库的设�
 
 # 社区运作
 
-- 双周例会，每双周周xx xx:xx-xx:xx（北京时间）；首次例会在`2026-xx-xx`举办，具体时间与调整可关注下方纪要与邮件列表
-- [会议地址](待补充链接)
-- [议题申报](待补充链接)
-- [会议纪要](待补充链接)
+- 双周例会，每双周周三 16:00-17:30（北京时间）；首次例会在`2026-01-14`举办，具体时间与调整可关注下方纪要与邮件列表
+- [会议地址](https://meeting.huaweicloud.com:36443/#/j/984676798)
+- [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-shmem)
+- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-shmem)
 
 # SIG订阅
 
-- [邮件列表](待补充链接)
+- [邮件列表](https://mailweb.cann.osinfra.cn/mailman3/lists/shmem.cann.osinfra.cn/)
 
 
 # 仓库清单
