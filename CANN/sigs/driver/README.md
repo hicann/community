@@ -55,6 +55,17 @@ P2P、零拷贝、共享内存等跨机跨设备内存管理机制进一步完�
 * 方天位 [@fangtianwei2025](https://gitcode.com/fangtianwei2025), *[fangtianwei@huawei.com](mailto:fangtianwei@huawei.com)*
 * 李胜 [@lishengvictor](https://gitcode.com/lishengvictor), *[victor.lisheng@huawei.com](mailto:victor.lisheng@huawei.com)*
 
+# 项目路标
+- 2025/12: 
+    - 基于昇腾910 系列 A2/A3 Driver 能力全面开源开放；
+- 2026上半年：
+    - 基于A5 全面开放PCIe板卡形态支持能力；
+    - 持续完善Driver仓内存特性，如SOMA...；
+- 2026年下半年：
+    - 基于A5 全面开放Server形态支持能力；
+    - 持续完善Driver库能力，完善生态支持；
+
+
 # 社区运作
 
 ### 会议组织
