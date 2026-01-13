@@ -16,6 +16,12 @@ repositories:
 - repo:
   - cann/shmem
   committers:
+  - gitcode_id: mlidongfeng
+  - gitcode_id: minibao
+  - gitcode_id: Joyce_An
+  - gitcode_id: shi_nanxiang
+  - gitcode_id: nino888
+  - gitcode_id: suqwe
   - gitcode_id: zhu-wangyi
   - gitcode_id: oioring
   - gitcode_id: victor7wang
