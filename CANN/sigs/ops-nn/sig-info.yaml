@@ -3,6 +3,11 @@ description: 提供神经网络（Neural Network，NN）类的高阶算子库，
 mailing_list: NA
 meeting_url: NA
 mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - cann/ops-nn
 committers:
 - gitcode_id: tangweiwei2
 - gitcode_id: chenqi317
@@ -20,10 +25,13 @@ reviewers:
 - gitcode_id: FelixTang7
 - gitcode_id: zhangyuxiang0119
 - gitcode_id: zhang-wu
-repositories:
-- repo:
-  - cann/ops-nn
-  committers: []
-  reviewers: []
-  entry_configs: []
+entry_configs: 
+- path:
+  - "*/*/op_host/op_api/*.h"
+  - "*/*/op_host/*_def.cpp"
+  - "*/*/op_api/*.h"
+  - "*/*/op_graph/*_proto.h"
+  committers:
+  - gitcode_id: wangyongguang
+  - gitcode_id: tang-lei01
 
