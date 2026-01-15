@@ -52,6 +52,14 @@ repositories:
   - gitcode_id: liu-wei
   entry_configs:
   - path:
+  - "*/*/op_host/op_api/*.h"
+  - "*/*/op_host/*_def.cpp"
+  - "*/*/op_api/*.h"
+  - "*/*/op_graph/*_proto.h"
+  committers:
+  - gitcode_id: wangyongguang
+  - gitcode_id: tang-lei01
+  - path:
     - image/crop_and_resize
     committers:
     - gitcode_id: LiWei79
@@ -153,6 +161,14 @@ repositories:
   - gitcode_id: wangrui_
   - gitcode_id: songkai111
   entry_configs:
+  - path:
+  - "*/*/op_host/op_api/*.h"
+  - "*/*/op_host/*_def.cpp"
+  - "*/*/op_api/*.h"
+  - "*/*/op_graph/*_proto.h"
+  committers:
+  - gitcode_id: wangyongguang
+  - gitcode_id: tang-lei01
   - path:
     - conversion/as_strided
     - conversion/clip_by_value_v2
