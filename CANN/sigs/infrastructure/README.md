@@ -24,12 +24,12 @@ SIG更多介绍请通过 [我们的仓库](https://gitcode.com/cann/infrastructu
 ### 会议组织
 
 - 公开的会议时间：北京时间，两周一次例会，每周2下午14:00-15:00
-- [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-infrastructure)
+- [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-infrastructure)
 
 ### 会议纪要
 
 - [会议地址](https://meeting.osinfra.cn/cann/)
-- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-infrastructure)
+- [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-infrastructure)
 
 # SIG订阅
 

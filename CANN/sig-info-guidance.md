@@ -26,7 +26,7 @@ CANN社区基于**community代码仓库**，实现CANN社区的**项目、SIG、
 | name | 字符串 |一层| SIG组名称 |
 | description |  字符串 |一层| SIG组描述信息 |
 | mailing_list | 字符串 |一层| SIG组讨论邮件列表地址 |
-| meeting_url |  字符串 |一层| SIG例会纪要URL |
+| meeting_whiteboard_url |  字符串 |一层| SIG例会纪要URL |
 | committers| 列表 | 一层|SIG组对应的committer名单 |
 | repositories| 列表 |一层| SIG组所管辖的代码仓库信息 |
 
@@ -68,7 +68,7 @@ CANN社区基于**community代码仓库**，实现CANN社区的**项目、SIG、
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
 mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单 （ccc和ddd拥有ops-basic sig组下所有仓库的committer权限）
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -94,7 +94,7 @@ repositories:                         #repositories 字段会说明SIG组所管�
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
 mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单 （ccc和ddd拥有ops-basic sig组下除了ops-basic-AAA、ops-basic-BBB仓库以外的其它仓库的committer权限）
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -118,7 +118,7 @@ repositories:                         #repositories 字段会说明SIG组所管�
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
 mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -149,7 +149,7 @@ repositories:                         #repositories 字段会说明SIG组所管�
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
 mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -184,7 +184,7 @@ repositories:                         #repositories 字段会说明SIG组所管�
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
 mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                           #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd
@@ -244,7 +244,7 @@ repositories:                         #repositories 字段会说明SIG组所管�
 name: ops-basic                          #SIG组名称
 description: This is a sample sig.       #SIG组描述信息
 mailing_list: ops-basic@cann.osinfra.cn  #SIG组讨论邮件列表地址
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic  #SIG例会纪要URL
 committers:                            #SIG组所有committer名单
 - gitcode_id: ccc
 - gitcode_id: ddd

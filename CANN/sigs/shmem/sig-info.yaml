@@ -1,7 +1,7 @@
 name: shmem
 description: 提供便携易用的多机多卡内存访问方式，加速通信或通算融合类算子开发。
 mailing_list:
-meeting_url:
+meeting_whiteboard_url:
 maintainers:
   - gitcode_id: mlidongfeng
   - gitcode_id: minibao

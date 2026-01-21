@@ -1,7 +1,7 @@
 name: asnumpy
 description: 深度支持昇腾NPU并高度兼容numpy接口的轻量级Python数学运算库,提供昇腾原生numpy编程接口
 mailing_list: asnumpy@cann.osinfra.cn
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-asnumpy
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-asnumpy
 repositories:
 - repo:
   - cann/asnumpy

@@ -10,7 +10,7 @@ QA（质量保障）项目团队对CANN社区发布软件进行测试，目标�
 # 组织会议
 - 公开会议时间：北京时间每双周二上午10点30分~12点
 - [会议地址](https://meeting.osinfra.cn/cann/)
-- [会议纪要](https://etherpad.meeting.osinfra.cn/p/QA)
+- [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/QA)
 # SIG订阅
 - [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/qa.cann.osinfra.cn/)
 

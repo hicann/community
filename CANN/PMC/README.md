@@ -8,7 +8,7 @@
 会议时间：双周三下午14:00~16:00(GMT+8)，欢迎订阅[PMC邮箱](https://mailweb.cann.osinfra.cn/mailman3/lists/pmc.cann.osinfra.cn/)了解相关会议公告及内容，我们欢迎任何感兴趣的开发者旁听会议。
 
 ## 会议纪要  
-您可以在[PMC会议纪要](https://etherpad.meeting.osinfra.cn/p/PMC)查看到相关内容，PMC并会在每次会议后将会议纪要发布到pmc@cann.osinfra.cn邮件列表中。
+您可以在[PMC会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/PMC)查看到相关内容，PMC并会在每次会议后将会议纪要发布到pmc@cann.osinfra.cn邮件列表中。
 
 ## PMC成员
 - 陈敏 anna.chen@huawei.com [[@cann_cm]](https://gitcode.com/cann_cm)

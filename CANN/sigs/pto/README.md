@@ -70,12 +70,12 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 ### 会议组织
 
 - 公开的会议时间：北京时间，两周一次例会，双周(每月第二、第四周)周五下午14:00-16:00
-- [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-pto)
+- [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-pto)
 
 ### 会议纪要
 
 - [会议地址](https://meeting.osinfra.cn/cann/)
-- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-pto)
+- [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-pto)
 
 ### 贡献指南
 

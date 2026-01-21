@@ -1,7 +1,7 @@
 name: ops-transformer
 description: 提供transformer类大模型算子的高阶算子库，简称ops-transformer，涵盖了常见的FlashAttention、MoE（Mixture of Experts）等算子
 mailing_list: NA
-meeting_url: NA
+meeting_whiteboard_url: NA
 mentors: []
 committers: []
 reviewers: []

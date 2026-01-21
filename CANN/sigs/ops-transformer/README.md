@@ -23,7 +23,7 @@
 ## 组织会议：
 两周一次例会，每单周周四上午10点-12点
 - [会议链接](https://meeting.osinfra.cn/cann/)
-- [会议议题&纪要](https://etherpad.meeting.osinfra.cn/p/sig-ops-transformer)
+- [会议议题&纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-transformer)
 - [邮件列表订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/ops-transformer.cann.osinfra.cn/)
 
 # 成员

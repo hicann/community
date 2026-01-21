@@ -21,7 +21,7 @@
 ### 联系方式
 两周一次例会，每单周周一下午16:00-18:00
 - [会议链接](https://meeting.osinfra.cn/cann/)
-- [会议议题&纪要](https://etherpad.meeting.osinfra.cn/p/sig-tools)
+- [会议议题&纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-tools)
 - [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/tools.cann.osinfra.cn/)
 
 
