@@ -6,6 +6,11 @@ mentors: []
 committers: []
 reviewers: []
 repositories:
+# 配置方案：1、配置原则，maintainer 具备transformer 对应所有仓所有目录（API除外）/lgtm和/approve权限；
+# committer 具备对应看护仓和目录/lgtm和/approve权限；
+# 2、针对对外API，只有对应committer才具有+1，+2权限，对应committer审批时，需要有对应评审变更评审纪要；
+# 3、目前按照业务划分，每个业务均单独配置全量maintainer 和 特定committer，未单独设置的目录，如根目录和comm目录，只能有maintainer审批；
+
 - repo:
   - cann/ops-transformer
   entry_configs: 
@@ -17,6 +22,7 @@ repositories:
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
+  
   - path:                               # DT，编译构建等相关公共代码
     - cmake
     - scripts
@@ -25,8 +31,7 @@ repositories:
     - gitcode_id: liudan12
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
-    - gitcode_id: mabing1118
-    reviewers:                     
+    - gitcode_id: mabing1118    
     - gitcode_id: gaoxiang618
   
   - path:                               # 资料和example 相关  
@@ -36,31 +41,18 @@ repositories:
     - gitcode_id: liudan12
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
-    - gitcode_id: mabing1118    
-    reviewers:                     
+    - gitcode_id: mabing1118                     
     - gitcode_id: yu-xinjie62
     - gitcode_id: songkai111
-  
-  - path:                               # 公共代码模块
-    - common
-    committers:
-    - gitcode_id: liudan12
-    - gitcode_id: Allan_Yu
-    - gitcode_id: monologue815
-    - gitcode_id: mabing1118
-    reviewers:
-    - gitcode_id: liudan12
-    - gitcode_id: Allan_Yu
-    - gitcode_id: monologue815
-    - gitcode_id: mabing1118
 
   - path:                            
     - attention
     - experimental/attention
     committers:
+    - gitcode_id: liudan12
+    - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
-    - gitcode_id: mabing1118
-    reviewers:                     
+    - gitcode_id: mabing1118               
     - gitcode_id: yang-binrong
     - gitcode_id: gaoxiang618
     - gitcode_id: huangwei791 
@@ -68,8 +60,6 @@ repositories:
     - gitcode_id: wenxin_fight
     - gitcode_id: yu-xinjie62 
     - gitcode_id: crystalhu
-    - gitcode_id: monologue815
-    - gitcode_id: mabing1118
     
   - path: 
     - ffn
@@ -79,7 +69,6 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
-    reviewers: 
     - gitcode_id: chaotang233
 
   - path:                            
@@ -89,11 +78,9 @@ repositories:
     - gitcode_id: liudan12
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
-    - gitcode_id: mabing1118
-    reviewers:                     
+    - gitcode_id: mabing1118             
     - gitcode_id: chenkang30
     - gitcode_id: wenxin_fight
-    - gitcode_id: wangyongguang
     - gitcode_id: chaotang233
     - gitcode_id: chen-linxin4
  
@@ -103,7 +90,8 @@ repositories:
     committers:
     - gitcode_id: liudan12
     - gitcode_id: Allan_Yu
-    reviewers:                     
+    - gitcode_id: monologue815
+    - gitcode_id: mabing1118                
     - gitcode_id: chenjunjian11
     - gitcode_id: wang-minbo
     - gitcode_id: liuboxi
@@ -116,7 +104,6 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
-    reviewers:
     - gitcode_id: songkai111
     - gitcode_id: yu-xinjie62 
     - gitcode_id: chen-linxin4
@@ -129,7 +116,6 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
-    reviewers:
     - gitcode_id: songkai111
     - gitcode_id: yu-xinjie62 
     - gitcode_id: chen-linxin4
