@@ -1,7 +1,7 @@
 name: runtime
 description: Runtime SIG致力于构建一个高性能、可扩展、开放且面向未来的 AI 运行时系统。
 mailing_list: https://runtime@cann.osinfra.cn
-meeting_url: https://etherpad.meeting.osinfra.cn/p/sig-runtime
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-runtime
 committers: []
 repositories:
 - repo:

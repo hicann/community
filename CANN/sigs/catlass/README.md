@@ -62,7 +62,7 @@ CATLASS API 架构图：
 - 双周例会，每双周周三 16:00-17:30 (北京时间)
   - 首次例会在`2025-10-29`举办，具体时间与调整可关注下方纪要与邮件列表
 - 会议地址：[https://meeting.osinfra.cn/cann/](https://meeting.osinfra.cn/cann/)
-- 议题申报&会议纪要：[https://etherpad.meeting.osinfra.cn/p/sig-catlass](https://etherpad.meeting.osinfra.cn/p/sig-catlass)
+- 议题申报&会议纪要：[https://etherpad-cann.meeting.osinfra.cn/p/sig-catlass](https://etherpad-cann.meeting.osinfra.cn/p/sig-catlass)
 
 ## SIG订阅
 

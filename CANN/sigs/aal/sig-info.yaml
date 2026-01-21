@@ -1,7 +1,7 @@
 name: aal
 description: 每个领域加速库可以根据需要提供不同形式的功能：包括但不限于本领域算子的补充、特定算法或机制、特定辅助类工具等。
 mailing_list: aal@cann.osinfra.cn
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/aal
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/aal
 repositories:
 - repo:
   - cann/ascend-transformer-boost

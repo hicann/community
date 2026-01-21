@@ -24,12 +24,12 @@
 ### 会议组织
 
 - 公开的会议时间：北京时间，两周一次例会，双周周二下午14:15-16:15
-- [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-doc)
+- [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-doc)
 
 ### 会议纪要
 
 - [会议地址](https://meeting.osinfra.cn/cann/)
-- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-doc)
+- [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-doc)
 
 # SIG订阅
 

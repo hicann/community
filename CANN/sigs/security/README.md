@@ -34,7 +34,7 @@
 ### 会议通知与会议纪要
 
 - [会议通知](https://meeting.osinfra.cn/cann/)
-- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-security)
+- [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-security)
 
 # SIG订阅
 

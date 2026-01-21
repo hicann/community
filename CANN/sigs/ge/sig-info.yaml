@@ -1,7 +1,7 @@
 name: ge
 description: ge-sig致力于打造开放、易用、性能领先的图编译基础设施，深度融入开源生态，让用户在主流框架获得稳定高效、持续演进的图模式体验
 mailing_list: ge@cann.osinfra.cn
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ge
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ge
 repositories:
 - repo:
   - cann/graph-autofusion

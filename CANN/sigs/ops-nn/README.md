@@ -63,7 +63,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 ### 会议纪要
 
 - [会议地址](https://meeting.osinfra.cn/cann/)
-- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-ops-nn)
+- [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-nn)
 
 ### 贡献指南
 - [贡献指南](https://gitcode.com/cann/ops-nn/blob/master/CONTRIBUTING.md)

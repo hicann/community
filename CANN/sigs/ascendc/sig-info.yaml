@@ -1,7 +1,7 @@
 name: ascendc
 description: ascendc-sig致力于打造面向昇腾AI处理器的专用算子开发语言，提升用户的算子开发体验。
 mailing_list: ascendc@cann.osinfra.cn
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ascendc
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ascendc
 repositories:
 - repo:
   - cann/atvc

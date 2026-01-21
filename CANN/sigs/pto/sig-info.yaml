@@ -1,7 +1,7 @@
 name: pto
 description: PTO 旨在简化算子 Kernel 开发流程，提供高性能计算能力，并依托虚拟指令集，实现硬件平台的跨平台可移植性。
 mailing_list: pto@cann.osinfra.cn
-meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-pto
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-pto
 mentors: []
 
 repositories:

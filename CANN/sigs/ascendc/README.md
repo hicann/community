@@ -91,12 +91,12 @@ Ascend C总体逻辑架构图如下所示：
 ### 会议组织
 
 - 公开的会议时间：北京时间，两周一次例会，双周周五上午11:00-12:00
-- [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-ascendc)
+- [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-ascendc)
 
 ### 会议纪要
 
 - [会议地址](https://meeting.osinfra.cn/cann/)
-- [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-ascendc)
+- [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-ascendc)
 
 # SIG订阅
 

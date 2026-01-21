@@ -68,12 +68,12 @@ P2P、零拷贝、共享内存等跨机跨设备内存管理机制进一步完�
 ### 会议组织
 
 * 公开的会议时间：北京时间，两周一次例会，单周(每月第一、第三周，节假日跳过)周五下午16:30-17:30
-* [议题申报](https://etherpad.meeting.osinfra.cn/p/sig-driver)
+* [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-driver)
 
 ### 会议纪要
 
 * [会议地址](https://meeting.osinfra.cn/cann/)
-* [会议纪要](https://etherpad.meeting.osinfra.cn/p/sig-driver)
+* [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-driver)
 
 # SIG订阅
 
