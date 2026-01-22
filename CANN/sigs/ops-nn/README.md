@@ -54,6 +54,47 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 张瑜翔[@zhangyuxiang0119](https://gitcode.com/zhangyuxiang0119), *zhangyuxiang21@huawei.com*
 - 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 
+### 细分领域：
+### foreach、activation、norm、quant committer列表：
+- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
+- 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
+- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
+- 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
+
+### control committer列表：
+- 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
+- 唐燕峰[@FelixTang7](https://gitcode.com/FelixTang7), *tangyanfeng@huawei.com*
+- 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
+- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
+
+### index、hash committer列表：
+- 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
+- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
+- 唐燕峰[@FelixTang7](https://gitcode.com/FelixTang7), *tangyanfeng@huawei.com*
+- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
+
+### vfusion、loss、optim committer列表：
+- 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
+- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
+- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
+- 於欣洁[@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
+
+### rnn、pooling committer列表：
+- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
+- 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
+- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
+- 张瑜翔[@zhangyuxiang0119](https://gitcode.com/zhangyuxiang0119), *zhangyuxiang21@huawei.com*
+
+### matmul committer列表：
+- 范其瑞[@fanqirui](https://gitcode.com/fanqirui), *fanqirui1@huawei.com*
+- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
+- 唐超[@chaotang233](https://gitcode.com/chaotang233), *tangchao47@huawei.com*
+
+### conv committer列表：
+- 郑李磊[@lileizheng](https://gitcode.com/lileizheng), *zhenglilei@huawei.com*
+- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
+- 张瑜翔[@zhangyuxiang0119](https://gitcode.com/zhangyuxiang0119), *zhangyuxiang21@huawei.com*
+
 # 社区运作
 
 ### 会议组织

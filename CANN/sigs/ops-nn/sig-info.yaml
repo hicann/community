@@ -1,10 +1,8 @@
 name: ops-nn
 description: 提供神经网络（Neural Network，NN）类的高阶算子库，涵盖了常见的Matmul、卷积等算子
-mailing_list: NA
-meeting_whiteboard_url: NA
-mentors: []
+mailing_list: "ops-nn@cann.osinfra.cn"
+meeting_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-nn"
 committers: []
-reviewers: []
 repositories:
 - repo:
   - cann/ops-nn
@@ -13,18 +11,6 @@ repositories:
   - gitcode_id: chenqi317
   - gitcode_id: liubo75
   - gitcode_id: crystalhu
-  reviewers: 
-  - gitcode_id: zhou-qilong
-  - gitcode_id: fanqirui
-  - gitcode_id: lileizheng
-  - gitcode_id: liu-wei
-  - gitcode_id: wangyongguang
-  - gitcode_id: yu-xinjie62
-  - gitcode_id: chaotang233
-  - gitcode_id: zhajianqing123
-  - gitcode_id: FelixTang7
-  - gitcode_id: zhangyuxiang0119
-  - gitcode_id: zhang-wu
   entry_configs: 
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -34,4 +20,122 @@ repositories:
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
-
+  - path:
+    - cmake
+    - scripts
+    - common
+    commiters:
+    - gitcode_id: zhou-qilong
+    - gitcode_id: fanqirui
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - tests
+    - docs
+    - examples
+    commiters:
+    - gitcode_id: zhou-qilong
+    - gitcode_id: fanqirui
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: zhajianqing123
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - foreach
+    - activation
+    - norm
+    - quant
+    - experimental/foreach
+    - experimental/activation
+    - experimental/norm
+    - experimental/quant
+    commiters:
+    - gitcode_id: wangyongguang
+    - gitcode_id: zhou-qilong
+    - gitcode_id: zhang-wu
+    - gitcode_id: zhajianqing123
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - control
+    - experimental/control
+    commiters:
+    - gitcode_id: wangyongguang
+    - gitcode_id: zhang-wu
+    - gitcode_id: liu-wei
+    - gitcode_id: FelixTang7
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - index
+    - hash
+    - experimental/index
+    commiters:
+    - gitcode_id: wangyongguang
+    - gitcode_id: zhou-qilong
+    - gitcode_id: zhang-wu
+    - gitcode_id: FelixTang7
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - vfusion
+    - loss
+    - optim
+    - experimental/vfusion
+    - experimental/loss
+    - experimental/optim
+    commiters:
+    - gitcode_id: wangyongguang
+    - gitcode_id: zhou-qilong
+    - gitcode_id: zhang-wu
+    - gitcode_id: yu-xinjie62
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - rnn
+    - pooling
+    - experimental/rnn
+    - experimental/pooling
+    commiters:
+    - gitcode_id: wangyongguang
+    - gitcode_id: zhou-qilong
+    - gitcode_id: zhang-wu
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - matmul
+    - experimental/matmul
+    commiters:
+    - gitcode_id: fanqirui
+    - gitcode_id: zhang-wu
+    - gitcode_id: chaotang233
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - conv
+    - experimental/conv
+    commiters:
+    - gitcode_id: lileizheng
+    - gitcode_id: zhang-wu
+    - gitcode_id: zhangyuxiang0119
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
