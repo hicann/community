@@ -24,7 +24,7 @@ repositories:
     - cmake
     - scripts
     - common
-    commiters:
+    committers:
     - gitcode_id: zhou-qilong
     - gitcode_id: fanqirui
     - gitcode_id: tangweiwei2
@@ -35,7 +35,7 @@ repositories:
     - tests
     - docs
     - examples
-    commiters:
+    committers:
     - gitcode_id: zhou-qilong
     - gitcode_id: fanqirui
     - gitcode_id: zhangyuxiang0119
@@ -53,7 +53,7 @@ repositories:
     - experimental/activation
     - experimental/norm
     - experimental/quant
-    commiters:
+    committers:
     - gitcode_id: wangyongguang
     - gitcode_id: zhou-qilong
     - gitcode_id: zhang-wu
@@ -65,7 +65,7 @@ repositories:
   - path:
     - control
     - experimental/control
-    commiters:
+    committers:
     - gitcode_id: wangyongguang
     - gitcode_id: zhang-wu
     - gitcode_id: liu-wei
@@ -78,7 +78,7 @@ repositories:
     - index
     - hash
     - experimental/index
-    commiters:
+    committers:
     - gitcode_id: wangyongguang
     - gitcode_id: zhou-qilong
     - gitcode_id: zhang-wu
@@ -94,7 +94,7 @@ repositories:
     - experimental/vfusion
     - experimental/loss
     - experimental/optim
-    commiters:
+    committers:
     - gitcode_id: wangyongguang
     - gitcode_id: zhou-qilong
     - gitcode_id: zhang-wu
@@ -108,7 +108,7 @@ repositories:
     - pooling
     - experimental/rnn
     - experimental/pooling
-    commiters:
+    committers:
     - gitcode_id: wangyongguang
     - gitcode_id: zhou-qilong
     - gitcode_id: zhang-wu
@@ -120,7 +120,7 @@ repositories:
   - path:
     - matmul
     - experimental/matmul
-    commiters:
+    committers:
     - gitcode_id: fanqirui
     - gitcode_id: zhang-wu
     - gitcode_id: chaotang233
@@ -131,7 +131,7 @@ repositories:
   - path:
     - conv
     - experimental/conv
-    commiters:
+    committers:
     - gitcode_id: lileizheng
     - gitcode_id: zhang-wu
     - gitcode_id: zhangyuxiang0119
