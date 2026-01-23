@@ -11,6 +11,8 @@ repositories:
   - gitcode_id: chenqi317
   - gitcode_id: liubo75
   - gitcode_id: crystalhu
+  - gitcode_id: fanqirui
+  - gitcode_id: zhou-qilong
   entry_configs: 
   - path:
     - "*/*/op_host/op_api/*.h"
