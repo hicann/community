@@ -26,6 +26,8 @@ repositories:
 - repo:
   - cann/ge
   committers:
+  - gitcode_id: shengnan666
+  - gitcode_id: wqtshg_wt
   - gitcode_id: tangqunzhang
   - gitcode_id: kobemini
   - gitcode_id: stevenaw0
@@ -37,17 +39,54 @@ repositories:
   - gitcode_id: fu-jun2
   - gitcode_id: medivh-x
   - gitcode_id: xchu42
-  - gitcode_id: jason_yuan_ye
-  - gitcode_id: liu-wei
-  - gitcode_id: wei_chengaung
-  - gitcode_id: qq_28230035
-  - gitcode_id: jxkongyue
-  entry_configs: []
-  
+  - gitcode_id: zhangfan_hanq
+  - gitcode_id: zhujingjing
+  entry_configs:
+  - path:
+    - inc/external
+    committers:
+    - gitcode_id: shengnan666
+    - gitcode_id: wqtshg_wt
+  - path:
+    - compiler/engines/nn_engine
+    - compiler/engines/ffts_engine
+    committers:
+    - gitcode_id: jason_yuan_ye
+    - gitcode_id: arthur_morgan_hw
+    - gitcode_id: lijunyu_111
+  - path:
+    - compiler/engines/cpu_engine
+    committers:
+    - gitcode_id: liu-wei
+  - path:
+    - compiler/engines/dvpp_engine
+    committers:
+    - gitcode_id: louyanting
+    - gitcode_id: wei_chengaung
+  - path:
+    - compiler/engines/hccl_engine
+    committers:
+    - gitcode_id: dingweiqin_57
+    - gitcode_id: laodazhao1
+  - path:
+    - base/common/helper/mobile
+    - base/common/helper/mobile_model_helper.cc
+    - inc/framework/common/helper/mobile_model_helper.h
+    committers:
+    - gitcode_id: qq_28230035
+    - gitcode_id: jxkongyue   
 - repo:
   - cann/metadef
   committers:
+  - gitcode_id: shengnan666
+  - gitcode_id: wqtshg_wt
   - gitcode_id: kobemini
   - gitcode_id: zhanj
   - gitcode_id: tangqunzhang
-  entry_configs: []
+  entry_configs:
+  - path:
+    - inc/external
+    - pkg_inc
+    committers:
+    - gitcode_id: shengnan666
+    - gitcode_id: wqtshg_wt
