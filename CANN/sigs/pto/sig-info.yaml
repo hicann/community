@@ -38,4 +38,9 @@ repositories:
     - gitcode_id: Zhanghaijian
     - gitcode_id: qukelin
     - gitcode_id: bluesky901
-  entry_configs: []
+  entry_configs:
+    - path:
+        - docs
+      committers:
+        - gitcode_id: SherwinBai
+        - gitcode_id: zhoubotcam
