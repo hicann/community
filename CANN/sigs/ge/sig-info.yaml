@@ -11,7 +11,12 @@ repositories:
   - gitcode_id: zhanj
   - gitcode_id: XuebinYang
   - gitcode_id: sjtulxh
-  entry_configs: []
+  entry_configs:
+  - path:
+    - super_kernel/src/superkernel/__init__.py
+    committers:
+    - gitcode_id: shengnan666
+    - gitcode_id: wqtshg_wt
 
 - repo:
   - cann/triton-inference-server-ge-backend
