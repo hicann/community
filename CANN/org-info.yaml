@@ -92,6 +92,12 @@ sigs:
       - gitcode_id: loov1
         name: 徐鲁威
         email: xuluwei@huawei.com
+      - gitcode_id: llimwang
+        name: 王林木
+        email: wanglinmu@huawei.com
+      - gitcode_id: rxtfeng
+        name: 冯彤
+        email: fengtong5@huawei.com
   - sig_name: ops-nn
     maintainers: 
       - gitcode_id: tangweiwei2

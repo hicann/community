@@ -35,9 +35,10 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 - 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
 - 顾宝成[@gubaocheng](https://gitcode.com/gubaocheng), *gubaocheng@huawei.com*
 - 徐鲁威[@loov1](https://gitcode.com/loov1), *xuluwei@huawei.com*
+- 王林木[@llimwang](https://gitcode.com/llimwang), *wanglinmu@huawei.com*
+- 冯彤[@rxtfeng](https://gitcode.com/rxtfeng), *fengtong5@huawei.com*
 
 ### Committer列表
-- 王林木[@llimwang](https://gitcode.com/llimwang), *wanglinmu@huawei.com*
 - 骆文[@luowen203_gg123](https://gitcode.com/luowen203_gg123), *luowen16@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 - 陈佳良[@jia0liang](https://gitcode.com/jia0liang), *chenjialiang@huawei.com*
@@ -49,7 +50,6 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 - 於欣洁[@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 刘鑫鑫[@LiuXinxin23](https://gitcode.com/LiuXinxin23), *liuxinxin23@hisilicon.com*
 - 唐燕锋[@FelixTang7](https://gitcode.com/FelixTang7), *tangyanfeng@huawei.com*
-- 冯彤[@rxtfeng](https://gitcode.com/rxtfeng), *fengtong5@huawei.com*
 - 张浩[@demoauguste](https://gitcode.com/demoauguste), *zhanghao418@huawei.com*
 - 张喻翔[@zhangyuxiang0119](https://gitcode.com/zhangyuxiang0119), *zhangyuxiang21@huawei.com*
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
