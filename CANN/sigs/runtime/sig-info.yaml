@@ -26,6 +26,7 @@ repositories:
   - path:
     - include
     - pkg_inc
+    - src/platform
     - src/runtime/feature/platform
     - src/runtime/feature/runtime.cmake
     - src/runtime/feature/CMakeLists.txt
@@ -33,6 +34,9 @@ repositories:
     - gitcode_id: wangtao43
     - gitcode_id: tingwood
     - gitcode_id: derekxu
+    - gitcode_id: liubin1986
+    - gitcode_id: gcw_9B2nSsjo
+    - gitcode_id: shikai-1
   - path:
     - src/runtime
     - tests/ut/runtime
