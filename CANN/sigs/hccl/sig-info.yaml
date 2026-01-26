@@ -15,7 +15,17 @@ repositories:
   - gitcode_id: zhaozhihui
   - gitcode_id: lining23666
   - gitcode_id: youyx
-  entry_configs: []
+  entry_configs:
+  - path:
+    - include
+    committers:
+    - gitcode_id: songmingyang
+    - gitcode_id: zhaozhihui
+    reviewers:
+    - gitcode_id: zhaozhihui
+    - gitcode_id: songmingyang
+    - gitcode_id: lining23666
+    - gitcode_id: youyx
 
 - repo:
   - cann/hccl
