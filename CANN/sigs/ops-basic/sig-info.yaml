@@ -43,6 +43,12 @@ repositories:
     - gitcode_id: jia0liang
     - gitcode_id: songkai111
     - gitcode_id: wangrui_
+  - path:
+    - include
+    - pkg_inc
+    committers:
+    - gitcode_id: wangyongguang
+    - gitcode_id: tang-lei01
 - repo:
   - cann/ops-cv
   committers:
