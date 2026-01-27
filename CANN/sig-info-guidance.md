@@ -7,8 +7,6 @@ CANN社区SIG成员和仓库管理需要规范管理。
 
 CANN社区基于**community代码仓库**，实现CANN社区的**项目、SIG、仓库、成员及其权限的统一管理**。
 
-> 补充说明：community仓库中infrastructure SIG组的sig-info.yaml管理community仓库的PR合入权限（CANN/sigs下的具体SIG目录除外）。
-
 ## 关键角色配置
 角色|	字段|	权限范围|
 |------|----------|----------|
