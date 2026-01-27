@@ -107,3 +107,6 @@ Ascend C总体逻辑架构图如下所示：
 ### asc-tools
 
 - [孪生调试：基于Matmul高阶API快速落地矩阵乘法操作，以轻量Matmul算子为示例，具象化呈现孪生调试能力](https://gitcode.com/cann/asc-tools/tree/master/examples/02_matmul_kernellaunch/)
+
+- [基于ATVC模板库的Elementwise算子实现：以TanhGrad为例，展示如何使用ATVC模板库快速实现ElementWise类算子，并呈现模板库提供的调试调优能力](https://gitcode.com/cann/atvc/tree/master/examples/tanh_grad/)
+- [基于ATVC模板库的融合算子实现：以ReluWithReduceSum为例，展示如何使用ATVC模板库实现Reduce和Elementwise融合的算子](https://gitcode.com/cann/atvc/tree/master/examples/relu_with_reduce_sum/)
