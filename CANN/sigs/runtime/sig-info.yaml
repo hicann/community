@@ -65,6 +65,11 @@ repositories:
     - gitcode_id: chenhao_1209
   - path:
     - src/aicpu_sched
+    - src/queue_schedule
+    - src/tsd
+    - tests/ut/aicpu_sched
+    - tests/ut/queue_schedule
+    - tests/ut/tsd
     committers:
     - gitcode_id: ZhaiPeiChao
     - gitcode_id: LiWei79
