@@ -55,6 +55,9 @@ repositories:
   - path:
     - compiler/engines/nn_engine
     - compiler/engines/ffts_engine
+    - compiler/opcompiler
+    - tests/engines/nn_engine
+    - tests/engines/ffts_engine
     committers:
     - gitcode_id: jason_yuan_ye
     - gitcode_id: arthur_morgan_hw
