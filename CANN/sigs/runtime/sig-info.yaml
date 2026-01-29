@@ -22,6 +22,8 @@ repositories:
   - gitcode_id: zhaozhixuan
   - gitcode_id: zhangfan_hanq
   - gitcode_id: fu-jun2
+  - gitcode_id: ykl999
+  - gitcode_id: wangluyao17
   entry_configs:
   - path:
     - include
@@ -57,6 +59,8 @@ repositories:
     - gitcode_id: zhou-wuxiao
     - gitcode_id: qinchuanyu
     - gitcode_id: chen_vvjob
+    - gitcode_id: ykl999
+    - gitcode_id: wangluyao17
   - path:
     - src/dfx
     committers:
