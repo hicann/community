@@ -20,71 +20,78 @@
         - posembedding：对应旋转位置编码计算算子
         - ffn：对应MoeFFN和FFN等相关计算算子
 
+# 社区运作
+
 ## 组织会议：
-两周一次例会，每单周周四上午10点-12点
+两周一次例会，每单周周三下午15:30点-17:30点
 - [会议链接](https://meeting.osinfra.cn/cann/)
 - [会议议题&纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-transformer)
 - [邮件列表订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/ops-transformer.cann.osinfra.cn/)
 
+## 贡献指南
+- [贡献指南](https://gitcode.com/cann/ops-transformer/blob/master/CONTRIBUTING.md)
+
 # 成员
 
-### Maintainer列表
-- 刘丹 [[@liudan12]](https://gitcode.com/liudan12)
-- 俞郑中 [[@Allan_Yu]](https://gitcode.com/Allan_Yu)
-- 黄俊健 [[@monologue815]](https://gitcode.com/monologue815)
-- 马兵 [[@mabing1118]](https://gitcode.com/mabing1118)
+## Maintainer列表
+- 刘丹 [@liudan12](https://gitcode.com/liudan12), *liudan12@huawei.com*
+- 俞郑中 [@Allan_Yu](https://gitcode.com/Allan_Yu), *yuzhengzhong1@huawei.com*
+- 黄俊健 [@monologue815](https://gitcode.com/monologue815), *huangjunjian3@huawei.com*
+- 马兵 [@mabing1118](https://gitcode.com/mabing1118), *mabing726@huawei.com*
 
 
-### Committer列表
-- 陈建军 [[@chenjianjun11]](https://gitcode.com/chenjianjun11)
-- 杨彬榕 [[@yang-binrong]](https://gitcode.com/yang-binrong)
-- 王民波 [[@wang-minbo]](https://gitcode.com/wang-minbo)
-- 陈康 [[@chenkang30]](https://gitcode.com/chenkang30)
-- 宋凯 [[@songkai111]](https://gitcode.com/songkai111)
-- 高翔 [[@gaoxiang618]](https://gitcode.com/gaoxiang618)
-- 黄伟 [[@huangwei791]](https://gitcode.com/huangwei791)
-- 苗方正 [[@miaofangzheng]](https://gitcode.com/miaofangzheng)
-- 温忻 [[@wenxin_fight]](https://gitcode.com/wenxin_fight)
-- 王永光 [[@wangyongguang]](https://gitcode.com/wangyongguang)
-- 於欣洁 [[@yu-xinjie62]](https://gitcode.com/yu-xinjie62)
-- 刘博熙 [[@liuboxi]](https://gitcode.com/liuboxi)
-- 唐超 [[@chaotang233]](https://gitcode.com/chaotang233)
-- 胡碧霞 [@crystalhu](https://gitcode.com/crystalhu)
-- 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4)
+## Committer列表
+- 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
+- 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
+- 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangmibo1@hisilicon.com*
+- 陈康 [@chenkang30](https://gitcode.com/chenkang30), *chenkang30@huawei.com*
+- 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
+- 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
+- 黄伟 [@huangwei791](https://gitcode.com/huangwei791), *huangwei791@huawei.com*
+- 苗方正 [@miaofangzheng](https://gitcode.com/miaofangzheng), *miaofangzheng@huawei.com*
+- 温忻 [@wenxin_fight](https://gitcode.com/wenxin_fight), *wenxin20@hisilicon.com*
+- 王永光 [@wangyongguang](https://gitcode.com/wangyongguang), *wangyongguang1@huawei.com*
+- 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
+- 刘博熙 [@liuboxi](https://gitcode.com/liuboxi), *liuboxi1@huawei.com*
+- 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
+- 胡碧霞 [@crystalhu](https://gitcode.com/crystalhu), *hubixia1@huawei.com*
+- 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 
-### 细分领域：
-### moe committer列表：
-- 宋凯 [@songkai111]
-- 陈琳鑫 [@chen-linxin4]
-- 於欣洁 [@yu-xinjie62]
+## 细分领域：
+## moe committer列表：
+- 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
+- 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
+- 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 
-### mc2 committer列表：
-- 刘丹 [@liudan12]
-- 陈建军 [@chenjianjun11]
-- 王民波 [@wang-minbo]
-- 刘博熙 [@liuboxi]
+## mc2 committer列表：
+- 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
+- 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangmibo1@hisilicon.com*
+- 刘博熙 [@liuboxi](https://gitcode.com/liuboxi), *liuboxi1@huawei.com*
 
-### ffn committer列表：
-- 唐超 [@chaotang233]
+## ffn committer列表：
+- 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
 
-### gmm committer列表：
-- 陈康 [@chenkang30]
-- 王永光 [@wangyongguang]
-- 陈琳鑫 [@chen-linxin4]
+## gmm committer列表：
+- 陈康 [@chenkang30](https://gitcode.com/chenkang30), *chenkang30@huawei.com*
+- 王永光 [@wangyongguang](https://gitcode.com/wangyongguang), *wangyongguang1@huawei.com*
+- 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 
-### rope committer列表：
-- 宋凯 [@songkai111]
-- 於欣洁 [@yu-xinjie62] 
-- 陈琳鑫 [@chen-linxin4]
+## rope committer列表：
+- 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
+- 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
+- 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 
-### attention committer列表：
-- 高翔 [@gaoxiang618]
-- 黄伟 [@huangwei791]
-- 苗方正 [@miaofangzheng]
-- 杨彬榕 [@yang-binrong]
-- 马兵 [@mabing1118]
-- 胡碧霞 [@crystalhu]
-- 於欣洁 [@yu-xinjie62] 
+## attention committer列表：
+- 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
+- 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
+- 黄伟 [@huangwei791](https://gitcode.com/huangwei791), *huangwei791@huawei.com*
+- 胡碧霞 [@crystalhu](https://gitcode.com/crystalhu), *hubixia1@huawei.com*
+- 苗方正 [[@miaofangzheng]](https://gitcode.com/miaofangzheng), *miaofangzheng@huawei.com*
+- 於欣洁 [[@yu-xinjie62]](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
+
+# SIG订阅
+
+- [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/ops-transformer.cann.osinfra.cn/)
 
 
 # 仓库清单
