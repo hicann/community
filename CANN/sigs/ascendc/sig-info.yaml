@@ -4,14 +4,148 @@ mailing_list: ascendc@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ascendc
 repositories:
 - repo:
-  - cann/atvc
+  - cann/asc-devkit
   committers:
   - gitcode_id: wangxiaozhi
-  - gitcode_id: wulinyu
+  - gitcode_id: xun_zhuge
+  - gitcode_id: jiangZD
+  - gitcode_id: shi_nanxiang
+  - gitcode_id: gao_dafa
+  - gitcode_id: ookkkkoo1122
+  - gitcode_id: bianque
+  - gitcode_id: wqtshg_wt
+  - gitcode_id: zhudi22
+  - gitcode_id: wuyang_hw
+  - gitcode_id: shen_mbsw
+  - gitcode_id: houyuyang
+  - gitcode_id: yangbinhua
+  - gitcode_id: XuebinYang
+  - gitcode_id: sjtulxh
+  - gitcode_id: chenyiyuan
+  - gitcode_id: dengjing_aoe
+  - gitcode_id: YeZZzzz1
+  - gitcode_id: DragonBornHD84
+  - gitcode_id: zhanghao_0689
+  - gitcode_id: suqwe
+  - gitcode_id: kong0808
+  - gitcode_id: jiangxinyu3
   - gitcode_id: zhuliangying
-  - gitcode_id: fujun19
   - gitcode_id: wulinyu
-  entry_configs: []
+  - gitcode_id: bluesky901
+  - gitcode_id: yanqingshang
+  - gitcode_id: yukangchen
+  entry_configs:
+  - path:
+    - cmake
+    committers:
+    - gitcode_id: xun_zhuge
+  - path:
+    - docs
+    committers:
+    - gitcode_id: munanhw
+    - gitcode_id: ai_xin
+  - path:
+    - include
+    committers:
+    - gitcode_id: ascendhjh
+  - path:
+    - include/aicpu_api
+    committers:
+    - gitcode_id: kevin365
+  - path:
+    - include/basic_api
+    committers:
+    - gitcode_id: wuzhaolin
+  - path:
+    - include/c_api
+    committers:
+    - gitcode_id: wuzhaolin
+  - path:
+    - include/micro_api
+    committers:
+    - gitcode_id: horming
+  - path:
+    - include/simt_api
+    committers:
+    - gitcode_id: zhanghao_0689
+  - path:
+    - impl
+    committers:
+    - gitcode_id: xun_zhuge
+    - gitcode_id: qin437231
+  - path:
+    - impl/aicpu_api
+    committers:
+    - gitcode_id: chenyiyuan
+  - path:
+    - impl/basic_api
+    committers:
+    - gitcode_id: chenyiyuan
+    - gitcode_id: wuyang_hw
+  - path:
+    - impl/c_api
+    committers:
+    - gitcode_id: pangfd
+    - gitcode_id: yue_mo_du_qian
+  - path:
+    - impl/micro_api
+    committers:
+    - gitcode_id: wuyang_hw
+  - path:
+    - impl/simt_api
+    committers:
+    - gitcode_id: zhuliangying
+  - path:
+    - scripts
+    committers:
+    - gitcode_id: xun_zhuge
+    - gitcode_id: kevin365
+  - path:
+    - tools
+    committers:
+    - gitcode_id: xun_zhuge
+    - gitcode_id: qin437231
+  - path:
+    - tools/aclrtc
+    committers:
+    - gitcode_id: YANXI_ZHAO
+    - gitcode_id: wk0911
+  - path:
+    - tools/build
+    committers:
+    - gitcode_id: XuebinYang
+    - gitcode_id: sjtulxh
+  - path:
+    - examples
+    committers:
+    - gitcode_id: bianque
+    - gitcode_id: YANXI_ZHAO
+    - gitcode_id: munanhw
+    - gitcode_id: ai_xin
+    - gitcode_id: xun_zhuge
+
+- repo:
+  - cann/asc-tools
+  committers:
+  - gitcode_id: wangxiaozhi
+  - gitcode_id: xun_zhuge
+  - gitcode_id: ookkkkoo1122
+  - gitcode_id: bianque
+  - gitcode_id: zhudi22
+  - gitcode_id: houyuyang
+  - gitcode_id: XuebinYang
+  - gitcode_id: sjtulxh
+  - gitcode_id: chenyiyuan
+  - gitcode_id: zhanghao_0689
+  - gitcode_id: wuyang_hw
+  - gitcode_id: shen_mbsw
+  - gitcode_id: yukangchen
+  entry_configs: 
+  - path:
+    - cpudebug/include
+    committers:
+    - gitcode_id: wk0911
+    - gitcode_id: zhanghao_0689
 
 - repo:
   - cann/pyasc
@@ -33,53 +167,24 @@ repositories:
   - gitcode_id: hyyisasleep
   - gitcode_id: gehaoxuan
   - gitcode_id: li_zeran
-  entry_configs: []
+  entry_configs:
+  - path:
+    - include
+    - python/asc/language
+    committers:
+    - gitcode_id: ascendhjh
+    - gitcode_id: qin437231
 
 - repo:
-  - cann/asc-devkit
+  - cann/atvc
   committers:
   - gitcode_id: wangxiaozhi
-  - gitcode_id: xun_zhuge
-  - gitcode_id: jiangZD
-  - gitcode_id: shi_nanxiang
-  - gitcode_id: gao_dafa
-  - gitcode_id: ookkkkoo1122
-  - gitcode_id: bianque
-  - gitcode_id: wqtshg_wt
-  - gitcode_id: zhudi22
-  - gitcode_id: wuyang_hw
-  - gitcode_id: houyuyang
-  - gitcode_id: yangbinhua
-  - gitcode_id: XuebinYang
-  - gitcode_id: sjtulxh
-  - gitcode_id: chenyiyuan
-  - gitcode_id: dengjing_aoe
-  - gitcode_id: YeZZzzz1
-  - gitcode_id: DragonBornHD84
-  - gitcode_id: zhanghao_0689
-  - gitcode_id: suqwe
-  - gitcode_id: kong0808
-  - gitcode_id: jiangxinyu3
   - gitcode_id: zhuliangying
+  - gitcode_id: fujun19
   - gitcode_id: wulinyu
-  - gitcode_id: bluesky901
-  - gitcode_id: yanqingshang
-  - gitcode_id: yukangchen
-  entry_configs: []
-
-- repo:
-  - cann/asc-tools
-  committers:
-  - gitcode_id: wangxiaozhi
-  - gitcode_id: xun_zhuge
-  - gitcode_id: ookkkkoo1122
-  - gitcode_id: bianque
-  - gitcode_id: zhudi22
-  - gitcode_id: houyuyang
-  - gitcode_id: XuebinYang
-  - gitcode_id: sjtulxh
-  - gitcode_id: chenyiyuan
-  - gitcode_id: zhanghao_0689
-  - gitcode_id: wuyang_hw
-  - gitcode_id: yukangchen
-  entry_configs: []
+  entry_configs: 
+  - path:
+    - include
+    - examples
+    committers:
+    - gitcode_id: wulinyu
