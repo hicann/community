@@ -1,8 +1,21 @@
 name: QA
 description: 致力于更好的提升CANN开源社区的质量和保障社区质量活动的规范、高效开展。
-mailing_list: NA
-meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/QA
-mentors: []
-committers: []
-reviewers: []
+mailing_list: qa@cann.osinfra.cn
+meeting_url: https://etherpad-cann.meeting.osinfra.cn/p/QA
+committers: 
+- gitcode_id: guoxin_hw
+- gitcode_id: wangyan189
+- gitcode_id: black_piano
+- gitcode_id: liuhanwen8
+- gitcode_id: yzp_2024
+- gitcode_id: MionLAN
+- gitcode_id: hongjun_nju
+- gitcode_id: helloGit3
+- gitcode_id: x00877881
+- gitcode_id: NorthMars
+- gitcode_id: chengchidada
+- gitcode_id: w5306
+- gitcode_id: Xing_Cai
+- gitcode_id: caojinye
+- gitcode_id: zylgitcode2025
 repositories: []
