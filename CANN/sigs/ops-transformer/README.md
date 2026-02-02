@@ -43,7 +43,7 @@
 ## Committer列表
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
-- 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangmibo1@hisilicon.com*
+- 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangminbo1@hisilicon.com*
 - 陈康 [@chenkang30](https://gitcode.com/chenkang30), *chenkang30@huawei.com*
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
 - 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
@@ -56,16 +56,18 @@
 - 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
 - 胡碧霞 [@crystalhu](https://gitcode.com/crystalhu), *hubixia1@huawei.com*
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
+- 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 - 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
+- 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
 
 ## mc2 committer列表：
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
-- 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangmibo1@hisilicon.com*
+- 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangminbo1@hisilicon.com*
 - 刘博熙 [@liuboxi](https://gitcode.com/liuboxi), *liuboxi1@huawei.com*
 
 ## ffn committer列表：
@@ -75,11 +77,13 @@
 - 陈康 [@chenkang30](https://gitcode.com/chenkang30), *chenkang30@huawei.com*
 - 王永光 [@wangyongguang](https://gitcode.com/wangyongguang), *wangyongguang1@huawei.com*
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
+- 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
 
-## rope committer列表：
+## posembedding committer列表：
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
 - 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
+- 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
 
 ## attention committer列表：
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
@@ -88,6 +92,7 @@
 - 胡碧霞 [@crystalhu](https://gitcode.com/crystalhu), *hubixia1@huawei.com*
 - 苗方正 [[@miaofangzheng]](https://gitcode.com/miaofangzheng), *miaofangzheng@huawei.com*
 - 於欣洁 [[@yu-xinjie62]](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
+- 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
 
 # SIG订阅
 
