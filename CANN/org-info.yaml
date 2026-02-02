@@ -246,3 +246,17 @@ sigs:
       - gitcode_id: suqwe
         name: 苏建加
         email: sujianjia@huawei.com
+  - sig_name: Material Chemical Engineering
+    maintainers:
+      - gitcode_id: Huang-jianxing
+        name: 黄剑兴
+        email: huangjianxing4@huawei.com
+      - gitcode_id: Splendid2025
+        name: 张玉橙
+        email: zhangyucheng23@huawei.com
+      - gitcode_id: gcw_Vy5QKdan
+        name: 周吉彬
+        email: zhoujibin@dicp.ac.cn
+      - gitcode_id: gaofei06
+        name: 高菲
+        email: gaofei06@petrochina.com.cn
