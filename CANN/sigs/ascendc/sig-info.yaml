@@ -94,7 +94,8 @@ repositories:
   - path:
     - impl/simt_api
     committers:
-    - gitcode_id: zhuliangying
+    - gitcode_id: wulinyu
+    - gitcode_id: wangxiaozhi
   - path:
     - scripts
     committers:
@@ -140,6 +141,7 @@ repositories:
   - gitcode_id: wuyang_hw
   - gitcode_id: shen_mbsw
   - gitcode_id: yukangchen
+  - gitcode_id: wulinyu
   entry_configs: 
   - path:
     - cpudebug/include
