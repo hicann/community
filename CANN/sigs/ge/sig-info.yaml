@@ -46,6 +46,7 @@ repositories:
   - gitcode_id: xchu42
   - gitcode_id: zhangfan_hanq
   - gitcode_id: zhujingjing
+  - gitcode_id: depeng1994
   entry_configs:
   - path:
     - inc/external
@@ -91,6 +92,7 @@ repositories:
   - gitcode_id: kobemini
   - gitcode_id: zhanj
   - gitcode_id: tangqunzhang
+  - gitcode_id: depeng1994
   entry_configs:
   - path:
     - inc/external
