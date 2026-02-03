@@ -15,6 +15,15 @@ repositories:
   - gitcode_id: zhou-qilong
   entry_configs: 
   - path:
+    - "*/*/docs/acl*.md"
+    - "*/*/README.md"
+    committers:
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: gitee-duhuiping
+    - gitcode_id: zhouwenfang
+    - gitcode_id: wuyao51511
+    - gitcode_id: gitee-yanglulu
+  - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"
     - "*/*/op_api/*.h"
@@ -50,10 +59,20 @@ repositories:
     - foreach
     - activation
     - norm
-    - quant
     - experimental/foreach
     - experimental/activation
     - experimental/norm
+    committers:
+    - gitcode_id: wangyongguang
+    - gitcode_id: zhou-qilong
+    - gitcode_id: zhang-wu
+    - gitcode_id: zhajianqing123
+    - gitcode_id: tangweiwei2
+    - gitcode_id: chenqi317
+    - gitcode_id: liubo75
+    - gitcode_id: crystalhu
+  - path:
+    - quant
     - experimental/quant
     committers:
     - gitcode_id: wangyongguang
@@ -64,6 +83,8 @@ repositories:
     - gitcode_id: chenqi317
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
+    - gitcode_id: wangzitao_leo
+    - gitcode_id: sxb154714
   - path:
     - control
     - experimental/control
@@ -130,6 +151,8 @@ repositories:
     - gitcode_id: chenqi317
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
+    - gitcode_id: wangzitao_leo
+    - gitcode_id: sxb154714    
   - path:
     - conv
     - experimental/conv
