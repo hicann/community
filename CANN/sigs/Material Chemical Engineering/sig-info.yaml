@@ -1,0 +1,31 @@
+name: Material Chemical Engineering
+description: 面向流程工业的垂直领域的算子库，聚焦化工行业，面向流程工业“机理+数据”双轮驱动的领域计算层,提供基于CANN的各类算法样例
+mailing_list: mce@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-Material-Chemical-Engineering
+committers: []
+repositories:
+- repo:
+  - CANN/sigs/Material Chemical Engineering-mat-chem-sim-pred
+  committers:
+  - gitcode_id: gcw_IXr06tDI
+    name: 刘非
+    email: liuf23357@gmail.com
+  - gitcode_id: haikuo
+    name: 刘海东
+    email: aliutec@163.com
+  - gitcode_id: gaozibo
+    name: 高梓博
+    email: gaozibo@petrochina.com.cn
+  - gitcode_id: gcw_81NVP65w
+    name: 马博文
+    email: iambowen.m@qq.com
+  - gitcode_id: huawei_liudalin
+    name: 刘达林
+    email: liudalin@huawei.com
+  - gitcode_id: zhaojun735
+    name: 赵俊
+    email: roomdream@qq.com
+  - gitcode_id: imSixSeven
+    name: 郑柳琪
+    email: 2557692481@qq.com
+  entry_configs: []
