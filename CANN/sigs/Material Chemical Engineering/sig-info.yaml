@@ -5,7 +5,7 @@ meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-Material-
 committers: []
 repositories:
 - repo:
-  - CANN/sigs/Material Chemical Engineering-mat-chem-sim-pred
+  - cann/mat-chem-sim-pred
   committers:
   - gitcode_id: gcw_IXr06tDI
     name: 刘非
@@ -28,4 +28,7 @@ repositories:
   - gitcode_id: imSixSeven
     name: 郑柳琪
     email: 2557692481@qq.com
+  - gitcode_id: zhangqianghao
+    name: 张强豪
+    email: 1964035193@qq.com
   entry_configs: []
