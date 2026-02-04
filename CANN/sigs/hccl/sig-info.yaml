@@ -70,6 +70,7 @@ repositories:
       - gitcode_id: chengym
       - gitcode_id: abiggg
       - gitcode_id: ccNeo824
+      - gitcode_id: ouyangxizi
 
     - path:
       - pkg_inc
@@ -134,6 +135,7 @@ repositories:
       - gitcode_id: chengym
       - gitcode_id: abiggg
       - gitcode_id: ccNeo824
+      - gitcode_id: ouyangxizi
 
     - path:
       - src/framework/device/aicpu_kfc
