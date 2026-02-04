@@ -39,6 +39,7 @@ repositories:
     - cmake
     committers:
     - gitcode_id: xun_zhuge
+    - gitcode_id: gao_dafa
   - path:
     - docs
     committers:
@@ -48,35 +49,52 @@ repositories:
     - include
     committers:
     - gitcode_id: ascendhjh
+    - gitcode_id: wuzhaolin
+  - path:
+    - include/adv_api
+    committers:
+    - gitcode_id: ascendhjh
+    - gitcode_id: wuzhaolin
   - path:
     - include/aicpu_api
     committers:
+    - gitcode_id: ascendhjh
     - gitcode_id: kevin365
   - path:
     - include/basic_api
     committers:
+    - gitcode_id: ascendhjh
     - gitcode_id: wuzhaolin
   - path:
     - include/c_api
     committers:
+    - gitcode_id: ascendhjh
     - gitcode_id: wuzhaolin
   - path:
     - include/micro_api
     committers:
+    - gitcode_id: ascendhjh
     - gitcode_id: horming
   - path:
     - include/simt_api
     committers:
+    - gitcode_id: ascendhjh
     - gitcode_id: zhanghao_0689
   - path:
-    - impl
+    - include/experimental/tensor_api
     committers:
-    - gitcode_id: xun_zhuge
-    - gitcode_id: qin437231
+    - gitcode_id: ascendhjh
+    - gitcode_id: wuzhaolin
+  - path:
+    - include/utils
+    committers:
+    - gitcode_id: ascendhjh
+    - gitcode_id: wuzhaolin
   - path:
     - impl/aicpu_api
     committers:
     - gitcode_id: chenyiyuan
+    - gitcode_id: wuyang_hw
   - path:
     - impl/basic_api
     committers:
@@ -88,9 +106,15 @@ repositories:
     - gitcode_id: pangfd
     - gitcode_id: yue_mo_du_qian
   - path:
+    - impl/experimental/tensor_api
+    committers:
+    - gitcode_id: pangfd
+    - gitcode_id: yue_mo_du_qian
+  - path:
     - impl/micro_api
     committers:
     - gitcode_id: wuyang_hw
+    - gitcode_id: houyuyang
   - path:
     - impl/simt_api
     committers:
@@ -190,3 +214,4 @@ repositories:
     - examples
     committers:
     - gitcode_id: wulinyu
+    - gitcode_id: wangxiaozhi
