@@ -21,27 +21,10 @@ repositories:
     committers:
     - gitcode_id: songmingyang
     - gitcode_id: zhaozhihui
-    reviewers:
-    - gitcode_id: zhaozhihui
-    - gitcode_id: songmingyang
-    - gitcode_id: lining23666
-    - gitcode_id: youyx
 
 - repo:
   - cann/hccl
   committers:
-  - gitcode_id: yanyefeng
-  - gitcode_id: wenxuemin
-  - gitcode_id: leabclove
-  - gitcode_id: ccl_ligang
-  - gitcode_id: Innoecho
-  - gitcode_id: chenke2026
-  - gitcode_id: temper7620
-  - gitcode_id: hey_yahei
-  - gitcode_id: dingweiqin_57
-  - gitcode_id: chenhao_
-  - gitcode_id: chengym
-  reviewers:
   - gitcode_id: yanyefeng
   - gitcode_id: wenxuemin
   - gitcode_id: leabclove
@@ -71,45 +54,35 @@ repositories:
 
   entry_configs:
     - path:
+      - src
+      - python
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: leabclove
+      - gitcode_id: ccl_ligang
+      - gitcode_id: Innoecho
+      - gitcode_id: chenke2026
+      - gitcode_id: temper7620
+      - gitcode_id: hey_yahei
+      - gitcode_id: dingweiqin_57
+      - gitcode_id: chenhao_
+      - gitcode_id: chengym
+      - gitcode_id: abiggg
+      - gitcode_id: ccNeo824
+
+    - path:
       - pkg_inc
       - include
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
-      reviewers:
-      - gitcode_id: yanyefeng
-      - gitcode_id: wenxuemin
-      - gitcode_id: leabclove
-      - gitcode_id: yanzhenghang
-      - gitcode_id: yin_ding
-      - gitcode_id: lilianlin_hw
-      - gitcode_id: yangxiaoyuan
-      - gitcode_id: bz_lee
-      - gitcode_id: ccl_ligang
-      - gitcode_id: zhongqin2020
-      - gitcode_id: laodazhao1
-      - gitcode_id: chenyia
-      - gitcode_id: hulk1997
-      - gitcode_id: Innoecho
-      - gitcode_id: lilin_137
-      - gitcode_id: chenke2026
-      - gitcode_id: temper7620
-      - gitcode_id: zhangxp1030
-      - gitcode_id: hey_yahei
-      - gitcode_id: dingweiqin_57
-      - gitcode_id: abiggg
-      - gitcode_id: chenhao_
-      - gitcode_id: yangshaohua
-      - gitcode_id: chenliang267
-      - gitcode_id: linyf950
-      - gitcode_id: chengym
 
     - path:
       - test/st/algorithm
       committers:
       - gitcode_id: whk19940509
       - gitcode_id: virtual_runtime
-      reviewers:
       - gitcode_id: ZhanPhil
       - gitcode_id: zheng555
 
@@ -119,18 +92,6 @@ repositories:
   - gitcode_id: yanyefeng
   - gitcode_id: wenxuemin
   - gitcode_id: leabclove
-  - gitcode_id: ccl_ligang
-  - gitcode_id: Innoecho
-  - gitcode_id: chenke2026
-  - gitcode_id: temper7620
-  - gitcode_id: hey_yahei
-  - gitcode_id: dingweiqin_57
-  - gitcode_id: chenhao_
-  - gitcode_id: chengym
-  reviewers:
-  - gitcode_id: yanyefeng
-  - gitcode_id: wenxuemin
-  - gitcode_id: leabclove
   - gitcode_id: yanzhenghang
   - gitcode_id: yin_ding
   - gitcode_id: lilianlin_hw
@@ -156,6 +117,32 @@ repositories:
   - gitcode_id: chengym
 
   entry_configs:
+    - path:
+      - src
+      - python
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: leabclove
+      - gitcode_id: ccl_ligang
+      - gitcode_id: Innoecho
+      - gitcode_id: chenke2026
+      - gitcode_id: temper7620
+      - gitcode_id: hey_yahei
+      - gitcode_id: dingweiqin_57
+      - gitcode_id: chenhao_
+      - gitcode_id: chengym
+      - gitcode_id: abiggg
+      - gitcode_id: ccNeo824
+
+    - path:
+      - src/framework/device/aicpu_kfc
+      - test/ut/aicpu_kfc
+      committers:
+      - gitcode_id: wqtshg_wt
+      - gitcode_id: yanqingshang
+      - gitcode_id: yanyefeng
+
     - path:
       - pkg_inc
       - include
@@ -175,30 +162,3 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
-      reviewers:
-      - gitcode_id: yanyefeng
-      - gitcode_id: wenxuemin
-      - gitcode_id: leabclove
-      - gitcode_id: yanzhenghang
-      - gitcode_id: yin_ding
-      - gitcode_id: lilianlin_hw
-      - gitcode_id: yangxiaoyuan
-      - gitcode_id: bz_lee
-      - gitcode_id: ccl_ligang
-      - gitcode_id: zhongqin2020
-      - gitcode_id: laodazhao1
-      - gitcode_id: chenyia
-      - gitcode_id: hulk1997
-      - gitcode_id: Innoecho
-      - gitcode_id: lilin_137
-      - gitcode_id: chenke2026
-      - gitcode_id: temper7620
-      - gitcode_id: zhangxp1030
-      - gitcode_id: hey_yahei
-      - gitcode_id: dingweiqin_57
-      - gitcode_id: abiggg
-      - gitcode_id: chenhao_
-      - gitcode_id: yangshaohua
-      - gitcode_id: chenliang267
-      - gitcode_id: linyf950
-      - gitcode_id: chengym
