@@ -18,7 +18,7 @@ Material Chemical Engineering SIG是面向材料化学、流程工业的垂直�
 - 刘非 [@gcw_IXr06tDI](https://gitcode.com/gcw_IXr06tDI), liuf23357@gmail.com
 - 刘海东 [@haikuo](https://gitcode.com/haikuo), aliutec@163.com
 - 高梓博 [@gaozibo](https://gitcode.com/gaozibo), gaozibo@petrochina.com.cn
-- 马博文 [@gcw_81NVP65w](https://gitcode.com/gcw_81NVP65w), iambowen.m@qq.com
+- 马博文 [@TokenDance](https://gitcode.com/TokenDance), iambowen.m@qq.com
 - 刘达林 [@huawei_liudalin](https://gitcode.com/huawei_liudalin), liudalin@huawei.com
 - 赵俊 [@zhaojun735](https://gitcode.com/zhaojun735), roomdream@qq.com
 - 郑柳琪 [@imSixSeven](https://gitcode.com/imSixSeven), 2557692481@qq.com

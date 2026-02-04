@@ -246,7 +246,7 @@ sigs:
       - gitcode_id: suqwe
         name: 苏建加
         email: sujianjia@huawei.com
-  - sig_name: Material Chemical Engineering
+  - sig_name: material-chemical-engineering
     maintainers:
       - gitcode_id: Huang-jianxing
         name: 黄剑兴
