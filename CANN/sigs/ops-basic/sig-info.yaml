@@ -563,6 +563,12 @@ repositories:
   - gitcode_id: jia0liang
   - gitcode_id: wangrui_
   - gitcode_id: llimwang
-
+  entry_configs: []
+- repo:
+  - cann/ops-samples
+  committers:
+  - gitcode_id: zhou-qilong
+  - gitcode_id: zhangzijie
+  - gitcode_id: llimwang
   entry_configs: []
 
