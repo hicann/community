@@ -24,6 +24,7 @@ repositories:
   - gitcode_id: fu-jun2
   - gitcode_id: ykl999
   - gitcode_id: wangluyao17
+  - gitcode_id: tingwood
   entry_configs:
   - path:
     - include
