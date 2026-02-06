@@ -72,6 +72,15 @@ repositories:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
   - path:
+    - "*/*/docs/acl*.md"
+    - "*/*/README.md"
+    committers:
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: gitee-duhuiping
+    - gitcode_id: zhouwenfang
+    - gitcode_id: wuyao51511
+    - gitcode_id: gitee-yanglulu
+  - path:
     - image/crop_and_resize
     committers:
     - gitcode_id: LiWei79
@@ -194,6 +203,15 @@ repositories:
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
+  - path:
+    - "*/*/docs/acl*.md"
+    - "*/*/README.md"
+    committers:
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: gitee-duhuiping
+    - gitcode_id: zhouwenfang
+    - gitcode_id: wuyao51511
+    - gitcode_id: gitee-yanglulu
   - path:
     - conversion/as_strided
     - conversion/clip_by_value_v2
