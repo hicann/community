@@ -15,31 +15,43 @@
       <a href="https://gitcode.com/cann/ops-math"><span style="font-size:16px;">ops-math</span></a><br>
       <a href="https://gitcode.com/cann/ops-transformer"><span style="font-size:16px;">ops-transformer</span></a><br>
       <a href="https://gitcode.com/cann/ops-cv"><span style="font-size:16px;">ops-cv</span></a><br>
-      <a href="https://gitcode.com/cann/atvoss"><span style="font-size:16px;">atvoss</span></a></td>
+      </td>
   </tr>
   <tr>
     <td style="text-align:center"><span style="font-size:16px;">通信库</span></td>
     <td><span style="font-size:16px;">基于昇腾硬件的高性能通信库，提供单机多卡及多机多卡间的数据并行、模型并行通信方案。</span></td>
 	<td><a href="https://gitcode.com/cann/hixl"><span style="font-size:16px;">hixl</span></a><br>
+      <a href="https://gitcode.com/cann/shmem"><span style="font-size:16px;">shmem</span></a><br>
       <a href="https://gitcode.com/cann/hccl"><span style="font-size:16px;">hccl</span></a><br>
       <a href="https://gitcode.com/cann/hcomm"><span style="font-size:16px;">hcomm</span></a><br>
        </td>
   </tr>
+  <tr>
+    <td style="text-align:center"><span style="font-size:16px;">领域加速库</span></td>
+    <td><span style="font-size:16px;">针对特定领域或场景的算子和算法的结合。</span></td>
+   	<td><a href="https://gitcode.com/cann/ascend-transformer-boost"><span style="font-size:16px;">ascend-transformer-boost</span></a><br>
+      <a href="https://gitcode.com/cann/sip"><span style="font-size:16px;">sip</span></a><br>
+       </td>
+  </tr>
+  <tr>
   <tr>
     <td style="text-align:center"><span style="font-size:16px;">图引擎</span></td>
     <td><span style="font-size:16px;">面向昇腾的图编译器和执行器，提供图优化、多流并行、内存复用和模型下沉等功能。</span></td>
    	<td><a href="https://gitcode.com/cann/ge"><span style="font-size:16px;">ge</span></a><br>
       <a href="https://gitcode.com/cann/metadef"><span style="font-size:16px;">metadef</span></a><br>
       <a href="https://gitcode.com/cann/graph-autofusion"><span style="font-size:16px;">graph-autofusion</span></a><br>
+       <a href=" https://gitcode.com/cann/triton-inference-server-ge-backend"><span style="font-size:16px;">triton-inference-server-ge-backend</span></a>
        </td>
   </tr>
   <tr>
     <td style="text-align:center"><span style="font-size:16px;">编程语言</span></td>
     <td><span style="font-size:16px;">CANN针对算子开发场景推出的编程语言，最大化匹配用户开发习惯，提供算子模板库，支持算子极简编程。</span></td>
     <td>
-      <a href="https://gitcode.com/cann/asc-devkit"><span style="font-size:16px;">asc-devkit</span></a><br>
-       <a href="https://gitcode.com/cann/pypto"><span style="font-size:16px;">pypto</span></a><br>
+      <a href="https://gitcode.com/cann/asc-devkit"><span style="font-size:16px;">asc-devkit</span></a><br> 
       <a href="https://gitcode.com/cann/pyasc"><span style="font-size:16px;">pyasc</span></a><br>
+       <a href="https://gitcode.com/cann/pypto"><span style="font-size:16px;">pypto</span></a><br>
+      <a href="https://gitcode.com/cann/pto-isa"><span style="font-size:16px;">pto-isa</span></a><br>
+      <a href="https://gitcode.com/cann/atvoss"><span style="font-size:16px;">atvoss</span></a><br>
       <a href="https://gitcode.com/cann/catlass"><span style="font-size:16px;">catlass</span></a><br>
     </td>
   </tr>
@@ -58,12 +70,6 @@
     <td><span style="font-size:16px;">提供CANN平台的各种工具，如故障定位、模型压缩等。</span></td>
 	  <td><a href="https://gitcode.com/cann/oam-tools"><span style="font-size:16px;">oam-tools</span></a><br>
     <a href="https://gitcode.com/cann/amct"><span style="font-size:16px;">amct</span></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><span style="font-size:16px;">虚拟指令集</span></td>
-    <td><span style="font-size:16px;">由昇腾CANN研发的虚拟指令集架构，聚焦于分块级运算，在各类昇腾平台上提供高性能、跨平台的分块运算能力。</span></td>
-	  <td><a href="https://gitcode.com/cann/pto-isa"><span style="font-size:16px;">pto-isa</span></a>
     </td>
   </tr>
 </table>
@@ -107,10 +113,9 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
 
 ## 社区活动
-
+- [社区会议日历](https://meeting.osinfra.cn/cann)：如果您对CANN社区的各类会议感兴趣，可访问会议日历。
 - 🔥[CANN开源开放系列直播](../events/meetup/README.md)：大咖细剖开源政策和计划，maintainer全面解读热门开源项目。
 - 🔥[昇腾AI算法挑战赛进阶赛](https://developer.huaweicloud.com/competition/information/1300000204)：昇腾AI算法挑战赛旨在汇聚全球各领域的优秀开发者同台竞技。开放昇腾AI计算平台的全栈能力与API资源，鼓励开发者构建高效创新的AI模型，解决实际场景问题。
-- [社区会议日历](https://meeting.osinfra.cn/cann)：如果您对CANN社区的各类会议感兴趣，可访问会议日历。
 -   [CANN训练营](https://www.hiascend.com/developer/activities/cann20252#cann-camp-2502-intro)：为开发者打造“学、练、赛、聘”成长体系：报名领取免费学习资源，每周一、四晚七点专家讲师[直播分享](https://www.hiascend.com/developer/activities/cann20252?tab=live)；通过[认证考核](https://www.hiascend.com/edu/certification/detail/34bf904cb410497cb9c582be6c047ff7)，参与[社区任务](https://gitcode.com/org/cann/discussions/22)赢华为三折叠等大奖。
 - [昇腾AI创新大赛-算子挑战赛](https://www.hiascend.com/developer/ops)：昇腾AI创新大赛-算子挑战赛旨在培养一批精通Ascend C算子开发的开发者，鼓励开发者基于CANN的基础能力进行深度创新与实践。
 
