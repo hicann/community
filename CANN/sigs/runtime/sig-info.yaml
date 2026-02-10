@@ -14,7 +14,7 @@ repositories:
   - gitcode_id: gcw_9B2nSsjo
   - gitcode_id: huawei_programmer_011
   - gitcode_id: alenzhang86
-  - gitcode_id: fujun19
+  - gitcode_id: newstarzj
   - gitcode_id: chenhao_1209
   - gitcode_id: turing_yhy
   - gitcode_id: zhangpengpeng8
@@ -25,6 +25,7 @@ repositories:
   - gitcode_id: ykl999
   - gitcode_id: wangluyao17
   - gitcode_id: tingwood
+  - gitcode_id: zhuliangying
   entry_configs:
   - path:
     - include
@@ -60,6 +61,11 @@ repositories:
     - gitcode_id: wangluyao17
   - path:
     - src/dfx
+    - tests/ut/adump
+    - tests/ut/slog
+    - tests/ut/msprof
+    - tests/ut/atrace
+    - tests/ut/error_manager
     committers:
     - gitcode_id: zhuliangying
     - gitcode_id: newstarzj
