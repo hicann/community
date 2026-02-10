@@ -29,7 +29,6 @@ repositories:
   - gitcode_id: wenxuemin
   - gitcode_id: leabclove
   - gitcode_id: yanzhenghang
-  - gitcode_id: yin_ding
   - gitcode_id: lilianlin_hw
   - gitcode_id: yangxiaoyuan
   - gitcode_id: bz_lee
@@ -43,7 +42,6 @@ repositories:
   - gitcode_id: chenke2026
   - gitcode_id: temper7620
   - gitcode_id: zhangxp1030
-  - gitcode_id: hey_yahei
   - gitcode_id: dingweiqin_57
   - gitcode_id: abiggg
   - gitcode_id: chenhao_
@@ -51,6 +49,8 @@ repositories:
   - gitcode_id: chenliang267
   - gitcode_id: linyf950
   - gitcode_id: chengym
+  - gitcode_id: ccNeo824
+  - gitcode_id: ouyangxizi
 
   entry_configs:
     - path:
@@ -64,13 +64,13 @@ repositories:
       - gitcode_id: Innoecho
       - gitcode_id: chenke2026
       - gitcode_id: temper7620
-      - gitcode_id: hey_yahei
       - gitcode_id: dingweiqin_57
       - gitcode_id: chenhao_
       - gitcode_id: chengym
       - gitcode_id: abiggg
       - gitcode_id: ccNeo824
       - gitcode_id: ouyangxizi
+      - gitcode_id: bz_lee
 
     - path:
       - pkg_inc
@@ -94,7 +94,6 @@ repositories:
   - gitcode_id: wenxuemin
   - gitcode_id: leabclove
   - gitcode_id: yanzhenghang
-  - gitcode_id: yin_ding
   - gitcode_id: lilianlin_hw
   - gitcode_id: yangxiaoyuan
   - gitcode_id: bz_lee
@@ -108,7 +107,6 @@ repositories:
   - gitcode_id: chenke2026
   - gitcode_id: temper7620
   - gitcode_id: zhangxp1030
-  - gitcode_id: hey_yahei
   - gitcode_id: dingweiqin_57
   - gitcode_id: abiggg
   - gitcode_id: chenhao_
@@ -116,6 +114,8 @@ repositories:
   - gitcode_id: chenliang267
   - gitcode_id: linyf950
   - gitcode_id: chengym
+  - gitcode_id: ccNeo824
+  - gitcode_id: ouyangxizi
 
   entry_configs:
     - path:
@@ -129,13 +129,13 @@ repositories:
       - gitcode_id: Innoecho
       - gitcode_id: chenke2026
       - gitcode_id: temper7620
-      - gitcode_id: hey_yahei
       - gitcode_id: dingweiqin_57
       - gitcode_id: chenhao_
       - gitcode_id: chengym
       - gitcode_id: abiggg
       - gitcode_id: ccNeo824
       - gitcode_id: ouyangxizi
+      - gitcode_id: bz_lee
 
     - path:
       - src/framework/device/aicpu_kfc
