@@ -33,8 +33,6 @@ repositories:
       - gitcode_id: temper7620
       - gitcode_id: Innoecho
       - gitcode_id: yanyefeng
-      reviewers:
+      - gitcode_id: ouyangxizi
       - gitcode_id: lilianlin_hw
-      - gitcode_id: ccl_ligang
-      - gitcode_id: Innoecho
       - gitcode_id: lilin_137
