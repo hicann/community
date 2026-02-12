@@ -57,6 +57,7 @@
 - 胡碧霞 [@crystalhu](https://gitcode.com/crystalhu), *hubixia1@huawei.com*
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 - 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
+- 赵志勇 [@zzy__](https://gitcode.com/zzy__), *zhaozhiyong15@hisilicon.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -93,6 +94,7 @@
 - 苗方正 [[@miaofangzheng]](https://gitcode.com/miaofangzheng), *miaofangzheng@huawei.com*
 - 於欣洁 [[@yu-xinjie62]](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
+- 赵志勇 [@zzy__](https://gitcode.com/zzy__), *zhaozhiyong15@hisilicon.com*
 
 # SIG订阅
 
