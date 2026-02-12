@@ -44,6 +44,9 @@ repositories:
   committers:
   - gitcode_id: cann_can
   - gitcode_id: lbisdaddy
+  - gitcode_id: songchangxia
+  - gitcode_id: cann_cm
+  - gitcode_id: songkunpeng
 - repo:
   - cann/community
   committers:
