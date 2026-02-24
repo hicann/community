@@ -2,6 +2,11 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260206 | ops-samples仓开源介绍 | sig-ops-basic | [链接](./slides/sig-ops-basic/20260206) | [链接](https://www.bilibili.com/video/BV1odcKzAE5f/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260202 | TileLang-Ascend学习周 | sig-recipes | [链接]() | [链接](https://www.bilibili.com/video/BV1EdFVzpEbg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260129 | 昇腾NPU强化学习案例：基于GRPO训练Qwen模型 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20260129) | [链接](https://www.bilibili.com/video/BV1fCFTzKE5J/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260126 | TileLang-Ascend“Developer模式“ | sig-recipes | [链接](./slides/sig-recipes/20260126) | [链接](https://www.bilibili.com/video/BV1HnzZBaETk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260119 | ScaleBox面向昇腾环境的高效代码强化学习沙盒环境实践 | sig-recipes | [链接](./slides/sig-recipes/20260119) | [链接](https://www.bilibili.com/video/BV1YRzpBHEZm/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20251226 | CANN一站式工作台 | sig-tools | [链接](./slides/sig-tools/20251226) | [链接](https://www.bilibili.com/video/BV1PivaBQE9i/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20251226 | Graph-Engine开源介绍以及优秀实践  | sig-ge | [链接](./slides/sig-ge/20251226) | [链接](https://www.bilibili.com/video/BV1PivaBQE9i/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20251225 | Runtime开源介绍 | sig-runtime | [链接](./slides/sig-runtime/20251225) | [链接](https://www.bilibili.com/video/BV1krvaB7EFo/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
