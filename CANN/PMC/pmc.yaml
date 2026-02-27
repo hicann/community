@@ -47,6 +47,7 @@ repositories:
   - gitcode_id: songchangxia
   - gitcode_id: cann_cm
   - gitcode_id: songkunpeng
+  - gitcode_id: hanxiaolong
 - repo:
   - cann/community
   committers:
