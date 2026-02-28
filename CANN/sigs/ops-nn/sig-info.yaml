@@ -71,6 +71,7 @@ repositories:
     - gitcode_id: chenqi317
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
+    - gitcode_id: liujie12345678
   - path:
     - quant
     - experimental/quant
@@ -85,6 +86,7 @@ repositories:
     - gitcode_id: crystalhu
     - gitcode_id: wangzitao_leo
     - gitcode_id: sxb154714
+    - gitcode_id: liujie12345678
   - path:
     - control
     - experimental/control
