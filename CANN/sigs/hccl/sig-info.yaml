@@ -51,6 +51,7 @@ repositories:
   - gitcode_id: chengym
   - gitcode_id: ccNeo824
   - gitcode_id: ouyangxizi
+  - gitcode_id: yanglianxiang2
 
   entry_configs:
     - path:
@@ -116,6 +117,7 @@ repositories:
   - gitcode_id: chengym
   - gitcode_id: ccNeo824
   - gitcode_id: ouyangxizi
+  - gitcode_id: yanglianxiang2
 
   entry_configs:
     - path:
