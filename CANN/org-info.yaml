@@ -226,6 +226,17 @@ sigs:
       - gitcode_id: TiantianWang_Hit
         name: 王甜甜
         email: sweetwtt@126.com
+  - sig_name: asnumpy-docs
+    maintainers:
+      - gitcode_id: wuzhenqing
+        name: 武震卿
+        email: wuzhenqing@stu.hit.edu.cn
+      - gitcode_id: JWJWJWJWW
+        name: 肖雯祺
+        email: 1357697985@qq.com
+      - gitcode_id: zhi_yichao
+        name: 支怡超
+        email: yichao_zhi@qq.com
   - sig_name: shmem
     maintainers: 
       - gitcode_id: mlidongfeng
