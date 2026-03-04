@@ -2,7 +2,7 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260302 | 面向下一代硬件的算子编程必修课(Ascend) | sig-ascendc | [链接](./slides/sig-ascendc/20260302-20260306) |  |
+| 20260302 | 面向下一代硬件的算子编程必修课(Ascend) | sig-ascendc | [链接](./slides/sig-ascendc/20260302-20260306) | [链接](https://www.bilibili.com/video/BV12fAdzcEDe/?spm_id_from=333.1387.collection.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260212 | CANN一站式开发平台全面公测 | sig-tools | [链接](./slides/sig-tools/20260212) | [链接](https://www.bilibili.com/video/BV1S7fyBREW5/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260210 | 轻量图模式后端npugraph_ex | sig-ge | [链接](./slides/sig-ge/20260210) | [链接](https://www.bilibili.com/video/BV1PvcLzBEwo/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260206 | ops-samples仓开源介绍 | sig-ops-basic | [链接](./slides/sig-ops-basic/20260206) | [链接](https://www.bilibili.com/video/BV1odcKzAE5f/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
