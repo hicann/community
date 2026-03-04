@@ -33,7 +33,7 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 周若愚 [@zhoubotcam](https://gitcode.com/zhoubotcam), *ruoyu.zhou@hisilicon.com*
 - 冯思远 [@syfeng](https://gitcode.com/syfeng), *syfeng@sii.edu.cn*
 - 尹杰 [@yinjie27_](https://gitcode.com/yinjie27_), *yinjie27@huawei.com*
-- 孙文博 [@gcw_9WvwSY5N](https://gitcode.com/gcw_9WvwSY5N), *sunwenbo1@huawei.com*
+- 孙文博 [@WenboCodes](https://gitcode.com/WenboCodes), *sunwenbo1@huawei.com*
 
 ### Committer列表
 
