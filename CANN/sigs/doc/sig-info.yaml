@@ -10,8 +10,9 @@ committers:
 - gitcode_id: Ww7012
 repositories:
 - repo:
-  - CANN/cann-learning-hub
+  - cann/cann-learning-hub
   committers:
   - gitcode_id: TianXL
   - gitcode_id: mlewis
   - gitcode_id: fuyangchenghu
+  - gitcode_id: waimaidaole
