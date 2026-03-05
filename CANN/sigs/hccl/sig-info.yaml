@@ -166,3 +166,8 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
+
+    - path:
+      - src/common/error_code/error_code.cc
+      committers:
+      - gitcode_id: ycm0028
