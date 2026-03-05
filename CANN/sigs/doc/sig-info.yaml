@@ -8,4 +8,10 @@ committers:
 - gitcode_id: munanhw
 - gitcode_id: gitcode-chenjiao
 - gitcode_id: Ww7012
-repositories: []
+repositories:
+- repo:
+  - CANN/cann-learning-hub
+  committers:
+  - gitcode_id: TianXL
+  - gitcode_id: mlewis
+  - gitcode_id: fuyangchenghu
