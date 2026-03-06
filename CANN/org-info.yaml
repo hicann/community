@@ -271,3 +271,20 @@ sigs:
       - gitcode_id: gaofei06
         name: 高菲
         email: gaofei06@petrochina.com.cn
+  - sig_name: electrical-engineering
+    maintainers:
+      - gitcode_id: jason2025
+        name: 梁寿愚
+        email: lsynd@126.com
+      - gitcode_id: Lulu_scut
+        name: 陆璐
+        email: lul@scut.edu.cn
+      - gitcode_id: xchencehn
+        name: 陈辰
+        email: 13260020301@163.com
+      - gitcode_id: Splendid2025
+        name: 张玉橙
+        email: zhangyucheng23@huawei.com
+      - gitcode_id: tianye525
+        name: 田野
+        email: tianye25@huawei.com        
