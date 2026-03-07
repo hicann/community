@@ -18,3 +18,16 @@ repositories:
   - gitcode_id: yuanyuan14
   - gitcode_id: meph7sto
   entry_configs: []
+
+- repo:
+  - cann/asnumpy-docs
+  committers:
+  - gitcode_id: wuzhenqing
+  - gitcode_id: JWJWJWJWW
+  - gitcode_id: zhi_yichao
+  - gitcode_id: hyyisasleep
+  - gitcode_id: Sea-1024
+  - gitcode_id: gehaoxuan
+  - gitcode_id: yang-jihan
+  - gitcode_id: yuanyuan14
+  entry_configs: []

@@ -25,6 +25,7 @@ AsNumpy是一款 深度支持昇腾NPU并高度兼容numpy接口的轻量级Pyth
 - 杨季翰[@yang-jihan](https://gitcode.com/yang-jihan), *1553170804@qq.com*
 - 贾媛媛[@yuanyuan14](https://gitcode.com/yuanyuan14), *3263715730@qq.com*
 - 温咏澎[@meph7sto](https://gitcode.com/meph7sto), *3383540370@qq.com*
+- 肖雯祺[@JWJWJWJWW](https://gitcode.com/JWJWJWJWW), *1357697985@qq.com*
 
 # 社区运作
 
@@ -41,5 +42,6 @@ AsNumpy是一款 深度支持昇腾NPU并高度兼容numpy接口的轻量级Pyth
 
 仓库地址：
 - https://gitcode.com/cann/asnumpy
+- https://gitcode.com/cann/asnumpy-docs
 
 
