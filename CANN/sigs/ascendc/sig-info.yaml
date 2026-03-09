@@ -34,6 +34,7 @@ repositories:
   - gitcode_id: bluesky901
   - gitcode_id: yanqingshang
   - gitcode_id: yukangchen
+  - gitcode_id: zengjuan
   entry_configs:
   - path:
     - cmake
@@ -165,6 +166,7 @@ repositories:
   - gitcode_id: wuyang_hw
   - gitcode_id: shen_mbsw
   - gitcode_id: yukangchen
+  - gitcode_id: zengjuan
   - gitcode_id: wulinyu
   entry_configs: 
   - path:
