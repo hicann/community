@@ -4,8 +4,8 @@
 <table style="width:100%">
   <tr>
     <th style="width:10%;text-align: center;"><span style="font-size:17px; ">组件</span></th>
-    <th style="width:75%;text-align: center;"><span style="font-size:17px;">描述</span></th>
-	  <th style="width:15%;text-align: center;"><span style="font-size:17px;">源码仓</span></th>
+    <th style="width:65%;text-align: center;"><span style="font-size:17px;">描述</span></th>
+	  <th style="width:25%;text-align: center;"><span style="font-size:17px;">源码仓</span></th>
   </tr>
     <tr>
     <td style="text-align:center"><span style="font-size:16px;">算子库</span></td>
@@ -33,7 +33,6 @@
       <a href="https://gitcode.com/cann/sip"><span style="font-size:16px;">sip</span></a><br>
        </td>
   </tr>
-  <tr>
   <tr>
     <td style="text-align:center"><span style="font-size:16px;">图引擎</span></td>
     <td><span style="font-size:16px;">面向昇腾的图编译器和执行器，提供图优化、多流并行、内存复用和模型下沉等功能。</span></td>
@@ -93,9 +92,11 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 ## 快速体验
 
 若您希望快速体验CANN算子的调用和开发过程，请访问如下文档获取简易教程。
-
 - [算子调用](https://gitcode.com/cann/ops-math/blob/master/docs/zh/invocation/quick_op_invocation.md)：介绍调用算子的基本步骤，快速搭建环境，实现算子编译执行。
 - [算子开发](https://gitcode.com/cann/ops-math/blob/master/docs/zh/develop/aicore_develop_guide.md)：介绍开发算子的基本流程，一键创建算子工程目录，实现Tiling、Kernel核心交付件。
+
+
+🔥**一站式开发平台**：您也可在对应仓库中点击“云开发”，在一站式在线开发环境中限时免费体验昇腾算力。🔥
 
 ## 实践样例
 
