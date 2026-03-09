@@ -1,0 +1,72 @@
+name: electrical-engineering
+description: 面向流程工业的垂直领域的算子库，聚焦电力行业，面向流程工业“机理+数据”双轮驱动的领域计算层,提供基于CANN的各类算法样例
+mailing_list: ee@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/Electrical-Engineering
+committers: []
+repositories:
+- repo:
+  - cann/elec-ops-simulation
+  committers:
+  - gitcode_id: yutao_scut
+    name: 余涛
+    email: 113754550@qq.com
+  - gitcode_id: weixin_34344963
+    name: 刘迪
+    email: kfliudi@mail.tsinghua.edu.cn
+  - gitcode_id: yhyyyl
+    name: 江豪
+    email: jiangh0804@qq.com
+  - gitcode_id: edconeone
+    name: 陈昀
+    email: edconeone@163.com
+  - gitcode_id: mappleo
+    name: 莫程翔
+    email: mochengxiang1@huawei.com
+  - gitcode_id: gcw_FHrfwZBn
+    name: 李博
+    email: libo49@huawei.com
+  entry_configs: []
+- repo:
+  - cann/elec-ops-prediction
+  committers:
+  - gitcode_id: yutao_scut
+    name: 余涛
+    email: 113754550@qq.com
+  - gitcode_id: weixin_34344963
+    name: 刘迪
+    email: kfliudi@mail.tsinghua.edu.cn
+  - gitcode_id: yhyyyl
+    name: 江豪
+    email: jiangh0804@qq.com
+  - gitcode_id: edconeone
+    name: 陈昀
+    email: edconeone@163.com
+  - gitcode_id: mappleo
+    name: 莫程翔
+    email: mochengxiang1@huawei.com
+  - gitcode_id: gcw_FHrfwZBn
+    name: 李博
+    email: libo49@huawei.com
+  entry_configs: []
+- repo:
+  - cann/elec-ops-inspection
+  committers:
+  - gitcode_id: yutao_scut
+    name: 余涛
+    email: 113754550@qq.com
+  - gitcode_id: weixin_34344963
+    name: 刘迪
+    email: kfliudi@mail.tsinghua.edu.cn
+  - gitcode_id: yhyyyl
+    name: 江豪
+    email: jiangh0804@qq.com
+  - gitcode_id: edconeone
+    name: 陈昀
+    email: edconeone@163.com
+  - gitcode_id: mappleo
+    name: 莫程翔
+    email: mochengxiang1@huawei.com
+  - gitcode_id: gcw_FHrfwZBn
+    name: 李博
+    email: libo49@huawei.com
+  entry_configs: []
