@@ -7,27 +7,14 @@ repositories:
 - repo:
   - cann/runtime
   committers:
-  - gitcode_id: wda1991
   - gitcode_id: wangtao43
-  - gitcode_id: zlmay007
-  - gitcode_id: Turing_JasonWen
-  - gitcode_id: gcw_9B2nSsjo
-  - gitcode_id: huawei_programmer_011
-  - gitcode_id: alenzhang86
-  - gitcode_id: newstarzj
-  - gitcode_id: chenhao_1209
-  - gitcode_id: turing_yhy
+  - gitcode_id: tingwood
   - gitcode_id: zhangpengpeng8
   - gitcode_id: yanmingxiang
-  - gitcode_id: zhaozhixuan
-  - gitcode_id: zhangfan_hanq
-  - gitcode_id: fu-jun2
-  - gitcode_id: ykl999
-  - gitcode_id: wangluyao17
-  - gitcode_id: tingwood
-  - gitcode_id: zhuliangying
+  - gitcode_id: Reyn52166
   entry_configs:
   - path:
+    - docs
     - include
     - pkg_inc
     - src/runtime/feature/platform
@@ -38,7 +25,11 @@ repositories:
     - gitcode_id: tingwood
     - gitcode_id: derekxu
   - path:
+    - example
+    - src/acl
+    - src/inc/runtime
     - src/runtime
+    - tests/ut/acl
     - tests/ut/runtime
     committers:
     - gitcode_id: wangtao43
@@ -59,7 +50,11 @@ repositories:
     - gitcode_id: chen_vvjob
     - gitcode_id: ykl999
     - gitcode_id: wangluyao17
+    - gitcode_id: wda1991
+    - gitcode_id: Turing_JasonWen
   - path:
+    - example/adump
+    - example/profiling
     - src/dfx
     - tests/ut/adump
     - tests/ut/slog
@@ -90,3 +85,9 @@ repositories:
     - gitcode_id: liubin1986
     - gitcode_id: gcw_9B2nSsjo
     - gitcode_id: shikai-1
+  - path:
+    - src/mmpa
+    - tests/ut/mmpa
+    committers:
+    - gitcode_id: zhangfan_hanq
+    - gitcode_id: fu-jun2
