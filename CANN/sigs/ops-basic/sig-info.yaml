@@ -565,7 +565,7 @@ repositories:
   - gitcode_id: llimwang
   entry_configs: []
 - repo:
-  - cann/ops-samples
+  - cann/cann-samples
   committers:
   - gitcode_id: zhou-qilong
   - gitcode_id: zhangzijie
