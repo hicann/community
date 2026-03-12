@@ -91,3 +91,10 @@ repositories:
     committers:
     - gitcode_id: zhangfan_hanq
     - gitcode_id: fu-jun2
+  - path:
+    - src/dfx/error_manager/error_code.json
+    committers:
+    - gitcode_id: ycm0028
+    - gitcode_id: littleWhite0625
+    - gitcode_id: yangyongqiang0606
+    - gitcode_id: zhanj

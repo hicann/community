@@ -84,7 +84,14 @@ repositories:
     - inc/framework/common/helper/mobile_model_helper.h
     committers:
     - gitcode_id: qq_28230035
-    - gitcode_id: jxkongyue   
+    - gitcode_id: jxkongyue
+  - path:
+    - base/common/error_registry/error_registry.cc
+    committers:
+      - gitcode_id: ycm0028
+      - gitcode_id: littleWhite0625
+      - gitcode_id: yangyongqiang0606
+      - gitcode_id: zhanj
 - repo:
   - cann/metadef
   committers:
