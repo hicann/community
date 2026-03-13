@@ -19,6 +19,7 @@ CATLASS API 架构图：
 - 周浩[@zhouhao176](https://gitcode.com/zhouhao176), *<zhouhao176@huawei.com>*
 - 黄鑫[@huangxin361](https://gitcode.com/huangxin361), *<huangxin36@huawei.com>*
 - 田行辉[@tianxinghui](https://gitcode.com/tianxinghui), *<tianxinghui@huawei.com>*
+- 肖婷[@xiaoting624](https://gitcode.com/xiaoting624), *<xiaoting11@hisilicon.com>*
 
 ## 仓库清单
 

@@ -57,6 +57,9 @@ sigs:
     - gitcode_id: tianxinghui
       name: 田行辉
       email: tianxinghui@huawei.com
+    - gitcode_id: xiaoting624
+      name: 肖婷
+      email: xiaoting11@hisilicon.com
   - sig_name: QA
     maintainers: 
       - gitcode_id: wangshouguo
