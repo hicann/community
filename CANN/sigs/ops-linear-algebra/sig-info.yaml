@@ -1,0 +1,13 @@
+name: ops-linear-algebra
+description:
+mailing_list: "ops-linear-algebra@cann.osinfra.cn"
+meeting_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-linear-algebra"
+committers: []
+repositories:
+- repo:
+  - cann/ops-blas
+  committers:
+  - gitcode_id: wangzitao_leo
+  - gitcode_id: QK_25415
+  - gitcode_id: MaskHunter2008
+  - gitcode_id: demoauguste

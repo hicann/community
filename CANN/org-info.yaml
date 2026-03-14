@@ -1,8 +1,8 @@
-name: CANN  
-description: 
+name: CANN
+description:
 sigs:
   - sig_name: ops-basic
-    maintainers: 
+    maintainers:
       - gitcode_id: zhou-qilong
         name: 周奇龙
         email: zhouqilong2@huawei.com
@@ -19,7 +19,7 @@ sigs:
         name: 冯彤
         email: fengtong5@huawei.com
   - sig_name: ops-nn
-    maintainers: 
+    maintainers:
       - gitcode_id: tangweiwei2
         name: 唐玮玮
         email: tangweiwei2@huawei.com
@@ -33,7 +33,7 @@ sigs:
         name: 胡碧霞
         email: hubixia1@huawei.com
   - sig_name: ops-transformer
-    maintainers: 
+    maintainers:
     - gitcode_id: liudan12
       name: 刘丹
       email: liudan12@huawei.com
@@ -47,7 +47,7 @@ sigs:
       name: 马兵
       email: mabing726@huawei.com
   - sig_name: catlass
-    maintainers: 
+    maintainers:
     - gitcode_id: zhouhao176
       name: 周浩
       email: zhouhao176@huawei.com
@@ -61,7 +61,7 @@ sigs:
       name: 肖婷
       email: xiaoting11@hisilicon.com
   - sig_name: QA
-    maintainers: 
+    maintainers:
       - gitcode_id: wangshouguo
         name: 王寿国
         email: wangshouguo@huawei.com
@@ -72,7 +72,7 @@ sigs:
         name: 孟科华
         email: mengkehua@huawei.com
   - sig_name: security
-    maintainers: 
+    maintainers:
       - gitcode_id: Xing_Cai
         name: 蔡兴
         email: xing.cai@huawei.com
@@ -83,7 +83,7 @@ sigs:
         name: 胡占锋
         email: huzhanfeng@huawei.com
   - sig_name: infrastructure
-    maintainers: 
+    maintainers:
       - gitcode_id: songchangxia
         name: 宋常霞
         email: songchangxia@huawei.com
@@ -91,7 +91,7 @@ sigs:
         name: 李超然
         email: lichaoran1@huawei.com
   - sig_name: doc
-    maintainers: 
+    maintainers:
       - gitcode_id: TianXL
         name: 田晓亮
         email: tian.xiaoliang@huawei.com
@@ -99,7 +99,7 @@ sigs:
         name: 王艳秋
         email: wangyanqiu2@huawei.com
   - sig_name: aal
-    maintainers: 
+    maintainers:
       - gitcode_id: nino888
         name: 尹祺然
         email: yinqiran1@huawei.com
@@ -110,7 +110,7 @@ sigs:
         name: 朱志明
         email: zhuzhiming1@huawei.com
   - sig_name: recipes
-    maintainers: 
+    maintainers:
       - gitcode_id: zhangky_gitcode
         name: 张凯宇
         email: zhangkaiyu4@hisilicon.com
@@ -130,7 +130,7 @@ sigs:
         name: 刘鑫鑫
         email: liuxinxin23@hisilicon.com
   - sig_name: ascendc
-    maintainers: 
+    maintainers:
       - gitcode_id: xun_zhuge
         name: 诸葛洵
         email: zhugexun@hisilicon.com
@@ -138,7 +138,7 @@ sigs:
         name: 黄金华
         email: huangjinhua3@huawei.com
   - sig_name: runtime
-    maintainers: 
+    maintainers:
       - gitcode_id: derekxu
         name: 许世峰
         email: derek.xu@huawei.com
@@ -149,7 +149,7 @@ sigs:
         name: 王涛
         email: wangtao43@huawei.com
   - sig_name: hccl
-    maintainers: 
+    maintainers:
       - gitcode_id: yanyefeng
         name: 颜业峰
         email: yanyefeng@huawei.com
@@ -230,7 +230,7 @@ sigs:
         name: 王甜甜
         email: sweetwtt@126.com
   - sig_name: shmem
-    maintainers: 
+    maintainers:
       - gitcode_id: mlidongfeng
         name: 李东锋
         email: lidongfeng@huawei.com
@@ -279,4 +279,18 @@ sigs:
         email: zhangyucheng23@huawei.com
       - gitcode_id: tianye525
         name: 田野
-        email: tianye25@huawei.com        
+        email: tianye25@huawei.com
+  - sig_name: ops-linear-algebra
+    maintainers:
+      - gitcode_id: wangzitao_leo
+        name: 王子韬
+        email: wangzitao4@huawei.com
+      - gitcode_id: QK_25415
+        name: 朱志明
+        email: zhuzhiming1@huawei.com
+      - gitcode_id: MaskHunter2008
+        name: 唐超力
+        email: tangchaoli@huawei.com
+      - gitcode_id: demoauguste
+        name: 张浩
+        email: zhanghao418@huawei.com
