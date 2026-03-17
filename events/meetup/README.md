@@ -2,7 +2,8 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260313 | 面向下一代硬件的运维必修课 | sig-tools | [链接](./slides/sig-tools/20260313) |  |
+| 20260316 | 面向新一代硬件，CANN技术架构的变与不变 |  | [链接](./slides/950/20260316) | [链接](https://www.bilibili.com/video/BV1LAw7zwEnt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260313 | 面向下一代硬件的运维必修课 | sig-tools | [链接](./slides/sig-tools/20260313) | [链接](https://www.bilibili.com/video/BV1oQcSz9Eqm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260309 | 面向下一代硬件的算子编程必修课(PyPTO) | sig-pto | [链接](./slides/sig-pto/20260309-20260312) | [链接](https://www.bilibili.com/video/BV15yPDzFEhc/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260302 | 面向下一代硬件的算子编程必修课(Ascend C) | sig-ascendc | [链接](./slides/sig-ascendc/20260302-20260306) | [链接](https://www.bilibili.com/video/BV12fAdzcEDe/?spm_id_from=333.1387.collection.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260228 | SHMEM开源介绍 | sig-shmem | [链接](./slides/sig-shmem/20260228) | [链接](https://www.bilibili.com/video/BV1mkPkzbE1G/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
