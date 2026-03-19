@@ -13,6 +13,7 @@ repositories:
   - gitcode_id: crystalhu
   - gitcode_id: fanqirui
   - gitcode_id: zhou-qilong
+  - gitcode_id: yangyang016
   entry_configs: 
   - path:
     - "*/*/docs/acl*.md"
@@ -42,6 +43,7 @@ repositories:
     - gitcode_id: chenqi317
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
+    - gitcode_id: yangyang016
   - path:
     - tests
     - docs
@@ -154,7 +156,8 @@ repositories:
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
     - gitcode_id: wangzitao_leo
-    - gitcode_id: sxb154714    
+    - gitcode_id: sxb154714
+    - gitcode_id: yangyang016
   - path:
     - conv
     - experimental/conv
