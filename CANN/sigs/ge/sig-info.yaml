@@ -75,6 +75,7 @@ repositories:
     - gitcode_id: wei_chengaung
   - path:
     - compiler/engines/hccl_engine
+    - tests/engines/hccl_engine
     committers:
     - gitcode_id: dingweiqin_57
     - gitcode_id: laodazhao1
