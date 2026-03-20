@@ -2,7 +2,9 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260318 | 场景驱动下的算子编程语言选型 |  | [链接](./slides/950/20260318) |  |
+| 20260320 | 探索Ascend 950的性能天花板 |  | [链接](./slides/950/20260320) |  |
+| 20260319 | 加速开发、释放生产力的必备利器 |  | [链接](./slides/950/20260319) | [链接](https://www.bilibili.com/video/BV1uPA7zsEXy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260318 | 面向Ascend 950的编程语言选型 |  | [链接](./slides/950/20260318) | [链接](https://www.bilibili.com/video/BV1egwkzYEUs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260317 | CANN 算子开发全链路体验升级 |  | [链接](./slides/950/20260317) | [链接](https://www.bilibili.com/video/BV1RGwdzzEXk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260316 | 面向新一代硬件，CANN技术架构的变与不变 |  | [链接](./slides/950/20260316) | [链接](https://www.bilibili.com/video/BV1LAw7zwEnt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260313 | 面向下一代硬件的运维必修课 | sig-tools | [链接](./slides/sig-tools/20260313) | [链接](https://www.bilibili.com/video/BV1oQcSz9Eqm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
