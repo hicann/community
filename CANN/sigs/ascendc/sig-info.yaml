@@ -149,6 +149,7 @@ repositories:
     - gitcode_id: munanhw
     - gitcode_id: ai_xin
     - gitcode_id: xun_zhuge
+    - gitcode_id: changxianyu
 
 - repo:
   - cann/asc-tools
