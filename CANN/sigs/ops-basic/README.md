@@ -86,6 +86,8 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 - https://gitcode.com/cann/opbase
 - https://gitcode.com/cann/ops-math
 - https://gitcode.com/cann/ops-cv
+- https://gitcode.com/cann/atvoss
+- https://gitcode.com/cann/cann-samples
 
 # 贡献指南
 - [贡献指南](CONTRIBUTING.md)
