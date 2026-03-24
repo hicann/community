@@ -19,6 +19,7 @@ repositories:
   - gitcode_id: hanru-xu
   - gitcode_id: Lulu_scut
   - gitcode_id: xiaoting624
+  - gitcode_id: chenma
   entry_configs: 
   - path: 
     - tools
