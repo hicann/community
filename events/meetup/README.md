@@ -2,7 +2,8 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260323 | HiF8数据格式介绍 |  | [链接](./slides/950/20260323) |  |
+| 20260324 | HCCL集合通信专用引擎CCU技术介绍 |  | [链接](./slides/950/20260324) |  |
+| 20260323 | HiFloat8数据格式及其训推应用 |  | [链接](./slides/950/20260323) | [链接](https://www.bilibili.com/video/BV1cDXwBrEWR/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260320 | 探索Ascend 950的性能天花板 |  | [链接](./slides/950/20260320) | [链接](https://www.bilibili.com/video/BV1fhAHzHERg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260319 | 加速开发、释放生产力的必备利器 |  | [链接](./slides/950/20260319) | [链接](https://www.bilibili.com/video/BV1uPA7zsEXy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260318 | 面向Ascend 950的编程语言选型 |  | [链接](./slides/950/20260318) | [链接](https://www.bilibili.com/video/BV1egwkzYEUs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
