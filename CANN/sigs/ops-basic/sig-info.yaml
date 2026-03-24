@@ -62,6 +62,8 @@ repositories:
   - gitcode_id: gubaocheng
   - gitcode_id: loov1
   - gitcode_id: liu-wei
+  - gitcode_id: zhangzijie
+  - gitcode_id: zl_hw
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -131,6 +133,8 @@ repositories:
     - gitcode_id: wei-peng-1991
     - gitcode_id: llimwang
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
     - gitcode_id: zhou-qilong
     - gitcode_id: rxtfeng
     - gitcode_id: gubaocheng
@@ -184,6 +188,33 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
+  - path:
+    - experimental
+    committers:
+    - gitcode_id: zhou-qilong
+    - gitcode_id: llimwang
+    - gitcode_id: rxtfeng
+    - gitcode_id: gubaocheng
+    - gitcode_id: loov1
+    - gitcode_id: liu-wei
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
+    - gitcode_id: fullt
+    - gitcode_id: wangyongguang
+    - gitcode_id: tang-lei01
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: gitee-duhuiping
+    - gitcode_id: zhouwenfang
+    - gitcode_id: wuyao51511
+    - gitcode_id: gitee-yanglulu
+    - gitcode_id: LiWei79
+    - gitcode_id: luowen203_gg123
+    - gitcode_id: renruhai
+    - gitcode_id: demoauguste
+    - gitcode_id: zhajianqing123
+    - gitcode_id: wei-peng-1991
+    - gitcode_id: songkai111
+    - gitcode_id: yu-xinjie62
 - repo:
   - cann/ops-math
   committers:
@@ -194,6 +225,8 @@ repositories:
   - gitcode_id: loov1
   - gitcode_id: wangrui_
   - gitcode_id: songkai111
+  - gitcode_id: zhangzijie
+  - gitcode_id: zl_hw
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -242,6 +275,8 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - conversion/broadcast_to
     - conversion/circular_pad
@@ -299,6 +334,8 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - conversion/split_v
     committers:
@@ -312,6 +349,8 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - math/abs
     - math/cast
@@ -346,6 +385,8 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - math/accumulate_nv2
     - math/acos
@@ -441,6 +482,8 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - math/add_lora
     - math/transform_bias_rescale_qkv
@@ -457,6 +500,8 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - math/stft
     committers:
@@ -486,6 +531,8 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - math/search_sorted
     - math/right_shift
@@ -501,6 +548,8 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - math/segsum
     committers:
@@ -517,6 +566,8 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - math/rfft1_d
     committers:
@@ -529,6 +580,8 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
   - path:
     - experimental
     committers:
@@ -542,6 +595,8 @@ repositories:
     - gitcode_id: wangrui_
     - gitcode_id: wei-peng-1991
     - gitcode_id: songkai111
+    - gitcode_id: zhangzijie
+    - gitcode_id: zl_hw
     - gitcode_id: chenqi317
     - gitcode_id: LiWei79
     - gitcode_id: yu-xinjie62
@@ -554,6 +609,7 @@ repositories:
     - gitcode_id: zhou-qilong
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
+    - gitcode_id: fullt
 - repo:
   - cann/atvoss
   committers:
@@ -570,5 +626,6 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: zhangzijie
   - gitcode_id: llimwang
+  - gitcode_id: zl_hw
   entry_configs: []
 
