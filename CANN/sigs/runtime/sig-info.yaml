@@ -17,9 +17,9 @@ repositories:
     - docs
     - include
     - pkg_inc
-    - src/runtime/feature/platform
-    - src/runtime/feature/runtime.cmake
-    - src/runtime/feature/CMakeLists.txt
+    - src/runtime/CMakeLists.txt
+    - src/runtime/config
+    - src/runtime/cmake/runtime.cmake
     committers:
     - gitcode_id: wangtao43
     - gitcode_id: tingwood
