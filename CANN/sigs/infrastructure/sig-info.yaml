@@ -3,17 +3,25 @@ description: 构建围绕CANN的基础设施生态，优化构建流程、提高
 mailing_list: infrastructure@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-infrastructure
 mentors: []
-committers:
-- gitcode_id: songchangxia
-- gitcode_id: mywaaagh_admin
-- gitcode_id: shentukangjun
-- gitcode_id: linxi9527
-- gitcode_id: aflyingto
-- gitcode_id: craylea
-- gitcode_id: weixin_39767879
-- gitcode_id: yangbinhua
-- gitcode_id: chrisffjx
-- gitcode_id: drizzlezyk
 repositories:
 - repo:
   - cann/infrastructure
+  committers:
+  - gitcode_id: songchangxia
+  - gitcode_id: mywaaagh_admin
+  - gitcode_id: shentukangjun
+  - gitcode_id: linxi9527
+  - gitcode_id: aflyingto
+  - gitcode_id: craylea
+  - gitcode_id: weixin_39767879
+  - gitcode_id: yangbinhua
+  - gitcode_id: chrisffjx
+  - gitcode_id: drizzlezyk
+- repo:
+  - cann/skills
+  committers:
+  - gitcode_id: jon_jin
+  - gitcode_id: OpSphere
+  - gitcode_id: benwallace52
+  - gitcode_id: hanrui22
+  - gitcode_id: dengguojie
