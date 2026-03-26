@@ -61,6 +61,7 @@
 - 张海杰 [@haijie_699874](https://gitcode.com/haijie_699874), *zhanghaijie4@hisilicon.com*
 - 沈维铃 [@shen_weiling](https://gitcode.com/shen_weiling), *shenweiling@huawei.com*
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
+- 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -73,6 +74,7 @@
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
 - 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangminbo1@hisilicon.com*
 - 刘博熙 [@liuboxi](https://gitcode.com/liuboxi), *liuboxi1@huawei.com*
+- 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 
 ## ffn committer列表：
 - 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
