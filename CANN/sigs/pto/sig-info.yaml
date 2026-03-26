@@ -27,6 +27,21 @@ repositories:
     - gitcode_id: zhangqi-chen
     - gitcode_id: jiawei_zhuang
   entry_configs: []
+  branch_configs:
+  - branch:
+    - 0.2.0
+    committers:
+    - gitcode_id: linjiashu
+    - gitcode_id: yinjie27_
+    - gitcode_id: DCGDDD
+    - gitcode_id: jason_yuan_ye
+  - branch:
+    - br_0.1.1_20260313_beta
+    committers:
+    - gitcode_id: linjiashu
+    - gitcode_id: yinjie27_
+    - gitcode_id: DCGDDD
+    - gitcode_id: jason_yuan_ye
 
 - repo:
     - cann/pto-isa
