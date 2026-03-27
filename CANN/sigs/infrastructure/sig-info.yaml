@@ -25,3 +25,10 @@ repositories:
   - gitcode_id: benwallace52
   - gitcode_id: hanrui22
   - gitcode_id: dengguojie
+- repo:
+  - cann/cann-spack-package
+  committers:
+  - gitcode_id: syhhys
+  - gitcode_id: kpge90
+  - gitcode_id: songchangxia 
+
