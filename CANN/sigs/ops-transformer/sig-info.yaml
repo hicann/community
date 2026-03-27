@@ -63,6 +63,7 @@ repositories:
     - gitcode_id: haijie_699874
     - gitcode_id: shen_weiling
     - gitcode_id: tang-hao-hw-gitcode
+    - gitcode_id: juyangokok
     
   - path: 
     - ffn
@@ -87,6 +88,7 @@ repositories:
     - gitcode_id: chaotang233
     - gitcode_id: chen-linxin4
     - gitcode_id: cc-z
+    - gitcode_id: juyangokok
  
   - path:
     - mc2
@@ -114,6 +116,7 @@ repositories:
     - gitcode_id: yu-xinjie62
     - gitcode_id: chen-linxin4
     - gitcode_id: cc-z
+    - gitcode_id: juyangokok
 
   - path:                            
     - posembedding
@@ -127,3 +130,4 @@ repositories:
     - gitcode_id: yu-xinjie62
     - gitcode_id: chen-linxin4
     - gitcode_id: cc-z
+    - gitcode_id: juyangokok

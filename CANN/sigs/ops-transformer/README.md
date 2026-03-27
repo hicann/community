@@ -61,6 +61,7 @@
 - 张海杰 [@haijie_699874](https://gitcode.com/haijie_699874), *zhanghaijie4@hisilicon.com*
 - 沈维铃 [@shen_weiling](https://gitcode.com/shen_weiling), *shenweiling@huawei.com*
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
+- 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
 
@@ -70,6 +71,7 @@
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 - 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
+- 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 
 ## mc2 committer列表：
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
@@ -86,12 +88,14 @@
 - 王永光 [@wangyongguang](https://gitcode.com/wangyongguang), *wangyongguang1@huawei.com*
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 - 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
+- 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 
 ## posembedding committer列表：
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
 - 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 - 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
+- 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 
 ## attention committer列表：
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
@@ -105,6 +109,7 @@
 - 张海杰 [@haijie_699874](https://gitcode.com/haijie_699874), *zhanghaijie4@hisilicon.com*
 - 沈维铃 [@shen_weiling](https://gitcode.com/shen_weiling), *shenweiling@huawei.com*
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
+- 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 
 # SIG订阅
 
