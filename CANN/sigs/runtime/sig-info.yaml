@@ -98,3 +98,11 @@ repositories:
     - gitcode_id: littleWhite0625
     - gitcode_id: yangyongqiang0606
     - gitcode_id: zhanj
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi

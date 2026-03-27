@@ -53,6 +53,14 @@ repositories:
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/ops-cv
   committers:
@@ -215,6 +223,14 @@ repositories:
     - gitcode_id: wei-peng-1991
     - gitcode_id: songkai111
     - gitcode_id: yu-xinjie62
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/ops-math
   committers:
@@ -610,6 +626,14 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: fullt
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/atvoss
   committers:

@@ -15,6 +15,14 @@ repositories:
   - gitcode_id: daijiayin
   - gitcode_id: zchenbm97
   - gitcode_id: li_ting
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
   entry_configs: []
 - repo:
   - cann/oam-tools
@@ -36,3 +44,11 @@ repositories:
       - gitcode_id: ouyangxizi
       - gitcode_id: lilianlin_hw
       - gitcode_id: lilin_137
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi

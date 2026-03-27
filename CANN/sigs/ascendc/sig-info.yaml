@@ -150,7 +150,14 @@ repositories:
     - gitcode_id: ai_xin
     - gitcode_id: xun_zhuge
     - gitcode_id: changxianyu
-
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/asc-tools
   committers:
@@ -175,6 +182,14 @@ repositories:
     committers:
     - gitcode_id: wk0911
     - gitcode_id: zhanghao_0689
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
 
 - repo:
   - cann/pyasc
@@ -203,6 +218,14 @@ repositories:
     committers:
     - gitcode_id: ascendhjh
     - gitcode_id: qin437231
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
 
 - repo:
   - cann/atvc
@@ -218,3 +241,11 @@ repositories:
     committers:
     - gitcode_id: wulinyu
     - gitcode_id: wangxiaozhi
+  branch_configs:
+  - branch:
+    - 9.0.0
+    committers:
+    - gitcode_id: gcw_kUomxQ2l
+    - gitcode_id: Andy-lb
+    - gitcode_id: hanxiaolong
+    - gitcode_id: gcw_Dm2TsRUi
