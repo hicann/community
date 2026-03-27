@@ -2,17 +2,17 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260324 | PTO ISA带你掌握昇腾芯片的奥秘 |  | [链接](./slides/950/20260326) |  |
+| 20260324 | PTO ISA带你快速上手Ascend 950 |  | [链接](./slides/950/20260326) | [链接](https://www.bilibili.com/video/BV1eLX8BuETT/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260324 | HCCL集合通信专用引擎CCU技术介绍 |  | [链接](./slides/950/20260324) | [链接](https://www.bilibili.com/video/BV1AEQmBTEWy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260323 | HiFloat8数据格式及其训推应用 |  | [链接](./slides/950/20260323) | [链接](https://www.bilibili.com/video/BV1cDXwBrEWR/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260320 | 探索Ascend 950的性能天花板 |  | [链接](./slides/950/20260320) | [链接](https://www.bilibili.com/video/BV1fhAHzHERg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260319 | 加速开发、释放生产力的必备利器 |  | [链接](./slides/950/20260319) | [链接](https://www.bilibili.com/video/BV1uPA7zsEXy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260318 | 面向Ascend 950的编程语言选型 |  | [链接](./slides/950/20260318) | [链接](https://www.bilibili.com/video/BV1egwkzYEUs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260317 | CANN 算子开发全链路体验升级 |  | [链接](./slides/950/20260317) | [链接](https://www.bilibili.com/video/BV1RGwdzzEXk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260316 | 面向新一代硬件，CANN技术架构的变与不变 |  | [链接](./slides/950/20260316) | [链接](https://www.bilibili.com/video/BV1LAw7zwEnt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260313 | 面向下一代硬件的运维必修课 | sig-tools | [链接](./slides/sig-tools/20260313) | [链接](https://www.bilibili.com/video/BV1oQcSz9Eqm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260309 | 面向下一代硬件的算子编程必修课(PyPTO) | sig-pto | [链接](./slides/sig-pto/20260309-20260312) | [链接](https://www.bilibili.com/video/BV15yPDzFEhc/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260302 | 面向下一代硬件的算子编程必修课(Ascend C) | sig-ascendc | [链接](./slides/sig-ascendc/20260302-20260306) | [链接](https://www.bilibili.com/video/BV12fAdzcEDe/?spm_id_from=333.1387.collection.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260316 | 面向Ascend 950，CANN技术架构的变与不变 |  | [链接](./slides/950/20260316) | [链接](https://www.bilibili.com/video/BV1LAw7zwEnt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260313 | 面向Ascend 950的性能调优必修课 | sig-tools | [链接](./slides/sig-tools/20260313) | [链接](https://www.bilibili.com/video/BV1oQcSz9Eqm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260309 | 面向Ascend 950的算子编程必修课(PyPTO) | sig-pto | [链接](./slides/sig-pto/20260309-20260312) | [链接](https://www.bilibili.com/video/BV15yPDzFEhc/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260302 | 面向Ascend 950的算子编程必修课(Ascend C) | sig-ascendc | [链接](./slides/sig-ascendc/20260302-20260306) | [链接](https://www.bilibili.com/video/BV12fAdzcEDe/?spm_id_from=333.1387.collection.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260228 | SHMEM开源介绍 | sig-shmem | [链接](./slides/sig-shmem/20260228) | [链接](https://www.bilibili.com/video/BV1mkPkzbE1G/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260212 | CANN一站式开发平台全面公测 | sig-tools | [链接](./slides/sig-tools/20260212) | [链接](https://www.bilibili.com/video/BV1S7fyBREW5/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260210 | 轻量图模式后端npugraph_ex | sig-ge | [链接](./slides/sig-ge/20260210) | [链接](https://www.bilibili.com/video/BV1PvcLzBEwo/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
