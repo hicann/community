@@ -88,6 +88,14 @@ repositories:
       - gitcode_id: yanzhenghang
 
     - path:
+      - classify_rule.yaml  # UT/ST规则文件
+      - blacklist.txt       # UT/ST覆盖率屏蔽列表
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: yanzhenghang
+      - gitcode_id: ccl_ligang
+
+    - path:
       - test/st/algorithm
       committers:
       - gitcode_id: whk19940509
@@ -180,6 +188,14 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
+
+    - path:
+      - classify_rule.yaml  # UT/ST规则文件
+      - blacklist.txt       # UT/ST覆盖率屏蔽列表
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: yanzhenghang
+      - gitcode_id: ccl_ligang
 
     - path:
       - src/common/error_code/error_code.cc
