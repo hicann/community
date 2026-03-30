@@ -1,5 +1,7 @@
 name: CANN  
-description: 
+description: 负责统筹CANN社区的版本规划与交付、制定流程规范、搭建基础运营平台，并构建测试能力以看护版本质量。
+mailing_list: pmc@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/pmc 
 pmc_members:
   - gitcode_id: cann_cm
     name: 陈敏

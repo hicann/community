@@ -1,5 +1,7 @@
 name: CANN  
-description: 
+description: 负责定义CANN社区的技术方向、决策重大技术事项、管理项目及人员架构，并对社区重要技术工作进行全面统筹。
+mailing_list: tsc@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/tsc 
 tsc_members:
   - gitcode_id: hengliao2025
     name: LIAO HENG
