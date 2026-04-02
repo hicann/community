@@ -86,6 +86,7 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
+      - gitcode_id: wenxuemin
 
     - path:
       - classify_rule.yaml  # UT/ST规则文件
@@ -188,6 +189,7 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
+      - gitcode_id: wenxuemin
 
     - path:
       - classify_rule.yaml  # UT/ST规则文件
