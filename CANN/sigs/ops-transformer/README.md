@@ -64,6 +64,7 @@
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
+- 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -110,6 +111,7 @@
 - 沈维铃 [@shen_weiling](https://gitcode.com/shen_weiling), *shenweiling@huawei.com*
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
+- 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 
 # SIG订阅
 
