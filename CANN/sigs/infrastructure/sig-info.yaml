@@ -18,14 +18,6 @@ repositories:
   - gitcode_id: chrisffjx
   - gitcode_id: drizzlezyk
 - repo:
-  - cann/skills
-  committers:
-  - gitcode_id: jon_jin
-  - gitcode_id: OpSphere
-  - gitcode_id: benwallace52
-  - gitcode_id: hanrui22
-  - gitcode_id: dengguojie
-- repo:
   - cann/cann-spack-package
   committers:
   - gitcode_id: syhhys

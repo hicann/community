@@ -280,6 +280,14 @@ sigs:
       - gitcode_id: tianye525
         name: 田野
         email: tianye25@huawei.com
+  - sig_name: cannbot
+    maintainers:
+      - gitcode_id: OpSphere
+        name: 沈敏
+        email: shenmin3@huawei.com
+      - gitcode_id: linghuis
+        name: 陆玲辉
+        email: lulinghui@huawei.com
   - sig_name: ops-linear-algebra
     maintainers:
       - gitcode_id: wangzitao_leo
