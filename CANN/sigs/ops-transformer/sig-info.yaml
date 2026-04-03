@@ -20,6 +20,18 @@ repositories:
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
+
+  - path:
+    - "*/*/docs/acl*.md"
+    - "*/*/README.md"
+    committers:
+    - gitcode_id: Ww7012
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: gitee-yanglulu
+    - gitcode_id: gitee-duhuiping
+    - gitcode_id: zhouwenfang
+    - gitcode_id: wuyao51511
+    - gitcode_id: claire8090
   
   - path:                               # DT，编译构建等相关公共代码
     - cmake

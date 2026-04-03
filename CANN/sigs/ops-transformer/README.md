@@ -64,6 +64,13 @@
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
+- 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
+- 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
+- 杨露露 [@gitee-yanglulu](https://gitcode.com/gitee-yanglulu), *yanglulul@h-partners.com*
+- 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
+- 周文芳 [@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
+- 吴瑶 [@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*
+- 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 - 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 
 ## 细分领域：
@@ -112,6 +119,15 @@
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
+
+## 资料 committer列表：
+- 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
+- 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
+- 杨露露 [@gitee-yanglulu](https://gitcode.com/gitee-yanglulu), *yanglulul@h-partners.com*
+- 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
+- 周文芳 [@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
+- 吴瑶 [@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*
+- 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 
 # SIG订阅
 
