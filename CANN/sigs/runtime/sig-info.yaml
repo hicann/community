@@ -106,3 +106,42 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - docs
+      - include
+      - pkg_inc
+      - src/runtime/CMakeLists.txt
+      - src/runtime/config
+      - src/runtime/cmake/runtime.cmake
+      - example
+      - src/acl
+      - src/inc/runtime
+      - src/runtime
+      - tests/ut/acl
+      - tests/ut/runtime
+      - example/adump
+      - example/profiling
+      - src/dfx
+      - tests/ut/adump
+      - tests/ut/slog
+      - tests/ut/msprof
+      - tests/ut/atrace
+      - tests/ut/error_manager
+      - src/aicpu_sched
+      - src/queue_schedule
+      - src/tsd
+      - tests/ut/aicpu_sched
+      - tests/ut/queue_schedule
+      - tests/ut/tsd
+      - src/platform
+      - pkg_inc/platform
+      - tests/ut/platform
+      - src/mmpa
+      - tests/ut/mmpa
+      - src/dfx/error_manager/error_code.json
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi

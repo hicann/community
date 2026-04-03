@@ -29,6 +29,14 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - include
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/hccl
   committers:
@@ -111,6 +119,20 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - src
+      - python
+      - pkg_inc
+      - include
+      - classify_rule.yaml
+      - blacklist.txt
+      - test/st/algorithm
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/hcomm
   committers:
@@ -211,3 +233,32 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - src
+      - python
+      - src/framework/device/aicpu_kfc
+      - test/ut/aicpu_kfc
+      - pkg_inc
+      - include
+      - CMakeLists.txt
+      - src/CMakeLists.txt
+      - src/pub_inc
+      - src/platform/CMakeLists.txt
+      - src/hccd/CMakeLists.txt
+      - src/framework/CMakeLists.txt
+      - src/algorithm/CMakeLists.txt
+      - src/platform/hccp/CMakeLists.txt
+      - src/platform/hccp/rdma_service/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/adapter/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/client/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/hdc/CMakeLists.txt
+      - src/platform/hccp/rdma_agent/peer/CMakeLists.txt
+      - classify_rule.yaml
+      - blacklist.txt
+      - src/common/error_code/error_code.cc 
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi

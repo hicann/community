@@ -25,6 +25,14 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - super_kernel/src/superkernel/__init__.py
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/triton-inference-server-ge-backend
   committers:
@@ -108,6 +116,27 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - inc/external
+      - compiler/engines/nn_engine
+      - compiler/engines/ffts_engine
+      - compiler/opcompiler
+      - tests/engines/nn_engine
+      - tests/engines/ffts_engine
+      - compiler/engines/cpu_engine
+      - compiler/engines/dvpp_engine
+      - compiler/engines/hccl_engine
+      - tests/engines/hccl_engine
+      - base/common/helper/mobile
+      - base/common/helper/mobile_model_helper.cc
+      - inc/framework/common/helper/mobile_model_helper.h
+      - base/common/error_registry/error_registry.cc
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/metadef
   committers:
@@ -133,3 +162,12 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - inc/external
+      - pkg_inc
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi

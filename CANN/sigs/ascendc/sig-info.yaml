@@ -158,6 +158,35 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - cmake
+      - docs
+      - include
+      - include/adv_api
+      - include/aicpu_api
+      - include/basic_api
+      - include/c_api
+      - include/micro_api
+      - include/simt_api
+      - include/experimental/tensor_api
+      - include/utils
+      - impl/aicpu_api
+      - impl/basic_api
+      - impl/c_api
+      - impl/experimental/tensor_api
+      - impl/simt_api
+      - impl/micro_api
+      - scripts
+      - tools
+      - tools/aclrtc
+      - tools/build
+      - examples
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/asc-tools
   committers:
@@ -190,6 +219,14 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - cpudebug/include
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
 
 - repo:
   - cann/pyasc
@@ -226,6 +263,15 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - include
+      - python/asc/language
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
 
 - repo:
   - cann/atvc
@@ -249,3 +295,12 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - include
+      - examples
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi

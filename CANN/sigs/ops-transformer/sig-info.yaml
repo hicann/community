@@ -152,3 +152,31 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    entry_configs: 
+    - path:
+      - "*/*/op_host/op_api/*.h"
+      - "*/*/op_host/*_def.cpp"
+      - "*/*/op_api/*.h"
+      - "*/*/op_graph/*_proto.h"
+      - cmake
+      - scripts
+      - tests
+      - docs
+      - examples
+      - attention
+      - experimental/attention
+      - ffn
+      - experimental/ffn
+      - gmm
+      - experimental/gmm
+      - mc2
+      - experimental/mc2
+      - moe
+      - experimental/moe
+      - posembedding
+      - experimental/posembedding
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: gcw_Dm2TsRUi
