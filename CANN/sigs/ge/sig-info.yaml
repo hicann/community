@@ -63,6 +63,7 @@ repositories:
   - gitcode_id: zhujingjing
   - gitcode_id: depeng1994
   - gitcode_id: peiyang
+  - gitcode_id: yangyongqiang0606
   entry_configs:
   - path:
     - inc/external
@@ -147,6 +148,7 @@ repositories:
   - gitcode_id: tangqunzhang
   - gitcode_id: depeng1994
   - gitcode_id: peiyang
+  - gitcode_id: yangyongqiang0606
   entry_configs:
   - path:
     - inc/external
