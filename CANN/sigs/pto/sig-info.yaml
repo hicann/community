@@ -20,12 +20,15 @@ repositories:
     - gitcode_id: zhangyuebing
     - gitcode_id: cam_bxh
     - gitcode_id: gaoxingwang
-    - gitcode_id: lyfne
-    - gitcode_id: poursoul
     - gitcode_id: hw_zhangzhiqi
-    - gitcode_id: wcwxy
-    - gitcode_id: zhangqi-chen
-    - gitcode_id: jiawei_zhuang
+    - gitcode_id: wangzheng97
+    - gitcode_id: congqiannan
+    - gitcode_id: ym-HW
+    - gitcode_id: codehjp423
+    - gitcode_id: caodongdong
+    - gitcode_id: gaoxiang618
+    - gitcode_id: wangbing110
+    - gitcode_id: zhiweiyuan
   entry_configs: []
   branch_configs:
   - branch:
