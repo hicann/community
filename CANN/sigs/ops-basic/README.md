@@ -53,7 +53,6 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 - 张浩[@demoauguste](https://gitcode.com/demoauguste), *zhanghao418@huawei.com*
 - 张喻翔[@zhangyuxiang0119](https://gitcode.com/zhangyuxiang0119), *zhangyuxiang21@huawei.com*
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
-- 史凯[@shikai-1](https://gitcode.com/shikai-1), *shikai4@huawei.com*
 - 任如海[@renruhai](https://gitcode.com/renruhai), *renruhai1@huawei.com*
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
 - 张子杰[@zhangzijie](https://gitcode.com/zhangzijie), *zhangzijie11@hisilicon.com*
