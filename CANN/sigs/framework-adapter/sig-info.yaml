@@ -1,6 +1,6 @@
 name: framework-adapter
 description: 该 sig 聚焦 AI 框架与昇腾芯片的深度适配，实现主流框架对昇腾硬件的原生支持，在确保语义一致性与高性能的同时，提高用户易用性并降低迁移成本。
-mailing_list: recipes@cann.osinfra.cn
+mailing_list: framework-adapter@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-framework-adapter
 committers: []
 repositories:
