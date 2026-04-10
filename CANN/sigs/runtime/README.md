@@ -56,7 +56,8 @@ Runtime 是连接算子编译、图执行、调度器、通信库与NPU硬件的
 
 * 王涛 [@wangtao43](https://gitcode.com/wangtao43), *[wangtao43@huawei.com](mailto:wangtao43@huawei.com)*
 * 张子菁  [@tingwood](https://gitcode.com/tingwood), *[zhangzijing@huawei.com](mailto:zhangzijing@huawei.com)*
-* 许世峰 [@derekxu](https://gitcode.com/derekxu), *[derek.xu@huawei.com](mailto:derek.xu@huawei.com)*
+* 卢煜坤 [@ykl999](https://gitcode.com/ykl999), *[luyukun1@huawei.com](mailto:luyukun1@huawei.com)*
+* 侯延保 [@houyanbao](https://gitcode.com/houyanbao), *[houyanbao@huawei.com](mailto:houyanbao@huawei.com)*
 
 ### Committer列表
 

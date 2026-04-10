@@ -23,7 +23,8 @@ repositories:
     committers:
     - gitcode_id: wangtao43
     - gitcode_id: tingwood
-    - gitcode_id: derekxu
+    - gitcode_id: ykl999
+    - gitcode_id: houyanbao
   - path:
     - example
     - src/acl
