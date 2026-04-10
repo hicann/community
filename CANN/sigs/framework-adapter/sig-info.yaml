@@ -1,0 +1,23 @@
+name: framework-adapter
+description: 该 sig 聚焦 AI 框架与昇腾芯片的深度适配，实现主流框架对昇腾硬件的原生支持，在确保语义一致性与高性能的同时，提高用户易用性并降低迁移成本。
+mailing_list: recipes@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-framework-adapter
+committers: []
+repositories:
+- repo:
+  - cann/torchtitan-npu
+  committers:
+  - gitcode_id: zhanghz1
+  - gitcode_id: panchao-gitcode
+  - gitcode_id: lrwei0709
+  - gitcode_id: xuyujun
+  entry_configs: []
+
+- repo:
+  - cann/xla-npu
+  committers:
+  - gitcode_id: gcw_w18ytwbi
+  - gitcode_id: JaydenChu
+  - gitcode_id: luanchaowei
+  - gitcode_id: xingzhixiong
+  entry_configs: []

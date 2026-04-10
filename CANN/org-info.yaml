@@ -305,3 +305,17 @@ sigs:
       - gitcode_id: demoauguste
         name: 张浩
         email: zhanghao418@huawei.com
+  - sig_name: framework-adapter
+    maintainers:
+      - gitcode_id: zhong_lin
+        name: 钟林
+        email: echo.zhonglin@huawei.com
+      - gitcode_id: shengnan666
+        name: 盛楠
+        email: titan.sheng@huawei.com
+      - gitcode_id: depeng1994
+        name: 张德鹏
+        email: zhangdepeng2@huawei.com
+      - gitcode_id: XDaoHong
+        name: 徐道鸿
+        email: xudaohong@huawei.com
