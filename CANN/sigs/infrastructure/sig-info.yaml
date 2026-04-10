@@ -23,4 +23,9 @@ repositories:
   - gitcode_id: syhhys
   - gitcode_id: kpge90
   - gitcode_id: songchangxia 
-
+- repo:
+  - cann/cmake
+  committers:
+  - gitcode_id: songchangxia
+  - gitcode_id: yangbinhua
+  - gitcode_id: zhaoyingdong
