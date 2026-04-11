@@ -61,3 +61,8 @@
 ## SIG订阅
 
 - [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/framework-adapter.cann.osinfra.cn/)
+
+## 仓库清单
+仓库地址：
+- https://gitcode.com/cann/torchtitan-npu
+- https://gitcode.com/cann/xla-npu
