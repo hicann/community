@@ -5,15 +5,6 @@ meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-framework
 committers: []
 repositories:
 - repo:
-  - cann/torchtitan-npu
-  committers:
-  - gitcode_id: zhanghz1
-  - gitcode_id: panchao-gitcode
-  - gitcode_id: lrwei0709
-  - gitcode_id: xuyujun
-  entry_configs: []
-
-- repo:
   - cann/xla-npu
   committers:
   - gitcode_id: gcw_w18ytwbi
