@@ -54,9 +54,21 @@ repositories:
     - gitcode_id: wda1991
     - gitcode_id: Turing_JasonWen
   - path:
-    - example/adump
-    - example/profiling
+    - include/dfx
+    - include/external/acl/acl_dump.h
+    - include/external/acl/acl_prof.h
+    - include/external/ge/ge_prof.h
+    - pkg_inc/base
+    - pkg_inc/dump
+    - pkg_inc/profiling
+    - pkg_inc/toolchain
+    - pkg_inc/trace
+    - pkg_inc/watchdog
     - src/dfx
+    - src/acl/aclrt_impl/toolchain
+    - docs/dfx
+    - example/dfx
+    - example/5_performance
     - tests/ut/adump
     - tests/ut/slog
     - tests/ut/msprof
