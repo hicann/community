@@ -49,7 +49,11 @@ CANN 相关开源仓
 
 ### 1. 代码风格
 
+
+
 #### 1.1 命名
+
+整体建议使用统一的命名风格，CANN社区统一的命名风格有如下建议（特殊情况可以说明，不强制）：
 
 __驼峰风格(CamelCase)__
 大小写字母混用，单词连在一起，不同单词间通过单词首字母大写来分开。
@@ -169,10 +173,120 @@ namespace Utils {
 }
 
 ```
+结构体，命名空间，枚举等定义的文件名类似。
 
-#### 1.2 格式
+##### 规则1.1.6 C++文件名和类名保持一致
 
-##### 建议 1.2.1 行宽不超过 120 个字符
+当C++的头文件和源文件文件中只有一个类时，文件名和类名保持一致，其他场景可以按照业务意图命名。
+
+文件名可以使用大驼峰或者小写下划线风格，项目组可以选择一种风格约定执行，并保持风格统一。
+
+例如，有一个类叫DatabaseConnection，那么对应的文件名如下：
+
+- DatabaseConnection.h
+- DatabaseConnection.cpp
+
+或者使用如下文件名：
+
+- database_connection.h
+- database_connection.cpp
+
+
+#### 1.2 注释
+一般的，尽量通过清晰的架构逻辑，好的符号命名来提高代码可读性；需要的时候，才辅以注释说明。 
+注释是为了帮助阅读者快速读懂代码，所以要从读者的角度出发，**按需注释**。
+
+注释内容要简洁、明了、无二义性，信息全面且不冗余。
+
+在 C++ 代码中，使用 `/*` `*/`和 `//` 都是可以的。 
+按注释的目的和位置，注释可分为不同的类型，如文件头注释、函数头注释、代码注释等等； 
+同一类型的注释应该保持统一的风格。
+
+##### 规则 1.2.1 文件头注释包含版权声明
+如下例子：
+
+```cpp
+/**
+ * Copyright (c) 2021-2026 Huawei Technologies Co., Ltd.
+ * This program is free software, you can redistribute it and/or modify it under the terms and conditions of
+ * CANN Open Software License Agreement Version 2.0 (the "License").
+ * Please refer to the License for details. You may not use this file except in compliance with the License.
+ * THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED,
+ * INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+ * See LICENSE in the root of the software repository for the full text of the License.
+ */
+
+```
+
+- 2021-2026 可根据实际需要修改。
+  2021 是文件首次创建年份，而 2026 是文件最后修改年份。二者可以一样，如 "2026-2026"
+  对文件有重大修改时，必须更新后面年份，如特性扩展，重大重构等
+- 保持格式统一，具体格式可由项目或更大范围统一制定。
+
+##### 规则 1.2.2 注释符与注释内容间留有1个空格
+
+```cpp
+// this is multi-
+// line comment
+int foo; // this single-line comment
+```
+
+##### 建议 1.2.4 不要写空有格式的函数头注释
+
+并不是所有的函数都需要函数头注释，函数尽量通过函数名自注释，按需写函数头注释；函数原型无法表达的，却又希望读者知道的信息，才需要加函数头注释辅助说明。
+不要写无用、信息冗余的函数头，函数头注释内容可选，但不限于：功能说明、返回值，性能约束、用法、内存约定、算法实现、可重入的要求等。
+例：
+
+```cpp
+/*
+ * 返回实际写入的字节数，-1表示写入失败
+ * 注意，内存 buf 由调用者负责释放
+ */
+int WriteString(const char *buf, int len);
+```
+
+坏的例子：
+```cpp
+/*
+ * 函数名：WriteString
+ * 功能：写入字符串
+ * 参数：
+ * 返回值：
+ */
+int WriteString(const char *buf, int len);
+```
+上面例子中的问题：
+
+- 参数、返回值，空有格式没内容
+- 函数名信息冗余
+- 关键的 buf 由谁释放没有说清楚
+
+
+## 建议 1.2.5 代码注释置于对应代码的上方或右边
+- 代码上方的注释：与代码行间无空行，保持与代码一样的缩进
+- 代码右边的注释：与代码之间，至少留有1空格
+
+通常右边的注释内容不宜过多，当注释超过行宽时，考虑将注释置于代码上方。
+
+```cpp
+// Foo() 函数的注释
+int Foo()
+{
+    int b = 0; // 变量 b 的注释，与代码至少留有1空格
+    ...
+}
+```
+
+在适当的时候，右边的注释上下对齐会更美观：
+
+```cpp
+const int A_CONST = 100;       // 此处两行注释属于同类
+const int ANOTHER_CONST = 200; // 可保持左侧对齐
+```
+
+#### 1.3 格式
+
+##### 建议 1.3.1 行宽不宜过长
 建议每行字符数不要超过 120 个。如果超过120个字符，请选择合理的方式进行换行。
 
 例外:
@@ -186,111 +300,219 @@ namespace Utils {
 #endif
 ```
 
-##### 规则 1.2.2 使用空格进行缩进，每次缩进4个空格
+##### 规则 1.3.2 使用空格进行缩进，每次缩进4个空格
 只允许使用空格(space)进行缩进，每次缩进为 4 个空格。不允许使用Tab符进行缩进。
 当前几乎所有的集成开发环境（IDE）都支持配置将Tab符自动扩展为4空格输入；请配置你的IDE支持使用空格进行缩进。
 
-##### 规则 1.2.3 在声明指针、引用变量或参数时, `&`、`*`跟随变量名，另外一边留空格
+
+##### 规则 1.3.16  指针类型"*"和引用类型"&"只跟随类型或变量名
+
+**【描述】**
+指针类型的类型修饰符`*`可以跟随类型也可以跟随变量名或函数名，编写代码时选择使用其中一种跟随风格，保持统一。 按照C++代码惯例，建议使用跟随类型的风格。
+
+当`*`与类型、变量、函数名之间有其他关键字而无法跟随时，可以选择向左或向右跟随关键字，或者选择与关键字之间留有1个空格。
+当`*`由于其他原因无法跟随类型、变量、函数名时，选择一种跟随风格。
+
+类似地，成员指针`::*` 和引用类型`&`、`&&`、`*&`的风格也应与指针类型`*`的风格相同。
+
+本条款中列举了一些应该避免出现的风格以及常见的推荐风格。
+
+**【反例】**
 
 ```cpp
-char *c;
-  const std::string &str;
+int i = 0;
+int*p1 = &i;                        // 不符合：两边都没空格
+int * p2 = &i;                      // 不符合：两边都有空格
+
+int&r1 = i;                         // 不符合：两边都没空格
+int & r1 = i;                       // 不符合：两边都有空格
+
+int&&rr1 = i + 10;                  // 不符合：两边都没空格
+int && rr2 = i + 10;                // 不符合：两边都有空格
+
+int*&rp1 = p1;                      // 不符合：两边都没空格
+int *& rp2= p1;                     // 不符合：两边都有空格
+int * &rp3 = p1;                    // 不符合：中间有空格
+int* &rp4 = p1;                     // 不符合：中间有空格
+int* & rp5 = p1;                    // 不符合：中间有空格
+int * & rp6 = p1;                   // 不符合：中间有空格
 ```
 
-##### 规则 1.2.4 if语句必须要使用大括号
-我们要求if语句都需要使用大括号，即便只有一条语句。
+**【正例】**
+跟随类型的风格。
+
+```cpp
+const char* const VERSION = "V100"; // 符合：跟随类型（可选"*"两边都有空格的风格）
+int i = 0;
+int* p = &i;                        // 符合：跟随类型
+Foo* CreateFoo();                   // 符合：跟随类型
+
+int& r = i;                         // 符合：跟随类型
+int&& rr = i + 10;                  // 符合：跟随类型
+int*& rp = p;                       // 符合：指针的引用，*& 一起跟随类型，中间没有空格
+Foo& GetFoo();                      // 符合：跟随类型
+```
+
+在特殊场景中，可以选择一种风格并保持一致。如下风格是一种选择方式：
+
+```cpp
+const int SomeClass::*p1;           // 符合：由于修饰符不能和类型写在一起，可以跟随变量名
+void (SomeClass::*fp2)();           // 符合：在括号里面时，可以跟随变量名
+void (*fp2)();
+
+int array[LEN] = {0};
+int (*pa)[LEN] = &array;            // 符合：在括号里面时，可以跟随变量名
+int (&ra)[LEN] = array;             // 符合：在括号里面时，可以跟随变量名
+```
+
+**【正例】**
+跟随变量名或函数名的风格。
+
+```cpp
+const char *const VERSION = "V100"; // 向右跟随关键字（可选"*"两边都有空格的风格）
+int i = 0;
+int *p = &i;                        // 符合：跟随变量名
+Foo *CreateFoo();                   // 符合：跟随函数名
+
+int &r = i;                         // 符合：跟随变量名
+int &&rr = i + 10;                  // 符合：跟随变量名
+int *&rp = p;                       // 符合：指针的引用，*& 一起跟随变量名，中间没有空格
+Foo &GetFoo();                      // 符合：跟随函数名
+
+const int SomeClass::*p1;           // 符合：跟随变量名
+void (SomeClass::*fp1)();           // 符合：跟随变量名
+void (*fp2);                        // 符合：跟随变量名
+
+int array[LEN] = {0};
+int (*pa)[LEN] = &array;            // 符合：跟随变量名
+int (&ra)[LEN] = array;             // 符合：跟随变量名
+
+size_t size = sizeof(int *);        // 符合：留有1空格（可选"*"靠近类型）
+```
+
+##### 规则 1.3.4 选择、循环语句使用大括号
+包括 if/for/while/do-while 语句应使用大括号，即复合语句。
 理由：
-- 代码逻辑直观，易读；
-- 在已有条件语句代码上增加新代码时不容易出错；
-- 对于在if语句中使用函数式宏时，有大括号保护不易出错（如果宏定义时遗漏了大括号）。
+- 代码逻辑直观，易读
+- 在已有代码上增加新代码时不容易出错
+- 对于语句中使用函数式宏时，没有大括号保护容易出错（如：宏定义时遗漏了大括号）
 
+**【正例】**
 ```cpp
-// 即使if分支代码只有一行，也必须使用大括号
-if (cond) {
-  single line code;
+if (objectIsNotExist) {               // 单行选择语句需要加大括号
+    return CreateNewObject();
 }
 ```
 
-##### 规则 1.2.5 for/while等循环语句必须使用大括号
-
-和条件表达式类似，我们要求for/while循环语句必须加上大括号，即便循环体是空的，或循环语句只有一条。
 ```cpp
-for (int i = 0; i < someRange; i++) {   // Good: 使用了大括号
+for (int i = 0; i < someRange; i++) { // 单行循环语句需要加大括号
     DoSomething();
 }
 ```
+
 ```cpp
-while (condition) { }   // Good：循环体是空，使用大括号
+while (condition) {}                  // 空循环体需要加大括号
 ```
 
-##### 规则 1.2.6 表达式换行要保持换行的一致性，运算符放行末
-较长的表达式，不满足行宽要求的时候，需要在适当的地方换行。一般在较低优先级运算符或连接符后面截断，运算符或连接符放在行末。
-运算符、连接符放在行末，表示“未结束，后续还有”。
-例：
+**【反例】**
+```cpp
+for (int i = 0; i < someRange; i++)   // 不符合： 应该加上括号
+    DoSomething();
+```
+
+```cpp
+while (condition); // 不符合：容易让人误解循环体是 DoSomething() 调用
+DoSomething();
+while (condition); // 不符合：容易让人误解分号是while语句中的一部分
+```
+
+##### 规则 1.3.5 非纯ASCII码源文件使用UTF-8编码
+对于含有非ASCII字符的源文件，使用UTF-8编码。
+
+
+##### 规则 1.3.6 换行时将操作符留在行末，新行缩进一层或进行同类对齐
+
+当语句过长，或者可读性不佳时，需要在合适的地方换行。
+换行时将操作符放在行末，表示“未结束，后续还有”。新行缩进一层，或者保持同类对齐。
+
+调用函数的参数列表换行时，左圆括号总是跟函数名，右圆括号总是跟最后一个参数，并进行合理的参数对齐。
+
+一般选择在较低优先级操作符后换行，或者根据表达式层次换行。
+
+**1、长表达式**
+
+```cpp
 // 假设下面第一行已经不满足行宽要求
-```cpp
-if ((currentValue > threshold) &&  // Good：换行后，逻辑操作符放在行尾
-    someCondition) {
+if (currentValue > MIN &&                // 符合：换行后，布尔操作符放在行末
+    currentValue < MAX) {                // 符合：与(&&)操作符的两个操作数同类对齐
     DoSomething();
     ...
 }
 
-int result = reallyReallyLongVariableName1 +    // Good
-             reallyReallyLongVariableName2;
+flashPara.endAddr = flashPara.baseAddr + // 符合：加号留在行末
+                    flashPara.size;      // 符合：加法的两个操作数对齐
+
+int sum = longVaribleName1 + longVaribleName2 + longVaribleName3 +
+    longVaribleName4 + longVaribleName5 + longVaribleName6;        // 符合：4空格缩进
 ```
-表达式换行后，注意保持合理对齐，或者4空格缩进。参考下面例子
+
+**2、函数参数列表**
 
 ```cpp
-int sum = longVariableName1 + longVariableName2 + longVariableName3 +
-    longVariableName4 + longVariableName5 + longVariableName6;         // Good: 4空格缩进
+ReturnType result = FunctionName(paramName1, paramName2); // 符合：满足行宽不换行
 
-int sum = longVariableName1 + longVariableName2 + longVariableName3 +
-          longVariableName4 + longVariableName5 + longVariableName6;   // Good: 保持对齐
+ReturnType result = FunctionName(paramName1,
+                                 paramName2,
+                                 paramName3);             // 符合：保持与上方参数对齐
+
+ReturnType result = FunctionName(paramName1, paramName2,
+    paramName3, paramName4, paramName5);                  // 符合：参数换行，4 空格缩进
+
+ReturnType result = VeryVeryVeryLongFunctionName(         // 符合：第1个参数直接换行
+    paramName1, paramName2, paramName3);                  // 符合：换行后，4 空格缩进
 ```
 
-##### 规则 1.2.7 使用 K&R 缩进风格
-__K&R风格__
-换行时，函数（不包括lambda表达式）左大括号另起一行放行首，并独占一行；其他左大括号跟随语句放行末。
-右大括号独占一行，除非后面跟着同一语句的剩余部分，如 do 语句中的 while，或者 if 语句的 else/else if，或者逗号、分号。
+如果函数的参数存在内在关联性，按照可理解性优先于格式排版要求，对参数进行合理分组换行。
 
-如：
 ```cpp
-struct MyType {     // 跟随语句放行末，前置1空格
-    ...
-};
-
-int Foo(int a)
-{                   // 函数左大括号独占一行，放行首
-    if (...) {
-        ...
-    } else {
-        ...
-    }
-}
+// 符合：每行的参数代表一组相关性较强的数据结构，放在一行便于理解
+int result = DealWithStructLikeParams(left.x, left.y,     // 表示一组相关参数
+                                      right.x, right.y);  // 表示另外一组相关参数
 ```
-推荐这种风格的理由：
+##### 规则 1.3.7 每个变量单独一行进行声明或赋值
 
-- 代码更紧凑；
-- 相比另起一行，放行末使代码阅读节奏感上更连续；
-- 符合后来语言的习惯，符合业界主流习惯；
-- 现代集成开发环境（IDE）都具有代码缩进对齐显示的辅助功能，大括号放在行尾并不会对缩进和范围产生理解上的影响。
+一个变量的声明或者赋值语句应该单独占一行，更加利于阅读和理解代码。
 
+**【反例】**
 
-对于空函数体，可以将大括号放在同一行：
 ```cpp
-class MyClass {
-public:
-    MyClass() : value_(0) {}
-   
-private:
-    int value_;
-};
+int count = 10; bool isCompleted = false; // 不符合：多个变量初始化需要分开放在多行
+
+char* str, ch, arr[10];                   // 不符合：多个变量定义且类型不同，容易产生误解
+int a = 0, b = 0;                         // 不符合：多个变量定义需要分开放在多行
+
+int x;
+int y;
+...
+x = 1; y = 2;                             // 不符合：一行中存在多个赋值语句
 ```
 
-##### 规则 1.2.8 多个变量定义和赋值语句不允许写在一行
-每行只有一个变量初始化的语句，更容易阅读和理解。
+**【正例】**
 
-##### 规则 1.2.9 合理安排空行，保持代码紧凑
+```cpp
+int count = 10;
+bool isCompleted = false;
+int a = 0;
+int b = 0;
+
+int x;
+int y;
+...
+x = 1;
+y = 2;
+```
+
+##### 规则 1.3.8 合理安排空行，保持代码紧凑
 
 减少不必要的空行，可以显示更多的代码，方便代码阅读。下面有一些建议遵守的规则：
 - 根据上下内容的相关程度，合理安排空行；
@@ -325,80 +547,453 @@ int Foo(...)
 }
 ```
 
-#### 1.3 注释
-一般的，尽量通过清晰的架构逻辑，好的符号命名来提高代码可读性；需要的时候，才辅以注释说明。 
-注释是为了帮助阅读者快速读懂代码，所以要从读者的角度出发，**按需注释**。
+##### 规则 1.3.9  使用统一的大括号换行风格
+选择并统一使用一种大括号换行风格，避免多种风格并存。
 
-注释内容要简洁、明了、无二义性，信息全面且不冗余。
-
-在 C++ 代码中，使用 `/*` `*/`和 `//` 都是可以的。 
-按注释的目的和位置，注释可分为不同的类型，如文件头注释、函数头注释、代码注释等等； 
-同一类型的注释应该保持统一的风格。
-
-##### 规则 1.3.1 文件头注释包含版权声明
-如下例子：
+**K&R风格**
+换行时，函数（不包括lambda表达式）左大括号另起一行放行首，并独占一行；其他左大括号跟随语句放在行末。
+右大括号独占一行，除非后面跟着同一语句的剩余部分，如 do 语句中的 while，或者 if 语句的 else/else if，或者逗号、分号、小括号。
 
 ```cpp
-/**
- * This program is free software, you can redistribute it and/or modify.
- * Copyright (c) 2025 Huawei Technologies Co., Ltd.
- * This file is a part of the CANN Open Software.
- * Licensed under CANN Open Software License Agreement Version 2.0 (the "License").
- * Please refer to the License for details. You may not use this file except in compliance with the License.
- * THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
- * See LICENSE in the root of the software repository for the full text of the License.
- */
+struct SomeType { // 跟随语句放行末，前置1空格
+    ...
+};                // 右大括号后面紧跟分号
 
+typedef struct {  // 跟随语句放行末，前置1空格
+    ...
+} SomeType;       // 右大括号后面加空格
+
+int Foo(int a)
+{                 // 函数左大括号独占一行，放行首
+    if (a > 0) {
+        ...
+    } else {      // 右大括号、"else"、以及后续的左大括号均在同一行
+        ...
+    }             // 右大括号独占一行
+    ...
+}
 ```
 
-> 关于版权说明，应注意：
-> 2025年新建的文件，应该是 `Copyright (c) 2025 Huawei Technologies Co., Ltd.`
-
-##### 规则 1.3.2 代码注释置于对应代码的上方或右边，注释符与注释内容之间要有1个空格，右置注释与前面代码至少1空格，使用 `//`，而不是 `/**/`
+对于空函数体或者只有一条语句的函数体，可以将大括号放在同一行：
 
 ```cpp
-// this is multi-
-// line comment
-int foo; // this single-line comment
+class SomeClass {
+public:
+    SomeClass() : value(0), pool(0) {}            // 空函数体
+    void SetPoll(int pool) { this->pool = pool; } // 函数体只有一条语句
+
+private:
+    int value;
+    int pool;
+};
 ```
 
-##### 规则 1.3.3 代码中禁止使用 TODO/TBD/FIXME 等注释，建议提issue跟踪
-
-##### 建议 1.3.4 不要写空有格式的函数头注释
-
-并不是所有的函数都需要函数头注释，函数尽量通过函数名自注释，按需写函数头注释；函数原型无法表达的，却又希望读者知道的信息，才需要加函数头注释辅助说明。
-不要写无用、信息冗余的函数头，函数头注释内容可选，但不限于：功能说明、返回值，性能约束、用法、内存约定、算法实现、可重入的要求等。
-例：
+lambda表达式捕获列表中的逗号后留有1个空格，引用捕获时，`&`紧靠变量名；参数列表与函数参数列表风格一致；尾置返回类型的前后留1空格，`->`与类型名之间留1空格。
+只有一条语句时可将大括号放在同一行；多条语句时使用K&R风格换行。
 
 ```cpp
-/*
- * 返回实际写入的字节数，-1表示写入失败
- * 注意，内存 buf 由调用者负责释放
- */
-int WriteString(const char *buf, int len);
+int x = 0;
+int y = 0;
+auto f = [x, &y](int m, int n) { y =  m * (x + n); }; // 符合：大括号内只有一条语句
+
+// 换行时进行合理对齐
+auto f = [x, &y](int m, int n) -> int {
+    y =  m * (x + n);
+    return y;
+};
+
+Foo([x](int datum) { return x < datum; }); // 符合：可将lambda表达式嵌入函数参数中使用
 ```
 
-坏的例子：
+嵌套命名空间定义（nested namespace definition）在C++17及之后的版本中可以使用
 ```cpp
-/*
- * 函数名：WriteString
- * 功能：写入字符串
- * 参数：
- * 返回值：
- */
-int WriteString(const char *buf, int len);
+namespace A::B::C { // 符合
+...
+}
 ```
-上面例子中的问题：
 
-- 参数、返回值，空有格式没内容
-- 函数名信息冗余
-- 关键的 buf 由谁释放没有说清楚
+##### 规则 1.3.10  预处理的"#"统一放在行首，嵌套预处理语句时，"#"可以进行缩进
 
-##### 建议 1.3.5 不用的代码段直接删除，不要注释掉
-被注释掉的代码，无法被正常维护；当企图恢复使用这段代码时，极有可能引入易被忽略的缺陷。
-正确的做法是，不需要的代码直接删除掉。若再需要时，考虑移植或重写这段代码。
+**【描述】**
+预处理的`#`统一放在行首，即使预处理的代码是嵌入在函数体中的，`#`也应该放在行首。
 
-这里说的注释掉代码，包括用 /* */ 和 //，还包括 #if 0， #ifdef NEVER_DEFINED 等等。
+```cpp
+// 符合："#"放在行首
+#if defined(__x86_64__) && defined(__GCC_HAVE_SYNC_COMPARE_AND_SWAP_16)
+// 符合："#"放在行首
+#define ATOMIC_X86_HAS_CMPXCHG16B 1
+#else
+#define ATOMIC_X86_HAS_CMPXCHG16B 0
+#endif
+
+int FunctionName()
+{
+    if (someThingError) {
+        ...
+#ifdef HAS_SYSLOG         // 符合：即便在函数内部，"#"也放在行首
+        WriteToSysLog();
+#else
+        WriteToFileLog();
+#endif
+    }
+}
+```
+
+内嵌的预处理语句"#"可以按照缩进要求进行缩进对齐，区分层次。
+
+```cpp
+#if defined(__x86_64__) && defined(__GCC_HAVE_SYNC_COMPARE_AND_SWAP_16)
+    // 符合：区分层次，便于阅读
+    #define ATOMIC_X86_HAS_CMPXCHG16B 1
+#else
+    #define ATOMIC_X86_HAS_CMPXCHG16B 0
+#endif
+```
+
+##### 规则 1.3.11 遵循传统的类成员声明顺序
+
+**【描述】**
+类访问控制块的声明顺序默认依次是 `public:`、`protected:`、 `private:`，缩进与 `class` 关键字对齐。如果访问控制块的内容存在依赖关系，则可以根据需要调整顺序；如果不需要某个访问控制块，则不要声明一个空的块。
+
+```cpp
+class Derived : public Base {
+public:                                     // 注意没有缩进
+    explicit Derived(int var);              // 缩进一层
+    ~Derived() override = default;
+
+    void SetValue(int var) { value = var; }
+    int GetValue() const { return value; }
+
+private:
+    void Fun();
+
+    int value{0};
+};
+```
+
+在各个访问控制块中，建议将类似的声明放在一起，如果项目组没有制定声明顺序，可参考如下声明顺序：
+
+- 类型 (包括 `typedef`，`using` 和嵌套的结构体与类)
+- 静态常量
+- 工厂函数
+- 构造函数
+- 赋值操作符
+- 析构函数
+- 其他成员函数
+- 成员变量
+
+
+##### 规则 1.3.12 构造函数初始化列表放在同一行或按4空格缩进并排多行
+构造函数初始化列表放在同一行，如果需要换行，则将冒号放置新行，首行缩进4空格，其余多行与首行的成员变量对齐缩进。
+
+```cpp
+// 如果所有变量能放在同一行:
+SomeClass::SomeClass(int var) : someVar(var)
+{
+    DoSomething();
+}
+```
+
+```cpp
+// 如果需要换行, 将冒号放置新行, 并缩进4个空格
+SomeClass::SomeClass(int var)
+    : someVar(var), someOtherVar(var + 1)
+{
+    DoSomething();
+}
+```
+
+```cpp
+// 如果初始化列表需要多行, 需要逐行对齐
+SomeClass::SomeClass(int var)
+    : someVar(var),           // 缩进4个空格
+      someOtherVar(var + 1)   // 与上一行的成员变量对齐
+{
+    DoSomething();
+}
+```
+
+##### 规则 1.3.13 函数的返回类型及修饰符与函数名同行
+声明和定义函数时，函数的返回类型及修饰符保持与函数名同一行；如果行宽度允许，函数参数也应该放在一行；否则，函数参数应该换行，并进行合理对齐。
+参数列表的左圆括号总是和函数名在同一行，不要单独一行；右圆括号总是跟随最后一个参数。
+
+```cpp
+ReturnType FunctionName(ArgType paramName1, ArgType paramName2) // 符合：全在同一行
+{
+    ...
+}
+
+ReturnType VeryVeryVeryLongFunctionName(ArgType paramName1,     // 行宽不满足所有参数，换行
+                                        ArgType paramName2,     // 符合：和上一行参数对齐
+                                        ArgType paramName3)
+{
+    ...
+}
+
+ReturnType LongFunctionName(ArgType paramName1, ArgType paramName2, // 行宽限制，进行换行
+    ArgType paramName3, ArgType paramName4, ArgType paramName5)     // 符合：4 空格缩进
+{
+    ...
+}
+
+ReturnType ReallyReallyReallyReallyLongFunctionName(            // 行宽不满足第1个参数，换行
+    ArgType paramName1, ArgType paramName2, ArgType paramName3) // 符合：4 空格缩进
+{
+    ...
+}
+```
+##### 规则 1.3.14 避免将if/else/else if写在同一行
+
+**【描述】**
+`if`语句中，若有多个分支，应写在不同行。
+
+**【反例】**
+
+```cpp
+if (someConditions) { ... } else { ... } // 不符合：else 与 if 在同一行
+```
+
+**【正例】**
+
+```cpp
+if (someConditions) {
+    DoSomething();
+    ...
+} else {                                 // 符合：else 与 if 在不同行
+    ...
+}
+```
+
+##### 规则 1.3.15 case/default语句相对switch缩进一层
+
+**【描述】**
+`case/default`语句相对``switch`缩进一层，`case`中的语句相对`case`缩进一层。
+
+**【反例】**
+
+```cpp
+switch (var) {
+case CASE1:             // 不符合：case 未缩进
+    DoSomething1();
+    break;
+...
+default:                // 不符合：default 未缩进
+    break;
+}
+```
+
+**【正例】**
+
+```cpp
+switch (var) {
+    case CASE1:         // 符合：缩进一层
+        DoSomething1(); // 符合：缩进一层
+        break;
+    case CASE2: {       // 符合：带大括号格式
+        DoSomething2();
+        break;
+    }
+    ...
+    default:
+        break;
+}
+```
+
+##### 规则 1.3.16  声明中的非类型描述符应该在类型描述符左边
+非类型描述符放在类型描述符的左边，更符合阅读习惯。
+
+**【反例】**
+
+```cpp
+int static i;       // 不符合
+void virtual Fun(); // 不符合
+```
+
+**【正例】**
+
+```cpp
+static int i;       // 符合：static 放在 int 左边
+virtual void Fun(); // 符合：virtual 放在 void 左边
+```
+
+本条款不限制多个非类型描述符的书写顺序，如果项目组没有制定书写顺序，可参考如下顺序书写：
+
+- `friend`/`typedef`/存储类型说明符（`static`、`extern`、`thread_local`、`mutable` 等）/`virtual`
+- `inline`
+- `constexpr`
+- `explicit` 说明符
+
+
+##### 规则 1.3.18 用空格突出关键字和重要信息
+
+**【描述】**
+空格应该突出关键字和重要信息。总体建议如下：
+
+- 行末不应加空格
+- if, switch, case, do, while, for 等关键字之后加空格；`#include`之后加空格
+- 小括号内部的两侧，不加空格；外部两侧与关键字或重要信息之间加空格
+- 无论大括号内部两侧有无空格，左右要保持一致；外部两侧与关键字或重要信息之间加空格
+- 使用大括号进行初始化时，左侧大括号跟随类型或变量名时不加空格
+- 一元操作符（`& * + ‐ ~ !`）之后不应加空格
+- 二元操作符（`= + ‐ < > * / % | & ^ <= >= == !=`）两侧都应加空格
+- 三元操作符（`? :`）符号两侧都应加空格
+- 前置和后置的自增、自减操作符（`++ --`）和变量之间不应加空格
+- 尾置返回类型语法中的`->`前后加空格
+- 结构体成员操作符（`. ->`）前后不应加空格
+- 结构体中表示位域的冒号，两侧都应加空格
+- 函数参数列表的小括号与函数名之间不应加空格
+- 类型强制转换的小括号与被转换对象之间不应加空格
+- 数组的中括号与数组名之间不应加空格
+- 对于模板和类型转换(`<>`)和类型之间不加空格
+- 域操作符(`::`)前后不加空格
+- 类成员指针（`::* .* ->*`）前后或中间不加空格
+- 类继承、构造函数初始化、范围for语句中的冒号(`:`)前后加空格
+- 逗号、分号、冒号（上述规则场景除外）前面不加空格，后面加空格
+
+**初始化语句**
+
+```cpp
+std::string str{"Hello, World"};            // 符合：左大括号和变量名之间不加空格
+std::vector<int> v{1, 2, 3};                // 符合：大括号内部两侧都没有空格
+std::array<std::string, 2> arr{ "a", "b" }; // 符合：大括号内部两侧都有空格
+int buf[BUF_SIZE] = {0};                    // 符合：大括号内部两侧都没有空格
+int i = 0;                                  // 符合：等号前后应该有空格，分号前面不要留空格
+Foo({1, 2, 3}, 0);                          // 符合：作为实参，和普通实参的空格要求一致
+int arr[] = { 10, 20};                      // 不符合：大括号内部两侧空格不一致
+```
+
+**函数定义和函数调用**
+
+```cpp
+// 符合：大括号换行，换行前没有空格
+void Foo(int b)
+{
+    ...
+}
+
+int result = Foo(arg1,arg2);    // 不符合： 逗号后面应该有空格
+int result = Foo( arg1, arg2 ); // 不符合： 小括号内部两侧不应该有空格
+```
+
+**指针和取地址**
+
+```cpp
+x = *p;            // 符合：*操作符和指针p之间不加空格
+p = &x;            // 符合：&操作符和变量x之间不加空格
+x = r.y;           // 符合：通过.访问成员变量时不加空格
+x = r->y;          // 符合：通过->访问成员变量时不加空格
+```
+
+**操作符**
+
+```cpp
+x = 0;             // 符合：赋值操作的=前后都要加空格
+x = -5;            // 符合：负数的符号之前要加空格
+++x;               // 符合：前置和后置的++/--和变量之间不要加空格
+x--;
+
+if (x && !y)       // 符合：布尔操作符前后要加上空格，！操作符和变量之间不要空格
+v = w * x + y / z; // 符合：二元操作符前后要加空格
+v = w * (x + z);   // 符合：括号内的表达式前后不需要加空格
+```
+
+**循环和选择语句**
+
+```cpp
+if (condition) {   // 符合：if关键字和括号之间加空格，括号内表达式前后不加空格
+    ...
+} else {           // 符合：else关键字和大括号之间加空格
+    ...
+}
+
+// 符合：while关键字和括号之间加空格，括号内表达式前后不加空格
+while (condition) {}
+do {} while (condition);
+
+// 符合：for关键字和括号之间加空格，分号之后加空格
+for (int i = 0; i < someRange; ++i) {
+    ...
+}
+
+switch (var) {     // 符合：switch 关键字后面有1空格
+    case CASE1:    // 符合：case语句条件和冒号之间不加空格
+        ...
+        break;
+    ...
+    default:
+        ...
+        break;
+}
+```
+
+**模板和转换**
+
+```cpp
+// 符合：尖括号（`<` 和 `>`） 不与空格紧邻, `<` 前没有空格, `>` 和 `(` 之间也没有
+std::vector<std::string> x;
+y = static_cast<char*>(x);
+```
+
+**域操作符**
+
+```cpp
+std::cout;                         // 符合：命名空间访问，不要留空格
+
+int SomeClass::GetValue() const {} // 符合：对于成员函数定义，不要留空格
+```
+
+**冒号**（添加空格的场景）
+
+```cpp
+// 符合：类的派生需要留有空格
+class Derived : public Base {
+    ...
+};
+
+// 符合：构造函数初始化列表需要留有空格
+SomeClass::SomeClass(int var) : someVar(var)
+{
+    DoSomething();
+}
+
+// 符合：位域表示也留有空格
+struct SomeType {
+    char a : 4;
+    char b : 5;
+    char c : 4;
+};
+
+// 符合：范围for语句中的冒号两边留有空格
+for (auto& data : dataList) {
+    ...
+}
+```
+
+**冒号**（不添加空格的场景）
+
+```cpp
+// 对于public:, private:这种类访问权限的冒号不添加空格
+class SomeClass {
+public:
+    SomeClass(int var);
+
+private:
+    int someVar;
+};
+
+// 对于switch-case的case和default后面的冒号不添加空格
+switch (var) {
+    case CASE1:
+        DoSomething1();
+        break;
+    case CASE2:
+        DoSomething2();
+        break;
+    default:
+        break;
+}
+```
+
 
 ### 2. 通用编码
 
