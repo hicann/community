@@ -311,6 +311,7 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: zhangzijie
   - gitcode_id: zl_hw
+  - gitcode_id: jia0liang
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
