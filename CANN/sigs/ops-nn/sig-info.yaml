@@ -57,6 +57,7 @@ repositories:
     - gitcode_id: chenqi317
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
+    - gitcode_id: chenfeng61
   - path:
     - foreach
     - activation
@@ -91,6 +92,7 @@ repositories:
     - gitcode_id: sxb154714
     - gitcode_id: liujie12345678
     - gitcode_id: Chen_HaoWen
+    - gitcode_id: chenfeng61
   - path:
     - control
     - experimental/control
@@ -116,6 +118,7 @@ repositories:
     - gitcode_id: chenqi317
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
+    - gitcode_id: chenfeng61
   - path:
     - vfusion
     - loss
@@ -132,6 +135,7 @@ repositories:
     - gitcode_id: chenqi317
     - gitcode_id: liubo75
     - gitcode_id: crystalhu
+    - gitcode_id: chenfeng61
   - path:
     - rnn
     - pooling
