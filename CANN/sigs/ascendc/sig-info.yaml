@@ -87,6 +87,11 @@ repositories:
     - gitcode_id: ascendhjh
     - gitcode_id: wuzhaolin
   - path:
+    - include/tensor_api
+    committers:
+    - gitcode_id: ascendhjh
+    - gitcode_id: wuzhaolin
+  - path:
     - include/utils
     committers:
     - gitcode_id: ascendhjh
@@ -108,6 +113,11 @@ repositories:
     - gitcode_id: yue_mo_du_qian
   - path:
     - impl/experimental/tensor_api
+    committers:
+    - gitcode_id: pangfd
+    - gitcode_id: yue_mo_du_qian
+  - path:
+    - impl/tensor_api
     committers:
     - gitcode_id: pangfd
     - gitcode_id: yue_mo_du_qian
