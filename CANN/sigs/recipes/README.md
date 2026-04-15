@@ -48,6 +48,9 @@
 
 *   **[邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/recipes.cann.osinfra.cn/)**
 *   **[在线会议](https://etherpad-cann.meeting.osinfra.cn/p/sig-recipes)**：每两周一次，周二上午10:30 - 12:00（UTC+8）
+*   **飞书交流群**（扫码入群，若二维码失效请联系 Maintainer）
+
+<img src="../../../figures/sig/recipes_feishu_qrcode.jpg" alt="recipes SIG 飞书交流群" width="180" />
 
 ### 📝 SIG成员（Members）
 
@@ -56,7 +59,7 @@
 - 黄伟 [[@huangwayne28]](https://gitcode.com/huangwayne28), *huangwei188@hisilicon.com*
 - 梁横溢 [[@lianghengyi]](https://gitcode.com/lianghengyi), *lianghengyi1@huawei.com*
 - 韩树发 [[@fafahan]](https://gitcode.com/fafahan), *hanshufa1@hisilicon.com*
-- 林惠敏 [[@lin_lin_lene]](https://gitcode.com/lin_lin_lene), *linhuimin@huawei.com*
+- 夏兵 [[@xbjlu]](https://gitcode.com/xbjlu), *bing.xia@huawei.com*
 - 刘鑫鑫 [[@LiuXinxin23]](https://gitcode.com/LiuXinxin23), *liuxinxin23@hisilicon.com*
 
 #### Committer列表
@@ -79,3 +82,4 @@
 - 宦睿智 [[@huanruizhi]](https://gitcode.com/huanruizhi), *huanruizhi@hisilicon.com*
 - 潘超 [[@panchao-gitcode]](https://gitcode.com/panchao-gitcode), *panchao13@huawei.com*
 - 丘志成 [[@kevinchiu]](https://gitcode.com/kevinchiu), *chiu.chih.cheng@hisilicon.com*
+- 朱奕杰 [[@yijie-zhu]](https://gitcode.com/yijie-zhu), *zhuyijie2@hisilicon.com*
