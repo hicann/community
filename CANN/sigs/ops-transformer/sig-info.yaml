@@ -43,6 +43,8 @@ repositories:
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
     - gitcode_id: gaoxiang618
+    - gitcode_id: wang-minbo
+    - gitcode_id: xtqh
   
   - path:                               # 资料和example 相关  
     - docs
@@ -54,6 +56,8 @@ repositories:
     - gitcode_id: mabing1118
     - gitcode_id: yu-xinjie62
     - gitcode_id: songkai111
+    - gitcode_id: wang-minbo
+    - gitcode_id: xtqh
 
   - path:                            
     - attention
