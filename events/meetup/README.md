@@ -2,8 +2,10 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260416 | CANNBot开发进阶：TileLang算子开发实操 | sig-cannbot | [链接](./slides/sig-cannbot/20260416) | 待上传 |
+| 20260415 | CANNBot开发进阶：PyPTO算子开发实操 | sig-cannbot | [链接](./slides/sig-cannbot/20260415) | 待上传 |
 | 20260414 | CANNBot开发进阶：Ascend C算子开发实操 | sig-cannbot | [链接](./slides/sig-cannbot/20260414) | 待上传 |
-| 20260413 | CANNBot入门：从0到1生成你的第一个算子 | sig-cannbot | [链接](./slides/sig-cannbot/20260413) | 待上传 |
+| 20260413 | CANNBot入门：从0到1生成你的第一个算子 | sig-cannbot | [链接](./slides/sig-cannbot/20260413) | [链接](https://www.bilibili.com/video/BV1bRQbBfE7b/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260403 | CANNBot发布：畅享算子开发新体验 | sig-cannbot | [链接](./slides/sig-cannbot/20260403) | [链接](https://www.bilibili.com/video/BV1mE9uBzE8V/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260326 | PTO ISA带你快速上手Ascend 950 | sig-pto | [链接](./slides/950/20260326) | [链接](https://www.bilibili.com/video/BV1eLX8BuETT/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260324 | HCCL集合通信专用引擎CCU技术介绍 | sig-hccl | [链接](./slides/950/20260324) | [链接](https://www.bilibili.com/video/BV1AEQmBTEWy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
