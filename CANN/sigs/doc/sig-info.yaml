@@ -16,3 +16,11 @@ repositories:
   - gitcode_id: mlewis
   - gitcode_id: fuyangchenghu
   - gitcode_id: waimaidaole
+- repo:
+    - cann/cann-competitions
+  committers:
+    - gitcode_id: fullt
+    - gitcode_id: Albertq
+    - gitcode_id: jackwangc
+    - gitcode_id: Carolina_yuan
+    - gitcode_id: yanyawen
