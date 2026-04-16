@@ -57,7 +57,6 @@ repositories:
   - gitcode_id: hugo111
   - gitcode_id: yuht9
   - gitcode_id: fu-jun2
-  - gitcode_id: medivh-x
   - gitcode_id: xchu42
   - gitcode_id: zhangfan_hanq
   - gitcode_id: zhujingjing
@@ -87,8 +86,17 @@ repositories:
   - path:
     - compiler/engines/dvpp_engine
     committers:
-    - gitcode_id: louyanting
-    - gitcode_id: wei_chengaung
+    - gitcode_id: zhanj
+    - gitcode_id: wqtshg_wt
+    - gitcode_id: shengnan666
+  - path:
+    - compiler/engines/rts_engine
+    - tests/engines/rts_engine
+    committers:
+    - gitcode_id: zhanj
+    - gitcode_id: wqtshg_wt
+    - gitcode_id: shengnan666
+    - gitcode_id: wangtao43
   - path:
     - compiler/engines/hccl_engine
     - tests/engines/hccl_engine
