@@ -19,6 +19,8 @@ CATLASS API 架构图：
 - 周浩[@zhouhao176](https://gitcode.com/zhouhao176), *<zhouhao176@huawei.com>*
 - 黄鑫[@huangxin361](https://gitcode.com/huangxin361), *<huangxin36@huawei.com>*
 - 田行辉[@tianxinghui](https://gitcode.com/tianxinghui), *<tianxinghui@huawei.com>*
+- 陆璐[@Lulu_scut](https://gitcode.com/Lulu_scut), *<lul@scut.edu.cn>*
+- 周建伟[@zjw666888](https://gitcode.com/zjw666888), *<zhoujianwei4@huawei.com>*
 - 肖婷[@xiaoting624](https://gitcode.com/xiaoting624), *<xiaoting11@hisilicon.com>*
 
 ## 仓库清单
@@ -28,8 +30,6 @@ CATLASS API 架构图：
 - #### 简介：CATLASS 算子模板库主仓，提供 CATLASS 算子模板头文件、使用样例及调试工具等
 
 - #### Committer列表
-
-  - 周建伟[@zjw666888](https://gitcode.com/zjw666888), *<zhoujianwei4@huawei.com>*
   - 张云淞[@triwooder](https://gitcode.com/jtriwooder), *<zhangyunsong3@huawei.com>*
   - 祝松祥[@weixin_42818618](https://gitcode.com/weixin_42818618), *<zhusongxiang1@huawei.com>*
   - 陶源[@yuantao_](https://gitcode.com/yuantao_), *<taoyuan15@h-partners.com>*
@@ -37,7 +37,6 @@ CATLASS API 架构图：
   - 孙昊[@sunhao_hw](https://gitcode.com/sunhao_hw), *<sunhao164@h-partners.com>*
   - 金修浪[@jxlang](https://gitcode.com/jxlang), *<jinxiulang@huawei.com>*
   - 徐汉儒[@hanru-xu](https://gitcode.com/hanru-xu), *<xuhanru@huawei.com>*
-  - 陆璐[@Lulu_scut](https://gitcode.com/Lulu_scut), *<lul@scut.edu.cn>*
   - 龚思维[@gong-siwei](https://gitcode.com/gong-siwei), *<gongsiwei@huawei.com>*（[mstuner_catlass](https://gitcode.com/cann/catlass/blob/master/tools/tuner/README.md)工具**Committer**）
   - 陈民安[@chenma](https://gitcode.com/chenma), *<chenminan@hisilicon.com>*
 
