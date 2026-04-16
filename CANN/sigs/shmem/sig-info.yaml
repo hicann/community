@@ -83,7 +83,7 @@ repositories:
     - gitcode_id: YeZZzzz1
   - path:
     - src/host/mem
-    - src/host/hybm
+    - src/host/entity
     committers:
     - gitcode_id: minibao
     - gitcode_id: mlidongfeng
@@ -135,13 +135,12 @@ repositories:
     - gitcode_id: lishaoxun
     - gitcode_id: nino888
     - gitcode_id: songmingyang
-    - gitcode_id: jiangxinyu3  
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: Joyce_An
   - path:
-    - .gitcode
     - docs
     - examples
     - scripts
-    - tests
     committers:
     - gitcode_id: mlidongfeng
     - gitcode_id: minibao
