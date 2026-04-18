@@ -111,6 +111,9 @@ Ascend C总体逻辑架构图如下所示：
 - [基于ATVC模板库的Elementwise算子实现：以TanhGrad为例，展示如何使用ATVC模板库快速实现ElementWise类算子，并呈现模板库提供的调试调优能力](https://gitcode.com/cann/atvc/tree/master/examples/tanh_grad/)
 - [基于ATVC模板库的融合算子实现：以ReluWithReduceSum为例，展示如何使用ATVC模板库实现Reduce和Elementwise融合的算子](https://gitcode.com/cann/atvc/tree/master/examples/relu_with_reduce_sum/)
 
+### pyasc
+- [基于pyasc的算子实现：以MatmulLeakyRelu算子为例，展示如何使用pyasc提供的Python编程接口实现Matmul+LeayRelu的算子](https://gitcode.com/cann/pyasc/tree/master/python/tutorials/05_matmul_leakyrelu/)
+
 ### 基于Tpipe和TQue的编程实现
 - [以Add算子为例，使用Tpipe的抽象模型进行算子开发，并通过TQue管理内存，实现高效的Add操作](https://gitcode.com/cann/asc-devkit/blob/master/examples/00_introduction/01_add/basic_api_tque_add/add.asc)
 
