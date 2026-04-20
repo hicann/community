@@ -27,3 +27,10 @@ repositories:
     - gitcode_id: gong-siwei
     - gitcode_id: yan_yw
     - gitcode_id: MTQ999
+- repo:
+  - cann/catccos
+  committers:
+    - gitcode_id: caixuyi
+    - gitcode_id: triwooder
+    - gitcode_id: lishaoxun
+    - gitcode_id: nino888
