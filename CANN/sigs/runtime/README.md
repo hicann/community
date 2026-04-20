@@ -81,12 +81,9 @@ Runtime 是连接算子编译、图执行、调度器、通信库与NPU硬件的
 * 曾益刚 [@gcw_9B2nSsjo](https://gitcode.com/gcw_9B2nSsjo), *[zengyigang@huawei.com](mailto:zengyigang@huawei.com)*
 * 孙娜娜 [@sunnana_004434229](https://gitcode.com/sunnana_004434229), *[sunnana@huawei.com](mailto:sunnana@huawei.com)*
 * 刘斌 [@liubin1986](https://gitcode.com/liubin1986), *[merlin.liubin@huawei.com](mailto:merlin.liubin@huawei.com)*
-* 秦传瑜 [@qinchuanyu](https://gitcode.com/qinchuanyu), *[qinchuanyu@huawei.com](mailto:qinchuanyu@huawei.com)*
-* 李良华 [@lilianghua_2025](https://gitcode.com/lilianghua_2025), *[lilianghua@huawei.com](mailto:lilianghua@huawei.com)*
 * 沈勇武 [@huawei_programmer_011](https://gitcode.com/huawei_programmer_011), *[shenyongwu@huawei.com](mailto:shenyongwu@huawei.com)*
 * 周武啸 [@zhou-wuxiao](https://gitcode.com/zhou-wuxiao), *[zhouwuxiao@hisilicon.com](mailto:zhouwuxiao@hisilicon.com)*
 * 张金超 [@alenzhang86](https://gitcode.com/alenzhang86), *[zhangjinchao@huawei.com](mailto:zhangjinchao@huawei.com)*
-* 陈伟伟 [@chen_vvjob](https://gitcode.com/chen_vvjob), *[chenweiwei22@huawei.com](mailto:chenweiwei22@huawei.com)*
 * 史凯 [@shikai-1](https://gitcode.com/shikai-1), *[shikai4@huawei.com](mailto:shikai4@huawei.com)*
 * 卢煜坤 [@ykl999](https://gitcode.com/ykl999), *[luyukun1@huawei.com](mailto:luyukun1@huawei.com)*
 * 王璐瑶 [@wangluyao17](https://gitcode.com/wangluyao17), *[wangluyao17@huawei.com](mailto:wangluyao17@huawei.com)*
