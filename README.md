@@ -67,7 +67,7 @@ CANN 社区基于 GitCode 的 Issue 管理功能，完整记录每个开发者 I
 
 #### 新建仓库及 CI 配置
 
-如希望独立新建仓库向社区贡献，可向 TSC 会议申报建仓议题（使用[新建仓申报模板](templates/新建仓申报模板%20v0.1.pptx)）。评审通过后，向基础设施 SIG [提交 Issue](https://gitcode.com/cann/infrastructure) 申请执行仓库创建。
+如希望独立新建仓库向社区贡献，可向 TSC 会议申报建仓议题（使用[新建仓申报模板](templates/新建仓申报模板%20v0.1.pptx)）。评审通过后，向基础设施 SIG [提交 Issue](https://gitcode.com/cann/infrastructure) 申请执行仓库创建。具体操作步骤请参阅：[新建仓与仓开放操作指引](contributor/repository/new-repo-operation-guide.md)。
 
 仓库创建完成后，请准备 CI 流水线（门禁及版本）适配所需内容（编译及 DT 执行脚本等），并提交 Issue 说明 CI 适配需求，基础设施 SIG 将安排专人负责流水线适配对接工作。具体操作步骤请参阅：[门禁与版本集成流程指南](contributor/repository/ci-guide.md)。
 
