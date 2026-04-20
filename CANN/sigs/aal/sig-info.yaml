@@ -56,3 +56,10 @@ repositories:
     committers:
     - gitcode_id: east_yang
     - gitcode_id: demoauguste
+- repo:
+  - cann/ops-collections
+  committers:
+  - gitcode_id: goodpeople233
+  - gitcode_id: nino888
+  - gitcode_id: QK_25415
+  - gitcode_id: vallenChen
