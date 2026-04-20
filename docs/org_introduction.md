@@ -66,9 +66,10 @@
   </tr>
   <tr>
     <td style="text-align:center"><span style="font-size:16px;">工具</span></td>
-    <td><span style="font-size:16px;">提供CANN平台的各种工具，如故障定位、模型压缩等。</span></td>
-	  <td><a href="https://gitcode.com/cann/oam-tools"><span style="font-size:16px;">oam-tools</span></a><br>
-    <a href="https://gitcode.com/cann/amct"><span style="font-size:16px;">amct</span></a>
+    <td><span style="font-size:16px;">提供CANN平台的各种工具，如算子调试调优工具、故障定位、模型压缩等。</span></td>
+	  <td><a href="https://gitcode.com/cann/asc-tools"><span style="font-size:16px;">asc-tools</span></a><br>
+        <a href="https://gitcode.com/cann/oam-tools"><span style="font-size:16px;">oam-tools</span></a><br>
+        <a href="https://gitcode.com/cann/amct"><span style="font-size:16px;">amct</span></a>
     </td>
   </tr>
 </table>
