@@ -30,7 +30,6 @@
 #### Maintainer列表
 - 金瑛琪 [[@jinyingqi]](https://gitcode.com/jinyingqi), *jinyingqi@huawei.com*
 - 姚广修 [[@yaoguangxiu]](https://gitcode.com/yaoguangxiu), *yaoguangxiu@huawei.com*
-- 沃文杰 [[@wowenjie]](https://gitcode.com/wowenjie), *wowenjie@huawei.com*
 - 袁江 [[@yuanjiang_]](https://gitcode.com/yuanjiang_), *yuanjiang@huawei.com*
 
 #### Committer列表
@@ -43,7 +42,7 @@
 - 梁横溢 [[@lianghengyi]](https://gitcode.com/lianghengyi), *lianghengyi1@huawei.com*
 - 陈卓 [[@zchenbm97]](https://gitcode.com/zchenbm97), *chenzhuo63@hisilicon.com*
 - 李艇 [[@li_ting]](https://gitcode.com/li_ting), *liting73@hisilicon.com*
-- 汪凯 [[@wk0911]](https://gitcode.com/wk0911), *wangkai134@huawei.com*
 - 陈豪 [[@chenhao_1209]](https://gitcode.com/chenhao_1209), *chenhao61@huawei.com*
 - 张杰 [[@newstarzj]](https://gitcode.com/newstarzj), *zhangjie230@huawei.com*
+- 陈萍萍 [[@sophia1213]](https://gitcode.com/sophia1213), *sophie.chen@huawei.com*
 

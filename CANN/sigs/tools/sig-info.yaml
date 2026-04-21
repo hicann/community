@@ -15,6 +15,7 @@ repositories:
   - gitcode_id: daijiayin
   - gitcode_id: zchenbm97
   - gitcode_id: li_ting
+  - gitcode_id: sophia1213
   branch_configs:
   - branch:
     - 9.0.0
@@ -30,7 +31,6 @@ repositories:
   - gitcode_id: fujun19
   - gitcode_id: zhuliangying
   - gitcode_id: wulinyu
-  - gitcode_id: wk0911
   - gitcode_id: chenhao_1209
   - gitcode_id: newstarzj
   entry_configs:
