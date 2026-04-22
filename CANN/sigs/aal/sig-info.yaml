@@ -63,3 +63,10 @@ repositories:
   - gitcode_id: nino888
   - gitcode_id: QK_25415
   - gitcode_id: vallenChen
+- repo:
+  - cann/ops-fft
+  committers:
+  - gitcode_id: east_yang
+  - gitcode_id: demoauguste
+  - gitcode_id: songkai111
+  - gitcode_id: zl_hw

@@ -15,6 +15,7 @@ repositories:
   - gitcode_id: jia0liang
   - gitcode_id: songkai111
   - gitcode_id: wangrui_
+  - gitcode_id: zl_hw
   entry_configs:
   - path:
     - aicpu_common
@@ -53,6 +54,11 @@ repositories:
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
+  - path:
+    - pkg_inc/op_common/log
+    committers:
+    - gitcode_id: ycm0028
+    - gitcode_id: zl_hw
   branch_configs:
   - branch:
     - 9.0.0
@@ -915,4 +921,11 @@ repositories:
   - gitcode_id: zl_hw
   - gitcode_id: yangyang016
   entry_configs: []
-
+- repo:
+  - cann/ops-rand
+  committers:
+  - gitcode_id: llimwang
+  - gitcode_id: zhou-qilong
+  - gitcode_id: songkai111
+  - gitcode_id: zl_hw
+  - gitcode_id: wangrui_

@@ -229,3 +229,11 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: gcw_Dm2TsRUi
+- repo:
+  - cann/ops-tensor
+  committers:
+  - gitcode_id: yangyang016
+  - gitcode_id: chenqi317
+  - gitcode_id: songkai111
+  - gitcode_id: zl_hw
+  - gitcode_id: chenkang30
