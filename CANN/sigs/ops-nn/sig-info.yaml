@@ -8,22 +8,46 @@ repositories:
   - cann/ops-nn
   committers:
   - gitcode_id: tangweiwei2
+    name: 唐玮玮
+    email: tangweiwei2@huawei.com
   - gitcode_id: chenqi317
+    name: 陈琦
+    email: chenqi317@huawei.com
   - gitcode_id: liubo75
+    name: 刘波
+    email: liubo75@huawei.com
   - gitcode_id: crystalhu
+    name: 胡碧霞
+    email: hubixia1@huawei.com
   - gitcode_id: fanqirui
+    name: 范其瑞
+    email: fanqirui1@huawei.com
   - gitcode_id: zhou-qilong
+    name: 周奇龙
+    email: zhouqilong2@huawei.com
   - gitcode_id: yangyang016
+    name: 杨阳
+    email: yangyang306@hisilicon.com
   entry_configs: 
   - path:
     - "*/*/docs/acl*.md"
     - "*/*/README.md"
     committers:
     - gitcode_id: gitcode-chenjiao
+      name: 陈娇
+      email: chenjiao31@huawei.com
     - gitcode_id: gitee-duhuiping
+      name: 杜慧萍
+      email: duhuiping@h-partners.com
     - gitcode_id: zhouwenfang
+      name: 周文芳
+      email: zhouwenfang3@h-partners.com
     - gitcode_id: wuyao51511
+      name: 吴瑶
+      email: wuyao61@h-partners.com
     - gitcode_id: gitee-yanglulu
+      name: 杨露露
+      email: yanglulul@h-partners.com
   - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"
@@ -31,33 +55,69 @@ repositories:
     - "*/*/op_graph/*_proto.h"
     committers:
     - gitcode_id: wangyongguang
+      name: 王永光
+      email: wangyongguang1@huawei.com
     - gitcode_id: tang-lei01
+      name: 汤磊
+      email: tanglei1@huawei.com
   - path:
     - cmake
     - scripts
     - common
     committers:
     - gitcode_id: zhou-qilong
+      name: 周奇龙
+      email: zhouqilong2@huawei.com
     - gitcode_id: fanqirui
+      name: 范其瑞
+      email: fanqirui1@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
     - gitcode_id: yangyang016
+      name: 杨阳
+      email: yangyang306@hisilicon.com
   - path:
     - tests
     - docs
     - examples
     committers:
     - gitcode_id: zhou-qilong
+      name: 周奇龙
+      email: zhouqilong2@huawei.com
     - gitcode_id: fanqirui
+      name: 范其瑞
+      email: fanqirui1@huawei.com
     - gitcode_id: zhangyuxiang0119
+      name: 张瑜翔
+      email: zhangyuxiang21@huawei.com
     - gitcode_id: zhajianqing123
+      name: 查建青
+      email: zhajianqing@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
     - gitcode_id: chenfeng61
+      name: 陈风
+      email: chenzhen61@huawei.com
   - path:
     - foreach
     - activation
@@ -67,58 +127,138 @@ repositories:
     - experimental/norm
     committers:
     - gitcode_id: wangyongguang
+      name: 王永光
+      email: wangyongguang1@huawei.com
     - gitcode_id: zhou-qilong
+      name: 周奇龙
+      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: zhajianqing123
+      name: 查建青
+      email: zhajianqing@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
     - gitcode_id: liujie12345678
+      name: 刘杰
+      email: liujie81@huawei.com
     - gitcode_id: Chen_HaoWen
+      name: 陈昊文
+      email: chenhaowen12@huawei.com
   - path:
     - quant
     - experimental/quant
     committers:
     - gitcode_id: wangyongguang
+      name: 王永光
+      email: wangyongguang1@huawei.com
     - gitcode_id: zhou-qilong
+      name: 周奇龙
+      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: zhajianqing123
+      name: 查建青
+      email: zhajianqing@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
     - gitcode_id: wangzitao_leo
+      name: 王子韬
+      email: wangzitao4@huawei.com
     - gitcode_id: sxb154714
+      name: 商晓波
+      email: shangxiaobo1@hisilicon.com
     - gitcode_id: liujie12345678
+      name: 刘杰
+      email: liujie81@huawei.com
     - gitcode_id: Chen_HaoWen
+      name: 陈昊文
+      email: chenhaowen12@huawei.com
     - gitcode_id: chenfeng61
+      name: 陈风
+      email: chenzhen61@huawei.com
   - path:
     - control
     - experimental/control
     committers:
     - gitcode_id: wangyongguang
+      name: 王永光
+      email: wangyongguang1@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: liu-wei
+      name: 刘伟
+      email: lovline.liuwei@huawei.com
     - gitcode_id: FelixTang7
+      name: 唐燕峰
+      email: tangyanfeng@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
   - path:
     - index
     - hash
     - experimental/index
     committers:
     - gitcode_id: wangyongguang
+      name: 王永光
+      email: wangyongguang1@huawei.com
     - gitcode_id: zhou-qilong
+      name: 周奇龙
+      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: FelixTang7
+      name: 唐燕峰
+      email: tangyanfeng@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
     - gitcode_id: chenfeng61
+      name: 陈风
+      email: chenzhen61@huawei.com
   - path:
     - vfusion
     - loss
@@ -128,14 +268,32 @@ repositories:
     - experimental/optim
     committers:
     - gitcode_id: wangyongguang
+      name: 王永光
+      email: wangyongguang1@huawei.com
     - gitcode_id: zhou-qilong
+      name: 周奇龙
+      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: yu-xinjie62
+      name: 於欣洁
+      email: yuxinjie1@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
     - gitcode_id: chenfeng61
+      name: 陈风
+      email: chenzhen61@huawei.com
   - path:
     - rnn
     - pooling
@@ -143,38 +301,88 @@ repositories:
     - experimental/pooling
     committers:
     - gitcode_id: wangyongguang
+      name: 王永光
+      email: wangyongguang1@huawei.com
     - gitcode_id: zhou-qilong
+      name: 周奇龙
+      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: zhangyuxiang0119
+      name: 张瑜翔
+      email: zhangyuxiang21@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
   - path:
     - matmul
     - experimental/matmul
     committers:
     - gitcode_id: fanqirui
+      name: 范其瑞
+      email: fanqirui1@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: chaotang233
+      name: 唐超
+      email: tangchao47@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
     - gitcode_id: wangzitao_leo
+      name: 王子韬
+      email: wangzitao4@huawei.com
     - gitcode_id: sxb154714
+      name: 商晓波
+      email: shangxiaobo1@hisilicon.com
     - gitcode_id: yangyang016
+      name: 杨阳
+      email: yangyang306@hisilicon.com
   - path:
     - conv
     - experimental/conv
     committers:
     - gitcode_id: lileizheng
+      name: 郑李磊
+      email: zhenglilei@huawei.com
     - gitcode_id: zhang-wu
+      name: 章武
+      email: zhangwu3@huawei.com
     - gitcode_id: zhangyuxiang0119
+      name: 张瑜翔
+      email: zhangyuxiang21@huawei.com
     - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
     - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
     - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
     - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
   branch_configs:
   - branch:
     - 9.0.0
@@ -182,6 +390,8 @@ repositories:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
+      name: 韩小龙
+      email: xiaolong.han@huawei.com
     - gitcode_id: gcw_Dm2TsRUi
     entry_configs: 
     - path:
@@ -228,12 +438,24 @@ repositories:
       - gitcode_id: gcw_kUomxQ2l
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
+        name: 韩小龙
+        email: xiaolong.han@huawei.com
       - gitcode_id: gcw_Dm2TsRUi
 - repo:
   - cann/ops-tensor
   committers:
   - gitcode_id: yangyang016
+    name: 杨阳
+    email: yangyang306@hisilicon.com
   - gitcode_id: chenqi317
+    name: 陈琦
+    email: chenqi317@huawei.com
   - gitcode_id: songkai111
+    name: 宋凯
+    email: songkai16@huawei.com
   - gitcode_id: zl_hw
+    name: 张磊
+    email: zhanglei121@huawei.com
   - gitcode_id: chenkang30
+    name: 陈康
+    email: chenkang30@huawei.com
