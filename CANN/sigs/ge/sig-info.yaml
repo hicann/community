@@ -181,3 +181,12 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: gcw_Dm2TsRUi
+- repo:
+  - cann/tensorflow
+  committers:
+  - gitcode_id: wqtshg_wt
+  - gitcode_id: shengnan666
+  - gitcode_id: medivh-x
+  - gitcode_id: zhanj
+  - gitcode_id: fu-jun2
+  entry_configs: []
