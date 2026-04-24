@@ -2,6 +2,7 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260424 | DeepSeek-V4 昇腾首发：基于CANN的训推优化实践 |  | [链接](./slides/DeepSeek-V4/20260424) | [链接](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260421 | TileLang 典型算子性能优化 |  | [链接](./slides/sig-recipes/20260421) | [链接](https://www.bilibili.com/video/BV1fronBPEyC/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260418 | CANN开源社区 线下meetup 北京站 | meetup | [链接](./slides/meetup/20260418) | [链接](https://www.bilibili.com/video/BV1Sfd2B9EEn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260416 | CANNBot开发进阶：TileLang算子开发实操 | sig-cannbot | [链接](./slides/sig-cannbot/20260416) | [链接](https://www.bilibili.com/video/BV148dzBhEDa/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
