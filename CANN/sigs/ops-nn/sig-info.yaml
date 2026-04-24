@@ -199,6 +199,9 @@ repositories:
     - gitcode_id: chenfeng61
       name: 陈风
       email: chenzhen61@huawei.com
+    - gitcode_id: LinPX
+      name: 林鹏翔
+      email: linpengxiang1@hisilicon.com
   - path:
     - control
     - experimental/control
@@ -358,6 +361,9 @@ repositories:
     - gitcode_id: yangyang016
       name: 杨阳
       email: yangyang306@hisilicon.com
+    - gitcode_id: LinPX
+      name: 林鹏翔
+      email: linpengxiang1@hisilicon.com
   - path:
     - conv
     - experimental/conv
