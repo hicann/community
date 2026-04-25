@@ -121,8 +121,8 @@ repositories:
     - image/grid_sample
     - image/grid_sample2_d
     - image/grid_sample3_d
-    - image/grid_sample2_d_grad
-    - image/grid_sample3_d_grad
+    - image/grid_sampler2_d_grad
+    - image/grid_sampler3_d_grad
     committers:
     - gitcode_id: luowen203_gg123
     - gitcode_id: renruhai
