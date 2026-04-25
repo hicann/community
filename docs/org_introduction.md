@@ -1,5 +1,5 @@
 ## 🔥DeepSeek V4专区🔥
-- 🔥[DeepSeek V4发布，昇腾超节点系列全面支持！今天直播开讲，诚邀参与~~ ](https://www.bilibili.com/opus/1194697676560531458?spm_id_from=333.1387.0.0)
+- 🔥[直播回看：DeepSeek-V4昇腾首发，基于CANN的训推优化实践](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)
 - 🔥[参与技术讨论，专家在线答疑](https://gitcode.com/org/cann/discussions/85)
 - 🔥模型部署：[推理](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v4/README.md)|[训练](https://gitcode.com/cann/cann-recipes-train/blob/master/llm_pretrain/deepseekv4/README.md)
 
