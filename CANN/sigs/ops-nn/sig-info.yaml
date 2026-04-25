@@ -392,6 +392,9 @@ repositories:
     - gitcode_id: yuxin5
       name: 余鑫
       email: yuxin5@huawei.com
+    - gitcode_id: wangcimeng
+      name: 王慈孟
+      email: wangcimeng@huawei.com
   branch_configs:
   - branch:
     - 9.0.0
