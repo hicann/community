@@ -389,6 +389,9 @@ repositories:
     - gitcode_id: crystalhu
       name: 胡碧霞
       email: hubixia1@huawei.com
+    - gitcode_id: yuxin5
+      name: 余鑫
+      email: yuxin5@huawei.com
   branch_configs:
   - branch:
     - 9.0.0
