@@ -67,6 +67,7 @@ repositories:
   - gitcode_id: ccNeo824
   - gitcode_id: ouyangxizi
   - gitcode_id: yanglianxiang2
+  - gitcode_id: zhuyiming3
 
   entry_configs:
     - path:
