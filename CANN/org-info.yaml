@@ -168,6 +168,9 @@ sigs:
       - gitcode_id: leabclove
         name: 程祥乐
         email: chengxiangle1@huawei.com
+      - gitcode_id: songmingyang
+        name: 宋明阳
+        email: songmingyang@huawei.com
   - sig_name: tools
     maintainers:
       - gitcode_id: jinyingqi

@@ -12,6 +12,7 @@
 - 颜业峰[@yanyefeng](https://gitcode.com/yanyefeng), *yanyefeng@huawei.com*
 - 文学敏[@wenxuemin](https://gitcode.com/wenxuemin), *wenxuemin@huawei.com*
 - 程祥乐[@leabclove](https://gitcode.com/leabclove), *chengxiangle1@huawei.com*
+- 宋明阳[@songmingyang](https://gitcode.com/songmingyang), *songmingyang@huawei.com*
 
 ### Committer列表
 - 严正行[@yanzhenghang](https://gitcode.com/yanzhenghang), *625612333@qq.com*
@@ -28,7 +29,6 @@
 - 李琳[@lilin_137](https://gitcode.com/lilin_137), *lilin137@huawei.com*
 - 陈轲[@chenke2026](https://gitcode.com/chenke2026), *chenke202211@163.com*
 - 王超[@temper7620](https://gitcode.com/temper7620), *wangchao7620@126.com*
-- 宋明阳[@songmingyang](https://gitcode.com/songmingyang), *songmingyang@huawei.com*
 - 朱晶晶[@zhujingjing](https://gitcode.com/zhujingjing), *zhujingjing6@huawei.com*
 - 李沛洋[@peiyang](https://gitcode.com/peiyang), *lipeiyang@huawei.com*
 - 张兴平[@zhangxp1030](https://gitcode.com/zhangxp1030), *zhangxingping4@huawei.com*
