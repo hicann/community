@@ -1,7 +1,9 @@
 ## 🔥DeepSeek V4专区🔥
-- 🔥[直播回看：DeepSeek-V4昇腾首发，基于CANN的训推优化实践](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)
-- 🔥[参与技术讨论，专家在线答疑](https://gitcode.com/org/cann/discussions/85)
-- 🔥模型部署：[推理](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v4/README.md)|[训练](https://gitcode.com/cann/cann-recipes-train/blob/master/llm_pretrain/deepseekv4/README.md)
+- 🔥[直播回看：DeepSeek-V4昇腾首发，基于CANN的训推优化实践](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) | [PPT下载](https://gitcode.com/cann/community/tree/master/events/meetup/slides/DeepSeek-V4)
+- 🔥技术报告：[NPU DeepSeek V4推理优化实践](https://gitcode.com/cann/cann-recipes-infer/blob/master/docs/models/deepseek-v4/deepseek_v4_inference_guide.md) | [DeepSeek-V4昇腾训练支持](https://gitcode.com/cann/cann-recipes-train/blob/master/docs/llm_pretrain/deepseek-v4_torchtitan_npu_autofuse.md)
+- 🔥模型部署：[推理](https://gitcode.com/cann/cann-recipes-infer/blob/master/models/deepseek-v4/README.md)|[训练](https://gitcode.com/cann/cann-recipes-train/blob/master/llm_pretrain/deepseekv4/README.md)；权重下载：[FLASH](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)|[RRO](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)； [量化压缩](https://gitcode.com/cann/amct/blob/master/amct_pytorch/experimental/deepseek-v4/README.md)
+- 🔥V4 算子：[Attention相关算子](https://gitcode.com/cann/cann-recipes-infer/blob/master/docs/models/deepseek-v4/deepseek_v4_ascendc_operator_guide.md) | [mHC相关算子](https://gitcode.com/cann/cann-recipes-infer/blob/master/docs/models/deepseek-v4/deepseek_v4_mHC_guide.md) | [PyPTO](https://gitcode.com/cann/cann-recipes-infer/blob/master/docs/models/deepseek-v4/deepseek_v4_pypto_operator_guide.md) | [Tilelang](https://gitcode.com/cann/cann-recipes-infer/blob/master/docs/models/deepseek-v4/deepseek_v4_tilelang_operator_guide.md)
+- 🔥[参与技术讨论，专家在线答疑](https://gitcode.com/org/cann/discussions/85) | [有奖社区任务](https://gitcode.com/org/cann/discussions/73)
 
 
 ## 开源项目
