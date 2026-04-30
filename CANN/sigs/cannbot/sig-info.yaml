@@ -5,7 +5,7 @@ meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-cannbot
 mentors: []
 repositories:
 - repo:
-  - cann/skills
+  - cann/cannbot-skills
   committers:
   - gitcode_id: jon_jin
   - gitcode_id: benwallace52
