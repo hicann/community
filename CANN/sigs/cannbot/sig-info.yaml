@@ -11,3 +11,8 @@ repositories:
   - gitcode_id: benwallace52
   - gitcode_id: hanrui22
   - gitcode_id: dengguojie
+- repo:
+  - cann/cann-bench
+  committers:
+  - gitcode_id: su-yueming
+  - gitcode_id: OpSphere
