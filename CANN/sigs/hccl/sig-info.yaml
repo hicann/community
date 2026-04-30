@@ -197,6 +197,24 @@ repositories:
       - src/hccd/CMakeLists.txt
       - src/framework/CMakeLists.txt
       - src/algorithm/CMakeLists.txt
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: yanzhenghang
+      - gitcode_id: wenxuemin
+
+    - path:
+      - src/platform/hccp/inc/network
+      - src/platform/hccp/external_depends
+      - src/platform/hccp/inc/private/network/rdma_lite_common.h
+      - src/platform/hccp/rdma_service/rs_inner.h
+      - src/platform/hccp/rdma_service/tlv/netco_api.h
+      - src/platform/hccp/rdma_service/tlv/dl_netco_function.h
+      - src/platform/hccp/common/dl_hal_function.h
+      - src/platform/hccp/rdma_service/dl_ibverbs_function.h
+      - src/platform/hccp/rdma_service/dl_nda_function.h
+      - src/platform/hccp/rdma_service/ctx/dl_ccu_function.h
+      - src/platform/hccp/rdma_service/ctx/dl_net_function.h
+      - src/platform/hccp/rdma_service/ctx/dl_urma_function.h
       - src/platform/hccp/CMakeLists.txt
       - src/platform/hccp/rdma_service/CMakeLists.txt
       - src/platform/hccp/rdma_agent/adapter/CMakeLists.txt
@@ -207,6 +225,9 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
       - gitcode_id: wenxuemin
+      - gitcode_id: yangxiaoyuan
+      - gitcode_id: chenke2026
+      - gitcode_id: zhongqin2020
 
     - path:
       - classify_rule.yaml  # UT/ST规则文件
