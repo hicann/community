@@ -27,7 +27,7 @@
 
 ### Maintainer列表
 
-- 钟林[@zhonglin](https://gitcode.com/zhonglin), *echo.zhonglin@huawei.com*
+- 钟林[@zhong_lin](https://gitcode.com/zhong_lin), *echo.zhonglin@huawei.com*
 - 盛楠[@shengnan666](https://gitcode.com/shengnan666), *titan.sheng@huawei.com*
 - 张德鹏[@depeng1994](https://gitcode.com/depeng1994), *zhangdepeng2@huawei.com*
 - 徐道鸿[@XDaoHong](https://gitcode.com/XDaoHong), *xudaohong@huawei.com*

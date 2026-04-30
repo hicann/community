@@ -11,6 +11,8 @@ repositories:
   - gitcode_id: panchao-gitcode
   - gitcode_id: lrwei0709
   - gitcode_id: xuyujun
+  - gitcode_id: zhaowei1936
+  _ gitcode_id: zzyyjj012
   entry_configs: []
 
 - repo:
