@@ -395,6 +395,9 @@ repositories:
     - gitcode_id: wangcimeng
       name: 王慈孟
       email: wangcimeng@huawei.com
+    - gitcode_id: huafeng793
+      name: 陈华锋
+      email: chenhuafeng2@huawei.com
   branch_configs:
   - branch:
     - 9.0.0
