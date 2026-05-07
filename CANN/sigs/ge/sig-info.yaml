@@ -157,6 +157,7 @@ repositories:
   - gitcode_id: depeng1994
   - gitcode_id: peiyang
   - gitcode_id: yangyongqiang0606
+  - gitcode_id: zhujingjing
   entry_configs:
   - path:
     - inc/external
