@@ -138,7 +138,7 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
   |<center><a href="https://space.bilibili.com/1190614918?spm_id_from=333.337.0.0">B站</a></center> | <center>微信公众号</center> | <center><a href="https://www.zhihu.com/people/ha-ha-ha-ha-51-33-24">知乎</a></center> |<center><a href="https://blog.csdn.net/m0_71340392">CSDN</a></center>|
   |--|--|--|--|
-  | <img src="https://raw.gitcode.com/user-images/assets/7860879/9801d95a-df2b-45ee-acfe-4700466bb185/昇腾CANN_B站二维码.png" width="130" height="130" alt="cann_bilibili">  | <img src="https://raw.gitcode.com/user-images/assets/7860879/5bb520d4-98a6-425c-aa54-d95dd8a7c8fa/昇腾CANN微信公众号.jpg" width="130" height="130" alt="CANN微信公众号">| <img src="https://raw.gitcode.com/user-images/assets/7860879/a4aec200-c71b-4340-80c4-c22cbad5057f/zhihu.png" width="130" height="130" alt="昇腾CANN知乎"></a> | <img src="https://raw.gitcode.com/user-images/assets/7860879/8a47d24c-0a33-4ab7-9fb9-252771a90b47/CSDN.png" width="130" height="130" alt="昇腾CANN_CSDN"> |
+  | <img src="images/bilibili.png" width="130" height="130" alt="cann_bilibili">  | <img src="images/weixin.jpg" width="130" height="130" alt="CANN微信公众号">| <img src="images/zhihu.png" width="130" height="130" alt="昇腾CANN知乎"></a> | <img src="images/CSDN.png" width="130" height="130" alt="昇腾CANN_CSDN"> |
 
 - [cann@cann.team](mailto:cann@cann.team)
 
