@@ -87,6 +87,10 @@ Runtime 是连接算子编译、图执行、调度器、通信库与NPU硬件的
 * 史凯 [@shikai-1](https://gitcode.com/shikai-1), *[shikai4@huawei.com](mailto:shikai4@huawei.com)*
 * 卢煜坤 [@ykl999](https://gitcode.com/ykl999), *[luyukun1@huawei.com](mailto:luyukun1@huawei.com)*
 * 王璐瑶 [@wangluyao17](https://gitcode.com/wangluyao17), *[wangluyao17@huawei.com](mailto:wangluyao17@huawei.com)*
+* 王宇昕 [@YzQnWyx](https://gitcode.com/YzQnWyx), *[wangyuxin46@huawei.com](mailto:wangyuxin46@huawei.com)*
+* 千钊 [@phy-zhao](https://gitcode.com/phy-zhao), *[qianzhao1@huawei.com](mailto:qianzhao1@huawei.com)*
+* 陈瑛琰 [@vaceciliachen](https://gitcode.com/vaceciliachen), *[chenyingyan2@hisilicon.com](mailto:chenyingyan2@hisilicon.com)*
+* 韩瑞 [@Henry_ascend](https://gitcode.com/Henry_ascend), *[hanrui21@huawei.com](mailto:hanrui21@huawei.com)*
 
 **维测功能组件**
 
