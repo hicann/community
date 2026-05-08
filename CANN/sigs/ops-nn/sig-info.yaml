@@ -117,7 +117,7 @@ repositories:
       email: hubixia1@huawei.com
     - gitcode_id: chenfeng61
       name: 陈风
-      email: chenzhen61@huawei.com
+      email: chenfeng61@huawei.com
   - path:
     - foreach
     - activation
@@ -198,7 +198,7 @@ repositories:
       email: chenhaowen12@huawei.com
     - gitcode_id: chenfeng61
       name: 陈风
-      email: chenzhen61@huawei.com
+      email: chenfeng61@huawei.com
     - gitcode_id: LinPX
       name: 林鹏翔
       email: linpengxiang1@hisilicon.com
@@ -261,7 +261,7 @@ repositories:
       email: hubixia1@huawei.com
     - gitcode_id: chenfeng61
       name: 陈风
-      email: chenzhen61@huawei.com
+      email: chenfeng61@huawei.com
   - path:
     - vfusion
     - loss
@@ -296,7 +296,7 @@ repositories:
       email: hubixia1@huawei.com
     - gitcode_id: chenfeng61
       name: 陈风
-      email: chenzhen61@huawei.com
+      email: chenfeng61@huawei.com
   - path:
     - rnn
     - pooling
