@@ -104,7 +104,7 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 - [算子开发](https://gitcode.com/cann/ops-math/blob/master/docs/zh/develop/aicore_develop_guide.md)：介绍开发算子的基本流程，一键创建算子工程目录，实现Tiling、Kernel核心交付件。
 
 
-🔥**一站式开发平台**：您也可在对应仓库中点击“云开发”，在一站式在线开发环境中限时免费体验昇腾算力。🔥
+🔥**一站式开发平台**：您也可在对应仓库中点击“CANNLab”，在一站式在线开发环境中限时免费体验昇腾算力。🔥
 
 ## 实践样例
 
