@@ -327,6 +327,9 @@ repositories:
     - gitcode_id: crystalhu
       name: 胡碧霞
       email: hubixia1@huawei.com
+    - gitcode_id: liuchuangdev
+      name: 刘闯
+      email: liuchuang51@huawei.com
   - path:
     - matmul
     - experimental/matmul
