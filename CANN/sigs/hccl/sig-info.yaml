@@ -252,6 +252,7 @@ repositories:
 
     - path:
       - docs
+      committers:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: flyswa
