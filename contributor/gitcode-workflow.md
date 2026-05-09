@@ -117,11 +117,23 @@ git rebase upstream/master
 
 ## 5. 提交本地变更
 
-提交代码变更：
+### 5.1 单人提交
+
+默认为单人提交，提交代码变更：
 ```bash
 git add .
 git commit -m "提交说明"
 ```
+
+### 5.2 多人合作提交
+
+若涉及多人合作提交，可以提交代码变更时追加联合作者信息（以下为除自己外添加2个联合作者的示例）：
+```bash
+git add .
+git commit -m "提交说明" -m "Co-authored-by: zhangsan <zhangsan@example.com>" -m "Co-authored-by: lisi <lisi@example.com>"
+```
+
+### 5.3 增量修改
 
 如需在前次提交基础上继续修改，可使用：
 ```bash

@@ -68,6 +68,8 @@ See LICENSE in the root of the software repository for the full text of the Lice
 - 代码验证通过后，提交 PR 到目标项目；
 - 参照[社区评论命令](https://gitcode.com/cann/infrastructure/blob/main/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)触发门禁测试
 
+> 注意：若涉及多人合作提交，详见下方扩展资源GitCode工作流详细说明5.2章节
+
 ### 3.4 代码审查
 - **测试未通过**：根据门禁反馈修改代码
 - **测试通过**：PR 将分配给 Committer 进行审查，您可以在PR评论区通过`@committer_gitcode_id`提醒 Committer 进行审查，然后及时关注审查意见并进行相应调整。
