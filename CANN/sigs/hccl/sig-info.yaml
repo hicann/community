@@ -109,6 +109,14 @@ repositories:
       - gitcode_id: virtual_runtime
       - gitcode_id: ZhanPhil
       - gitcode_id: zheng555
+    
+    - path:
+      - docs
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: flyswa
+
   branch_configs:
   - branch:
     - 9.0.0
@@ -241,6 +249,13 @@ repositories:
       - src/common/error_code/error_code.cc
       committers:
       - gitcode_id: ycm0028
+
+    - path:
+      - docs
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: flyswa
+
   branch_configs:
   - branch:
     - 9.0.0
