@@ -73,6 +73,7 @@
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 - 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
+- 徐柯南 [@kknan](https://gitcode.com/kknan), *xukenan@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -98,6 +99,7 @@
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 - 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
+- 徐柯南 [@kknan](https://gitcode.com/kknan), *xukenan@huawei.com*
 
 ## posembedding committer列表：
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
