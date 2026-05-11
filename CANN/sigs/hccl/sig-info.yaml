@@ -116,6 +116,7 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: flyswa
+      - gitcode_id: claire8090
 
   branch_configs:
   - branch:
@@ -256,6 +257,7 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: flyswa
+      - gitcode_id: claire8090
 
   branch_configs:
   - branch:
