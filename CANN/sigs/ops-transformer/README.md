@@ -73,6 +73,7 @@
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 - 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
+- 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
 - 徐柯南 [@kknan](https://gitcode.com/kknan), *xukenan@huawei.com*
 - 陈鹏屹 [@cpy_123456](https://gitcode.com/cpy_123456), *chenpengyi@huawei.com*
 
@@ -124,6 +125,7 @@
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
+- 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
 
 ## 资料 committer列表：
