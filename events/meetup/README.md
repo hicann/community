@@ -2,8 +2,10 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260512 | Ascend 950 HiF8模型量化技术的训推实践 | sig-recipes | [链接](./slides/sig-recipes/20260512) | [链接](https://www.bilibili.com/video/BV1Qw5g6QEJs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260512 | cann-bench:为昇腾算子评测立起一把统一的尺子 | sig-cannbot | [链接](./slides/sig-cannbot/20260512) | [链接](https://www.bilibili.com/video/BV1up5T6rELt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260511 | CANN算子挑战赛(江山赛区)赛题和评分规则解读 |  | [链接](./slides/sig-ops-transformer/20260511) | [链接](https://www.bilibili.com/video/BV1r3546UE5h/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260508 | TorchTitan-NPU: 训练性能与易用性齐飞，开启昇腾训练入图新体验 |  | [链接](./slides/sig-framework-adapter/20260508) | [链接](https://www.bilibili.com/video/BV1AxdgBkEv3/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260508 | TorchTitan-NPU: 训练性能与易用性齐飞，开启昇腾训练入图新体验 | sig-framework-adapter | [链接](./slides/sig-framework-adapter/20260508) | [链接](https://www.bilibili.com/video/BV1AxdgBkEv3/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260429 | DeepSeek-V4 昇腾首发：DSL 助力 DeepSeek-V4 快速适配与调优 |  | [链接](./slides/DeepSeek-V4/20260429) | [链接](https://www.bilibili.com/video/BV1vZ9SBNEPb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260428 | DeepSeek-V4 昇腾首发：基于TorchTitan的DeepSeek-V4昇腾续训练优化实践 |  | [链接](./slides/DeepSeek-V4/20260428) | [链接](https://www.bilibili.com/video/BV1639kBWEXd/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260427 | DeepSeek-V4 昇腾首发：基于昇腾950的DeepSeek-V4算子亲和优化实践 |  | [链接](./slides/DeepSeek-V4/20260427) | [链接](https://www.bilibili.com/video/BV1hEoCBEEAt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
