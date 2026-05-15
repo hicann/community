@@ -138,6 +138,7 @@ repositories:
     - gitcode_id: cc-z
     - gitcode_id: juyangokok
     - gitcode_id: cpy_123456
+    - gitcode_id: guoqiuhao
 
   - path:                            
     - posembedding
