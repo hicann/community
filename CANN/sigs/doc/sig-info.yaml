@@ -26,3 +26,18 @@ repositories:
     - gitcode_id: yanyawen
     - gitcode_id: syeren
     - gitcode_id: keloJW
+- repo:
+    - cann/cann-outreach
+  committers:
+    - gitcode_id: gcw_tgPdOLZT
+    - gitcode_id: fullt
+    - gitcode_id: Carolina_yuan
+    - gitcode_id: yanyawen
+    - gitcode_id: jxlang
+- repo:
+    - cann/cann-launch-camp
+  committers:
+    - gitcode_id: Albertq
+    - gitcode_id: jackwangc
+    - gitcode_id: gcw_tgPdOLZT
+
