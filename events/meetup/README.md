@@ -2,6 +2,8 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260514 | 多模态生成技术优化实践第二期-并行与Cache | sig-recipes | [链接](./slides/sig-recipes/20260514) | [链接](https://www.bilibili.com/video/BV1z4596sEXF/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260513 | 多模态生成技术优化实践第一期-稀疏与量化 | sig-recipes | [链接](./slides/sig-recipes/20260513) | [链接](https://www.bilibili.com/video/BV1Kq5161Ekb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260512 | Ascend 950 HiF8模型量化技术的训推实践 | sig-recipes | [链接](./slides/sig-recipes/20260512) | [链接](https://www.bilibili.com/video/BV1Qw5g6QEJs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260512 | cann-bench:为昇腾算子评测立起一把统一的尺子 | sig-cannbot | [链接](./slides/sig-cannbot/20260512) | [链接](https://www.bilibili.com/video/BV1up5T6rELt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260511 | CANN算子挑战赛(江山赛区)赛题和评分规则解读 |  | [链接](./slides/sig-ops-transformer/20260511) | [链接](https://www.bilibili.com/video/BV1r3546UE5h/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
