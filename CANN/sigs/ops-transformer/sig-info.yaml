@@ -37,6 +37,8 @@ repositories:
     - cmake
     - scripts
     - tests
+    - "CMakeLists.txt"
+    - "build.sh"
     committers:
     - gitcode_id: liudan12
     - gitcode_id: Allan_Yu
@@ -45,7 +47,29 @@ repositories:
     - gitcode_id: gaoxiang618
     - gitcode_id: wang-minbo
     - gitcode_id: xtqh
-  
+
+  - path:                               # 公共文件
+    - common
+    - "version.cmake"
+    - "version.info"
+    - "classify_rule.yaml"
+    - "install_deps.yaml"
+    - "requirements.txt"
+    - "OAT.xml"
+    - "LICENSE"
+    - "README.md"
+    - "CONTRIBUTING.md"
+    - "CHANGELOG.md"
+    - "Third_Party_Open_Source_Software_List.yaml"
+    - "Third_Party_Open_Source_Software_Notice"
+    committers:
+    - gitcode_id: liudan12
+    - gitcode_id: Allan_Yu
+    - gitcode_id: monologue815
+    - gitcode_id: mabing1118
+    - gitcode_id: wang-minbo
+    - gitcode_id: xtqh
+
   - path:                               # 资料和example 相关  
     - docs
     - examples
