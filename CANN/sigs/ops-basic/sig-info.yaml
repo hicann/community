@@ -106,7 +106,7 @@ repositories:
     - gitcode_id: gitee-duhuiping
     - gitcode_id: zhouwenfang
     - gitcode_id: wuyao51511
-    - gitcode_id: gitee-yanglulu
+    - gitcode_id: caiwenwen
   - path:
     - image/crop_and_resize
     committers:
@@ -231,7 +231,7 @@ repositories:
     - gitcode_id: gitee-duhuiping
     - gitcode_id: zhouwenfang
     - gitcode_id: wuyao51511
-    - gitcode_id: gitee-yanglulu
+    - gitcode_id: caiwenwen
     - gitcode_id: LiWei79
     - gitcode_id: luowen203_gg123
     - gitcode_id: renruhai
@@ -335,7 +335,7 @@ repositories:
     - gitcode_id: gitee-duhuiping
     - gitcode_id: zhouwenfang
     - gitcode_id: wuyao51511
-    - gitcode_id: gitee-yanglulu
+    - gitcode_id: caiwenwen
   - path:
     - conversion/as_strided
     - conversion/clip_by_value_v2

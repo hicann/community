@@ -66,7 +66,7 @@
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
 - 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
-- 杨露露 [@gitee-yanglulu](https://gitcode.com/gitee-yanglulu), *yanglulul@h-partners.com*
+- 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
 - 周文芳 [@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
 - 吴瑶 [@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*
@@ -133,7 +133,7 @@
 ## 资料 committer列表：
 - 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
-- 杨露露 [@gitee-yanglulu](https://gitcode.com/gitee-yanglulu), *yanglulul@h-partners.com*
+- 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
 - 周文芳 [@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
 - 吴瑶 [@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*

@@ -45,9 +45,9 @@ repositories:
     - gitcode_id: wuyao51511
       name: 吴瑶
       email: wuyao61@h-partners.com
-    - gitcode_id: gitee-yanglulu
-      name: 杨露露
-      email: yanglulul@h-partners.com
+    - gitcode_id: caiwenwen
+      name: 蔡雯雯
+      email: caiwenwen6@h-partners.com
   - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"
