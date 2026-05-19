@@ -12,7 +12,6 @@ repositories:
   - gitcode_id: rous_zhang
   - gitcode_id: znmax
   - gitcode_id: hiliPP
-  - gitcode_id: xushunqi
   - gitcode_id: jason_yuan_ye
   - gitcode_id: huang_li
   - gitcode_id: huangwei791
@@ -20,6 +19,8 @@ repositories:
   - gitcode_id: qq_41667743
   - gitcode_id: lushirui22
   - gitcode_id: yijie-zhu
+  - gitcode_id: songjionghui
+  - gitcode_id: MionLAN
   entry_configs: []
 
 - repo:
@@ -27,7 +28,6 @@ repositories:
   committers:
   - gitcode_id: depeng1994
   - gitcode_id: zhanghz1
-  - gitcode_id: HJ92
   - gitcode_id: panchao-gitcode
   - gitcode_id: lrwei0709
   - gitcode_id: xuyujun
@@ -41,9 +41,11 @@ repositories:
   entry_configs: []
 
 - repo:
-  - cann/cann-recipes-embodied-intelligence
+  - cann/cann-recipes-embodied-ai
   committers:
   - gitcode_id: rous_zhang
+  - gitcode_id: lushirui22
+  - gitcode_id: kevinchiu
   entry_configs: []
 
 - repo:

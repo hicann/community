@@ -11,7 +11,7 @@
 | [cann-recipes-infer](https://gitcode.com/cann/cann-recipes-infer) | LLM/多模态推理样例 |
 | [cann-recipes-train](https://gitcode.com/cann/cann-recipes-train) | LLM/多模态训练样例 |
 | [cann-recipes-spatial-intelligence](https://gitcode.com/cann/cann-recipes-spatial-intelligence) | 空间智能算法样例 |
-| [cann-recipes-embodied-intelligence](https://gitcode.com/cann/cann-recipes-embodied-intelligence) | 具身智能算法样例 |
+| [cann-recipes-embodied-ai](https://gitcode.com/cann/cann-recipes-embodied-ai) | 具身智能算法样例 |
 | [cann-recipes-harmony-infer](https://gitcode.com/cann/cann-recipes-harmony-infer) | 鸿蒙设备推理实践样例 |
 
 ### 🎯 愿景与使命 (Vision & Mission)
@@ -68,11 +68,9 @@
 - 皮华立 [[@hiliPP]](https://gitcode.com/hiliPP), *pihuali@hisilicon.com*
 - 邹楠 [[@znmax]](https://gitcode.com/znmax), *zounan1@hisilicon.com*
 - 张心放 [[@rous_zhang]](https://gitcode.com/rous_zhang), *zhangxinfang5@hisilicon.com*
-- 许顺琪 [[@xushunqi]](https://gitcode.com/xushunqi), *xushunqi@huawei.com*
 - 袁野 [[@jason_yuan_ye]](https://gitcode.com/jason_yuan_ye), *yuanye17@huawei.com*
 - 张德鹏 [[@depeng1994]](https://gitcode.com/depeng1994), *zhangdepeng2@huawei.com*
 - 张昊卓 [[@zhanghz1]](https://gitcode.com/zhanghz1), *zhanghaozhuo1@hisilicon.com*
-- 叶嘉金琦 [[@HJ92]](https://gitcode.com/HJ92), *yejiajinqi@hisilicon.com*
 - 黄立 [[@huang_li]](https://gitcode.com/huang_li), *huangli84@hisilicon.com*
 - 黄伟 [[@huangwei791]](https://gitcode.com/huangwei791), *huangwei791@huawei.com*
 - 许虞俊 [[@xuyujun]](https://gitcode.com/xuyujun), *xuyujun5@hisilicon.com*
@@ -83,3 +81,5 @@
 - 潘超 [[@panchao-gitcode]](https://gitcode.com/panchao-gitcode), *panchao13@huawei.com*
 - 丘志成 [[@kevinchiu]](https://gitcode.com/kevinchiu), *chiu.chih.cheng@hisilicon.com*
 - 朱奕杰 [[@yijie-zhu]](https://gitcode.com/yijie-zhu), *zhuyijie2@hisilicon.com*
+- 宋炯辉 [[@songjionghui]](https://gitcode.com/songjionghui), *songjionghui@hisilicon.com*
+- 王蓓 [[@MionLAN]](https://gitcode.com/MionLAN), *wangbei5@huawei.com*
