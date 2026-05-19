@@ -133,6 +133,7 @@ repositories:
     - gitcode_id: cc-z
     - gitcode_id: juyangokok
     - gitcode_id: kknan
+    - gitcode_id: wuyi_huawei
  
   - path:
     - mc2
