@@ -324,6 +324,7 @@ repositories:
     - "*/*/op_host/*_def.cpp"
     - "*/*/op_api/*.h"
     - "*/*/op_graph/*_proto.h"
+    - "*/*/external/*"
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
