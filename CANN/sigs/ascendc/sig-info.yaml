@@ -11,12 +11,9 @@ repositories:
   - gitcode_id: jiangZD
   - gitcode_id: shi_nanxiang
   - gitcode_id: gao_dafa
-  - gitcode_id: ookkkkoo1122
   - gitcode_id: bianque
-  - gitcode_id: wqtshg_wt
   - gitcode_id: zhudi22
   - gitcode_id: wuyang_hw
-  - gitcode_id: shen_mbsw
   - gitcode_id: houyuyang
   - gitcode_id: yangbinhua
   - gitcode_id: XuebinYang
@@ -32,7 +29,6 @@ repositories:
   - gitcode_id: zhuliangying
   - gitcode_id: wulinyu
   - gitcode_id: bluesky901
-  - gitcode_id: yanqingshang
   - gitcode_id: yukangchen
   - gitcode_id: zengjuan
   entry_configs:
@@ -67,12 +63,17 @@ repositories:
     - gitcode_id: ascendhjh
     - gitcode_id: wuzhaolin
   - path:
+    - include/basic_api/reg_compute
+    committers:
+    - gitcode_id: ascendhjh
+    - gitcode_id: horming
+  - path:
     - include/c_api
     committers:
     - gitcode_id: ascendhjh
     - gitcode_id: wuzhaolin
   - path:
-    - include/micro_api
+    - include/c_api/reg_compute
     committers:
     - gitcode_id: ascendhjh
     - gitcode_id: horming
@@ -121,11 +122,6 @@ repositories:
     committers:
     - gitcode_id: pangfd
     - gitcode_id: yue_mo_du_qian
-  - path:
-    - impl/micro_api
-    committers:
-    - gitcode_id: wuyang_hw
-    - gitcode_id: houyuyang
   - path:
     - impl/simt_api
     committers:
@@ -211,7 +207,6 @@ repositories:
   - gitcode_id: chenyiyuan
   - gitcode_id: zhanghao_0689
   - gitcode_id: wuyang_hw
-  - gitcode_id: shen_mbsw
   - gitcode_id: yukangchen
   - gitcode_id: zengjuan
   - gitcode_id: wulinyu
