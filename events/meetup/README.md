@@ -2,6 +2,8 @@
 
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260518 | CANNBot进阶开发：Vector算子之排序性能优化 | sig-cannbot | [链接](./slides/sig-cannbot/20260518) | [链接](https://www.bilibili.com/video/BV144Lw64EeQ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260515 | CANNBot进阶开发：自动生成Vector算子之RegBase | sig-cannbot | [链接](./slides/sig-cannbot/20260515) | [链接](https://www.bilibili.com/video/BV1GT5v64Eqp/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260514 | 多模态生成技术优化实践第二期-并行与Cache | sig-recipes | [链接](./slides/sig-recipes/20260514) | [链接](https://www.bilibili.com/video/BV1z4596sEXF/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260513 | 多模态生成技术优化实践第一期-稀疏与量化 | sig-recipes | [链接](./slides/sig-recipes/20260513) | [链接](https://www.bilibili.com/video/BV1Kq5161Ekb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260512 | Ascend 950 HiF8模型量化技术的训推实践 | sig-recipes | [链接](./slides/sig-recipes/20260512) | [链接](https://www.bilibili.com/video/BV1Qw5g6QEJs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
