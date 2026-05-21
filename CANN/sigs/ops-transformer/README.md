@@ -75,6 +75,7 @@
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
 - 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
 - 徐柯南 [@kknan](https://gitcode.com/kknan), *xukenan@huawei.com*
+- 石睿 [@shi-rui](https://gitcode.com/shi-rui), *shirui17@huawei.com*
 - 陈鹏屹 [@cpy_123456](https://gitcode.com/cpy_123456), *chenpengyi@huawei.com*
 - 郭秋毫 [@guoqiuhao](https://gitcode.com/guoqiuhao), *guoqiuhao1@huawei.com*
 - 吴奕 [@wuyi_huawei](https://gitcode.com/wuyi_huawei), *wuyi36@hisilicon.com*
@@ -107,6 +108,7 @@
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 徐柯南 [@kknan](https://gitcode.com/kknan), *xukenan@huawei.com*
 - 吴奕 [@wuyi_huawei](https://gitcode.com/wuyi_huawei), *wuyi36@hisilicon.com*
+- 石睿 [@shi-rui](https://gitcode.com/shi-rui), *shirui17@huawei.com*
 
 ## posembedding committer列表：
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*

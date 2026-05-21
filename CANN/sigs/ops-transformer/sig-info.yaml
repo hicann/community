@@ -134,6 +134,7 @@ repositories:
     - gitcode_id: juyangokok
     - gitcode_id: kknan
     - gitcode_id: wuyi_huawei
+    - gitcode_id: shi-rui
  
   - path:
     - mc2
