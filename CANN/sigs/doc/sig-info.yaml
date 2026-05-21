@@ -34,6 +34,9 @@ repositories:
     - gitcode_id: Carolina_yuan
     - gitcode_id: yanyawen
     - gitcode_id: jxlang
+    - gitcode_id: luzx66
+    - gitcode_id: yanhf
+    - gitcode_id: li-shengxian3
 - repo:
     - cann/cann-launch-camp
   committers:
