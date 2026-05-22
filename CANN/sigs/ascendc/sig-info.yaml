@@ -31,6 +31,8 @@ repositories:
   - gitcode_id: bluesky901
   - gitcode_id: yukangchen
   - gitcode_id: zengjuan
+  - gitcode_id: hyolee
+  - gitcode_id: hujiawen_kaven
   entry_configs:
   - path:
     - cmake
@@ -107,6 +109,7 @@ repositories:
     committers:
     - gitcode_id: chenyiyuan
     - gitcode_id: wuyang_hw
+    - gitcode_id: hujiawen_kaven
   - path:
     - impl/c_api
     committers:
@@ -122,6 +125,7 @@ repositories:
     committers:
     - gitcode_id: pangfd
     - gitcode_id: yue_mo_du_qian
+    - gitcode_id: hyolee
   - path:
     - impl/simt_api
     committers:
@@ -147,6 +151,7 @@ repositories:
     committers:
     - gitcode_id: XuebinYang
     - gitcode_id: sjtulxh
+    - gitcode_id: hujiawen_kaven
   - path:
     - examples
     committers:
