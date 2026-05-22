@@ -28,3 +28,6 @@
 
 ## 联系信息  
 pmc@cann.osinfra.cn
+
+## 治理章程  
+[项目管理委员会治理章程](https://gitcode.com/cann/community/blob/master/governance/pmc-governance.md)
