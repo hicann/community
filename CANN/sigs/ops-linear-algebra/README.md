@@ -42,6 +42,11 @@
 
 ## Committer列表
 - 陈斌斌 [@chenbinbin199309](https://gitcode.com/chenbinbin199309), *chenbinbin20@huawei.com*
+- 宋恺 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
+- 赵颖超 [@zhaoyingchao2](https://gitcode.com/zhaoyingchao2), *zhaoyingchao2@hisilicon.com*
+- 骆文 [@luowen203_gg123](https://gitcode.com/luowen203_gg123), *luowen16@huawei.com*
+- 尹祺然 [@nino888](https://gitcode.com/nino888), *yinqiran1@huawei.com*
+- 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
 
 # SIG订阅
 

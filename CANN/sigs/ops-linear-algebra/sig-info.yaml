@@ -13,6 +13,10 @@ repositories:
   - gitcode_id: demoauguste
   - gitcode_id: zizhongchen
   - gitcode_id: chenbinbin199309
+  - gitcode_id: songkai111
+  - gitcode_id: zhaoyingchao2
+  - gitcode_id: luowen203_gg123
+  - gitcode_id: nino888
 - repo:
   - cann/ops-solver
   committers:
@@ -31,3 +35,4 @@ repositories:
   - gitcode_id: demoauguste
   - gitcode_id: zizhongchen
   - gitcode_id: chenbinbin199309
+  - gitcode_id: chaotang233
