@@ -1,5 +1,5 @@
 name: ops-transformer
-description: 提供transformer类大模型算子的高阶算子库，简称ops-transformer，涵盖了常见的FlashAttention、MoE（Mixture of Experts）等算子
+description: 提供transformer类大模型算子的高阶算子库，简称ops-transformer，涵盖了常见的FlashAttention、MoE（Mixture of Experts）等算子。
 mailing_list: "ops-transformer@cann.osinfra.cn"
 meeting_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-transformer"
 committers: []

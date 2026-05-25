@@ -1,5 +1,5 @@
 name: tools
-description: 提供CANN平台的各种工具，如故障定位，模型压缩等。
+description: 提供CANN平台的各种工具，如故障定位、模型压缩等。
 mailing_list: tools@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-tools
 repositories:

@@ -1,5 +1,5 @@
 name: electrical-engineering
-description: 面向流程工业的垂直领域的算子库，聚焦电力行业，面向流程工业“机理+数据”双轮驱动的领域计算层,提供基于CANN的各类算法样例
+description: 面向流程工业的垂直领域的算子库，聚焦电力行业，面向流程工业“机理+数据”双轮驱动的领域计算层，提供基于CANN的各类算法样例。
 mailing_list: ee@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/Electrical-Engineering
 committers: []

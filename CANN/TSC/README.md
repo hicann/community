@@ -16,7 +16,7 @@
 - LIAO HENG liao.heng@hisilicon.com [[@hengliao2025]](https://gitcode.com/hengliao2025)
 - 蒋铭 jiangming@huawei.com [[@jiangming_lightring]](https://gitcode.com/jiangming_lightring)
 - 熊怡 albert.xiong@huawei.com [[@xy869268]](https://gitcode.com/xy869268)
-- Yaoqing Gao yaoqing.gao@huawei.com [[@ygao00402060]](https://gitcode.com/ygao00402060)
+- Yaoqing Gao yaoqing.gao@huawei.com [[@YaoqingGao]](https://gitcode.com/YaoqingGao)
 - 闫长江 yanchangjiang@huawei.com [[@river10989]](https://gitcode.com/river10989)
 - 丁玉军 dingyujun@huawei.com [[@Justin-2019]](https://gitcode.com/Justin-2019)
 - 邵立欣 shaolixin@huawei.com [[@slx2008]](https://gitcode.com/slx2008)

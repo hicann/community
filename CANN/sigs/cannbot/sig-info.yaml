@@ -1,5 +1,5 @@
 name: cannbot
-description: CANN社区Agent智能体兴趣小组，为社区提供AI辅助开发、算子生成、生态建设的智能体最佳实践.
+description: CANN社区Agent智能体兴趣小组，为社区提供AI辅助开发、算子生成、生态建设的智能体最佳实践。
 mailing_list: cannbot@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-cannbot
 mentors: []

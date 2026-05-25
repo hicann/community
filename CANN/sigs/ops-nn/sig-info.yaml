@@ -1,5 +1,5 @@
 name: ops-nn
-description: 提供神经网络（Neural Network，NN）类的高阶算子库，涵盖了常见的Matmul、卷积等算子
+description: 提供神经网络（Neural Network，NN）类的高阶算子库，涵盖了常见的Matmul、卷积等算子。
 mailing_list: "ops-nn@cann.osinfra.cn"
 meeting_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-nn"
 committers: []

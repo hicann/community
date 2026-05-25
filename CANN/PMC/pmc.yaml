@@ -91,7 +91,7 @@ repositories:
     - path:
       - security
       committers:
-      - gitcode_id: Xing_cai
+      - gitcode_id: Xing_Cai
       - gitcode_id: khmeng_2025
     - path:
       - templates
