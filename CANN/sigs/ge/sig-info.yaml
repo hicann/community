@@ -13,6 +13,8 @@ repositories:
   - gitcode_id: sjtulxh
   - gitcode_id: xchu42
   - gitcode_id: wangxiaotian995
+  - gitcode_id: xuyafei
+  - gitcode_id: zhang_shengjie
   entry_configs:
   - path:
     - super_kernel/src/superkernel/__init__.py
