@@ -10,11 +10,11 @@ SIG更多介绍请通过 [我们的仓库](https://gitcode.com/cann/infrastructu
 - 李超然[@mywaaagh_admin](https://gitcode.com/mywaaagh_admin), *lichaoran1@huawei.com*
 
 ### Committer列表
-- 申屠康俊[@shentukangjun](https://gitcode.com/shentukangjun), *shentukangjun@huawei.com*
+- 申屠康俊[@shentukangjun](https://gitcode.com/shentukangjun), *shentukangjun1@hisilicon.com*
 - 熊风波[@linxi9527](https://gitcode.com/linxi9527), *xiongfengbo@huawei.com*
 - 吴鹏飞[@aflyingto](https://gitcode.com/aflyingto), *wupengfei10@huawei.com*
 - 黎客来[@craylea](https://gitcode.com/craylea), *likelai@huawei.com*
-- 朱征[@weixin_39767879](https://gitcode.com/weixin_39767879), *zhuzheng@huawei.com*
+- 朱征[@weixin_39767879](https://gitcode.com/weixin_39767879), *zhuzheng3@huawei.com*
 - 杨滨华[@yangbinhua](https://gitcode.com/yangbinhua), *yangbinhua@huawei.com*
 - 冯靖轩[@chrisffjx](https://gitcode.com/chrisffjx), *fengjingxuan1@huawei.com*
 - 钟源珂[drizzlezyk](https://gitcode.com/drizzlezyk), *zhongyuanke@huawei.com*
