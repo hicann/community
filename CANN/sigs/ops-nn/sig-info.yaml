@@ -156,6 +156,9 @@ repositories:
     - gitcode_id: Chen_HaoWen
       name: 陈昊文
       email: chenhaowen12@huawei.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   - path:
     - quant
     - experimental/quant
@@ -202,6 +205,9 @@ repositories:
     - gitcode_id: LinPX
       name: 林鹏翔
       email: linpengxiang1@hisilicon.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   - path:
     - control
     - experimental/control
@@ -230,6 +236,9 @@ repositories:
     - gitcode_id: crystalhu
       name: 胡碧霞
       email: hubixia1@huawei.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   - path:
     - index
     - hash
@@ -262,6 +271,9 @@ repositories:
     - gitcode_id: chenfeng61
       name: 陈风
       email: chenfeng61@huawei.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   - path:
     - vfusion
     - loss
@@ -297,6 +309,9 @@ repositories:
     - gitcode_id: chenfeng61
       name: 陈风
       email: chenfeng61@huawei.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   - path:
     - rnn
     - pooling
@@ -330,6 +345,9 @@ repositories:
     - gitcode_id: liuchuangdev
       name: 刘闯
       email: liuchuang51@huawei.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   - path:
     - matmul
     - experimental/matmul
@@ -367,6 +385,9 @@ repositories:
     - gitcode_id: LinPX
       name: 林鹏翔
       email: linpengxiang1@hisilicon.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   - path:
     - conv
     - experimental/conv
@@ -401,6 +422,9 @@ repositories:
     - gitcode_id: huafeng793
       name: 陈华锋
       email: chenhuafeng2@huawei.com
+    - gitcode_id: fullt
+      name: 傅涛
+      email: full.fu@huawei.com
   branch_configs:
   - branch:
     - 9.0.0
