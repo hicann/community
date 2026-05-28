@@ -17,7 +17,7 @@ repositories:
   - gitcode_id: fuyangchenghu
   - gitcode_id: waimaidaole
 - repo:
-    - cann/cann-competitions
+    - cann/cann-ops-competitions
   committers:
     - gitcode_id: fullt
     - gitcode_id: Albertq
