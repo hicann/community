@@ -11,6 +11,7 @@ repositories:
   - gitcode_id: benwallace52
   - gitcode_id: hanrui22
   - gitcode_id: dengguojie
+  - gitcode_id: rxtfeng
 - repo:
   - cann/cann-bench
   committers:
