@@ -11,7 +11,7 @@ repositories:
 
 - repo:
   - cann/ops-transformer
-  entry_configs: 
+  entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"
@@ -32,7 +32,7 @@ repositories:
     - gitcode_id: zhouwenfang
     - gitcode_id: wuyao51511
     - gitcode_id: claire8090
-  
+
   - path:                               # DT，编译构建等相关公共代码
     - cmake
     - scripts
@@ -70,7 +70,7 @@ repositories:
     - gitcode_id: wang-minbo
     - gitcode_id: xtqh
 
-  - path:                               # 资料和example 相关  
+  - path:                               # 资料和example 相关
     - docs
     - examples
     committers:
@@ -83,7 +83,7 @@ repositories:
     - gitcode_id: wang-minbo
     - gitcode_id: xtqh
 
-  - path:                            
+  - path:
     - attention
     - experimental/attention
     committers:
@@ -108,9 +108,10 @@ repositories:
     - gitcode_id: jiang-lirui
     - gitcode_id: songjionghui
     - gitcode_id: wangzhe123456789
+    - gitcode_id: huang_li
     - gitcode_id: coder_linx
-    
-  - path: 
+
+  - path:
     - ffn
     - experimental/ffn
     committers:
@@ -120,7 +121,7 @@ repositories:
     - gitcode_id: mabing1118
     - gitcode_id: chaotang233
 
-  - path:                            
+  - path:
     - gmm
     - experimental/gmm
     committers:
@@ -137,7 +138,7 @@ repositories:
     - gitcode_id: kknan
     - gitcode_id: wuyi_huawei
     - gitcode_id: shi-rui
- 
+
   - path:
     - mc2
     - experimental/mc2
@@ -151,8 +152,8 @@ repositories:
     - gitcode_id: liuboxi
     - gitcode_id: libohao6
     - gitcode_id: macech
- 
-  - path:                            
+
+  - path:
     - moe
     - experimental/moe
     committers:
@@ -168,7 +169,7 @@ repositories:
     - gitcode_id: cpy_123456
     - gitcode_id: guoqiuhao
 
-  - path:                            
+  - path:
     - posembedding
     - experimental/posembedding
     committers:
@@ -190,7 +191,7 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
-    entry_configs: 
+    entry_configs:
     - path:
       - "*/*/op_host/op_api/*.h"
       - "*/*/op_host/*_def.cpp"
