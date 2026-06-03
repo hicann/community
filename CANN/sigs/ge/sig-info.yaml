@@ -24,11 +24,13 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
       - super_kernel/src/superkernel/__init__.py
@@ -37,6 +39,7 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: gcw_Dm2TsRUi
+      - gitcode_id: jiangtao_rts
 - repo:
   - cann/triton-inference-server-ge-backend
   committers:
@@ -125,11 +128,13 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
       - inc/external
@@ -151,6 +156,7 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: gcw_Dm2TsRUi
+      - gitcode_id: jiangtao_rts
 - repo:
   - cann/metadef
   committers:
@@ -173,11 +179,13 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
       - inc/external
@@ -187,6 +195,7 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: gcw_Dm2TsRUi
+      - gitcode_id: jiangtao_rts
 - repo:
   - cann/tensorflow
   committers:

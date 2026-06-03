@@ -186,11 +186,13 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: gcw_Dm2TsRUi
+    - gitcode_id: jiangtao_rts
     entry_configs:
     - path:
       - "*/*/op_host/op_api/*.h"
@@ -219,3 +221,4 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: gcw_Dm2TsRUi
+      - gitcode_id: jiangtao_rts

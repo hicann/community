@@ -428,6 +428,7 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
@@ -435,6 +436,7 @@ repositories:
       name: 韩小龙
       email: xiaolong.han@huawei.com
     - gitcode_id: gcw_Dm2TsRUi
+    - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
       - "*/*/docs/acl*.md"
@@ -483,6 +485,7 @@ repositories:
         name: 韩小龙
         email: xiaolong.han@huawei.com
       - gitcode_id: gcw_Dm2TsRUi
+      - gitcode_id: jiangtao_rts
 - repo:
   - cann/ops-tensor
   committers:
