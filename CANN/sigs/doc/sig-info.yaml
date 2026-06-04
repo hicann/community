@@ -16,6 +16,7 @@ repositories:
   - gitcode_id: mlewis
   - gitcode_id: fuyangchenghu
   - gitcode_id: waimaidaole
+  - gitcode_id: zutao
 - repo:
     - cann/cann-ops-competitions
   committers:
@@ -26,6 +27,8 @@ repositories:
     - gitcode_id: yanyawen
     - gitcode_id: syeren
     - gitcode_id: keloJW
+    - gitcode_id: zutao
+    - gitcode_id: fuyangchenghu
 - repo:
     - cann/cann-outreach
   committers:
