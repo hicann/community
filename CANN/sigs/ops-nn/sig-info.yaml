@@ -86,6 +86,12 @@ repositories:
     - gitcode_id: yangyang016
       name: 杨阳
       email: yangyang306@hisilicon.com
+    - gitcode_id: sxb154714
+      name: 商晓波
+      email: shangxiaobo1@hisilicon.com
+    - gitcode_id: LinPX
+      name: 林鹏翔
+      email: linpengxiang1@hisilicon.com
   - path:
     - tests
     - docs
