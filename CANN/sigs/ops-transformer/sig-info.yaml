@@ -13,9 +13,9 @@ repositories:
   - cann/ops-transformer
   entry_configs:
   - path:
-    - "*/*/op_host/op_api/*.h"
+    - "*/*/op_host/op_api/aclnn*.h"
     - "*/*/op_host/*_def.cpp"
-    - "*/*/op_api/*.h"
+    - "*/*/op_api/aclnn*.h"
     - "*/*/op_graph/*_proto.h"
     committers:
     - gitcode_id: wangyongguang
