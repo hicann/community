@@ -431,6 +431,9 @@ repositories:
     - gitcode_id: fullt
       name: 傅涛
       email: full.fu@huawei.com
+    - gitcode_id: cheng_gao
+      name: 高成
+      email: cheng.gao@huawei.com
   branch_configs:
   - branch:
     - 9.0.0
