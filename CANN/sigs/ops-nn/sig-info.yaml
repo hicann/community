@@ -165,6 +165,9 @@ repositories:
     - gitcode_id: fullt
       name: 傅涛
       email: full.fu@huawei.com
+    - gitcode_id: renruhai
+      name: 任如海
+      email: renruhai1@huawei.com
   - path:
     - quant
     - experimental/quant
