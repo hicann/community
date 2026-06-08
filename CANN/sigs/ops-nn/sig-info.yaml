@@ -425,6 +425,9 @@ repositories:
     - gitcode_id: yuxin5
       name: 余鑫
       email: yuxin5@huawei.com
+    - gitcode_id: shenchengzong
+      name: 沈承宗
+      email: shenchengzong1@huawei.com
     - gitcode_id: wangcimeng
       name: 王慈孟
       email: wangcimeng@huawei.com
