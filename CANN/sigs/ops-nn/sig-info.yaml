@@ -168,6 +168,9 @@ repositories:
     - gitcode_id: renruhai
       name: 任如海
       email: renruhai1@huawei.com
+    - gitcode_id: kevin_huang1234
+      name: 黄迪
+      email: kevin.huangdi@huawei.com
   - path:
     - quant
     - experimental/quant
@@ -283,6 +286,9 @@ repositories:
     - gitcode_id: fullt
       name: 傅涛
       email: full.fu@huawei.com
+    - gitcode_id: kevin_huang1234
+      name: 黄迪
+      email: kevin.huangdi@huawei.com
   - path:
     - vfusion
     - loss
@@ -357,6 +363,9 @@ repositories:
     - gitcode_id: fullt
       name: 傅涛
       email: full.fu@huawei.com
+    - gitcode_id: kevin_huang1234
+      name: 黄迪
+      email: kevin.huangdi@huawei.com
   - path:
     - matmul
     - experimental/matmul
