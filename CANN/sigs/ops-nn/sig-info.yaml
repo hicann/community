@@ -92,6 +92,9 @@ repositories:
     - gitcode_id: LinPX
       name: 林鹏翔
       email: linpengxiang1@hisilicon.com
+    - gitcode_id: wang-xing001
+      name: 王星
+      email: wangxing73@huawei.com
   - path:
     - tests
     - docs
@@ -124,6 +127,9 @@ repositories:
     - gitcode_id: chenfeng61
       name: 陈风
       email: chenfeng61@huawei.com
+    - gitcode_id: wang-xing001
+      name: 王星
+      email: wangxing73@huawei.com
   - path:
     - foreach
     - activation
@@ -171,6 +177,9 @@ repositories:
     - gitcode_id: kevin_huang1234
       name: 黄迪
       email: kevin.huangdi@huawei.com
+    - gitcode_id: wang-xing001
+      name: 王星
+      email: wangxing73@huawei.com
   - path:
     - quant
     - experimental/quant
@@ -220,6 +229,9 @@ repositories:
     - gitcode_id: fullt
       name: 傅涛
       email: full.fu@huawei.com
+    - gitcode_id: wang-xing001
+      name: 王星
+      email: wangxing73@huawei.com
   - path:
     - control
     - experimental/control
@@ -289,6 +301,9 @@ repositories:
     - gitcode_id: kevin_huang1234
       name: 黄迪
       email: kevin.huangdi@huawei.com
+    - gitcode_id: wang-xing001
+      name: 王星
+      email: wangxing73@huawei.com
   - path:
     - vfusion
     - loss
@@ -327,6 +342,9 @@ repositories:
     - gitcode_id: fullt
       name: 傅涛
       email: full.fu@huawei.com
+    - gitcode_id: wang-xing001
+      name: 王星
+      email: wangxing73@huawei.com
   - path:
     - rnn
     - pooling
@@ -366,6 +384,9 @@ repositories:
     - gitcode_id: kevin_huang1234
       name: 黄迪
       email: kevin.huangdi@huawei.com
+    - gitcode_id: wang-xing001
+      name: 王星
+      email: wangxing73@huawei.com
   - path:
     - matmul
     - experimental/matmul
