@@ -99,3 +99,9 @@ repositories:
       - gitcode_id: khmeng_2025
       - gitcode_id: cherry_03
       - gitcode_id: TianXL
+    - path:
+      - QA
+      committers:
+      - gitcode_id: wangshouguo
+      - gitcode_id: khmeng_2025
+      - gitcode_id: zhaolinlin
