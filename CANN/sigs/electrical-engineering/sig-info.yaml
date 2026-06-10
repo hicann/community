@@ -25,6 +25,12 @@ repositories:
   - gitcode_id: gcw_FHrfwZBn
     name: 李博
     email: libo49@huawei.com
+  - gitcode_id: yuwenxing9698
+    name: 余文星
+    email: 2757147853@qq.com
+  - gitcode_id: gcw_SfNdEwkR
+    name: 朱栋贤
+    email: zhudongxian@huawei.com
   entry_configs: []
 - repo:
   - cann/elec-ops-prediction
@@ -47,6 +53,12 @@ repositories:
   - gitcode_id: gcw_FHrfwZBn
     name: 李博
     email: libo49@huawei.com
+  - gitcode_id: yuwenxing9698
+    name: 余文星
+    email: 2757147853@qq.com
+  - gitcode_id: gcw_SfNdEwkR
+    name: 朱栋贤
+    email: zhudongxian@huawei.com
   entry_configs: []
 - repo:
   - cann/elec-ops-inspection
@@ -69,4 +81,10 @@ repositories:
   - gitcode_id: gcw_FHrfwZBn
     name: 李博
     email: libo49@huawei.com
+  - gitcode_id: yuwenxing9698
+    name: 余文星
+    email: 2757147853@qq.com
+  - gitcode_id: gcw_SfNdEwkR
+    name: 朱栋贤
+    email: zhudongxian@huawei.com
   entry_configs: []
