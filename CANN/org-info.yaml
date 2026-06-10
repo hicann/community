@@ -325,3 +325,14 @@ sigs:
       - gitcode_id: XDaoHong
         name: 徐道鸿
         email: xudaohong@huawei.com
+  - sig_name: transportation
+    maintainers:
+    - gitcode_id: wanglijian_zjec
+      name: 王丽健
+      email: wanglijian_zjec@126.com
+    - gitcode_id: zhiyuanliu
+      name: 刘志远
+      email: zhiyuanl@seu.edu.cn
+    - gitcode_id: liushaoweihua1225
+      name: 刘少韦华
+      email: shaoweihualiu@seu.edu.cn
