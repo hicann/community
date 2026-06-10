@@ -65,6 +65,7 @@
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
+- 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
 - 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
@@ -100,6 +101,7 @@
 - 刘博熙 [@liuboxi](https://gitcode.com/liuboxi), *liuboxi1@huawei.com*
 - 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
+- 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
 
 ## ffn committer列表：
