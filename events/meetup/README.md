@@ -3,6 +3,8 @@
 ## CANN NEXT系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260609 | cann-samples:算子性能优化经验分享 | sig-ops-basic | [链接](./slides/sig-ops-basic/20260609) | [链接](https://www.bilibili.com/video/BV1QuEE69EdD/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260608 | Regbase进阶编程&调优工具FlashVF实操演练 |  | [链接](./slides/950/20260608) | [链接](https://www.bilibili.com/video/BV1KmEg6dEmE/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260326 | PTO ISA带你快速上手Ascend 950 | sig-pto | [链接](./slides/950/20260326) | [链接](https://www.bilibili.com/video/BV1eLX8BuETT/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260324 | HCCL集合通信专用引擎CCU技术介绍 | sig-hccl | [链接](./slides/950/20260324) | [链接](https://www.bilibili.com/video/BV1AEQmBTEWy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260323 | HiFloat8数据格式及其训推应用 |  | [链接](./slides/950/20260323) | [链接](https://www.bilibili.com/video/BV1cDXwBrEWR/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -27,6 +29,7 @@
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
 | 20260512 | cann-bench:为昇腾算子评测立起一把统一的尺子 | sig-cannbot | [链接](./slides/sig-cannbot/20260512) | [链接](https://www.bilibili.com/video/BV1up5T6rELt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260508 | TorchTitan-NPU: 训练性能与易用性齐飞，开启昇腾训练入图新体验 | sig-framework-adapter | [链接](./slides/sig-framework-adapter/20260508) | [链接](https://www.bilibili.com/video/BV1AxdgBkEv3/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260228 | SHMEM开源介绍 | sig-shmem | [链接](./slides/sig-shmem/20260228) | [链接](https://www.bilibili.com/video/BV1mkPkzbE1G/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260212 | CANN一站式开发平台全面公测 | sig-tools | [链接](./slides/sig-tools/20260212) | [链接](https://www.bilibili.com/video/BV1S7fyBREW5/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260206 | ops-samples仓开源介绍 | sig-ops-basic | [链接](./slides/sig-ops-basic/20260206) | [链接](https://www.bilibili.com/video/BV1odcKzAE5f/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -53,7 +56,6 @@
 | 20260514 | 多模态生成技术优化实践第二期-并行与Cache | sig-recipes | [链接](./slides/sig-recipes/20260514) | [链接](https://www.bilibili.com/video/BV1z4596sEXF/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260513 | 多模态生成技术优化实践第一期-稀疏与量化 | sig-recipes | [链接](./slides/sig-recipes/20260513) | [链接](https://www.bilibili.com/video/BV1Kq5161Ekb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260512 | Ascend 950 HiF8模型量化技术的训推实践 | sig-recipes | [链接](./slides/sig-recipes/20260512) | [链接](https://www.bilibili.com/video/BV1Qw5g6QEJs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260508 | TorchTitan-NPU: 训练性能与易用性齐飞，开启昇腾训练入图新体验 | sig-framework-adapter | [链接](./slides/sig-framework-adapter/20260508) | [链接](https://www.bilibili.com/video/BV1AxdgBkEv3/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260210 | 轻量图模式后端npugraph_ex | sig-ge | [链接](./slides/sig-ge/20260210) | [链接](https://www.bilibili.com/video/BV1PvcLzBEwo/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260129 | 昇腾NPU强化学习案例：基于GRPO训练Qwen模型 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20260129) | [链接](https://www.bilibili.com/video/BV1fCFTzKE5J/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260119 | ScaleBox面向昇腾环境的高效代码强化学习沙盒环境实践 | sig-recipes | [链接](./slides/sig-recipes/20260119) | [链接](https://www.bilibili.com/video/BV1YRzpBHEZm/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
