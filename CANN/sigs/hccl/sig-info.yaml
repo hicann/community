@@ -195,7 +195,7 @@ repositories:
       - gitcode_id: bz_lee
 
     - path:
-      - src/framework/device/aicpu_kfc
+      - src/legacy/ascend910/framework/device/aicpu_kfc
       - test/ut/aicpu_kfc
       committers:
       - gitcode_id: wqtshg_wt
@@ -207,35 +207,35 @@ repositories:
       - include
       - CMakeLists.txt
       - src/CMakeLists.txt
-      - src/pub_inc
-      - src/platform/CMakeLists.txt
-      - src/hccd/CMakeLists.txt
-      - src/framework/CMakeLists.txt
-      - src/algorithm/CMakeLists.txt
+      - src/legacy/ascend910/pub_inc
+      - src/legacy/ascend910/platform/CMakeLists.txt
+      - src/legacy/ascend910/hccd/CMakeLists.txt
+      - src/legacy/ascend910/framework/CMakeLists.txt
+      - src/legacy/ascend910/algorithm/CMakeLists.txt
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
       - gitcode_id: wenxuemin
 
     - path:
-      - src/platform/hccp/inc/network
-      - src/platform/hccp/external_depends
-      - src/platform/hccp/inc/private/network/rdma_lite_common.h
-      - src/platform/hccp/rdma_service/rs_inner.h
-      - src/platform/hccp/rdma_service/tlv/netco_api.h
-      - src/platform/hccp/rdma_service/tlv/dl_netco_function.h
-      - src/platform/hccp/common/dl_hal_function.h
-      - src/platform/hccp/rdma_service/dl_ibverbs_function.h
-      - src/platform/hccp/rdma_service/dl_nda_function.h
-      - src/platform/hccp/rdma_service/ctx/dl_ccu_function.h
-      - src/platform/hccp/rdma_service/ctx/dl_net_function.h
-      - src/platform/hccp/rdma_service/ctx/dl_urma_function.h
-      - src/platform/hccp/CMakeLists.txt
-      - src/platform/hccp/rdma_service/CMakeLists.txt
-      - src/platform/hccp/rdma_agent/adapter/CMakeLists.txt
-      - src/platform/hccp/rdma_agent/client/CMakeLists.txt
-      - src/platform/hccp/rdma_agent/hdc/CMakeLists.txt
-      - src/platform/hccp/rdma_agent/peer/CMakeLists.txt
+      - src/base_comm/resources/hccp/inc/network
+      - src/base_comm/resources/hccp/external_depends
+      - src/base_comm/resources/hccp/inc/private/network/rdma_lite_common.h
+      - src/base_comm/resources/hccp/rdma_service/rs_inner.h
+      - src/base_comm/resources/hccp/rdma_service/tlv/netco_api.h
+      - src/base_comm/resources/hccp/rdma_service/tlv/dl_netco_function.h
+      - src/base_comm/resources/hccp/common/dl_hal_function.h
+      - src/base_comm/resources/hccp/rdma_service/dl_ibverbs_function.h
+      - src/base_comm/resources/hccp/rdma_service/dl_nda_function.h
+      - src/base_comm/resources/hccp/rdma_service/ctx/dl_ccu_function.h
+      - src/base_comm/resources/hccp/rdma_service/ctx/dl_net_function.h
+      - src/base_comm/resources/hccp/rdma_service/ctx/dl_urma_function.h
+      - src/base_comm/resources/hccp/CMakeLists.txt
+      - src/base_comm/resources/hccp/rdma_service/CMakeLists.txt
+      - src/base_comm/resources/hccp/rdma_agent/adapter/CMakeLists.txt
+      - src/base_comm/resources/hccp/rdma_agent/client/CMakeLists.txt
+      - src/base_comm/resources/hccp/rdma_agent/hdc/CMakeLists.txt
+      - src/base_comm/resources/hccp/rdma_agent/peer/CMakeLists.txt
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
@@ -253,7 +253,7 @@ repositories:
       - gitcode_id: ccl_ligang
 
     - path:
-      - src/common/error_code/error_code.cc
+      - src/legacy/ascend910/common/error_code/error_code.cc
       committers:
       - gitcode_id: ycm0028
 
