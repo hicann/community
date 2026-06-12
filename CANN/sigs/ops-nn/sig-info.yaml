@@ -480,7 +480,6 @@ repositories:
     - gitcode_id: hanxiaolong
       name: 韩小龙
       email: xiaolong.han@huawei.com
-    - gitcode_id: gcw_Dm2TsRUi
     - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
@@ -529,7 +528,6 @@ repositories:
       - gitcode_id: hanxiaolong
         name: 韩小龙
         email: xiaolong.han@huawei.com
-      - gitcode_id: gcw_Dm2TsRUi
       - gitcode_id: jiangtao_rts
 - repo:
   - cann/ops-tensor

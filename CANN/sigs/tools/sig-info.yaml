@@ -20,7 +20,6 @@ repositories:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
-    - gitcode_id: gcw_Dm2TsRUi
     - gitcode_id: jiangtao_rts
   entry_configs: []
 - repo:
@@ -50,7 +49,6 @@ repositories:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
-    - gitcode_id: gcw_Dm2TsRUi
     - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
@@ -59,5 +57,4 @@ repositories:
       - gitcode_id: gcw_kUomxQ2l
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
-      - gitcode_id: gcw_Dm2TsRUi
       - gitcode_id: jiangtao_rts
