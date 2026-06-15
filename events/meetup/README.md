@@ -66,13 +66,19 @@
 ## CANNBot系列课程直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260518 | CANNBot进阶开发：Vector算子之排序性能优化 | sig-cannbot | [链接](./slides/sig-cannbot/20260518) | [链接](https://www.bilibili.com/video/BV144Lw64EeQ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260515 | CANNBot进阶开发：自动生成Vector算子之RegBase | sig-cannbot | [链接](./slides/sig-cannbot/20260515) | [链接](https://www.bilibili.com/video/BV1GT5v64Eqp/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260612 | CANNBot开发进阶：CANNBot算子测试全流程 | sig-cannbot | [链接](./slides/sig-cannbot/20260612) | [链接](https://www.bilibili.com/video/BV1hwE26AEWG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260518 | CANNBot开发进阶：Vector算子之排序性能优化 | sig-cannbot | [链接](./slides/sig-cannbot/20260518) | [链接](https://www.bilibili.com/video/BV144Lw64EeQ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260515 | CANNBot开发进阶：自动生成Vector算子之RegBase | sig-cannbot | [链接](./slides/sig-cannbot/20260515) | [链接](https://www.bilibili.com/video/BV1GT5v64Eqp/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260416 | CANNBot开发进阶：TileLang算子开发实操 | sig-cannbot | [链接](./slides/sig-cannbot/20260416) | [链接](https://www.bilibili.com/video/BV148dzBhEDa/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260415 | CANNBot开发进阶：PyPTO算子开发实操 | sig-cannbot | [链接](./slides/sig-cannbot/20260415) | [链接](https://www.bilibili.com/video/BV1T8dzBaEU1/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260414 | CANNBot开发进阶：Ascend C算子开发实操 | sig-cannbot | [链接](./slides/sig-cannbot/20260414) | [链接](https://www.bilibili.com/video/BV148dzBhEDG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260413 | CANNBot入门：从0到1生成你的第一个算子 | sig-cannbot | [链接](./slides/sig-cannbot/20260413) | [链接](https://www.bilibili.com/video/BV1bRQbBfE7b/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260403 | CANNBot发布：畅享算子开发新体验 | sig-cannbot | [链接](./slides/sig-cannbot/20260403) | [链接](https://www.bilibili.com/video/BV1mE9uBzE8V/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+
+## HCCL通讯库系列课程直播
+| 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
+|--------|------|------|------|------|
+| 20260615 | HCCL入门课程：HCCL通讯库软件架构介绍 | sig-hccl | [链接](./slides/sig-hccl/20260615) | [链接](https://www.bilibili.com/video/BV12HJV6PEek/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
 ## TileLang系列课程直播
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
