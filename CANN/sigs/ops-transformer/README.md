@@ -38,6 +38,7 @@
 - 俞郑中 [@Allan_Yu](https://gitcode.com/Allan_Yu), *yuzhengzhong1@huawei.com*
 - 黄俊健 [@monologue815](https://gitcode.com/monologue815), *huangjunjian3@huawei.com*
 - 马兵 [@mabing1118](https://gitcode.com/mabing1118), *mabing726@huawei.com*
+- 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 
 
 ## Committer列表
@@ -74,7 +75,6 @@
 - 周文芳 [@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
 - 吴瑶 [@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
-- 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
 - 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
 - 王哲 [@wangzhe123456789](https://gitcode.com/wangzhe123456789), *wangzhe92@huawei.com*
@@ -139,7 +139,6 @@
 - 沈维铃 [@shen_weiling](https://gitcode.com/shen_weiling), *shenweiling@huawei.com*
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
-- 蒋礼锐 [@jiang-lirui](https://gitcode.com/jiang-lirui), *jianglirui1@huawei.com*
 - 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
 - 王哲 [@wangzhe123456789](https://gitcode.com/wangzhe123456789), *wangzhe92@huawei.com*
 - 黄立 [@huang_li](https://gitcode.com/huang_li), *huangli84@hisilicon.com*

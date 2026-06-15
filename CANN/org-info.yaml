@@ -46,6 +46,9 @@ sigs:
     - gitcode_id: mabing1118
       name: 马兵
       email: mabing726@huawei.com
+    - gitcode_id: jiang-lirui
+      name: 蒋礼锐
+      email: jianglirui1@huawei.com
   - sig_name: catlass
     maintainers:
     - gitcode_id: zhouhao176

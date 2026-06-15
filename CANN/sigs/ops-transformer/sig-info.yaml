@@ -44,6 +44,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: gaoxiang618
     - gitcode_id: wang-minbo
     - gitcode_id: xtqh
@@ -67,6 +68,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: wang-minbo
     - gitcode_id: xtqh
 
@@ -78,6 +80,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: yu-xinjie62
     - gitcode_id: songkai111
     - gitcode_id: wang-minbo
@@ -91,6 +94,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: yang-binrong
     - gitcode_id: gaoxiang618
     - gitcode_id: huangwei791
@@ -105,7 +109,6 @@ repositories:
     - gitcode_id: shen_weiling
     - gitcode_id: tang-hao-hw-gitcode
     - gitcode_id: juyangokok
-    - gitcode_id: jiang-lirui
     - gitcode_id: songjionghui
     - gitcode_id: wangzhe123456789
     - gitcode_id: huang_li
@@ -119,6 +122,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: chaotang233
 
   - path:
@@ -129,6 +133,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: chenkang30
     - gitcode_id: wenxin_fight
     - gitcode_id: chaotang233
@@ -147,6 +152,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: chenjunjian11
     - gitcode_id: wang-minbo
     - gitcode_id: liuboxi
@@ -163,6 +169,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: songkai111
     - gitcode_id: yu-xinjie62
     - gitcode_id: chen-linxin4
@@ -179,6 +186,7 @@ repositories:
     - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
     - gitcode_id: mabing1118
+    - gitcode_id: jiang-lirui
     - gitcode_id: songkai111
     - gitcode_id: yu-xinjie62
     - gitcode_id: yuhao_
