@@ -160,6 +160,7 @@ repositories:
     - gitcode_id: macech
     - gitcode_id: yangzeheng
     - gitcode_id: tgwsakiko_
+    - gitcode_id: captainmiaow
 
   - path:
     - moe

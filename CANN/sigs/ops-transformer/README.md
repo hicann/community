@@ -84,6 +84,7 @@
 - 陈鹏屹 [@cpy_123456](https://gitcode.com/cpy_123456), *chenpengyi@huawei.com*
 - 郭秋毫 [@guoqiuhao](https://gitcode.com/guoqiuhao), *guoqiuhao1@huawei.com*
 - 吴奕 [@wuyi_huawei](https://gitcode.com/wuyi_huawei), *wuyi36@hisilicon.com*
+- 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -103,6 +104,7 @@
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
 - 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
+- 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
 
 ## ffn committer列表：
 - 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
