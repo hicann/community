@@ -83,3 +83,5 @@
 - 朱奕杰 [[@yijie-zhu]](https://gitcode.com/yijie-zhu), *zhuyijie2@hisilicon.com*
 - 宋炯辉 [[@songjionghui]](https://gitcode.com/songjionghui), *songjionghui@hisilicon.com*
 - 王蓓 [[@MionLAN]](https://gitcode.com/MionLAN), *wangbei5@huawei.com*
+- 谢盛伟 [[@xieshengwei1024]](https://gitcode.com/xieshengwei1024), *xieshengwei3@huawei.com*
+- 陆威 [[@luwei_1104]](https://gitcode.com/luwei_1104), *luwei44@huawei.com*

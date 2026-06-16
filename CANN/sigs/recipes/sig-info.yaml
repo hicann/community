@@ -21,6 +21,8 @@ repositories:
   - gitcode_id: yijie-zhu
   - gitcode_id: songjionghui
   - gitcode_id: MionLAN
+  - gitcode_id: xieshengwei1024
+  - gitcode_id: luwei_1104
   entry_configs: []
 
 - repo:
