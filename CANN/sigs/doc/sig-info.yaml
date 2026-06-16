@@ -17,6 +17,18 @@ repositories:
   - gitcode_id: fuyangchenghu
   - gitcode_id: waimaidaole
   - gitcode_id: zutao
+  - gitcode_id: YANXI_ZHAO
+  - gitcode_id: DCGDDD
+  - gitcode_id: hyolee
+  - gitcode_id: wangliwei12
+  - gitcode_id: songjionghui
+  - gitcode_id: depeng1994
+  - gitcode_id: zhangky_gitcode
+  - gitcode_id: duyubo
+  - gitcode_id: t86l
+  - gitcode_id: Mexyy
+  - gitcode_id: zhangxp1030
+  - gitcode_id: A-Liuhao
 - repo:
     - cann/cann-ops-competitions
   committers:
