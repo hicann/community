@@ -2,7 +2,7 @@
 
 ## 1. 概述
 
-<span style="color:rgb(33,149,243)">*描述本报告覆盖的范围，说明新增的特性清单以及解决问题列表，明确所需的测试活动*</span>
+描述本报告覆盖的范围，说明新增的特性清单以及解决问题列表，明确所需的测试活动
 
 本报告为ops-multimodal-fusion项目开源测试报告，在该阶段完成了基于 CANN 9.0.0 开源包的能力测试，覆盖所有算子样例代码及文档，测试过程中执行覆盖率达到100%。
 
@@ -21,13 +21,11 @@
 
 ## 2. 版本测试信息
 
-<span style="color:rgb(33,149,243)">*本节描述被测对象的版本信息和测试的时间，包括依赖的环境信息，测试repo源。*</span>
-
 **硬件和版本要求**
 
-<span style="color:rgb(33,149,243)">*产品型号： Ascend 950 / Atlas A2 / Atlas A3*</span>
+产品型号： Ascend 950 / Atlas A2 / Atlas A3
 
-<span style="color:rgb(33,149,243)">*操作系统：覆盖以下测试因子组合*</span>
+操作系统：覆盖以下测试因子组合
 
 |      | 因子名称 | 因子取值               |
 | ---- | -------- | ---------------------- |
@@ -35,19 +33,19 @@
 | 2    | CPU架构  | ARM/x86                |
 | 3    | 形态     | docker/标准host+device |
 
-<span style="color:rgb(33,149,243)">*CANN版本：CANN 9.0.0*</span>
+CANN版本：CANN 9.0.0
 
-<span style="color:rgb(33,149,243)">*Python版本：Python >= 3.8*</span>
+Python版本：Python >= 3.8
 
-<span style="color:rgb(33,149,243)">*PyTorch：配套 torch 及 torch_npu 版本*</span>
+PyTorch：配套 torch 及 torch_npu 版本
 
-<span style="color:rgb(33,149,243)">*cmake：>= 3.16*</span>
+cmake：>= 3.16
 
-<span style="color:rgb(33,149,243)">*编译器：Bisheng（CANN工具链自带）*</span>
+编译器：Bisheng（CANN工具链自带）
 
 ## 3. Readme内容评估
 
-<span style="color:rgb(33,149,243)">*本节描述Readme文档核心验证要点及结果，覆盖文档内容完整性、文档内容正确性等维度*</span>
+本节描述Readme文档核心验证要点及结果，覆盖文档内容完整性、文档内容正确性等维度
 
 Readme内容评估：通过；
 
@@ -58,7 +56,7 @@ Readme内容评估：通过；
 
 ## 4. 编译功能验证
 
-<span style="color:rgb(33,149,243)">*本节描述编译功能核心验证要点及结果，覆盖通用性、易用性、高效性等维度*</span>
+本节描述编译功能核心验证要点及结果，覆盖通用性、易用性、高效性等维度
 
 编译功能评估：通过；
 
@@ -71,7 +69,7 @@ Readme内容评估：通过；
 
 ## 5. 安装包功能验证
 
-<span style="color:rgb(33,149,243)">*本节描述安装包操作验证，覆盖安装路径、CANN 适配及卸载功能*</span>
+本节描述安装包操作验证，覆盖安装路径、CANN 适配及卸载功能
 
 安装包功能评估：通过；
 
@@ -83,7 +81,7 @@ Readme内容评估：通过；
 
 ## 6. 算子UT功能验证
 
-<span style="color:rgb(33,149,243)">*本节描述算子测试核心要求，覆盖测试范围、日志*</span>
+本节描述算子测试核心要求，覆盖测试范围、日志
 
 测试功能评估：通过；
 
@@ -118,7 +116,7 @@ Readme内容评估：通过；
 
 ## 7. 环境兼容性验证
 
-<span style="color:rgb(33,149,243)">*本节描述环境部署兼容性，覆盖三方依赖、OS、CANN 包及形态适配*</span>
+本节描述环境部署兼容性，覆盖三方依赖、OS、CANN 包及形态适配
 
 兼容性评估：通过；
 
