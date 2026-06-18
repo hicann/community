@@ -113,6 +113,7 @@ repositories:
     - gitcode_id: wangzhe123456789
     - gitcode_id: huang_li
     - gitcode_id: coder_linx
+    - gitcode_id: xuanyuandy
 
   - path:
     - ffn
@@ -194,6 +195,7 @@ repositories:
     - gitcode_id: chen-linxin4
     - gitcode_id: cc-z
     - gitcode_id: juyangokok
+    - gitcode_id: xuanyuandy
   branch_configs:
   - branch:
     - 9.0.0

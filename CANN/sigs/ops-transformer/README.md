@@ -85,6 +85,7 @@
 - 郭秋毫 [@guoqiuhao](https://gitcode.com/guoqiuhao), *guoqiuhao1@huawei.com*
 - 吴奕 [@wuyi_huawei](https://gitcode.com/wuyi_huawei), *wuyi36@hisilicon.com*
 - 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
+- 丁勇 [@xuanyuandy](https://gitcode.com/xuanyuandy), *dingyong19@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -126,6 +127,7 @@
 - 陈琳鑫 [@chen-linxin4](https://gitcode.com/chen-linxin4), *chenlinxin4@huawei.com*
 - 赵臣臣 [@cc-z](https://gitcode.com/cc-z), *zhaochenchen11@huawei.com*
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
+- 丁勇 [@xuanyuandy](https://gitcode.com/xuanyuandy), *dingyong19@huawei.com*
 
 ## attention committer列表：
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
@@ -145,6 +147,7 @@
 - 王哲 [@wangzhe123456789](https://gitcode.com/wangzhe123456789), *wangzhe92@huawei.com*
 - 黄立 [@huang_li](https://gitcode.com/huang_li), *huangli84@hisilicon.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
+- 丁勇 [@xuanyuandy](https://gitcode.com/xuanyuandy), *dingyong19@huawei.com*
 
 ## 资料 committer列表：
 - 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
