@@ -17,6 +17,7 @@ repositories:
   - gitcode_id: zhaoyingchao2
   - gitcode_id: luowen203_gg123
   - gitcode_id: nino888
+  - gitcode_id: xutianze
 - repo:
   - cann/ops-solver
   committers:

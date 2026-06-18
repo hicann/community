@@ -47,6 +47,7 @@
 - 骆文 [@luowen203_gg123](https://gitcode.com/luowen203_gg123), *luowen16@huawei.com*
 - 尹祺然 [@nino888](https://gitcode.com/nino888), *yinqiran1@huawei.com*
 - 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
+- 徐天泽 [@xutianze](https://gitcode.com/xutianze), *xutianze2@huawei.com*
 
 # SIG订阅
 
