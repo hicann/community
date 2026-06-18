@@ -22,9 +22,6 @@ repositories:
   - gitcode_id: fanqirui
     name: 范其瑞
     email: fanqirui1@huawei.com
-  - gitcode_id: zhou-qilong
-    name: 周奇龙
-    email: zhouqilong2@huawei.com
   - gitcode_id: yangyang016
     name: 杨阳
     email: yangyang306@hisilicon.com
@@ -65,9 +62,6 @@ repositories:
     - scripts
     - common
     committers:
-    - gitcode_id: zhou-qilong
-      name: 周奇龙
-      email: zhouqilong2@huawei.com
     - gitcode_id: fanqirui
       name: 范其瑞
       email: fanqirui1@huawei.com
@@ -97,18 +91,10 @@ repositories:
       email: wangxing73@huawei.com
   - path:
     - tests
-    - docs
-    - examples
     committers:
-    - gitcode_id: zhou-qilong
-      name: 周奇龙
-      email: zhouqilong2@huawei.com
     - gitcode_id: fanqirui
       name: 范其瑞
       email: fanqirui1@huawei.com
-    - gitcode_id: zhangyuxiang0119
-      name: 张瑜翔
-      email: zhangyuxiang21@huawei.com
     - gitcode_id: zhajianqing123
       name: 查建青
       email: zhajianqing@huawei.com
@@ -124,12 +110,12 @@ repositories:
     - gitcode_id: crystalhu
       name: 胡碧霞
       email: hubixia1@huawei.com
-    - gitcode_id: chenfeng61
-      name: 陈风
-      email: chenfeng61@huawei.com
-    - gitcode_id: wang-xing001
-      name: 王星
-      email: wangxing73@huawei.com
+    - gitcode_id: yangyang016
+      name: 杨阳
+      email: yangyang306@hisilicon.com
+    - gitcode_id: chaotang233
+      name: 唐超
+      email: tangchao47@huawei.com
   - path:
     - foreach
     - activation
@@ -141,9 +127,6 @@ repositories:
     - gitcode_id: wangyongguang
       name: 王永光
       email: wangyongguang1@huawei.com
-    - gitcode_id: zhou-qilong
-      name: 周奇龙
-      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
       name: 章武
       email: zhangwu3@huawei.com
@@ -187,9 +170,6 @@ repositories:
     - gitcode_id: wangyongguang
       name: 王永光
       email: wangyongguang1@huawei.com
-    - gitcode_id: zhou-qilong
-      name: 周奇龙
-      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
       name: 章武
       email: zhangwu3@huawei.com
@@ -271,9 +251,6 @@ repositories:
     - gitcode_id: wangyongguang
       name: 王永光
       email: wangyongguang1@huawei.com
-    - gitcode_id: zhou-qilong
-      name: 周奇龙
-      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
       name: 章武
       email: zhangwu3@huawei.com
@@ -315,9 +292,6 @@ repositories:
     - gitcode_id: wangyongguang
       name: 王永光
       email: wangyongguang1@huawei.com
-    - gitcode_id: zhou-qilong
-      name: 周奇龙
-      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
       name: 章武
       email: zhangwu3@huawei.com
@@ -354,15 +328,9 @@ repositories:
     - gitcode_id: wangyongguang
       name: 王永光
       email: wangyongguang1@huawei.com
-    - gitcode_id: zhou-qilong
-      name: 周奇龙
-      email: zhouqilong2@huawei.com
     - gitcode_id: zhang-wu
       name: 章武
       email: zhangwu3@huawei.com
-    - gitcode_id: zhangyuxiang0119
-      name: 张瑜翔
-      email: zhangyuxiang21@huawei.com
     - gitcode_id: tangweiwei2
       name: 唐玮玮
       email: tangweiwei2@huawei.com
@@ -437,9 +405,6 @@ repositories:
     - gitcode_id: zhang-wu
       name: 章武
       email: zhangwu3@huawei.com
-    - gitcode_id: zhangyuxiang0119
-      name: 张瑜翔
-      email: zhangyuxiang21@huawei.com
     - gitcode_id: tangweiwei2
       name: 唐玮玮
       email: tangweiwei2@huawei.com
@@ -539,7 +504,7 @@ repositories:
     name: 陈琦
     email: chenqi317@huawei.com
   - gitcode_id: songkai111
-    name: 宋凯
+    name: 宋恺
     email: songkai16@huawei.com
   - gitcode_id: zl_hw
     name: 张磊
