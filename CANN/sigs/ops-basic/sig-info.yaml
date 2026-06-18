@@ -957,5 +957,12 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: chenqi317
   entry_configs: []
-  
+- repo:
+  - cann/ops-multimodal-fusion
+  committers:
+  - gitcode_id: llimwang
+  - gitcode_id: zl_hw
+  - gitcode_id: songkai111
+  - gitcode_id: Chunrong
+  - gitcode_id: gcw_9tG1ncgm
 
