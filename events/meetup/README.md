@@ -28,6 +28,7 @@
 ## CANN开源开放系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260616 | Ascend C 开源资料及样例分享 | sig-ascendc | [链接](./slides/sig-ascendc/20260616) | [链接](https://www.bilibili.com/video/BV1tdjV6cEEP/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260512 | cann-bench:为昇腾算子评测立起一把统一的尺子 | sig-cannbot | [链接](./slides/sig-cannbot/20260512) | [链接](https://www.bilibili.com/video/BV1up5T6rELt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260508 | TorchTitan-NPU: 训练性能与易用性齐飞，开启昇腾训练入图新体验 | sig-framework-adapter | [链接](./slides/sig-framework-adapter/20260508) | [链接](https://www.bilibili.com/video/BV1AxdgBkEv3/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260228 | SHMEM开源介绍 | sig-shmem | [链接](./slides/sig-shmem/20260228) | [链接](https://www.bilibili.com/video/BV1mkPkzbE1G/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -78,6 +79,8 @@
 ## HCCL通讯库系列课程直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260617 | HCCL入门课程：HCCL北极星平台介绍 | sig-hccl | [链接](./slides/sig-hccl/20260617) | [链接](https://www.bilibili.com/video/BV1zhLX6dESL/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260616 | HCCL入门课程：HCCL通讯库算子开发介绍 | sig-hccl | [链接](./slides/sig-hccl/20260616) | [链接](https://www.bilibili.com/video/BV1x9j369EYH/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260615 | HCCL入门课程：HCCL通讯库软件架构介绍 | sig-hccl | [链接](./slides/sig-hccl/20260615) | [链接](https://www.bilibili.com/video/BV12HJV6PEek/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
 ## TileLang系列课程直播
