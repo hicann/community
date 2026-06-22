@@ -15,6 +15,10 @@ repositories:
   - gitcode_id: wangxiaotian995
   - gitcode_id: xuyafei
   - gitcode_id: zhang_shengjie
+  - gitcode_id: depeng1994
+  - gitcode_id: peiyang
+  - gitcode_id: yangyongqiang0606
+  - gitcode_id: zhujingjing
   entry_configs:
   - path:
     - super_kernel/src/superkernel/__init__.py
@@ -165,6 +169,7 @@ repositories:
   - gitcode_id: peiyang
   - gitcode_id: yangyongqiang0606
   - gitcode_id: zhujingjing
+  - gitcode_id: wangxiaotian995
   entry_configs:
   - path:
     - inc/external
