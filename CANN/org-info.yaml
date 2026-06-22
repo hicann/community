@@ -328,7 +328,7 @@ sigs:
       - gitcode_id: XDaoHong
         name: 徐道鸿
         email: xudaohong@huawei.com
-  - sig_name: transportation
+  - sig_name: intelligent-transportation-system
     maintainers:
     - gitcode_id: wanglijian_zjec
       name: 王丽健

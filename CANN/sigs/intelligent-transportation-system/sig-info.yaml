@@ -1,0 +1,46 @@
+name: intelligent-transportation-system
+description: Intelligent Transportation System SIG 是面向智能交通系统领域的垂直兴趣小组，聚焦交通大数据分析、交通网络优化计算和交通大模型智能决策等场景，推进智能交通系统领域算子库、工具链和示例应用在CANN生态中的建设与落地。
+mailing_list: intelligent-transportation-system@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-intelligent-transportation-system
+committers:
+- gitcode_id: seventeenzhang17z
+  name: 张玉杰
+- gitcode_id: hucheng0222
+  name: 孙虎成
+- gitcode_id: Candice_Kun_An
+  name: 安琨
+- gitcode_id: ly_evtech
+  name: 刘洋
+- gitcode_id: wzlnju
+  name: 王正礼
+- gitcode_id: ZG_SEU
+  name: 顾子渊
+- gitcode_id: dihuangseu
+  name: 黄迪
+- gitcode_id: huangkai0410
+  name: 黄凯
+- gitcode_id: chenyao0303
+  name: 陈垚
+- gitcode_id: ZhandongXu
+  name: 徐占东
+- gitcode_id: Zhang_honggang
+  name: 张宏刚
+- gitcode_id: zhenz2020
+  name: 周臻
+- gitcode_id: yx_xlqy
+  name: 辛云鹏
+- gitcode_id: HongriJiujiu
+  name: 李宏
+repositories:
+- repo:
+  - cann/its-matrix-computation
+  committers: []
+  entry_configs: []
+- repo:
+  - cann/its-stable-llm
+  committers: []
+  entry_configs: []
+- repo:
+  - cann/its-trip
+  committers: []
+  entry_configs: []
