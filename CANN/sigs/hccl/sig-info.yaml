@@ -260,6 +260,14 @@ repositories:
       - gitcode_id: wenxuemin
       - gitcode_id: flyswa
       - gitcode_id: claire8090
+    
+    - path:
+      - test/hccl_vm
+      committers:
+      - gitcode_id: whk19940509
+      - gitcode_id: virtual_runtime
+      - gitcode_id: ZhanPhil
+      - gitcode_id: zheng555
 
   branch_configs:
   - branch:
