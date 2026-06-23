@@ -57,7 +57,7 @@ Intelligent Transportation System SIG 初期主要围绕以下三个方向开展
 * 黄凯 @huangkai0410
 * 陈垚 @chenyao0303
 * 徐占东 @ZhandongXu
-* 张宏刚 @Zhang_honggang
+* 张宏刚 @Zhang_Honggang
 * 周臻 @zhenz2020
 * 辛云鹏 @yx_xlqy
 * 李宏 @HongriJiujiu
