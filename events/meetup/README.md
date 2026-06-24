@@ -3,6 +3,7 @@
 ## CANN NEXT系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260623 | Mega MoE技术介绍 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20260623) | [链接](https://www.bilibili.com/video/BV1XWj26cEGh/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260609 | cann-samples:算子性能优化经验分享 | sig-ops-basic | [链接](./slides/sig-ops-basic/20260609) | [链接](https://www.bilibili.com/video/BV1QuEE69EdD/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260608 | Regbase进阶编程&调优工具FlashVF实操演练 |  | [链接](./slides/950/20260608) | [链接](https://www.bilibili.com/video/BV1KmEg6dEmE/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260326 | PTO ISA带你快速上手Ascend 950 | sig-pto | [链接](./slides/950/20260326) | [链接](https://www.bilibili.com/video/BV1eLX8BuETT/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -67,6 +68,7 @@
 ## CANNBot系列课程直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260618 | CANNBot开发进阶：CANNBot算子Harness工程建设 | sig-cannbot | [链接](./slides/sig-cannbot/20260618) | [链接](https://www.bilibili.com/video/BV1vjjc6uEhu/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260612 | CANNBot开发进阶：CANNBot算子测试全流程 | sig-cannbot | [链接](./slides/sig-cannbot/20260612) | [链接](https://www.bilibili.com/video/BV1hwE26AEWG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260518 | CANNBot开发进阶：Vector算子之排序性能优化 | sig-cannbot | [链接](./slides/sig-cannbot/20260518) | [链接](https://www.bilibili.com/video/BV144Lw64EeQ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260515 | CANNBot开发进阶：自动生成Vector算子之RegBase | sig-cannbot | [链接](./slides/sig-cannbot/20260515) | [链接](https://www.bilibili.com/video/BV1GT5v64Eqp/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
