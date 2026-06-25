@@ -25,7 +25,7 @@ repositories:
   - gitcode_id: yangyang016
     name: 杨阳
     email: yangyang306@hisilicon.com
-  entry_configs: 
+  entry_configs:
   - path:
     - "*/*/docs/acl*.md"
     - "*/*/README.md"
@@ -441,6 +441,9 @@ repositories:
     - gitcode_id: cheng_gao
       name: 高成
       email: cheng.gao@huawei.com
+    - gitcode_id: LiuZonggu
+      name: 柳宗谷
+      email: liuzonggu1@huawei.com
   branch_configs:
   - branch:
     - 9.0.0
@@ -452,7 +455,7 @@ repositories:
       name: 韩小龙
       email: xiaolong.han@huawei.com
     - gitcode_id: jiangtao_rts
-    entry_configs: 
+    entry_configs:
     - path:
       - "*/*/docs/acl*.md"
       - "*/*/README.md"
