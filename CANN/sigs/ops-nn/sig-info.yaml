@@ -212,6 +212,9 @@ repositories:
     - gitcode_id: wang-xing001
       name: 王星
       email: wangxing73@huawei.com
+    - gitcode_id: xubinglin
+      name: 徐炳麟
+      email: xubinglin@huawei.com
   - path:
     - control
     - experimental/control
@@ -395,6 +398,9 @@ repositories:
     - gitcode_id: fullt
       name: 傅涛
       email: full.fu@huawei.com
+    - gitcode_id: xubinglin
+      name: 徐炳麟
+      email: xubinglin@huawei.com
   - path:
     - conv
     - experimental/conv
