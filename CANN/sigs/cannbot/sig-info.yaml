@@ -12,6 +12,7 @@ repositories:
   - gitcode_id: hanrui22
   - gitcode_id: dengguojie
   - gitcode_id: rxtfeng
+  - gitcode_id: wangzheng97
 - repo:
   - cann/cann-bench
   committers:
