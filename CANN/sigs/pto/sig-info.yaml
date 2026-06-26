@@ -49,6 +49,26 @@ repositories:
     - gitcode_id: jason_yuan_ye
 
 - repo:
+    - cann/pypto-gym
+  committers:
+    - gitcode_id: linjiashu
+    - gitcode_id: yinjie27_
+    - gitcode_id: foundea
+    - gitcode_id: jason_yuan_ye
+    - gitcode_id: DCGDDD
+    - gitcode_id: tsungl4
+    - gitcode_id: gaoxingwang
+    - gitcode_id: wangzheng97
+    - gitcode_id: congqiannan
+    - gitcode_id: ym-HW
+    - gitcode_id: codehjp423
+    - gitcode_id: gaoxiang618
+    - gitcode_id: wangbing110
+    - gitcode_id: xinweiliu
+  entry_configs: []
+  branch_configs: []
+
+- repo:
     - cann/pto-isa
   committers:
     - gitcode_id: changxianyu

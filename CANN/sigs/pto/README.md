@@ -60,6 +60,21 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 刘鑫炜 [@xinweiliu](https://gitcode.com/xinweiliu), *liuxinwei12@huawei.com*
 - 马可 [@make_pto](https://gitcode.com/make_pto), *make4@huawei.com*
 
+#### GYM仓库: https://gitcode.com/cann/pypto-gym
+
+- 张中 [@foundea](https://gitcode.com/foundea), *zhangzhong5@huawei.com*
+- 袁野 [@jason_yuan_ye](https://gitcode.com/jason_yuan_ye), *yuanye17@huawei.com*
+- 杨旭 [@DCGDDD](https://gitcode.com/DCGDDD) *yangxu14@huawei.com*
+- 李东升 [@tsungl4](https://gitcode.com/tsungl4), *lidongsheng4@huawei.com*
+- 杲兴旺 [@gaoxingwang](https://gitcode.com/gaoxingwang), *camuel.gao@huawei.com*
+- 王政 [@wangzheng97](https://gitcode.com/wangzheng97), *wangzheng97@hisilicon.com*
+- 丛乾男 [@congqiannan](https://gitcode.com/congqiannan), *congqiannan@huawei.com*
+- 余蒙 [@ym-HW](https://gitcode.com/ym-HW), *yumeng21@hisilicon.com*
+- 韩君佩 [@codehjp423](https://gitcode.com/codehjp423), *hanjunpei@huawei.com*
+- 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
+- 王兵 [@wangbing110](https://gitcode.com/wangbing110), *wangbing110@huawei.com*
+- 刘鑫炜 [@xinweiliu](https://gitcode.com/xinweiliu), *liuxinwei12@huawei.com*
+
 #### PTO仓库: https://gitcode.com/cann/pto-isa
 
 - 常先宇 [@changxianyu](https://gitcode.com/changxianyu), *changxianyu@hisilicon.com*
@@ -94,4 +109,5 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 
 仓库地址：
 - https://gitcode.com/cann/pypto
+- https://gitcode.com/cann/pypto-gym
 - https://gitcode.com/cann/pto-isa
