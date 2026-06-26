@@ -8,9 +8,7 @@ repositories:
   committers:
   - gitcode_id: wangxiaozhi
   - gitcode_id: xun_zhuge
-  - gitcode_id: jiangZD
   - gitcode_id: shi_nanxiang
-  - gitcode_id: gao_dafa
   - gitcode_id: bianque
   - gitcode_id: zhudi22
   - gitcode_id: wuyang_hw
@@ -26,7 +24,6 @@ repositories:
   - gitcode_id: suqwe
   - gitcode_id: kong0808
   - gitcode_id: jiangxinyu3
-  - gitcode_id: zhuliangying
   - gitcode_id: wulinyu
   - gitcode_id: bluesky901
   - gitcode_id: yukangchen
@@ -38,7 +35,6 @@ repositories:
     - cmake
     committers:
     - gitcode_id: xun_zhuge
-    - gitcode_id: gao_dafa
   - path:
     - docs
     committers:
@@ -243,15 +239,12 @@ repositories:
 - repo:
   - cann/pyasc
   committers:
-  - gitcode_id: jiangZD
-  - gitcode_id: gao_dafa
   - gitcode_id: qin437231
   - gitcode_id: ai_xin
   - gitcode_id: kong0808
   - gitcode_id: sutonghua
   - gitcode_id: wuzhenqing
   - gitcode_id: suqwe
-  - gitcode_id: xiaoting624
   - gitcode_id: dengjing_aoe
   - gitcode_id: YeZZzzz1
   - gitcode_id: bluesky901
@@ -290,7 +283,6 @@ repositories:
   - cann/atvc
   committers:
   - gitcode_id: wangxiaozhi
-  - gitcode_id: zhuliangying
   - gitcode_id: fujun19
   - gitcode_id: wulinyu
   entry_configs: 

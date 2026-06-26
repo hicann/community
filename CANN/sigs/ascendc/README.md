@@ -19,11 +19,9 @@ Ascend C总体逻辑架构图如下所示：
 - ### AscDevKit: https://gitcode.com/cann/asc-devkit
   - #### 简介：Ascend C算子编程语言核心仓，提供语言扩展层C API和C++类库，支持异构编译和<<<>>>直调，实现芯片完备编程能力，实现极致性能开发
   - #### Committer 列表：
-    - 高跃[@gao_dafa](https://gitcode.com/gao_dafa), *gaoyue6@huawei.com*
     - 吴兆麟[@wuzhaolin](https://gitcode.com/wuzhaolin), *wuzhaolin@huawei.com*
     - 田宏民[@horming](https://gitcode.com/horming), *tianhongmin@huawei.com*
     - 李东锋[@mlidongfeng](https://gitcode.com/mlidongfeng), *lidongfeng@huawei.com*
-    - 姜泽东[@jiangZD](https://gitcode.com/jiangZD), *jiangzedong2@hisilicon.com*
     - 石楠翔[@shi_nanxiang](https://gitcode.com/shi_nanxiang), *shinanxiang@huawei.com*
     - 吴洋[@wuyang_hw](https://gitcode.com/wuyang_hw), *wuyang74@hisilicon.com*
     - 杨厚玉[@houyuyang](https://gitcode.com/houyuyang), *yanghouyu@huawei.com*
@@ -33,7 +31,6 @@ Ascend C总体逻辑架构图如下所示：
     - 叶珍妮[@YeZZzzz1](https://gitcode.com/YeZZzzz1), *yezhenni1@huawei.com*
     - 黄铎[@DragonBornHD84](https://gitcode.com/DragonBornHD84), *huangduo4@hisilicon.com*
     - 钱鑫海[@bluesky901](https://gitcode.com/bluesky901), *qianxinhai@huawei.com*
-    - 朱梁英[@zhuliangying](https://gitcode.com/zhuliangying), *zhuliangying@huawei.com*
     - 吴林玉[@wulinyu](https://gitcode.com/wulinyu), *wulinyu4@huawei.com*
     - 傅珺[@fujun19](https://gitcode.com/fujun19), *fujun19@hisilicon.com*
     - 艾鑫[@ai_xin](https://gitcode.com/ai_xin), *aixin2@hisilicon.com*
