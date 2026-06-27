@@ -86,6 +86,7 @@
 - 吴奕 [@wuyi_huawei](https://gitcode.com/wuyi_huawei), *wuyi36@hisilicon.com*
 - 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
 - 丁勇 [@xuanyuandy](https://gitcode.com/xuanyuandy), *dingyong19@huawei.com*
+- 韩孝斌 [@L_Euler](https://gitcode.com/L_Euler), *hanxiaobin3@huawei.com*
 - 周扬帆 [@hz36amy_00](https://gitcode.com/hz36amy_00), *zhouyangfan8@huawei.com*
 
 ## 细分领域：
@@ -150,6 +151,7 @@
 - 黄立 [@huang_li](https://gitcode.com/huang_li), *huangli84@hisilicon.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
 - 丁勇 [@xuanyuandy](https://gitcode.com/xuanyuandy), *dingyong19@huawei.com*
+- 韩孝斌 [@L_Euler](https://gitcode.com/L_Euler), *hanxiaobin3@huawei.com*
 - 周扬帆 [@hz36amy_00](https://gitcode.com/hz36amy_00), *zhouyangfan8@huawei.com*
 
 ## 资料 committer列表：
