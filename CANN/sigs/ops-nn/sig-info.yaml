@@ -89,6 +89,9 @@ repositories:
     - gitcode_id: wang-xing001
       name: 王星
       email: wangxing73@huawei.com
+    - gitcode_id: su-yueming
+      name: 苏跃明
+      email: suyueming@huawei.com
   - path:
     - tests
     committers:
@@ -163,6 +166,9 @@ repositories:
     - gitcode_id: wang-xing001
       name: 王星
       email: wangxing73@huawei.com
+    - gitcode_id: su-yueming
+      name: 苏跃明
+      email: suyueming@huawei.com
   - path:
     - quant
     - experimental/quant
@@ -215,6 +221,9 @@ repositories:
     - gitcode_id: xubinglin
       name: 徐炳麟
       email: xubinglin@huawei.com
+    - gitcode_id: su-yueming
+      name: 苏跃明
+      email: suyueming@huawei.com
   - path:
     - control
     - experimental/control
@@ -284,6 +293,9 @@ repositories:
     - gitcode_id: wang-xing001
       name: 王星
       email: wangxing73@huawei.com
+    - gitcode_id: su-yueming
+      name: 苏跃明
+      email: suyueming@huawei.com
   - path:
     - vfusion
     - loss
@@ -322,6 +334,9 @@ repositories:
     - gitcode_id: wang-xing001
       name: 王星
       email: wangxing73@huawei.com
+    - gitcode_id: su-yueming
+      name: 苏跃明
+      email: suyueming@huawei.com
   - path:
     - rnn
     - pooling
@@ -358,6 +373,9 @@ repositories:
     - gitcode_id: wang-xing001
       name: 王星
       email: wangxing73@huawei.com
+    - gitcode_id: su-yueming
+      name: 苏跃明
+      email: suyueming@huawei.com
   - path:
     - matmul
     - experimental/matmul
