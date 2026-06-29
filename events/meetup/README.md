@@ -3,6 +3,7 @@
 ## CANN NEXT系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260626 | Vector Function高性能编程指南（二） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260626) | [链接](https://www.bilibili.com/video/BV1ZH7V6jEYW/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260625 | Vector Function高性能编程指南（一） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260625) | [链接](https://www.bilibili.com/video/BV1ZD786hEiG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260624 | 基于昇腾的OSP-Next文生视频模型HiF8训推优化实践 |  | [链接](./slides/950/20260624) | [链接](https://www.bilibili.com/video/BV1YHjZ6wEZB/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260623 | Mega MoE技术介绍 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20260623) | [链接](https://www.bilibili.com/video/BV1XWj26cEGh/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -70,6 +71,7 @@
 ## CANNBot系列课程直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260626 | CANNBot开发进阶：CANNBot支持生成单指令多线程算子 | sig-cannbot | [链接](./slides/sig-cannbot/20260626) | [链接](https://www.bilibili.com/video/BV1j1756SEvg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260618 | CANNBot开发进阶：CANNBot算子Harness工程建设 | sig-cannbot | [链接](./slides/sig-cannbot/20260618) | [链接](https://www.bilibili.com/video/BV1vjjc6uEhu/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260612 | CANNBot开发进阶：CANNBot算子测试全流程 | sig-cannbot | [链接](./slides/sig-cannbot/20260612) | [链接](https://www.bilibili.com/video/BV1hwE26AEWG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260518 | CANNBot开发进阶：Vector算子之排序性能优化 | sig-cannbot | [链接](./slides/sig-cannbot/20260518) | [链接](https://www.bilibili.com/video/BV144Lw64EeQ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
