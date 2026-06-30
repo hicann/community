@@ -2,13 +2,55 @@ name: doc
 description: 管理CANN开源开放项目的文档开发工作，致力于为开发者提供具备竞争力的文档体验。
 mailing_list: doc@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-doc
-committers: 
-- gitcode_id: flyswa
-- gitcode_id: wdongming
-- gitcode_id: munanhw
-- gitcode_id: gitcode-chenjiao
-- gitcode_id: Ww7012
 repositories:
+- repo:
+  - cann/docs
+  committers:
+  - gitcode_id: TianXL
+  - gitcode_id: ai_xin
+  - gitcode_id: lwx1255555
+  - gitcode_id: gitcode-chenjiao
+  - gitcode_id: sophia1213
+  - gitcode_id: munanhw
+  - gitcode_id: lyz0328
+  - gitcode_id: ycm0028
+  - gitcode_id: flyswa
+  - gitcode_id: ZhuXueDoc
+  - gitcode_id: wdongming
+  - gitcode_id: linyt_86
+  - gitcode_id: ykl999
+  - gitcode_id: yuanjiang_
+  - gitcode_id: littleWhite0625
+  - gitcode_id: tang-haojie
+  - gitcode_id: zhangfan_hanq
+  - gitcode_id: louyanting
+  - gitcode_id: ww2811
+  - gitcode_id: songkai111
+  - gitcode_id: wangyongguang
+  - gitcode_id: liubo75
+  - gitcode_id: crystalhu
+  - gitcode_id: Allan_Yu
+  - gitcode_id: yu-xinjie62
+  - gitcode_id: caiwenwen
+  - gitcode_id: gitee-duhuiping
+  - gitcode_id: zhouwenfang
+  - gitcode_id: zhuliangying
+  - gitcode_id: yanglu-1
+  entry_configs: 
+  - path:
+    - "*"
+    committers:
+    - gitcode_id: TianXL
+    - gitcode_id: ai_xin
+    - gitcode_id: lwx1255555
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: sophia1213
+    - gitcode_id: munanhw
+    - gitcode_id: lyz0328
+    - gitcode_id: ycm0028
+    - gitcode_id: flyswa
+    - gitcode_id: ZhuXueDoc
+    - gitcode_id: wdongming
 - repo:
   - cann/cann-learning-hub
   committers:
