@@ -339,3 +339,17 @@ sigs:
     - gitcode_id: liushaoweihua1225
       name: 刘少韦华
       email: shaoweihualiu@seu.edu.cn
+  - sig_name: render
+    maintainers:
+    - gitcode_id: Co_Re
+      name: 季金星
+      email: jijinxing@huawei.com
+    - gitcode_id: wenming311
+      name: 闻明
+      email: wenming@huawei.com
+    - gitcode_id: chen_vvjob
+      name: 陈伟伟
+      email: chenweiwei22@huawei.com
+    - gitcode_id: Langjitianyatiantian
+      name: 陈鹏
+      email: chenpeng360@huawei.com

@@ -1,0 +1,22 @@
+name: render
+description: 在昇腾AI处理器上实现高性能的可微渲染库。
+mailing_list: render@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-render
+committers: []
+repositories:
+- repo:
+  - cann/gauss-splat
+  committers:
+  - gitcode_id: wenming311
+  - gitcode_id: Co_Re
+  - gitcode_id: chen_vvjob
+  - gitcode_id: Langjitianyatiantian
+  - gitcode_id: lixuanfu
+
+- repo:
+  - cann/diffrast
+  committers:
+  - gitcode_id: wenming311
+  - gitcode_id: Co_Re
+  - gitcode_id: chen_vvjob
+  - gitcode_id: Langjitianyatiantian
