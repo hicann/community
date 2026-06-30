@@ -73,44 +73,27 @@ repositories:
   entry_configs:
     - path:
       - src
-      - cmake
-      - docs
-      - examples
-      - experimental
-      - include
-      - scripts
-      - test
-      - third_party
-      committers:
-      - gitcode_id: yanyefeng
-      - gitcode_id: wenxuemin
-
-    - path:
-      - src
       - test
       - cmake
       - scripts
       committers:
       - gitcode_id: chengym
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - examples
       committers:
       - gitcode_id: zhangxp1030
-
-    - path:
-      - docs/zh/rfcs
-      - experimental
-      - CONTRIBUTING.md
-      committers:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: leabclove
 
     - path:
       - include
       committers:
       - gitcode_id: yanzhenghang
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - classify_rule.yaml
@@ -118,6 +101,7 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
+      - gitcode_id: wenxuemin
 
     - path:
       - test/st/algorithm
@@ -132,6 +116,17 @@ repositories:
       committers:
       - gitcode_id: flyswa
       - gitcode_id: claire8090
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+
+    - path:
+      - docs/zh/rfcs
+      - experimental
+      - CONTRIBUTING.md
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: leabclove
 
   branch_configs:
   - branch:
@@ -189,22 +184,6 @@ repositories:
 
   entry_configs:
     - path:
-      - src
-      - python
-      - pkg_inc
-      - include
-      - cmake
-      - scripts
-      - docs
-      - examples
-      - test
-      - externel_depends
-      - third_party
-      committers:
-      - gitcode_id: yanyefeng
-      - gitcode_id: wenxuemin
-
-    - path:
       - include
       - pkg_inc
       - cmake
@@ -216,26 +195,21 @@ repositories:
       - src/legacy/ascend910/hccd/CMakeLists.txt
       - src/legacy/ascend910/framework/CMakeLists.txt
       - src/legacy/ascend910/algorithm/CMakeLists.txt
+      - externel_depends
       committers:
       - gitcode_id: yanzhenghang
-
-    - path:
-      - docs/zh/rfcs
-      - experimental
-      - CONTRIBUTING.md
-      committers:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: leabclove
 
     - path:
       - src/legacy/ascend910/framework
       - src/legacy/ascend950/framework
       - src/legacy/ascend910/hccd
       - src/coll_communicator_mgr
-      - test
       committers:
       - gitcode_id: dingweiqin_57
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - src/legacy/ascend910/common
@@ -243,9 +217,10 @@ repositories:
       - src/legacy/ascend950/common
       - src/legacy/ascend950/unified_platform
       - src/base_comm
-      - test
       committers:
       - gitcode_id: Innoecho
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:    
       - src/legacy/ascend910/common
@@ -254,24 +229,30 @@ repositories:
       - src/legacy/ascend910/algorithm
       committers:
       - gitcode_id: chenhao_
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - src/base_comm/resources/hccp
-      - test
       committers:
       - gitcode_id: chenke2026
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - src/legacy/ascend910/algorithm
       - src/legacy/ascend950/service/collective/alg
-      - test
       committers:
       - gitcode_id: chengym
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - examples
       committers:
       - gitcode_id: zhangxp1030
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - src/legacy/ascend910/framework/device/aicpu_kfc
@@ -303,6 +284,8 @@ repositories:
       committers:
       - gitcode_id: yangxiaoyuan
       - gitcode_id: zhongqin2020
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - classify_rule.yaml
@@ -310,6 +293,7 @@ repositories:
       committers:
       - gitcode_id: yanyefeng
       - gitcode_id: yanzhenghang
+      - gitcode_id: wenxuemin
 
     - path:
       - src/legacy/ascend910/common/error_code/error_code.cc
@@ -321,6 +305,28 @@ repositories:
       committers:
       - gitcode_id: flyswa
       - gitcode_id: claire8090
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+
+    - path:
+      - docs/zh/rfcs
+      - experimental
+      - CONTRIBUTING.md
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: leabclove
+
+    - path:
+      - test
+      committers:
+      - gitcode_id: dingweiqin_57
+      - gitcode_id: chengym
+      - gitcode_id: chenke2026
+      - gitcode_id: Innoecho
+      - gitcode_id: chenhao_
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
 
     - path:
       - test/hccl_vm
