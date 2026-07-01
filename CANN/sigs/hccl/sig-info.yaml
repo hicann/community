@@ -202,7 +202,6 @@ repositories:
       - gitcode_id: wenxuemin
 
     - path:
-      - src/legacy/ascend910/framework
       - src/legacy/ascend950/framework
       - src/legacy/ascend910/hccd
       - src/coll_communicator_mgr
@@ -212,8 +211,6 @@ repositories:
       - gitcode_id: wenxuemin
 
     - path:
-      - src/legacy/ascend910/common
-      - src/legacy/ascend910/platform
       - src/legacy/ascend950/common
       - src/legacy/ascend950/unified_platform
       - src/base_comm
@@ -222,15 +219,33 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
 
-    - path:    
+    - path:
       - src/legacy/ascend910/common
       - src/legacy/ascend910/platform
-      - src/legacy/ascend910/framework
-      - src/legacy/ascend910/algorithm
       committers:
+      - gitcode_id: Innoecho
       - gitcode_id: chenhao_
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
+      - gitcode_id: leabclove
+
+    - path:
+      - src/legacy/ascend910/framework
+      committers:
+      - gitcode_id: dingweiqin_57
+      - gitcode_id: chenhao_
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: leabclove
+
+    - path:
+      - src/legacy/ascend910/algorithm
+      committers:
+      - gitcode_id: chengym
+      - gitcode_id: chenhao_
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+      - gitcode_id: leabclove
 
     - path:
       - src/base_comm/resources/hccp
@@ -240,7 +255,6 @@ repositories:
       - gitcode_id: wenxuemin
 
     - path:
-      - src/legacy/ascend910/algorithm
       - src/legacy/ascend950/service/collective/alg
       committers:
       - gitcode_id: chengym
