@@ -15,13 +15,21 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0
     - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
-  entry_configs: []
+    entry_configs: 
+    - path:
+      - "*"
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: jiangtao_rts
 - repo:
   - cann/oam-tools
   committers:
@@ -44,6 +52,7 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0
     - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
@@ -52,7 +61,7 @@ repositories:
     - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
-      - src/hccl_test
+      - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
       - gitcode_id: Andy-lb

@@ -95,6 +95,7 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0
     - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
@@ -103,7 +104,7 @@ repositories:
     - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
-      - docs
+      - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
       - gitcode_id: Andy-lb

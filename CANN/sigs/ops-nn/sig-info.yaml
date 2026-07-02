@@ -465,6 +465,7 @@ repositories:
   branch_configs:
   - branch:
     - 9.0.0
+    - 9.1.0
     - 9.1.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
@@ -475,45 +476,7 @@ repositories:
     - gitcode_id: jiangtao_rts
     entry_configs:
     - path:
-      - "*/*/docs/acl*.md"
-      - "*/*/README.md"
-      - "*/*/op_host/op_api/*.h"
-      - "*/*/op_host/*_def.cpp"
-      - "*/*/op_api/*.h"
-      - "*/*/op_graph/*_proto.h"
-      - cmake
-      - scripts
-      - common
-      - tests
-      - docs
-      - examples
-      - foreach
-      - activation
-      - norm
-      - experimental/foreach
-      - experimental/activation
-      - experimental/norm
-      - quant
-      - experimental/quant
-      - control
-      - experimental/control
-      - index
-      - hash
-      - experimental/index
-      - vfusion
-      - loss
-      - optim
-      - experimental/vfusion
-      - experimental/loss
-      - experimental/optim
-      - rnn
-      - pooling
-      - experimental/rnn
-      - experimental/pooling
-      - matmul
-      - experimental/matmul
-      - conv
-      - experimental/conv
+      - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
       - gitcode_id: Andy-lb
