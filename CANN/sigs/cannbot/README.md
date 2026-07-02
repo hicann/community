@@ -33,6 +33,10 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 闫勇良 [@benwallace52](https://gitcode.com/benwallace52), *yanyongliang@huawei.com*
 - 韩睿 [@hanrui22](https://gitcode.com/hanrui22), *hanrui2@huawei.com*
 - 邓国杰 [@dengguojie](https://gitcode.com/dengguojie), *dengguojie@huawei.com*
+- 汤平川 [@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
+- 徐天泽 [@xutianze](https://gitcode.com/xutianze), *xutianze2@huawei.com*
+- 王子恒 [@zihengwang2](https://gitcode.com/zihengwang2), *wangziheng8@huawei.com*
+- 贺迪 [@hedi0515](https://gitcode.com/hedi0515), *hedi7@huawei.com*
 
 # SIG订阅
 

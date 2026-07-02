@@ -13,6 +13,10 @@ repositories:
   - gitcode_id: dengguojie
   - gitcode_id: rxtfeng
   - gitcode_id: wangzheng97
+  - gitcode_id: pingchuantang
+  - gitcode_id: xutianze
+  - gitcode_id: zihengwang2
+  - gitcode_id: hedi0515
 - repo:
   - cann/cann-bench
   committers:
