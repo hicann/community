@@ -77,6 +77,9 @@ repositories:
   entry_configs:
   - path:
     - inc/external
+    - dflow/udf/inc/external
+    - inc/graph_metadef/external
+    - inc/parser/external
     committers:
     - gitcode_id: shengnan666
     - gitcode_id: wqtshg_wt
