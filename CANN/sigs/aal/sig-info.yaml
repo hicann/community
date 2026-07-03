@@ -70,3 +70,23 @@ repositories:
   - gitcode_id: demoauguste
   - gitcode_id: songkai111
   - gitcode_id: zl_hw
+- repo:
+  - cann/ops-spconv
+  committers:
+  - gitcode_id: QK_25415
+  - gitcode_id: goodpeople233
+  - gitcode_id: captain_jing
+- repo:
+  - cann/ops-df
+  committers:
+  - gitcode_id: QK_25415
+  - gitcode_id: goodpeople233
+  - gitcode_id: demoauguste
+- repo:
+  - cann/ops-gnn
+  committers:
+  - gitcode_id: goodpeople233
+  - gitcode_id: shaoyx_bupt
+  - gitcode_id: MingyiLiu
+  - gitcode_id: Splendid2025
+  - gitcode_id: QK_25415

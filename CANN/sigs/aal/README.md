@@ -25,6 +25,7 @@
    -  定位： 领域加速库基础公共组件， 提供领域加速库公共功能， 如算子封包、下发等。
    -  功能： 提供算子封包、下发、日志、调测等功能，用户可以基于它快速开发新的领域加速库，而不必重复开发这些功能。
 
+
 # 成员
 
 ## Maintainer List
@@ -66,6 +67,18 @@
 
 - Ascend Boost Comm
   - repository地址：https://gitcode.com/cann/ascend-boost-comm
+
+- ops-fft(快速傅里叶变换算子仓)
+  - repository地址：[https://gitcode.com/cann/ops-fft](https://gitcode.com/cann/ops-fft)
+
+- ops-spconv（稀疏卷积算子仓）
+  - repository地址：[https://gitcode.com/cann/ops-spconv](https://gitcode.com/cann/ops-spconv)
+
+- ops-df（DataFrame处理仓）
+  - repository地址：[https://gitcode.com/cann/ops-df](https://gitcode.com/cann/ops-df)
+
+- ops-gnn（图神经网络算子仓）
+  - repository地址：[https://gitcode.com/cann/ops-gnn](https://gitcode.com/cann/ops-gnn)
 
 # 贡献指南
 - [贡献指南](CONTRIBUTING.md)
