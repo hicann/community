@@ -167,6 +167,8 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
+    - gitcode_id: munanhw
+    - gitcode_id: ai_xin
     entry_configs: 
     - path:
       - "*"
@@ -175,6 +177,8 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: jiangtao_rts
+      - gitcode_id: munanhw
+      - gitcode_id: ai_xin
 - repo:
   - cann/asc-tools
   committers:

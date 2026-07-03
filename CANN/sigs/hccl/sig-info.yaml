@@ -139,6 +139,7 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
+    - gitcode_id: flyswa
     entry_configs:
     - path:
       - "*"
@@ -147,6 +148,7 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: jiangtao_rts
+      - gitcode_id: flyswa
 - repo:
   - cann/hcomm
   committers:
@@ -356,6 +358,7 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
+    - gitcode_id: flyswa
     entry_configs:
     - path:
       - "*"
@@ -364,3 +367,4 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: jiangtao_rts
+      - gitcode_id: flyswa
