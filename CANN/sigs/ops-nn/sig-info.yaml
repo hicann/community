@@ -224,6 +224,9 @@ repositories:
     - gitcode_id: su-yueming
       name: 苏跃明
       email: suyueming@huawei.com
+    - gitcode_id: liuyang_806
+      name: 刘泱
+      email: liuyang930@hisilicon.com
   - path:
     - control
     - experimental/control
@@ -419,6 +422,9 @@ repositories:
     - gitcode_id: xubinglin
       name: 徐炳麟
       email: xubinglin@huawei.com
+    - gitcode_id: liuyang_806
+      name: 刘泱
+      email: liuyang930@hisilicon.com
   - path:
     - conv
     - experimental/conv
