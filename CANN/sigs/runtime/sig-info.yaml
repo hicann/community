@@ -40,7 +40,7 @@ repositories:
     - gitcode_id: yanmingxiang
     - gitcode_id: zhaozhixuan
     - gitcode_id: houyanbao
-    - gitcode_id: luoyuzhou2
+    - gitcode_id: WangHuiH
     - gitcode_id: changhaixun
     - gitcode_id: Axiaolei
     - gitcode_id: sunnana_004434229
@@ -89,6 +89,15 @@ repositories:
     committers:
     - gitcode_id: ZhaiPeiChao
     - gitcode_id: LiWei79
+  - path:
+    - src/runtime/core/inc/task/task_base.hpp
+    committers:
+    - gitcode_id: tingwood
+    - gitcode_id: houyanbao
+  - path:
+    - include/external/acl
+    committers:
+    - gitcode_id: shikai-1
   - path:
     - src/platform
     - pkg_inc/platform
