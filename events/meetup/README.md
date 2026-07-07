@@ -3,6 +3,7 @@
 ## CANN NEXT系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260629 | Ascend C面向Tensor编程全新升级：Tensor API | sig-ascendc | [链接](./slides/sig-ascendc/20260629) | [链接](https://www.bilibili.com/video/BV1dfKU6UEGZ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260626 | Vector Function高性能编程指南（二） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260626) | [链接](https://www.bilibili.com/video/BV1ZH7V6jEYW/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260625 | Vector Function高性能编程指南（一） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260625) | [链接](https://www.bilibili.com/video/BV1ZD786hEiG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260624 | 基于昇腾的OSP-Next文生视频模型HiF8训推优化实践 |  | [链接](./slides/950/20260624) | [链接](https://www.bilibili.com/video/BV1YHjZ6wEZB/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -100,6 +101,7 @@
 ## CANN 线下meetup
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260627 | CANN开源社区 线下meetup 上海站 |  | [链接](./slides/meetup/20260627) | [链接](https://www.bilibili.com/video/BV1emKQ69Esb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260523 | CANN核心技术演进与昇腾950集群关键技术研讨 | | [链接](./slides/meetup/20260523) |  |
 | 20260418 | CANN开源社区 线下meetup 北京站 |  | [链接](./slides/meetup/20260418) | [链接](https://www.bilibili.com/video/BV1Sfd2B9EEn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20251220 | CANN开源社区 线下meetup 杭州站 |  | [链接](./slides/meetup/20251220) | [链接](https://www.bilibili.com/video/BV161iKBkEgj/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
