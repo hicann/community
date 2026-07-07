@@ -49,6 +49,14 @@ repositories:
       - gitcode_id: ouyangxizi
       - gitcode_id: lilianlin_hw
       - gitcode_id: lilin_137
+
+    - path:
+      - docs/zh/hccl_test
+      - docs/en/hccl_test
+      committers:
+      - gitcode_id: flyswa
+      - gitcode_id: claire8090
+      - gitcode_id: yanyefeng
   branch_configs:
   - branch:
     - 9.0.0
