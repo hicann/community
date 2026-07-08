@@ -21,19 +21,19 @@ Intelligent Transportation System SIG 初期主要围绕以下三个方向开展
 
 ### its-matrix-computation
 
-`its-matrix-computation` 面向昇腾平台矩阵计算优化场景，聚焦 GEMM 分块策略自动优化，解决矩阵尺寸复杂、参数空间离散、人工调优效率低等问题。
+[`its-matrix-computation`](https://gitcode.com/cann/its-matrix-computation) 面向昇腾平台矩阵计算优化场景，聚焦 GEMM 分块策略自动优化，解决矩阵尺寸复杂、参数空间离散、人工调优效率低等问题。
 
 该方向将围绕 GEMM 分块策略、数据搬运路径、硬件执行约束和性能建模关系，探索从问题建模、约束感知搜索到跨任务经验迁移的一体化优化能力，提升矩阵计算任务在昇腾平台上的执行效率。
 
 ### its-stable-llm
 
-`its-stable-llm` 面向大模型训练稳定性分析场景，聚焦微批次损失分布建模、失稳前兆识别和训练动态追踪。
+[`its-stable-llm`](https://gitcode.com/cann/its-stable-llm) 面向大模型训练稳定性分析场景，聚焦微批次损失分布建模、失稳前兆识别和训练动态追踪。
 
 该方向将 step-level 均值监控下沉到 micro-batch 分布建模，识别尾部扩张、局部分化、分布扭曲和训练动态异常等信号，在不显著增加训练开销的前提下，为大模型训练提供轻量化稳定性分析能力。
 
 ### its-trip
 
-`its-trip` 面向交通大模型智能决策闭环场景，构建“感知—研判—仿真—下发”的闭环智能决策机制。
+[`its-trip`](https://gitcode.com/cann/its-trip) 面向交通大模型智能决策闭环场景，构建“感知—研判—仿真—下发”的闭环智能决策机制。
 
 该方向将连接交通事件理解、知识调取、风险研判、方案生成、仿真验证和管控下发等环节，推动交通大模型从单点问答走向可验证、可执行、可落地的行业应用。
 
@@ -41,26 +41,68 @@ Intelligent Transportation System SIG 初期主要围绕以下三个方向开展
 
 ### Maintainer 列表
 
-* 王丽健 @wanglijian_zjec
-* 刘志远 @zhiyuanliu
-* 刘少韦华 @liushaoweihua1225
+* 王丽健 `@wanglijian_zjec`
+
+  * 邮箱：[wanglijian_zjec@126.com](mailto:wanglijian_zjec@126.com)
+* 刘志远 `@zhiyuanliu`
+
+  * 邮箱：[zhiyuanl@seu.edu.cn](mailto:zhiyuanl@seu.edu.cn)
+* 刘少韦华 `@liushaoweihua1225`
+
+  * 邮箱：[shaoweihualiu@seu.edu.com](mailto:shaoweihualiu@seu.edu.com)
 
 ### Committer 列表
 
-* 张玉杰 @seventeenzhang17z
-* 孙虎成 @hucheng0222
-* 安琨 @Candice_Kun_An
-* 刘洋 @ly_evtech
-* 王正礼 @wzlnju
-* 顾子渊 @ZG_SEU
-* 黄迪 @dihuangseu
-* 黄凯 @huangkai0410
-* 陈垚 @chenyao0303
-* 徐占东 @ZhandongXu
-* 张宏刚 @Zhang_Honggang
-* 周臻 @zhenz2020
-* 辛云鹏 @yx_xlqy
-* 李宏 @HongriJiujiu
+#### its-matrix-computation
+
+* 刘洋 `@ly_evtech`
+
+  * 邮箱：[thu_ets_ly@tsinghua.edu.cn](mailto:thu_ets_ly@tsinghua.edu.cn)
+* 王正礼 `@wzlnju`
+
+  * 邮箱：[zhlwang@nju.edu.cn](mailto:zhlwang@nju.edu.cn)
+* 顾子渊 `@ZG_SEU`
+
+  * 邮箱：[gzysqy@163.com](mailto:gzysqy@163.com)
+* 张宏刚 `@Zhang_Honggang`
+
+  * 邮箱：[zhgang1994@163.com](mailto:zhgang1994@163.com)
+* 辛云鹏 `@yx_xlqy`
+
+  * 邮箱：[yunpengxin@seu.edu.cn](mailto:yunpengxin@seu.edu.cn)
+
+#### its-stable-llm
+
+* 安琨 `@Candice_Kun_An`
+
+  * 邮箱：[kunan@tongji.edu.cn](mailto:kunan@tongji.edu.cn)
+* 黄迪 `@dihuangseu`
+
+  * 邮箱：[dihuang@seu.edu.cn](mailto:dihuang@seu.edu.cn)
+* 陈垚 `@chenyao0303`
+
+  * 邮箱：[chenyao1@bjtu.edu.cn](mailto:chenyao1@bjtu.edu.cn)
+* 李宏 `@HongriJiujiu`
+
+  * 邮箱：[213222359@seu.edu.cn](mailto:213222359@seu.edu.cn)
+
+#### its-trip
+
+* 张玉杰 `@seventeenzhang17z`
+
+  * 邮箱：[yj_zhang@tongji.edu.cn](mailto:yj_zhang@tongji.edu.cn)
+* 孙虎成 `@hucheng0222`
+
+  * 邮箱：[52381101@qq.com](mailto:52381101@qq.com)
+* 黄凯 `@huangkai0410`
+
+  * 邮箱：[kaihuang@seu.edu.cn](mailto:kaihuang@seu.edu.cn)
+* 徐占东 `@ZhandongXu`
+
+  * 邮箱：[zhandong.xu@swjtu.edu.cn](mailto:zhandong.xu@swjtu.edu.cn)
+* 周臻 `@zhenz2020`
+
+  * 邮箱：[zzhou602@seu.edu.cn](mailto:zzhou602@seu.edu.cn)
 
 ## 仓库清单
 
@@ -72,8 +114,9 @@ Intelligent Transportation System SIG 初期主要围绕以下三个方向开展
 
 ### 会议组织
 
+* 会议白板：[Intelligent Transportation System SIG 会议白板](https://etherpad-cann.meeting.osinfra.cn/p/sig-intelligent-transportation-system)
 * 公开会议时间：北京时间，两周一次例会，单周周五下午 14:00—14:30，节假日顺延或跳过。
-* 会议议题和纪要入口将在 SIG 基础设施配置完成后补充。
+* 会议议题、议程和会议纪要将在 SIG 会议白板中持续维护。
 
 ### 邮件列表
 

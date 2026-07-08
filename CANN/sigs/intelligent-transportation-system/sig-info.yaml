@@ -2,45 +2,105 @@ name: intelligent-transportation-system
 description: Intelligent Transportation System SIG 是面向智能交通系统领域的垂直兴趣小组，聚焦交通大数据分析、交通网络优化计算和交通大模型智能决策等场景，推进智能交通系统领域算子库、工具链和示例应用在CANN生态中的建设与落地。
 mailing_list: intelligent-transportation-system@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-intelligent-transportation-system
+
 committers:
 - gitcode_id: seventeenzhang17z
   name: 张玉杰
+  email: yj_zhang@tongji.edu.cn
 - gitcode_id: hucheng0222
   name: 孙虎成
+  email: 52381101@qq.com
 - gitcode_id: Candice_Kun_An
   name: 安琨
+  email: kunan@tongji.edu.cn
 - gitcode_id: ly_evtech
   name: 刘洋
+  email: thu_ets_ly@tsinghua.edu.cn
 - gitcode_id: wzlnju
   name: 王正礼
+  email: zhlwang@nju.edu.cn
 - gitcode_id: ZG_SEU
   name: 顾子渊
+  email: gzysqy@163.com
 - gitcode_id: dihuangseu
   name: 黄迪
+  email: dihuang@seu.edu.cn
 - gitcode_id: huangkai0410
   name: 黄凯
+  email: kaihuang@seu.edu.cn
 - gitcode_id: chenyao0303
   name: 陈垚
+  email: chenyao1@bjtu.edu.cn
 - gitcode_id: ZhandongXu
   name: 徐占东
+  email: zhandong.xu@swjtu.edu.cn
 - gitcode_id: Zhang_Honggang
   name: 张宏刚
+  email: zhgang1994@163.com
 - gitcode_id: zhenz2020
   name: 周臻
+  email: zzhou602@seu.edu.cn
 - gitcode_id: yx_xlqy
   name: 辛云鹏
+  email: yunpengxin@seu.edu.cn
 - gitcode_id: HongriJiujiu
   name: 李宏
+  email: 213222359@seu.edu.cn
+
 repositories:
 - repo:
   - cann/its-matrix-computation
-  committers: []
+  committers:
+  - gitcode_id: ly_evtech
+    name: 刘洋
+    email: thu_ets_ly@tsinghua.edu.cn
+  - gitcode_id: wzlnju
+    name: 王正礼
+    email: zhlwang@nju.edu.cn
+  - gitcode_id: ZG_SEU
+    name: 顾子渊
+    email: gzysqy@163.com
+  - gitcode_id: Zhang_Honggang
+    name: 张宏刚
+    email: zhgang1994@163.com
+  - gitcode_id: yx_xlqy
+    name: 辛云鹏
+    email: yunpengxin@seu.edu.cn
   entry_configs: []
+
 - repo:
   - cann/its-stable-llm
-  committers: []
+  committers:
+  - gitcode_id: Candice_Kun_An
+    name: 安琨
+    email: kunan@tongji.edu.cn
+  - gitcode_id: dihuangseu
+    name: 黄迪
+    email: dihuang@seu.edu.cn
+  - gitcode_id: chenyao0303
+    name: 陈垚
+    email: chenyao1@bjtu.edu.cn
+  - gitcode_id: HongriJiujiu
+    name: 李宏
+    email: 213222359@seu.edu.cn
   entry_configs: []
+
 - repo:
   - cann/its-trip
-  committers: []
+  committers:
+  - gitcode_id: seventeenzhang17z
+    name: 张玉杰
+    email: yj_zhang@tongji.edu.cn
+  - gitcode_id: hucheng0222
+    name: 孙虎成
+    email: 52381101@qq.com
+  - gitcode_id: huangkai0410
+    name: 黄凯
+    email: kaihuang@seu.edu.cn
+  - gitcode_id: ZhandongXu
+    name: 徐占东
+    email: zhandong.xu@swjtu.edu.cn
+  - gitcode_id: zhenz2020
+    name: 周臻
+    email: zzhou602@seu.edu.cn
   entry_configs: []
