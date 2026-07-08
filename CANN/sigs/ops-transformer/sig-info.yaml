@@ -209,6 +209,7 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
+    - gitcode_id: gitcode-chenjiao
     entry_configs:
     - path:
       - "*"
@@ -217,3 +218,4 @@ repositories:
       - gitcode_id: Andy-lb
       - gitcode_id: hanxiaolong
       - gitcode_id: jiangtao_rts
+      - gitcode_id: gitcode-chenjiao

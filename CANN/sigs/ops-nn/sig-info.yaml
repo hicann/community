@@ -480,6 +480,7 @@ repositories:
       name: 韩小龙
       email: xiaolong.han@huawei.com
     - gitcode_id: jiangtao_rts
+    - gitcode_id: gitcode-chenjiao
     entry_configs:
     - path:
       - "*"
@@ -490,6 +491,7 @@ repositories:
         name: 韩小龙
         email: xiaolong.han@huawei.com
       - gitcode_id: jiangtao_rts
+      - gitcode_id: gitcode-chenjiao
 - repo:
   - cann/ops-tensor
   committers:
