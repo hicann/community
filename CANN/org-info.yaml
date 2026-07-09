@@ -353,3 +353,21 @@ sigs:
     - gitcode_id: Langjitianyatiantian
       name: 陈鹏
       email: chenpeng360@huawei.com
+  - sig_name: oil-gas-engineering
+    maintainers:
+    - gitcode_id: weixin_43182458
+      name: 康永红
+      email: kangyonghong@huawei.com
+    - gitcode_id: li_tianen
+      name: 李天恩
+      email: litianen1@huawei.com
+    - gitcode_id: coffee2code
+      name: 李鹏
+      email: lipeng78@huawei.com
+    - gitcode_id: haosunruc
+      name: 孙浩
+      email: haosun9@gmail.com
+    - gitcode_id: gcw_luCgmemv
+      name: 武威
+      email: wuwei1982@hotmail.com
+      
