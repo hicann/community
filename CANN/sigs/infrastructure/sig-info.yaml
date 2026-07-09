@@ -28,6 +28,15 @@ repositories:
   - gitcode_id: songchangxia
   - gitcode_id: yangbinhua
   - gitcode_id: zhaoyingdong
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/.gitcode
   committers:

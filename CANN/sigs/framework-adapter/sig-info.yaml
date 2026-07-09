@@ -14,7 +14,15 @@ repositories:
   - gitcode_id: zhaowei1936
   - gitcode_id: zzyyjj012
   - gitcode_id: caojingyi
-  entry_configs: []
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 
 - repo:
   - cann/xla-npu
@@ -23,4 +31,12 @@ repositories:
   - gitcode_id: JaydenChu
   - gitcode_id: luanchaowei
   - gitcode_id: xingzhixiong
-  entry_configs: []
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7

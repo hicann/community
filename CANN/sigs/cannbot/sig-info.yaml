@@ -17,6 +17,15 @@ repositories:
   - gitcode_id: xutianze
   - gitcode_id: zihengwang2
   - gitcode_id: hedi0515
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/cann-bench
   committers:
@@ -24,3 +33,12 @@ repositories:
   - gitcode_id: OpSphere
   - gitcode_id: fanyuwei_math
   - gitcode_id: gxj1123
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7

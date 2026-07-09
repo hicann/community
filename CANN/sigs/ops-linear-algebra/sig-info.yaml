@@ -18,6 +18,15 @@ repositories:
   - gitcode_id: luowen203_gg123
   - gitcode_id: nino888
   - gitcode_id: xutianze
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/ops-solver
   committers:
@@ -27,6 +36,15 @@ repositories:
   - gitcode_id: demoauguste
   - gitcode_id: zizhongchen
   - gitcode_id: chenbinbin199309
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/ops-sparse
   committers:
@@ -40,3 +58,12 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: nino888
   - gitcode_id: xutianze
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7

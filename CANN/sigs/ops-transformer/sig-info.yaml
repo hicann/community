@@ -13,6 +13,14 @@ repositories:
   - cann/ops-transformer
   entry_configs:
   - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
     - "*/*/op_host/op_api/aclnn*.h"
     - "*/*/op_host/*_def.cpp"
     - "*/*/op_api/aclnn*.h"
@@ -211,6 +219,14 @@ repositories:
     - gitcode_id: jiangtao_rts
     - gitcode_id: gitcode-chenjiao
     entry_configs:
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:

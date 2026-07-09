@@ -18,6 +18,14 @@ repositories:
   - gitcode_id: zl_hw
   entry_configs:
   - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
     - aicpu_common
     committers:
     - gitcode_id: FelixTang7
@@ -72,6 +80,14 @@ repositories:
     - gitcode_id: gitcode-chenjiao
     entry_configs: 
     - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
+    - path:
       - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
@@ -91,6 +107,14 @@ repositories:
   - gitcode_id: zhangzijie
   - gitcode_id: zl_hw
   entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
   - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"
@@ -254,6 +278,14 @@ repositories:
     - gitcode_id: gitcode-chenjiao
     entry_configs: 
     - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
+    - path:
       - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
@@ -277,6 +309,14 @@ repositories:
   - gitcode_id: zhanw_coding
   - gitcode_id: andong_hw
   entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
   - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"
@@ -696,6 +736,14 @@ repositories:
     - gitcode_id: gitcode-chenjiao
     entry_configs: 
     - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
+    - path:
       - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
@@ -712,7 +760,15 @@ repositories:
   - gitcode_id: jia0liang
   - gitcode_id: wangrui_
   - gitcode_id: llimwang
-  entry_configs: []
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/cann-samples
   committers:
@@ -721,7 +777,15 @@ repositories:
   - gitcode_id: llimwang
   - gitcode_id: zl_hw
   - gitcode_id: yangyang016
-  entry_configs: []
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/ops-rand
   committers:
@@ -730,6 +794,15 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: zl_hw
   - gitcode_id: wangrui_
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/ops-test-kit
   committers:
@@ -740,7 +813,15 @@ repositories:
   - gitcode_id: fullt
   - gitcode_id: zhou-qilong
   - gitcode_id: chenqi317
-  entry_configs: []
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/ops-multimodal-fusion
   committers:
@@ -749,4 +830,12 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: Chunrong
   - gitcode_id: gcw_9tG1ncgm
-
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7

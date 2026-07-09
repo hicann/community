@@ -13,6 +13,15 @@ repositories:
   - gitcode_id: yangxiaoyuan
   - gitcode_id: yanmingxiang
   - gitcode_id: lishengvictor
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
   branch_configs:
   - branch:
     - 9.0.0
@@ -24,6 +33,14 @@ repositories:
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
     entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:

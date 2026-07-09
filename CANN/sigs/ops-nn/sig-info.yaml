@@ -27,6 +27,14 @@ repositories:
     email: yangyang306@hisilicon.com
   entry_configs:
   - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
     - "*/*/docs/acl*.md"
     - "*/*/README.md"
     committers:
@@ -481,7 +489,15 @@ repositories:
       email: xiaolong.han@huawei.com
     - gitcode_id: jiangtao_rts
     - gitcode_id: gitcode-chenjiao
-    entry_configs:
+    entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:
@@ -516,6 +532,15 @@ repositories:
   - gitcode_id: LinPX
     name: 林鹏翔
     email: linpengxiang1@hisilicon.com
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
   branch_configs:
   - branch:
     - 9.1.0
@@ -527,6 +552,14 @@ repositories:
       email: xiaolong.han@huawei.com
     - gitcode_id: jiangtao_rts
     entry_configs:
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:

@@ -12,6 +12,15 @@ repositories:
   - gitcode_id: wulinyu
   - gitcode_id: li_ting
   - gitcode_id: sophia1213
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
   branch_configs:
   - branch:
     - 9.0.0
@@ -23,6 +32,14 @@ repositories:
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
     entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:
@@ -39,6 +56,14 @@ repositories:
   - gitcode_id: chenhao_1209
   - gitcode_id: newstarzj
   entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
     - path:
       - src/hccl_test
       committers:
@@ -68,6 +93,14 @@ repositories:
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
     entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:

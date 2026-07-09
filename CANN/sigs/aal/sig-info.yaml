@@ -76,12 +76,30 @@ repositories:
   - gitcode_id: QK_25415
   - gitcode_id: goodpeople233
   - gitcode_id: captain_jing
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/ops-df
   committers:
   - gitcode_id: QK_25415
   - gitcode_id: goodpeople233
   - gitcode_id: demoauguste
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/ops-gnn
   committers:
@@ -90,3 +108,12 @@ repositories:
   - gitcode_id: MingyiLiu
   - gitcode_id: Splendid2025
   - gitcode_id: QK_25415
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7

@@ -27,6 +27,14 @@ repositories:
     - gitcode_id: gong-siwei
     - gitcode_id: yan_yw
     - gitcode_id: MTQ999
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
 - repo:
   - cann/catccos
   committers:
@@ -34,3 +42,12 @@ repositories:
     - gitcode_id: triwooder
     - gitcode_id: lishaoxun
     - gitcode_id: nino888
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7

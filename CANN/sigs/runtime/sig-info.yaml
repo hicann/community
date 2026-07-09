@@ -14,6 +14,14 @@ repositories:
   - gitcode_id: Reyn52166
   entry_configs:
   - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
     - docs
     - include
     - pkg_inc
@@ -132,6 +140,14 @@ repositories:
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
     entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:

@@ -36,6 +36,14 @@ repositories:
     committers:
     - gitcode_id: xun_zhuge
   - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
     - docs
     committers:
     - gitcode_id: munanhw
@@ -171,6 +179,14 @@ repositories:
     - gitcode_id: ai_xin
     entry_configs: 
     - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
+    - path:
       - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
@@ -196,7 +212,15 @@ repositories:
   - gitcode_id: yukangchen
   - gitcode_id: zengjuan
   - gitcode_id: wulinyu
-  entry_configs: 
+  entry_configs:
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
   - path:
     - cpudebug/include
     committers:
@@ -213,6 +237,14 @@ repositories:
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
     entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:
@@ -240,6 +272,14 @@ repositories:
   - gitcode_id: li_zeran
   entry_configs:
   - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
     - include
     - python/asc/language
     committers:
@@ -257,6 +297,14 @@ repositories:
     - gitcode_id: jiangtao_rts
     entry_configs: 
     - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
+    - path:
       - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
@@ -271,6 +319,14 @@ repositories:
   - gitcode_id: fujun19
   - gitcode_id: wulinyu
   entry_configs: 
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
   - path:
     - include
     - examples
@@ -288,6 +344,14 @@ repositories:
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
     entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:

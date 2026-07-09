@@ -17,6 +17,14 @@ repositories:
   - gitcode_id: youyx
   entry_configs:
   - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
     - include
     committers:
     - gitcode_id: songmingyang
@@ -32,6 +40,14 @@ repositories:
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
     entry_configs:
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:
@@ -72,6 +88,14 @@ repositories:
   - gitcode_id: zhuyiming3
 
   entry_configs:
+    - path:
+      - .gitcode
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - src
       - test
@@ -142,6 +166,14 @@ repositories:
     - gitcode_id: flyswa
     entry_configs:
     - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
+    - path:
       - "*"
       committers:
       - gitcode_id: gcw_kUomxQ2l
@@ -181,6 +213,14 @@ repositories:
   - gitcode_id: yanglianxiang2
 
   entry_configs:
+    - path:
+      - .gitcode
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - include
       - pkg_inc
@@ -360,6 +400,14 @@ repositories:
     - gitcode_id: jiangtao_rts
     - gitcode_id: flyswa
     entry_configs:
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
     - path:
       - "*"
       committers:
