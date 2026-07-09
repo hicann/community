@@ -48,15 +48,15 @@ repositories:
     - gitcode_id: yinjie27_
     - gitcode_id: DCGDDD
     - gitcode_id: jason_yuan_ye
-  entry_configs:
-  - path:
-    - .gitcode
-    committers:
-    - gitcode_id: songchangxia
-    - gitcode_id: mywaaagh_admin
-    - gitcode_id: shentukangjun
-    - gitcode_id: Larry_liuyi
-    - gitcode_id: tanghaoran7
+    entry_configs:
+    - path:
+      - .gitcode
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
   - branch:
     - br_0.1.1_20260313_beta
     committers:
@@ -64,15 +64,15 @@ repositories:
     - gitcode_id: yinjie27_
     - gitcode_id: DCGDDD
     - gitcode_id: jason_yuan_ye
-  entry_configs:
-  - path:
-    - .gitcode
-    committers:
-    - gitcode_id: songchangxia
-    - gitcode_id: mywaaagh_admin
-    - gitcode_id: shentukangjun
-    - gitcode_id: Larry_liuyi
-    - gitcode_id: tanghaoran7
+    entry_configs:
+    - path:
+      - .gitcode
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
   - branch:
     - 9.0.0
     - 9.1.0
@@ -82,22 +82,22 @@ repositories:
     - gitcode_id: Andy-lb
     - gitcode_id: hanxiaolong
     - gitcode_id: jiangtao_rts
-  entry_configs: 
-  - path:
-    - ".gitcode/**"
-    committers:
-    - gitcode_id: songchangxia
-    - gitcode_id: mywaaagh_admin
-    - gitcode_id: shentukangjun
-    - gitcode_id: Larry_liuyi
-    - gitcode_id: tanghaoran7
-  - path:
-    - "*"
-    committers:
-    - gitcode_id: gcw_kUomxQ2l
-    - gitcode_id: Andy-lb
-    - gitcode_id: hanxiaolong
-    - gitcode_id: jiangtao_rts
+    entry_configs: 
+    - path:
+      - ".gitcode/**"
+      committers:
+      - gitcode_id: songchangxia
+      - gitcode_id: mywaaagh_admin
+      - gitcode_id: shentukangjun
+      - gitcode_id: Larry_liuyi
+      - gitcode_id: tanghaoran7
+    - path:
+      - "*"
+      committers:
+      - gitcode_id: gcw_kUomxQ2l
+      - gitcode_id: Andy-lb
+      - gitcode_id: hanxiaolong
+      - gitcode_id: jiangtao_rts
 
 - repo:
     - cann/pypto-gym
