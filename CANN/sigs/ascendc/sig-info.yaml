@@ -30,11 +30,13 @@ repositories:
   - gitcode_id: zengjuan
   - gitcode_id: hyolee
   - gitcode_id: hujiawen_kaven
+  - gitcode_id: chentianyu19
   entry_configs:
   - path:
     - cmake
     committers:
     - gitcode_id: xun_zhuge
+    - gitcode_id: chentianyu19
   - path:
     - .gitcode
     committers:
@@ -114,6 +116,7 @@ repositories:
     - gitcode_id: chenyiyuan
     - gitcode_id: wuyang_hw
     - gitcode_id: hujiawen_kaven
+    - gitcode_id: chentianyu19
   - path:
     - impl/c_api
     committers:
