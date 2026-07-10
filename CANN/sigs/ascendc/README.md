@@ -34,6 +34,7 @@ Ascend C总体逻辑架构图如下所示：
     - 吴林玉[@wulinyu](https://gitcode.com/wulinyu), *wulinyu4@huawei.com*
     - 傅珺[@fujun19](https://gitcode.com/fujun19), *fujun19@hisilicon.com*
     - 艾鑫[@ai_xin](https://gitcode.com/ai_xin), *aixin2@hisilicon.com*
+    - 李俊文[@Lycheeeee](https://gitcode.com/Lycheeeee), *lijunwen13@hisilicon.com*
 
 - ### AscTools：https://gitcode.com/cann/asc-tools
   - #### 简介：Ascend C调试调优工具仓，主要包括CPU/NPU孪生调试

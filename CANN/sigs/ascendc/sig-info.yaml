@@ -30,6 +30,7 @@ repositories:
   - gitcode_id: zengjuan
   - gitcode_id: hyolee
   - gitcode_id: hujiawen_kaven
+  - gitcode_id: Lycheeeee
   - gitcode_id: chentianyu19
   entry_configs:
   - path:
@@ -122,6 +123,7 @@ repositories:
     committers:
     - gitcode_id: pangfd
     - gitcode_id: yue_mo_du_qian
+    - gitcode_id: Lycheeeee
   - path:
     - impl/experimental/tensor_api
     committers:
@@ -215,6 +217,7 @@ repositories:
   - gitcode_id: yukangchen
   - gitcode_id: zengjuan
   - gitcode_id: wulinyu
+  - gitcode_id: Lycheeeee
   entry_configs:
   - path:
     - .gitcode
