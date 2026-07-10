@@ -1,0 +1,29 @@
+name: oil-gas-engineering                          #SIG组名称
+description: Oil Gas Engineering SIG（油气行业工程兴趣小组）是专注油气领域、打造昇腾原生算子库的专业技术小组。小组立足油气全业务范畴，依托 CANN 硬件底层算子能力，围绕油气勘探、生产、炼化三大核心业务场景开展算子研发,持续搭建并完善油气行业高性能计算算子库
+mailing_list: oil-gas-engineering@cann.osinfra.cn  #SIG组讨论邮件列表地址
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-oil-gas-engineering  #SIG例会纪要URL
+committers:                           #SIG组所有committer名单 （ccc和ddd拥有ops-basic sig组下所有仓库的committer权限）
+- gitcode_id: machenggui-coder
+  name: 马成贵
+- gitcode_id: Chris-Lan
+  name: 徐澜
+- gitcode_id: newbgirl
+  name: 胡艺馨
+- gitcode_id: can_007
+  name: 李泽灿
+- gitcode_id: Baoling3001
+  name: 张宝凌
+- gitcode_id: MetalMetal
+  name: 闫孟涛
+- gitcode_id: jygslym
+  name: 李一鸣
+- gitcode_id: zlove9
+  name: 张乐乐
+repositories:                         #repositories 字段会说明SIG组所管理的仓库组的信息
+- repo:                               #仓库组，可以是一个仓库，也可以是一组仓库 ，可选字段
+  - cann/oil-gas-ops-prospect
+  branch_configs:
+  - branch:
+    - master
+    branch_keeper:                    #branch_keeper指仓库某个分支的版本经理角色，此角色有权限对PR评论/merge，打上keeper_approved标签
+    - gitcode_id: machenggui-coder
