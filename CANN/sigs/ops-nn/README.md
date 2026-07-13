@@ -45,7 +45,8 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 范其瑞[@fanqirui](https://gitcode.com/fanqirui), *fanqirui1@huawei.com*
 - 郑李磊[@lileizheng](https://gitcode.com/lileizheng), *zhenglilei@huawei.com*
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
-- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
+- 王永光[@wangyongguang](https://gitcode.com/wangyongguang), *wangyongguang1@huawei.com*
+- 汤磊[@tang-lei01](https://gitcode.com/tang-lei01), *tanglei1@huawei.com*
 - 於欣洁[@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 唐超[@chaotang233](https://gitcode.com/chaotang233), *tangchao47@huawei.com*
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
@@ -76,12 +77,11 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 徐炳麟[@xubinglin](https://gitcode.com/xubinglin), *xubinglin@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 - 柳宗谷[@LiuZonggu](https://gitcode.com/LiuZonggu), *liuzonggu1@huawei.com*
-- 刘泱[@liuyang_806](https://gitcode.com/liuyang_806/), *liuyang930@hisilicon.com*
+- 刘泱[@liuyang_806](https://gitcode.com/liuyang_806), *liuyang930@hisilicon.com*
+- 曾娟[@zengjuan](https://gitcode.com/zengjuan), *zengjuan2@huawei.com*
 
 ### 细分领域：
 ### foreach、activation、norm committer列表：
-- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
 - 刘杰[@liujie12345678](https://gitcode.com/liujie12345678), *liujie81@huawei.com*
 - 陈昊文[@Chen_HaoWen](https://gitcode.com/Chen_HaoWen), *chenhaowen12@huawei.com*
@@ -90,8 +90,6 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 
 ### quant committer列表：
-- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
 - 商晓波[@sxb154714](https://gitcode.com/sxb154714), *shangxiaobo1@hisilicon.com*
 - 王子韬[@wangzitao_leo](https://gitcode.com/wangzitao_leo), *wangzitao4@huawei.com*
@@ -108,28 +106,21 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
 - 唐燕峰[@FelixTang7](https://gitcode.com/FelixTang7), *tangyanfeng@huawei.com*
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 
 ### index、hash committer列表：
-- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
 - 唐燕峰[@FelixTang7](https://gitcode.com/FelixTang7), *tangyanfeng@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 - 陈风[@chenfeng61](https://gitcode.com/chenfeng61), *chenfeng61@huawei.com*
 - 黄迪[@kevin_huang1234](https://gitcode.com/kevin_huang1234), *kevin.huangdi@huawei.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 
 ### vfusion、loss、optim committer列表：
-- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 - 於欣洁[@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 陈风[@chenfeng61](https://gitcode.com/chenfeng61), *chenfeng61@huawei.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 
 ### rnn、pooling committer列表：
-- 王永光[@wangyongguang](https://gitcode.com/wangyongguan), *wangyongguang1@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 - 刘闯[@liuchuangdev](https://gitcode.com/liuchuangdev), *liuchuang51@huawei.com*
 - 黄迪[@kevin_huang1234](https://gitcode.com/kevin_huang1234), *kevin.huangdi@huawei.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
@@ -137,7 +128,6 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 
 ### matmul committer列表：
 - 范其瑞[@fanqirui](https://gitcode.com/fanqirui), *fanqirui1@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 - 唐超[@chaotang233](https://gitcode.com/chaotang233), *tangchao47@huawei.com*
 - 商晓波[@sxb154714](https://gitcode.com/sxb154714), *shangxiaobo1@hisilicon.com*
 - 王子韬[@wangzitao_leo](https://gitcode.com/wangzitao_leo), *wangzitao4@huawei.com*
@@ -148,7 +138,6 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 
 ### conv committer列表：
 - 郑李磊[@lileizheng](https://gitcode.com/lileizheng), *zhenglilei@huawei.com*
-- 章武[@zhang-wu](https://gitcode.com/zhang-wu), *zhangwu3@huawei.com*
 - 余鑫[@yuxin5](https://gitcode.com/yuxin5), *yuxin5@huawei.com*
 - 沈承宗[@shenchengzong](https://gitcode.com/shenchengzong), *shengchengzong1@huawei.com*
 - 王慈孟[@wangcimeng](https://gitcode.com/wangcimeng), *wangcimeng@huawei.com*
@@ -163,15 +152,20 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 吴瑶[@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*
 - 蔡雯雯[@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 
+### API committer列表
+- 王永光[@wangyongguang](https://gitcode.com/wangyongguang), *wangyongguang1@huawei.com*
+- 汤磊[@tang-lei01](https://gitcode.com/tang-lei01), *tanglei1@huawei.com*
+
 # 社区运作
 
 ### 会议组织
 
-- 公开的会议时间：北京时间，两周一次例会，单周(每月第一、第三周)周五下午14:00-16:00
+- 公开的会议时间：北京时间，两周一次例会，周五下午14:15-16:00
+- [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-nn)
+- [会议地址](https://meeting.osinfra.cn/cann/)
 
 ### 会议纪要
 
-- [会议地址](https://meeting.osinfra.cn/cann/)
 - [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-nn)
 
 ### 贡献指南
