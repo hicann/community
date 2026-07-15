@@ -120,6 +120,7 @@ repositories:
     - "*/*/op_host/*_def.cpp"
     - "*/*/op_api/*.h"
     - "*/*/op_graph/*_proto.h"
+    - "*/*/op_graph/*_proto_extend.h"
     committers:
     - gitcode_id: wangyongguang
     - gitcode_id: tang-lei01
@@ -322,6 +323,7 @@ repositories:
     - "*/*/op_host/*_def.cpp"
     - "*/*/op_api/*.h"
     - "*/*/op_graph/*_proto.h"
+    - "*/*/op_graph/*_proto_extend.h"
     - "*/*/external/*"
     committers:
     - gitcode_id: wangyongguang
