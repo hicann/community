@@ -309,6 +309,7 @@ repositories:
   - gitcode_id: jia0liang
   - gitcode_id: zhanw_coding
   - gitcode_id: andong_hw
+  - gitcode_id: xuejinghui
   entry_configs:
   - path:
     - .gitcode
@@ -371,6 +372,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - conversion/broadcast_to
     - conversion/circular_pad
@@ -432,6 +434,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - conversion/split_v
     committers:
@@ -449,6 +452,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/abs
     - math/cast
@@ -487,6 +491,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/accumulate_nv2
     - math/acos
@@ -586,6 +591,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/add_lora
     - math/transform_bias_rescale_qkv
@@ -606,6 +612,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/stft
     committers:
@@ -624,6 +631,7 @@ repositories:
     - gitcode_id: songkai111
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/cumsum
     committers:
@@ -641,6 +649,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/search_sorted
     - math/right_shift
@@ -660,6 +669,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/segsum
     committers:
@@ -680,6 +690,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - math/rfft1_d
     committers:
@@ -696,6 +707,7 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   - path:
     - experimental
     committers:
@@ -725,6 +737,7 @@ repositories:
     - gitcode_id: fullt
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
+    - gitcode_id: xuejinghui
   branch_configs:
   - branch:
     - 9.0.0
