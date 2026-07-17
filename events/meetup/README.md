@@ -58,6 +58,8 @@
 ## CANN Insight系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260716 | 高性能Matrix(Cube)算子开发实践 | sig-ascendc | [链接](./slides/sig-ascendc/20260716) | [链接](https://www.bilibili.com/video/BV16AKG6nEjz/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260715 | Ascend C高性能Vector算子编程实践 | sig-ascendc | [链接](./slides/sig-ascendc/20260715) | [链接](https://www.bilibili.com/video/BV14NNq6AE2v/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260529 | HIXL协同Mooncake实现KV Cache池化技术实践分享 | sig-hccl | [链接](./slides/sig-hccl/20260529) | [链接](https://www.bilibili.com/video/BV12HVh6iE2t/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260514 | 多模态生成技术优化实践第二期-并行与Cache | sig-recipes | [链接](./slides/sig-recipes/20260514) | [链接](https://www.bilibili.com/video/BV1z4596sEXF/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260513 | 多模态生成技术优化实践第一期-稀疏与量化 | sig-recipes | [链接](./slides/sig-recipes/20260513) | [链接](https://www.bilibili.com/video/BV1Kq5161Ekb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
