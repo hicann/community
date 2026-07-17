@@ -51,6 +51,7 @@ repositories:
     committers:
     - gitcode_id: munanhw
     - gitcode_id: ai_xin
+    - gitcode_id: bianque
   - path:
     - include
     committers:
