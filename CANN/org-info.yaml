@@ -370,4 +370,11 @@ sigs:
     - gitcode_id: gcw_luCgmemv
       name: 武威
       email: wuwei1982@hotmail.com
-      
+  - sig_name: embodied-ai
+    maintainers:
+    - gitcode_id: NJU_GaoYang
+      name: 高阳
+      email: gaoy@nju.edu.cn
+    - gitcode_id: NJU_Zixuan
+      name: 陈子璇
+      email: chenzx@nju.edu.cn
