@@ -9,7 +9,9 @@
 - 田晓亮[@TianXL](https://gitcode.com/TianXL), *tian.xiaoliang@huawei.com*
 - 王艳秋[@cherry_03](https://gitcode.com/cherry_03), *wangyanqiu2@huawei.com*
 
-## Committer列表（cann/docs仓）
+## 仓库清单
+
+### docs
 
 仓库地址：https://gitcode.com/cann/docs
 
@@ -47,7 +49,7 @@ Committer列表：
 - 周文芳[@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 
-# 社区运作
+## 社区运作
 
 ### 会议组织
 
@@ -59,7 +61,7 @@ Committer列表：
 - [会议地址](https://meeting.osinfra.cn/cann/)
 - [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-doc)
 
-# SIG订阅
+## SIG订阅
 
 - [邮件列表](https://mailweb.cann.osinfra.cn/mailman3/lists/doc.cann.osinfra.cn/)
 
