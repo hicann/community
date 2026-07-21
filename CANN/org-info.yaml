@@ -378,3 +378,14 @@ sigs:
     - gitcode_id: NJU_Zixuan
       name: 陈子璇
       email: chenzx@nju.edu.cn
+  - sig_name: crypto
+    maintainers:
+      - gitcode_id: hchengv
+        name: 程皓
+        email: hao.cheng@sdu.edu.cn
+      - gitcode_id: Julei_sdu
+        name: 鞠雷
+        email: julei@sdu.edu.cn
+      - gitcode_id: pcrypto96
+        name: 彭聪
+        email: cpeng@whu.edu.cn

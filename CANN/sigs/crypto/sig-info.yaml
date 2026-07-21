@@ -1,0 +1,12 @@
+name: crypto
+description: 围绕昇腾NPU打造高性能密码软件库，为CANN生态提供丰富的高性能密码算子与算法实现。
+mailing_list: crypto@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-crypto
+committers:
+- gitcode_id: wwjcrypt
+- gitcode_id: zhengfy1028
+- gitcode_id: D4rk
+- gitcode_id: menglipku
+- gitcode_id: wenzhe_wang
+- gitcode_id: changlongji
+- gitcode_id: Jiangbowang
