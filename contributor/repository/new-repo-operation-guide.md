@@ -152,6 +152,8 @@
 
 ## 三、新仓库开源流程
 
+> 开源审批流程中，QA-SIG 评审会对照[仓库开源条件与目录结构指引](open-source-checklist.md)逐项审视仓库是否满足开源条件（文档/安全合规/工程规范/CI/测试报告/权限），建议在申报 QA-SIG 议题前先按该指引自查。
+
 ### 流程图
 
 ```
@@ -162,6 +164,11 @@
 │  第1步：准备测试报告                                                         │
 │  └─ 使用测试报告模板                                                         │
 │  └─ 包含：版本信息、测试结果、覆盖率等                                       │
+│                                                                             │
+│  第1.5步：提前2天通过PR提交测试报告                                          │
+│  ├─ 在QA-SIG会议评审前2天通过PR提交测试报告至 community/QA/test-report/      │
+│  ├─ Maintainer和Committer进行检视，在PR提交检视意见                          │
+│  └─ QA-SIG会议前完成检视问题闭环                                             │
 │                                                                             │
 │  第2步：QA-SIG评审 ⏰ 双周二 10:30-12:00                                     │
 │  ├─ 在QA纪要申报议题                                                         │
@@ -187,12 +194,15 @@
 | 阶段 | 时间安排 | 操作 | 等待时间 |
 |-----|---------|------|---------|
 | 准备测试报告 | T-1周 | 完成测试并填写报告 | 约1周 |
+| 提交测试报告PR | QA-SIG会议前2天 | 通过PR提交至 QA/test-report/，Maintainer/Committer 检视 | 2天 |
 | QA-SIG评审 | T+0（双周二） | 质量出口评审 | 当天 |
 | PMC评审 | T+0（双周三） | 开源审批 | 当天 |
 | 基础设施审视 | T+0~T+1周 | 审视仓配置、配置CI | 1-3天异步处理 |
 | 正式开源 | T+1周 | 开源宣传 | 当天 |
 
 **总耗时：约1-2周**（QA和PMC评审在同一周）
+
+> **注意**：测试报告须在 QA-SIG 会议前 2 天通过 PR 提交，由 Maintainer/Committer 完成检视，会议前完成检视问题闭环。详见[测试报告归档说明](../../QA/test-report/README.md)。
 
 ---
 
@@ -229,6 +239,7 @@
    - UT运行命令：`bash build.sh -u --ophost`
    - 门禁触发命令：`/compile`（默认）
    - 特殊依赖说明
+4. 基础设施团队将在仓库 `.gitcode/workflows/` 目录下配置 GitCode Action 工作流（门禁编译、UT、安全扫描等），可参考 [runtime](https://gitcode.com/cann/runtime/tree/master/.gitcode/workflows) 仓的配置
 
 ### 4.4 配置权限（修改community）
 
@@ -328,9 +339,11 @@ PR合入后：
    测试报告链接：XXX
    开源版本：v1.0.0
    ```
-3. 会议时陈述测试报告
+3. 会议前2天通过PR提交测试报告至 `QA/test-report/`（见[测试报告归档说明](../../QA/test-report/README.md)）
+4. 会议前完成 Maintainer/Committer 检视问题闭环
+5. 会议时陈述测试报告，评审会对照[仓库开源条件与目录结构指引](open-source-checklist.md)审视
 
-### 4.6 申报PMC议题（开源审批）
+### 4.7 申报PMC议题（开源审批）
 
 1. 打开 [PMC会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/PMC)
 2. 填写议题：
@@ -450,9 +463,12 @@ PR合入后：
 ### Q4：需要引入开源三方件怎么办？
 
 **建议**：
-- 在Security SIG申报引入申请
-- 使用「开源软件引入申请模板」
-- Security SIG会议：月末周五 10:00-12:00
+- 先在 [CANN 社区开源三方件仓](https://www.gitcode.com/cann-src-third-party) 查询是否已引入
+- 按[开源软件引入申请模板](../../templates/开源软件引入申请模板.pptx)开展选型评估
+- 在**引入该软件的目标仓库对应的 SIG 组例会**上进行评审
+- 通过后在 [CANN数字化协作平台](https://digital.hicann.cn/#/tripartite_parts_manage) 填写申请，[安全SIG](../../CANN/sigs/security/README.md) 成员审批引入
+- 建仓及分支命名遵循[三方件建仓及分支命名指导](../third_party/third-party-repo-branch-guide.md)
+- 详细流程请参阅[开源三方件维护指南](../third_party/third_party_maintenance.md)
 
 ---
 
@@ -474,9 +490,14 @@ PR合入后：
 - [会议PPT模板](https://gitcode.com/cann/community/blob/master/templates/ppt_template.pptx)
 
 ### 指导文档
-- [org-info.yaml文件指导说明](CANN/org-info-guidance.md)
-- [sig-info.yaml文件指导说明](CANN/sig-info-guidance.md)
-- [CI集成指南](https://gitcode.com/cann/community/blob/master/contributor/repository/ci-guide.md)
+- [org-info.yaml文件指导说明](../../CANN/org-info-guidance.md)
+- [sig-info.yaml文件指导说明](../../CANN/sig-info-guidance.md)
+- [CI集成指南](ci-guide.md)
+- [仓库开源条件与目录结构指引](open-source-checklist.md)
+- [开源三方件维护指南](../third_party/third_party_maintenance.md)
+- [三方件建仓及分支命名指导](../third_party/third-party-repo-branch-guide.md)
+- [测试报告归档说明](../../QA/test-report/README.md)
+- [文档写作规范](../docs/document_writing_specs.md)
 - [会议指南](https://gitcode.com/cann/infrastructure/blob/main/docs/meeting/CANN社区会议指南.md)
 - [邮件列表指南](https://gitcode.com/cann/infrastructure/blob/main/docs/mail-list/邮件列表使用指南.md)
 
@@ -487,6 +508,8 @@ PR合入后：
 
 ---
 
-**文档版本**: v1.0  
+**文档版本**: v1.1  
 **创建时间**: 2026-04-18  
+**更新时间**: 2026-07-20  
+**更新内容**: v1.1 修正三方件引入流程（SIG例会评审+CANN数字化协作平台）、补充QA-SIG测试报告提前2天PR提交要求、补充缺失指导文档链接  
 **来源**: CANN community仓库 + 会议平台信息

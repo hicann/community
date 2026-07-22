@@ -76,8 +76,8 @@ CANN 社区基于 GitCode 的 Issue 管理功能，完整记录每个开发者 I
 
 #### 引入开源三方件
 
-贡献过程中如需引入开源软件，需完成开源软件选型评估并提交引入申请，通过安全 SIG 评审后引入社区开源三方件仓库，以便相关仓库更好地集成和引用。具体操作步骤请参阅：[开源三方件维护指南](contributor/third_party/third_party_maintenance.md)。
+贡献过程中如需引入开源软件，需完成开源软件选型评估，在目标仓库对应的 SIG 组例会上进行评审，通过后在 [CANN数字化协作平台](https://digital.hicann.cn/#/tripartite_parts_manage) 填写申请，[安全SIG](CANN/sigs/security/README.md) 成员审批后引入社区开源三方件仓库。具体操作步骤请参阅：[开源三方件维护指南](contributor/third_party/third_party_maintenance.md)。
 
 #### 新版本发布 / 新仓库开源发布
 
-新版本/新仓库开源发布前，需准备相关[测试报告](contributor/testing/test-templates/测试报告模板.md)并提交 QA-SIG 会议评审，确认是否符合质量出口标准。评审通过后，向 PMC 会议提交发布评审申请。通过后，PMC 将提供相关资源渠道用于后续发布宣传。
+新版本/新仓库开源发布前，需准备相关[测试报告](contributor/testing/test-templates/测试报告模板.md)并在 QA-SIG 会议前 2 天通过 PR 提交至 `QA/test-report/`，经 Maintainer/Committer 检视后提交 QA-SIG 会议评审，确认是否符合质量出口标准。评审通过后，向 PMC 会议提交发布评审申请。通过后，PMC 将提供相关资源渠道用于后续发布宣传。仓库开源前的具体条件清单和自查项请参阅：[仓库开源条件与目录结构指引](contributor/repository/open-source-checklist.md)。
