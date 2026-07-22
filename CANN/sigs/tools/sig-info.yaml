@@ -64,24 +64,23 @@ repositories:
     - gitcode_id: shentukangjun
     - gitcode_id: Larry_liuyi
     - gitcode_id: tanghaoran7
-    - path:
-      - src/hccl_test
-      committers:
-      - gitcode_id: ccl_ligang
-      - gitcode_id: temper7620
-      - gitcode_id: Innoecho
-      - gitcode_id: yanyefeng
-      - gitcode_id: ouyangxizi
-      - gitcode_id: lilianlin_hw
-      - gitcode_id: lilin_137
-
-    - path:
-      - docs/zh/hccl_test
-      - docs/en/hccl_test
-      committers:
-      - gitcode_id: flyswa
-      - gitcode_id: claire8090
-      - gitcode_id: yanyefeng
+  - path:
+    - src/hccl_test
+    committers:
+    - gitcode_id: ccl_ligang
+    - gitcode_id: temper7620
+    - gitcode_id: Innoecho
+    - gitcode_id: yanyefeng
+    - gitcode_id: ouyangxizi
+    - gitcode_id: lilianlin_hw
+    - gitcode_id: lilin_137
+  - path:
+    - docs/zh/hccl_test
+    - docs/en/hccl_test
+    committers:
+    - gitcode_id: flyswa
+    - gitcode_id: claire8090
+    - gitcode_id: yanyefeng
   branch_configs:
   - branch:
     - 9.0.0
