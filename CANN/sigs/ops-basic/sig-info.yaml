@@ -828,6 +828,7 @@ repositories:
   - gitcode_id: fullt
   - gitcode_id: zhou-qilong
   - gitcode_id: chenqi317
+  - gitcode_id: wangrui_
   entry_configs:
   - path:
     - .gitcode
