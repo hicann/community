@@ -39,6 +39,7 @@ CATLASS API 架构图：
   - 徐汉儒[@hanru-xu](https://gitcode.com/hanru-xu), *<xuhanru@huawei.com>*
   - 龚思维[@gong-siwei](https://gitcode.com/gong-siwei), *<gongsiwei@huawei.com>*（[mstuner_catlass](https://gitcode.com/cann/catlass/blob/master/tools/tuner/README.md)工具**Committer**）
   - 陈民安[@chenma](https://gitcode.com/chenma), *<chenminan@hisilicon.com>*
+  - MarioDrumond[@mdrumond](https://gitcode.com/mdrumond), *<mario.paulo.oliveira@huawei.com>*
 
 ## 项目路标
 

@@ -20,6 +20,7 @@ repositories:
   - gitcode_id: Lulu_scut
   - gitcode_id: xiaoting624
   - gitcode_id: chenma
+  - gitcode_id: mdrumond
   entry_configs: 
   - path: 
     - tools
