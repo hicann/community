@@ -40,6 +40,12 @@ repositories:
     - gitcode_id: shentukangjun
     - gitcode_id: Larry_liuyi
     - gitcode_id: tanghaoran7
+  - path:
+    - docs
+    committers:
+    - gitcode_id: linjiashu
+    - gitcode_id: yinjie27_
+    - gitcode_id: lyz0328
   branch_configs:
   - branch:
     - 0.2.0
