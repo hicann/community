@@ -46,6 +46,7 @@ repositories:
     - gitcode_id: linjiashu
     - gitcode_id: yinjie27_
     - gitcode_id: lyz0328
+    - gitcode_id: foundea
   branch_configs:
   - branch:
     - 0.2.0
