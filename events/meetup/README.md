@@ -3,6 +3,7 @@
 ## CANN NEXT系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260722 | 昇腾950NPU架构白皮书深度解读 |  | [链接](./slides/950/20260722) | [链接](https://www.bilibili.com/video/BV15Cgk6gETw/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260629 | Ascend C面向Tensor编程全新升级：Tensor API | sig-ascendc | [链接](./slides/sig-ascendc/20260629) | [链接](https://www.bilibili.com/video/BV1dfKU6UEGZ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260626 | Vector Function高性能编程指南（二） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260626) | [链接](https://www.bilibili.com/video/BV1ZH7V6jEYW/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260625 | Vector Function高性能编程指南（一） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260625) | [链接](https://www.bilibili.com/video/BV1ZD786hEiG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -33,6 +34,7 @@
 ## CANN开源开放系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260722 | Graph-autofusion自动融合技术解读 | sig-ge | [链接](./slides/sig-ge/20260722) | [链接](https://www.bilibili.com/video/BV1wxgk6QEmn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260616 | Ascend C 开源资料及样例分享 | sig-ascendc | [链接](./slides/sig-ascendc/20260616) | [链接](https://www.bilibili.com/video/BV1tdjV6cEEP/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260512 | cann-bench:为昇腾算子评测立起一把统一的尺子 | sig-cannbot | [链接](./slides/sig-cannbot/20260512) | [链接](https://www.bilibili.com/video/BV1up5T6rELt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260508 | TorchTitan-NPU: 训练性能与易用性齐飞，开启昇腾训练入图新体验 | sig-framework-adapter | [链接](./slides/sig-framework-adapter/20260508) | [链接](https://www.bilibili.com/video/BV1AxdgBkEv3/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -113,6 +115,7 @@
 ## CANN 竞赛活动
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260721 | CANN算子天梯赛6月赛题评析与7月赛题解析 |  | [链接](./slides/cann-learning-hub/20260721) | [链接](https://www.bilibili.com/video/BV1KWKh6SEfS/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260521 | CANN社区开发者成长路径介绍+算子天梯赛发布 |  | [链接](./slides/cann-learning-hub/20260521) | [链接](https://www.bilibili.com/video/BV16mLb6oEvs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260511 | CANN算子挑战赛(江山赛区)赛题和评分规则解读 |  | [链接](./slides/sig-ops-transformer/20260511) | [链接](https://www.bilibili.com/video/BV1r3546UE5h/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
