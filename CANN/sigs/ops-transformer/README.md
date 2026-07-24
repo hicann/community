@@ -67,6 +67,7 @@
 - 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
 - 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
+- 罗柏清 [@luobaiqing](https://gitcode.com/luobaiqing), *luobaiqing1@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
 - 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
@@ -106,6 +107,7 @@
 - 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
 - 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
+- 罗柏清 [@luobaiqing](https://gitcode.com/luobaiqing), *luobaiqing1@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
 - 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
 
