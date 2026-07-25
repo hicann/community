@@ -1,11 +1,14 @@
 # doc SIG
+
 管理CANN开源开放项目的文档开发工作，致力于为开发者提供具备竞争力的文档体验。
 
 ## 工作目标
+
 - 负责CANN文档体系的探讨与规划。
 - 组织CANN文档领域例会，引导技术讨论和决策。
 
 ## Maintainer列表
+
 - 田晓亮[@TianXL](https://gitcode.com/TianXL), *tian.xiaoliang@huawei.com*
 - 王艳秋[@cherry_03](https://gitcode.com/cherry_03), *wangyanqiu2@huawei.com*
 
@@ -74,6 +77,54 @@ Committer列表：
 - 夏国正[@Mexyy](https://gitcode.com/Mexyy),*xiaguozheng1@hisilicon.com*
 - 张兴平[@zhangxp1030](https://gitcode.com/zhangxp1030),*zhangxingping4@huawei.com*
 - 刘豪[@A-Liuhao](https://gitcode.com/A-Liuhao),*liuhao276@hisilicon.com*
+
+### cann-launch-camp
+
+仓库地址：https://gitcode.com/cann/cann-launch-camp
+
+简介：本仓库用于收纳、管理 CANN 开源社区启航营高校活动的课程作业、课设、毕设及各类课程实践作品，统一标准化目录层级与提交规范，保障社区作品提交规整、可追溯、可评审。所有贡献需遵循 CANN 社区开源规范、CLA 签署要求及本仓库提交流程。
+
+Committer列表：
+
+- 武嘉伟[@Albertq](https://gitcode.com/Albertq), *wujiawei25@huawei.com*
+- 王杰[@jackwangc](https://gitcode.com/jackwangc),*wangjie271@huawei.com*
+- 冯圣璐[@gcw_tgPdOLZT](https://gitcode.com/gcw_tgPdOLZT),*fengshenglu@huawei.com*
+
+### cann-ops-competitions
+
+仓库地址：https://gitcode.com/cann/cann-ops-competitions
+
+简介：本仓库用于 CANN 开源社区各类竞赛、开源课题、社区任务等课题发布、开发者作品提交和展示。
+
+Committer列表：
+
+- 傅涛[@fullt](https://gitcode.com/fullt),*full.fu@huawei.com*
+- 武嘉伟[@Albertq](https://gitcode.com/Albertq), *wujiawei25@huawei.com*
+- 王杰[@jackwangc](https://gitcode.com/jackwangc),*wangjie271@huawei.com*
+- 袁圆[@Carolina_yuan](https://gitcode.com/Carolina_yuan),*carolina.yuan@hisilicon.com*
+- 颜亚文[@yanyawen](https://gitcode.com/yanyawen),*yanyawen@huawei.com*
+- 尚也（南京大学）[@syeren](https://gitcode.com/syeren),*yeshang@smail.nju.edu.cn*
+- 刘佳玮（南京大学）[@keloJW](https://gitcode.com/keloJW),*jwliu@nju.edu.cn*
+- 万祖涛[@zutao](https://gitcode.com/zutao),*wanzutao1@h-partners.com*
+- 洑阳成虎[@fuyangchenghu](https://gitcode.com/fuyangchenghu),*fuyangchenghu2@h-partners.com*
+
+### cann-outreach
+
+仓库地址：https://gitcode.com/cann/cann-outreach
+
+简介：本仓库用于 CANN 昇腾产业各类活动与会议的客户体验作品提交和展示。
+
+Committer列表：
+
+- 冯圣璐[@gcw_tgPdOLZT](https://gitcode.com/gcw_tgPdOLZT),*fengshenglu@huawei.com*
+- 傅涛[@fullt](https://gitcode.com/fullt),*full.fu@huawei.com*
+- 袁圆[@Carolina_yuan](https://gitcode.com/Carolina_yuan),*carolina.yuan@hisilicon.com*
+- 颜亚文[@yanyawen](https://gitcode.com/yanyawen),*yanyawen@huawei.com*
+- 金修浪[@jxlang](https://gitcode.com/jxlang),*jinxiulang@huawei.com*
+- 路子祥[@luzx66](https://gitcode.com/luzx66),*luzixiang@huawei.com*
+- 严海峰[@yanhf](https://gitcode.com/yanhf),*yanhaifeng5@huawei.com*
+- 李圣贤[@li-shengxian3](https://gitcode.com/li-shengxian3),*lishengxian3@hisilicon.com*
+- 邵逸凡[@shaoyf](https://gitcode.com/shaoyf),*shaoyifan1@huawei.com*
 
 ## 社区运作
 
