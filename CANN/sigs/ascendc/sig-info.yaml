@@ -32,6 +32,7 @@ repositories:
   - gitcode_id: hujiawen_kaven
   - gitcode_id: Lycheeeee
   - gitcode_id: chentianyu19
+  - gitcode_id: louyuxuan
   entry_configs:
   - path:
     - cmake
@@ -141,6 +142,7 @@ repositories:
     committers:
     - gitcode_id: wulinyu
     - gitcode_id: wangxiaozhi
+    - gitcode_id: louyuxuan
   - path:
     - scripts
     committers:
@@ -219,6 +221,7 @@ repositories:
   - gitcode_id: zengjuan
   - gitcode_id: wulinyu
   - gitcode_id: Lycheeeee
+  - gitcode_id: louyuxuan
   entry_configs:
   - path:
     - .gitcode
