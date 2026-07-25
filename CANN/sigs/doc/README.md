@@ -49,6 +49,32 @@ Committer列表：
 - 周文芳[@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 
+### cann-learning-hub
+
+仓库地址：https://gitcode.com/cann/cann-learning-hub
+
+简介：CANN 学习中心仓，支持在线互动运行、边学边练，提供教程、示例与优化方案，一站式助力昇腾开发者快速上手。
+
+Committer列表：
+
+- 田晓亮[@TianXL](https://gitcode.com/TianXL), *tian.xiaoliang@huawei.com*
+- 毛红朝[@mlewis](https://gitcode.com/mlewis),*maohongchao@huawei.com*
+- 洑阳成虎[@fuyangchenghu](https://gitcode.com/fuyangchenghu),*fuyangchenghu2@h-partners.com*
+- 姚宇[@waimaidaole](https://gitcode.com/waimaidaole),*yaoyu31@h-partners.com*
+- 万祖涛[@zutao](https://gitcode.com/zutao),*wanzutao1@h-partners.com*
+- 赵延曦[@YANXI_ZHAO](https://gitcode.com/YANXI_ZHAO),*zhaoyanxi3@hisilicon.com*
+- 杨旭[@DCGDDD](https://gitcode.com/DCGDDD),*yangxu14@huawei.com*
+- 李宏波[@hyolee](https://gitcode.com/hyolee),*lihongbo14@huawei.com*
+- 王立伟[@wangliwei12](https://gitcode.com/wangliwei12),*wangliwei12@huawei.com*
+- 宋炯辉[@songjionghui](https://gitcode.com/songjionghui),*songjionghui@hisilicon.com*
+- 张德鹏[@depeng1994](https://gitcode.com/depeng1994),*zhangdepeng2@huawei.com*
+- 张凯宇[@zhangky_gitcode](https://gitcode.com/zhangky_gitcode),*zhangkaiyu4@hisilicon.com*
+- 杜昱博[@duyubo](https://gitcode.com/duyubo),*duyubo5@huawei.com*
+- 田乐[@t86l](https://gitcode.com/t86l),*tierney.tian@huawei.com*
+- 夏国正[@Mexyy](https://gitcode.com/Mexyy),*xiaguozheng1@hisilicon.com*
+- 张兴平[@zhangxp1030](https://gitcode.com/zhangxp1030),*zhangxingping4@huawei.com*
+- 刘豪[@A-Liuhao](https://gitcode.com/A-Liuhao),*liuhao276@hisilicon.com*
+
 ## 社区运作
 
 ### 会议组织
