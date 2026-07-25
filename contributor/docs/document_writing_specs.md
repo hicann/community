@@ -27,7 +27,6 @@
 - 定制开发指导：基于项目源码进行二次开发的指南等。
 - API参考：开放的接口说明。
 
-
 ## 目录结构规范
 
 - 总体原则
@@ -227,7 +226,9 @@
   #!/usr/bin/env python3
   print("Hello, World!");
   ```
+
   输出：
+
   ```text
   Hello, World!
   ```
@@ -383,7 +384,9 @@
 
 ### 标点符号
 
-【规则】单位与数字、中文与英文、中文与中文之间不加空格，比如：50m，10kg，64Kbit/s，昇腾AI处理器。**【例外情况：产品名称，例如：Atlas 350 加速卡，Atlas 800T A3 超节点服务器。】**
+【规则】单位与数字、中文与英文、中文与中文之间**不加**空格，比如：50m，10kg，64Kbit/s，昇腾AI处理器。**【例外情况：产品名称，例如：Atlas 350 加速卡，Atlas 800T A3 超节点服务器。】**
+
+【规则】“=”、“~”、“>”和“<”符号前后**加**空格，例如：1Byte = 8bit。
 
 【规则】列表项标点使用保持一致。
 
@@ -393,6 +396,11 @@
 
 【规则】引用其他文档时添加书名号，并建议增加引用文档的跳转链接。例如：请参考[《CANN软件安装指南》](https://www.hiascend.com/document/detail/zh/CANNCommunityEdition/83RC1alpha003/softwareinst/instg/instg_quick.html?Mode=PmIns&OS=Debian&Software=cannToolKit)。
 
+## 文件编码格式要求
+
+markdown文件需要使用UTF-8编码格式，此编码格式支持所有语言字符，且跨平台兼容性好。
+
+不可使用UTF-8 with BOM的编码格式，此格式会在文件开头添加3个冗余字符：EF BB BF，可能会造成不同平台上的显示异常问题。
 
 ## 贡献合规要求
 
