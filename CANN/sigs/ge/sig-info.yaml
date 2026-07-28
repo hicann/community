@@ -19,6 +19,8 @@ repositories:
   - gitcode_id: peiyang
   - gitcode_id: yangyongqiang0606
   - gitcode_id: zhujingjing
+  - gitcode_id: liyuewei
+  - gitcode_id: niuyuhu
   entry_configs:
   - path:
     - super_kernel/src/superkernel/__init__.py
