@@ -120,6 +120,11 @@ repositories:
     - gitcode_id: jason_yuan_ye
     - gitcode_id: arthur_morgan_hw
     - gitcode_id: lijunyu_111
+    - gitcode_id: zhanj
+    - gitcode_id: depeng1994
+    - gitcode_id: yangyongqiang0606
+    - gitcode_id: zhujingjing
+    - gitcode_id: wangxiaotian995
   - path:
     - compiler/engines/cpu_engine
     committers:
