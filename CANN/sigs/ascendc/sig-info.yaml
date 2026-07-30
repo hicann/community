@@ -264,6 +264,102 @@ repositories:
       - gitcode_id: jiangtao_rts
 
 - repo:
+  - cann/asc-comm
+  committers:
+  - gitcode_id: shi_nanxiang
+  - gitcode_id: dengjing_aoe
+  - gitcode_id: YeZZzzz1
+  - gitcode_id: DragonBornHD84
+  - gitcode_id: zhanghao_0689
+  - gitcode_id: suqwe
+  - gitcode_id: kong0808
+  - gitcode_id: jiangxinyu3
+  - gitcode_id: bluesky901
+  - gitcode_id: hyolee
+  - gitcode_id: chenma
+  - gitcode_id: changxianyu
+  - gitcode_id: xiaoting624
+  - gitcode_id: bianque
+  - gitcode_id: houyuyang
+  - gitcode_id: mlidongfeng
+  - gitcode_id: qin437231
+  - gitcode_id: yanqingshang
+  entry_configs:
+  - path:
+    - cmake
+    committers:
+    - gitcode_id: DragonBornHD84
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: chenma
+    - gitcode_id: zhanghao_0689
+  - path:
+    - .gitcode
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: mywaaagh_admin
+    - gitcode_id: shentukangjun
+    - gitcode_id: Larry_liuyi
+    - gitcode_id: tanghaoran7
+  - path:
+    - docs
+    committers:
+    - gitcode_id: suqwe
+    - gitcode_id: xiaoting624
+    - gitcode_id: changxianyu
+    - gitcode_id: zhanghao_0689
+    - gitcode_id: mlidongfeng
+    - gitcode_id: yanqingshang
+    - gitcode_id: munanhw
+    - gitcode_id: flyswa
+  - path:
+    - include
+    committers:
+    - gitcode_id: mlidongfeng
+    - gitcode_id: zhanghao_0689
+  - path:
+    - src
+    committers:
+    - gitcode_id: changxianyu
+    - gitcode_id: qin437231
+    - gitcode_id: xiaoting624
+    - gitcode_id: suqwe
+    - gitcode_id: yanqingshang
+    - gitcode_id: houyuyang
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: bluesky901
+    - gitcode_id: chenma
+    - gitcode_id: shi_nanxiang
+  - path:
+    - examples
+    committers:
+    - gitcode_id: changxianyu
+    - gitcode_id: qin437231
+    - gitcode_id: xiaoting624
+    - gitcode_id: suqwe
+    - gitcode_id: yanqingshang
+    - gitcode_id: houyuyang
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: bluesky901
+    - gitcode_id: chenma
+    - gitcode_id: shi_nanxiang
+  - path:
+    - tests
+    committers:
+    - gitcode_id: changxianyu
+    - gitcode_id: qin437231
+    - gitcode_id: xiaoting624
+    - gitcode_id: suqwe
+    - gitcode_id: yanqingshang
+    - gitcode_id: houyuyang
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: bluesky901
+    - gitcode_id: chenma
+    - gitcode_id: shi_nanxiang
+
+- repo:
   - cann/pyasc
   committers:
   - gitcode_id: qin437231
