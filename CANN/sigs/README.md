@@ -5,6 +5,7 @@ CANN社区由多个Special Interest Groups（SIGs）组成，每个SIG负责特�
 | SIG名称 | 简要描述                                                                                   |
 |---------|----------------------------------------------------------------------------------------|
 | [aal](./aal/README.md) | 领域加速库（Ascend Accelerated Libraries，简称aal）针对昇腾AI平台，提供特定领域的算子、算法、工具实现。                   |
+| [ai-for-ran](./ai-for-ran/README.md) | 面向 6G 无线接入网智能化，聚焦信道表征与估计、无反馈 MIMO、多基站协作与智能定位等通信专用 AI 样例。 |
 | [ascendc](./ascendc/README.md) | Ascend C是面向昇腾AI处理器的专用算子开发语言，提供对底层芯片的完整编程能力，助力实现算子极致性能。                                 |
 | [asnumpy](./asnumpy/README.md) | 深度支持昇腾NPU并高度兼容numpy接口的轻量级Python数学运算库，基于pybind11封装华为Ascend C算子库。                        |
 | [cannbot](./cannbot/README.md) | CANN社区Agent智能体兴趣小组，为社区提供AI辅助开发、算子生成、生态建设的智能体最佳实践。                                      |

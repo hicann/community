@@ -389,3 +389,14 @@ sigs:
       - gitcode_id: pcrypto96
         name: 彭聪
         email: cpeng@whu.edu.cn
+  - sig_name: ai-for-ran
+    maintainers:
+    - gitcode_id: gcw_u7SnCGH7
+      name: 周海波
+      email: haibozhou@nju.edu.cn
+    - gitcode_id: zuzy-2012
+      name: 张朝阳
+      email: diccenter@zju.edu.cn
+    - gitcode_id: chenjch
+      name: 陈嘉成
+      email: jiacheng1989@gmail.com

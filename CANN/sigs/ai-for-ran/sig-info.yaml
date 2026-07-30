@@ -1,0 +1,29 @@
+name: ai-for-ran
+description: 面向 6G 无线接入网智能化的 CANN 社区 SIG，聚焦 AI 与 RAN 深度融合，在昇腾 NPU 与昇腾适配环境下沉淀信道表征与估计、无反馈 MIMO、多基站协作与智能定位等可运行、可复现的通信专用 AI 样例。
+mailing_list: ai-for-ran@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-ai-for-ran
+
+committers:
+- gitcode_id: JLiu
+  name: 柳景博
+  email: jingboliu@nju.edu.cn
+- gitcode_id: Yuhang_Shi
+  name: 石宇航
+  email: yuhangshi@smail.nju.edu.cn
+- gitcode_id: weixin_46675887
+  name: 孙泽宇
+  email: zeyusun@smail.nju.edu.cn
+- gitcode_id: qq_56352737
+  name: 周伟杰
+  email: wj_zhou@zju.edu.cn
+- gitcode_id: AnnBurger
+  name: 安通
+  email: antoon@zju.edu.cn
+- gitcode_id: weixin_44863193
+  name: 刘宗熙
+  email: 1754627980@qq.com
+- gitcode_id: WNNWLL
+  name: 王宁
+  email: ning22668800@gmail.com
+
+repositories: []
