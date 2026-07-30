@@ -16,6 +16,7 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: wangrui_
   - gitcode_id: zl_hw
+  - gitcode_id: pingchuantang
   entry_configs:
   - path:
     - .gitcode
@@ -106,6 +107,7 @@ repositories:
   - gitcode_id: liu-wei
   - gitcode_id: zhangzijie
   - gitcode_id: zl_hw
+  - gitcode_id: pingchuantang
   entry_configs:
   - path:
     - .gitcode
@@ -191,6 +193,7 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
+    - gitcode_id: pingchuantang
   - path:
     - image/resize_nearest_neighbor_v2
     - image/resize_nearest_neighbor_v2_grad
@@ -266,6 +269,7 @@ repositories:
     - gitcode_id: wei-peng-1991
     - gitcode_id: songkai111
     - gitcode_id: yu-xinjie62
+    - gitcode_id: pingchuantang
   branch_configs:
   - branch:
     - 9.0.0
@@ -310,6 +314,7 @@ repositories:
   - gitcode_id: zhanw_coding
   - gitcode_id: andong_hw
   - gitcode_id: xuejinghui
+  - gitcode_id: pingchuantang
   entry_configs:
   - path:
     - .gitcode
@@ -373,6 +378,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - conversion/broadcast_to
     - conversion/circular_pad
@@ -435,6 +441,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - conversion/split_v
     committers:
@@ -453,6 +460,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - math/abs
     - math/cast
@@ -492,6 +500,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - math/accumulate_nv2
     - math/acos
@@ -592,6 +601,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - math/add_lora
     - math/transform_bias_rescale_qkv
@@ -613,6 +623,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - math/stft
     committers:
@@ -650,6 +661,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - math/search_sorted
     - math/right_shift
@@ -670,6 +682,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - math/segsum
     committers:
@@ -691,6 +704,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - math/rfft1_d
     committers:
@@ -708,6 +722,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   - path:
     - experimental
     committers:
@@ -738,6 +753,7 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: pingchuantang
   branch_configs:
   - branch:
     - 9.0.0
@@ -792,6 +808,7 @@ repositories:
   - gitcode_id: llimwang
   - gitcode_id: zl_hw
   - gitcode_id: yangyang016
+  - gitcode_id: pingchuantang
   entry_configs:
   - path:
     - .gitcode
@@ -809,6 +826,7 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: zl_hw
   - gitcode_id: wangrui_
+  - gitcode_id: pingchuantang
   entry_configs:
   - path:
     - .gitcode
@@ -846,6 +864,8 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: Chunrong
   - gitcode_id: gcw_9tG1ncgm
+  - gitcode_id: pingchuantang
+  - gitcode_id: nickzhou96
   entry_configs:
   - path:
     - .gitcode
