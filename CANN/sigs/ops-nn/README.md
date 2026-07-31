@@ -79,6 +79,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 柳宗谷[@LiuZonggu](https://gitcode.com/LiuZonggu), *liuzonggu1@huawei.com*
 - 刘泱[@liuyang_806](https://gitcode.com/liuyang_806), *liuyang930@hisilicon.com*
 - 曾娟[@zengjuan](https://gitcode.com/zengjuan), *zengjuan2@huawei.com*
+- 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 
 ### 细分领域：
 ### foreach、activation、norm committer列表：
@@ -88,6 +89,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 黄迪[@kevin_huang1234](https://gitcode.com/kevin_huang1234), *kevin.huangdi@huawei.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
+- 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 
 ### quant committer列表：
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
@@ -101,6 +103,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 徐炳麟[@xubinglin](https://gitcode.com/xubinglin), *xubinglin@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 - 刘泱[@liuyang_806](https://gitcode.com/liuyang_806/), *liuyang930@hisilicon.com*
+- 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 
 ### control committer列表：
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
@@ -113,18 +116,21 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 黄迪[@kevin_huang1234](https://gitcode.com/kevin_huang1234), *kevin.huangdi@huawei.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
+- 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 
 ### vfusion、loss、optim committer列表：
 - 於欣洁[@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 陈风[@chenfeng61](https://gitcode.com/chenfeng61), *chenfeng61@huawei.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
+- 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 
 ### rnn、pooling committer列表：
 - 刘闯[@liuchuangdev](https://gitcode.com/liuchuangdev), *liuchuang51@huawei.com*
 - 黄迪[@kevin_huang1234](https://gitcode.com/kevin_huang1234), *kevin.huangdi@huawei.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
+- 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 
 ### matmul committer列表：
 - 范其瑞[@fanqirui](https://gitcode.com/fanqirui), *fanqirui1@huawei.com*
