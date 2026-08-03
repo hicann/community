@@ -19,6 +19,9 @@ repositories:
   - gitcode_id: crystalhu
     name: 胡碧霞
     email: hubixia1@huawei.com
+  - gitcode_id: chaotang233
+    name: 唐超
+    email: tangchao47@hisilicon.com
   - gitcode_id: fanqirui
     name: 范其瑞
     email: fanqirui1@huawei.com
@@ -128,7 +131,7 @@ repositories:
       email: yangyang306@hisilicon.com
     - gitcode_id: chaotang233
       name: 唐超
-      email: tangchao47@huawei.com
+      email: tangchao47@hisilicon.com
   - path:
     - foreach
     - activation
@@ -377,7 +380,7 @@ repositories:
       email: suyueming@huawei.com  
     - gitcode_id: chaotang233
       name: 唐超
-      email: tangchao47@huawei.com
+      email: tangchao47@hisilicon.com
     - gitcode_id: zhajianqing123
       name: 查建青
       email: zhajianqing@huawei.com
