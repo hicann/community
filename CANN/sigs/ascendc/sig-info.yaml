@@ -40,6 +40,19 @@ repositories:
     - gitcode_id: xun_zhuge
     - gitcode_id: chentianyu19
   - path:
+    - cmake/third_party
+    committers:
+    - gitcode_id: xun_zhuge
+    - gitcode_id: chentianyu19
+    - gitcode_id: suqwe
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: DragonBornHD84
+    - gitcode_id: zhanghao_0689
+    - gitcode_id: bluesky901
+    - gitcode_id: YeZZzzz1
+    - gitcode_id: shi_nanxiang
+    - gitcode_id: kong0808
+  - path:
     - .gitcode
     committers:
     - gitcode_id: songchangxia
