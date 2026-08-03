@@ -120,6 +120,7 @@ repositories:
     - gitcode_id: jiang-lirui
     - gitcode_id: zzy__
     - gitcode_id: haijie_699874
+    - gitcode_id: shasha_an
 
   - path:
     - "attention/common/op_kernel/memcopy"
@@ -177,6 +178,7 @@ repositories:
     - gitcode_id: xuanyuandy
     - gitcode_id: L_Euler
     - gitcode_id: hz36amy_00
+    - gitcode_id: shasha_an
 
   - path:
     - ffn
