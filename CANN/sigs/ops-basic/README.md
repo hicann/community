@@ -80,7 +80,7 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 
 ### 会议组织
 
-- 公开的会议时间：北京时间，两周一次例会，单周(每月第一、第三周，节假日跳过)周四下午14:15-16:00
+- 公开的会议时间：北京时间，两周一次例会，周三下午16:00-17:30，详细见[CANN开源社区会议日历](https://meeting.osinfra.cn/cann/)
 - [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-basic)
 - [会议地址](https://meeting.osinfra.cn/cann/)
 
