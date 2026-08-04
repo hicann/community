@@ -38,7 +38,6 @@ P2P、零拷贝、共享内存等跨机跨设备内存管理机制进一步完�
 
 ### Maintainer列表
 
-* 唐贵金 [@tangguijin](https://gitcode.com/tangguijin), *[tangguijin@huawei.com](mailto:tangguijin@huawei.com)*
 * 潘玉园  [@Panyuyuan](https://gitcode.com/panyuyuan), *[panyuyuan@huawei.com](mailto:panyuyuan@huawei.com)*
 * 冯呈祥 [@ad_cx](https://gitcode.com/ad_cx), *[fengchengxiang@huawei.com](mailto:fengchengxiang@huawei.com)*
 * 李胜 [@lishengvictor](https://gitcode.com/lishengvictor), *[victor.lisheng@huawei.com](mailto:victor.lisheng@huawei.com)*

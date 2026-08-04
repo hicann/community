@@ -187,9 +187,6 @@ sigs:
         email: yuanjiang@huawei.com
   - sig_name: driver
     maintainers:
-      - gitcode_id: tangguijin
-        name: 唐贵金
-        email: tangguijin@huawei.com
       - gitcode_id: Panyuyuan
         name: 潘玉园
         email: panyuyuan@huawei.com
