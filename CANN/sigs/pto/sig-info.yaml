@@ -33,14 +33,6 @@ repositories:
     - gitcode_id: make_pto
   entry_configs:
   - path:
-    - .gitcode
-    committers:
-    - gitcode_id: songchangxia
-    - gitcode_id: mywaaagh_admin
-    - gitcode_id: shentukangjun
-    - gitcode_id: Larry_liuyi
-    - gitcode_id: tanghaoran7
-  - path:
     - docs
     committers:
     - gitcode_id: linjiashu
@@ -55,15 +47,6 @@ repositories:
     - gitcode_id: yinjie27_
     - gitcode_id: DCGDDD
     - gitcode_id: jason_yuan_ye
-    entry_configs:
-    - path:
-      - .gitcode
-      committers:
-      - gitcode_id: songchangxia
-      - gitcode_id: mywaaagh_admin
-      - gitcode_id: shentukangjun
-      - gitcode_id: Larry_liuyi
-      - gitcode_id: tanghaoran7
   - branch:
     - br_0.1.1_20260313_beta
     committers:
@@ -71,41 +54,6 @@ repositories:
     - gitcode_id: yinjie27_
     - gitcode_id: DCGDDD
     - gitcode_id: jason_yuan_ye
-    entry_configs:
-    - path:
-      - .gitcode
-      committers:
-      - gitcode_id: songchangxia
-      - gitcode_id: mywaaagh_admin
-      - gitcode_id: shentukangjun
-      - gitcode_id: Larry_liuyi
-      - gitcode_id: tanghaoran7
-  - branch:
-    - 9.0.0
-    - 9.1.0
-    - 9.1.0-beta.2
-    committers:
-    - gitcode_id: gcw_kUomxQ2l
-    - gitcode_id: Andy-lb
-    - gitcode_id: hanxiaolong
-    - gitcode_id: jiangtao_rts
-    entry_configs: 
-    - path:
-      - ".gitcode/**"
-      committers:
-      - gitcode_id: songchangxia
-      - gitcode_id: mywaaagh_admin
-      - gitcode_id: shentukangjun
-      - gitcode_id: Larry_liuyi
-      - gitcode_id: tanghaoran7
-    - path:
-      - "*"
-      committers:
-      - gitcode_id: gcw_kUomxQ2l
-      - gitcode_id: Andy-lb
-      - gitcode_id: hanxiaolong
-      - gitcode_id: jiangtao_rts
-
 - repo:
     - cann/pypto-gym
   committers:
@@ -123,15 +71,6 @@ repositories:
     - gitcode_id: gaoxiang618
     - gitcode_id: wangbing110
     - gitcode_id: xinweiliu
-  entry_configs:
-  - path:
-    - .gitcode
-    committers:
-    - gitcode_id: songchangxia
-    - gitcode_id: mywaaagh_admin
-    - gitcode_id: shentukangjun
-    - gitcode_id: Larry_liuyi
-    - gitcode_id: tanghaoran7
   branch_configs: []
 
 - repo:
@@ -150,14 +89,6 @@ repositories:
     - gitcode_id: kerwinair
   entry_configs:
     - path:
-      - .gitcode
-      committers:
-      - gitcode_id: songchangxia
-      - gitcode_id: mywaaagh_admin
-      - gitcode_id: shentukangjun
-      - gitcode_id: Larry_liuyi
-      - gitcode_id: tanghaoran7
-    - path:
         - docs
       committers:
         - gitcode_id: SherwinBai
@@ -166,29 +97,3 @@ repositories:
         - gitcode_id: shengxinchen
         - gitcode_id: echo_stone
         - gitcode_id: kerwinair
-  branch_configs:
-  - branch:
-    - 9.0.0
-    - 9.1.0
-    - 9.1.0-beta.2
-    committers:
-    - gitcode_id: gcw_kUomxQ2l
-    - gitcode_id: Andy-lb
-    - gitcode_id: hanxiaolong
-    - gitcode_id: jiangtao_rts
-    entry_configs: 
-    - path:
-      - ".gitcode/**"
-      committers:
-      - gitcode_id: songchangxia
-      - gitcode_id: mywaaagh_admin
-      - gitcode_id: shentukangjun
-      - gitcode_id: Larry_liuyi
-      - gitcode_id: tanghaoran7
-    - path:
-      - "*"
-      committers:
-      - gitcode_id: gcw_kUomxQ2l
-      - gitcode_id: Andy-lb
-      - gitcode_id: hanxiaolong
-      - gitcode_id: jiangtao_rts

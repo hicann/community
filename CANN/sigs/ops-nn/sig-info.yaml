@@ -36,14 +36,6 @@ repositories:
     email: tangpingchuan@huawei.com
   entry_configs:
   - path:
-    - .gitcode
-    committers:
-    - gitcode_id: songchangxia
-    - gitcode_id: mywaaagh_admin
-    - gitcode_id: shentukangjun
-    - gitcode_id: Larry_liuyi
-    - gitcode_id: tanghaoran7
-  - path:
     - docs
     - "*/*/docs/acl*.md"
     - "*/*/README.md"
@@ -447,38 +439,6 @@ repositories:
     - gitcode_id: pingchuantang
       name: 汤平川
       email: tangpingchuan@huawei.com
-  branch_configs:
-  - branch:
-    - 9.0.0
-    - 9.1.0
-    - 9.1.0-beta.2
-    committers:
-    - gitcode_id: gcw_kUomxQ2l
-    - gitcode_id: Andy-lb
-    - gitcode_id: hanxiaolong
-      name: 韩小龙
-      email: xiaolong.han@huawei.com
-    - gitcode_id: jiangtao_rts
-    - gitcode_id: gitcode-chenjiao
-    entry_configs: 
-    - path:
-      - ".gitcode/**"
-      committers:
-      - gitcode_id: songchangxia
-      - gitcode_id: mywaaagh_admin
-      - gitcode_id: shentukangjun
-      - gitcode_id: Larry_liuyi
-      - gitcode_id: tanghaoran7
-    - path:
-      - "*"
-      committers:
-      - gitcode_id: gcw_kUomxQ2l
-      - gitcode_id: Andy-lb
-      - gitcode_id: hanxiaolong
-        name: 韩小龙
-        email: xiaolong.han@huawei.com
-      - gitcode_id: jiangtao_rts
-      - gitcode_id: gitcode-chenjiao
 - repo:
   - cann/ops-tensor
   committers:
@@ -503,40 +463,3 @@ repositories:
   - gitcode_id: LinPX
     name: 林鹏翔
     email: linpengxiang1@hisilicon.com
-  entry_configs:
-  - path:
-    - .gitcode
-    committers:
-    - gitcode_id: songchangxia
-    - gitcode_id: mywaaagh_admin
-    - gitcode_id: shentukangjun
-    - gitcode_id: Larry_liuyi
-    - gitcode_id: tanghaoran7
-  branch_configs:
-  - branch:
-    - 9.1.0
-    committers:
-    - gitcode_id: gcw_kUomxQ2l
-    - gitcode_id: Andy-lb
-    - gitcode_id: hanxiaolong
-      name: 韩小龙
-      email: xiaolong.han@huawei.com
-    - gitcode_id: jiangtao_rts
-    entry_configs:
-    - path:
-      - ".gitcode/**"
-      committers:
-      - gitcode_id: songchangxia
-      - gitcode_id: mywaaagh_admin
-      - gitcode_id: shentukangjun
-      - gitcode_id: Larry_liuyi
-      - gitcode_id: tanghaoran7
-    - path:
-      - "*"
-      committers:
-      - gitcode_id: gcw_kUomxQ2l
-      - gitcode_id: Andy-lb
-      - gitcode_id: hanxiaolong
-        name: 韩小龙
-        email: xiaolong.han@huawei.com
-      - gitcode_id: jiangtao_rts
