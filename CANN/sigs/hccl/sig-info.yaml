@@ -321,6 +321,13 @@ repositories:
 
     - path:
       - src/base_comm/resources/hccp/inc/network
+      committers:
+      - gitcode_id: yangxiaoyuan
+      - gitcode_id: zhongqin2020
+      - gitcode_id: yanyefeng
+      - gitcode_id: wenxuemin
+
+    - path:
       - src/base_comm/resources/hccp/external_depends
       - src/base_comm/resources/hccp/inc/private/network/rdma_lite_common.h
       - src/base_comm/resources/hccp/rdma_service/rs_inner.h
