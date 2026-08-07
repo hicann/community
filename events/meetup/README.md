@@ -34,6 +34,7 @@
 ## CANN开源开放系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260806 | Agent-Friendly范式探索: 基于CANNBot的高性能复杂算子生成 | sig-cannbot | [链接](./slides/sig-cannbot/20260806) | [链接](https://www.bilibili.com/video/BV1Pdun6ZEgx/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260724 | 从“会炫技”到“会工作”:人形机器人如何真正走进现实世界 | sig-embodied-ai | [链接](./slides/sig-embodied-ai/20260724) | [链接](https://www.bilibili.com/video/BV1mrge6BEvh/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260722 | Graph-autofusion自动融合技术解读 | sig-ge | [链接](./slides/sig-ge/20260722) | [链接](https://www.bilibili.com/video/BV1wxgk6QEmn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260616 | Ascend C 开源资料及样例分享 | sig-ascendc | [链接](./slides/sig-ascendc/20260616) | [链接](https://www.bilibili.com/video/BV1tdjV6cEEP/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
