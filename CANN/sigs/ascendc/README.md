@@ -1,5 +1,5 @@
 # Ascend C SIG
-[Ascend C](https://www.hiascend.com/cann/ascend-c)是面向昇腾AI处理器的专用算子开发语言。它在标准C/C++基础上进行扩展，全面遵循C/C++规范，提供对底层芯片的完整编程能力，助力实现算子极致性能。同时，Ascend C 通过构建多层次编程接口，适应不同场景的算子开发需求，贴近业界开发习惯，显著提升开发效率。
+[Ascend C](https://asc.gitcode.com)是面向昇腾AI处理器的专用算子开发语言。它在标准C/C++基础上进行扩展，全面遵循C/C++规范，提供对底层芯片的完整编程能力，助力实现算子极致性能。同时，Ascend C 通过构建多层次编程接口，适应不同场景的算子开发需求，贴近业界开发习惯，显著提升开发效率。
 
 Ascend C总体逻辑架构图如下所示：
 
@@ -66,16 +66,9 @@ Ascend C总体逻辑架构图如下所示：
     - 傅珺[@fujun19](https://gitcode.com/fujun19), *fujun19@hisilicon.com*
 
 # 项目路标
-- 2025/11: 基于A2/A3 AscendC 能力全面开源开放；新增PyAsc基于A2/A3提供Python前端完备编程能力；
-- 2025/12: 基于A2/A3 AscendC 开放语言扩展层C API，提供业界类似的C API编程体验；
-- 2026上半年：
-    - 基于A5 全面开放SIMT、SIMD/SIMT新同构编程、基于寄存器的SIMD编程能力；
-    - 基于A2/A3/A5 基础API全面支持Tensor Tile API，基于Layout支持Tile编程；
-    - PyAsc前端支持基于Layout实现Tensor编程，提供业界类似的Tensor编程体验；
-    - 基于Asc仓发布AscendC Lower Level IR(ASC IR，基于MLIR)
-- 2026年下半年：
-    - 持续完善设备侧类库，完善生态支持；
-    - 发布AscendC High Level IR(ASC IR，基于MLIR)
+
+- [Ascend C Development Roadmap (2026 Q2)](https://gitcode.com/cann/asc-devkit/issues/316)；
+- [Ascend C Development Roadmap (2026 Q3)](https://gitcode.com/cann/asc-devkit/issues/938)；
 
 # TOP外部优秀贡献者
   - 苏统华[@sutonghua](https://gitcode.com/sutonghua), *tonghuasu@gmail.com*
