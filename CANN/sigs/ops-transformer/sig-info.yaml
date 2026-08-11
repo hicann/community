@@ -171,6 +171,7 @@ repositories:
     - gitcode_id: L_Euler
     - gitcode_id: hz36amy_00
     - gitcode_id: shasha_an
+    - gitcode_id: guijianwei
 
   - path:
     - ffn
