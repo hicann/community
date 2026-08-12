@@ -72,6 +72,7 @@ repositories:
   - gitcode_id: zhangzijie
   - gitcode_id: zl_hw
   - gitcode_id: pingchuantang
+  - gitcode_id: yue-ma
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -101,6 +102,7 @@ repositories:
     - gitcode_id: rxtfeng
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
+    - gitcode_id: yue-ma
   - path:
     - image/grid_sample
     - image/grid_sample2_d
@@ -118,6 +120,7 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
+    - gitcode_id: yue-ma
   - path:
     - image/image_warp_offsets
     committers:
@@ -128,6 +131,7 @@ repositories:
     - gitcode_id: rxtfeng
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
+    - gitcode_id: yue-ma
   - path:
     - image/resize_bicubic_v2
     - image/resize_bicubic_v2_grad
@@ -150,6 +154,7 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
   - path:
     - image/resize_nearest_neighbor_v2
     - image/resize_nearest_neighbor_v2_grad
@@ -182,6 +187,7 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
+    - gitcode_id: yue-ma
   - path:
     - objdetect/iou_v2
     - objdetect/non_max_suppression_v6
@@ -198,6 +204,7 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
+    - gitcode_id: yue-ma
   - path:
     - experimental
     committers:
@@ -226,6 +233,7 @@ repositories:
     - gitcode_id: songkai111
     - gitcode_id: yu-xinjie62
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
 - repo:
   - cann/ops-math
   committers:
@@ -243,6 +251,8 @@ repositories:
   - gitcode_id: andong_hw
   - gitcode_id: xuejinghui
   - gitcode_id: pingchuantang
+  - gitcode_id: yue-ma
+  - gitcode_id: chenxingyu18
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -299,6 +309,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - conversion/broadcast_to
     - conversion/circular_pad
@@ -362,6 +374,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - conversion/split_v
     committers:
@@ -381,6 +395,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/abs
     - math/cast
@@ -421,6 +437,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/accumulate_nv2
     - math/acos
@@ -522,6 +540,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/add_lora
     - math/transform_bias_rescale_qkv
@@ -544,6 +564,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/stft
     committers:
@@ -563,6 +585,8 @@ repositories:
     - gitcode_id: zhanw_coding
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/cumsum
     committers:
@@ -582,6 +606,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/search_sorted
     - math/right_shift
@@ -603,6 +629,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/segsum
     committers:
@@ -625,6 +653,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - math/rfft1_d
     committers:
@@ -643,6 +673,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
   - path:
     - experimental
     committers:
@@ -674,6 +706,8 @@ repositories:
     - gitcode_id: andong_hw
     - gitcode_id: xuejinghui
     - gitcode_id: pingchuantang
+    - gitcode_id: yue-ma
+    - gitcode_id: chenxingyu18
 - repo:
   - cann/atvoss
   committers:
