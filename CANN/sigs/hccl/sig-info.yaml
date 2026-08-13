@@ -60,7 +60,7 @@ repositories:
       - cmake
       - scripts
       committers:
-      - gitcode_id: chengym
+      - gitcode_id: bz_lee
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: chenhao_
@@ -182,6 +182,7 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: chenhao_
+      - gitcode_id: temper7620
 
     - path:
       - src/legacy/ascend910/common
@@ -192,6 +193,7 @@ repositories:
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
       - gitcode_id: leabclove
+      - gitcode_id: temper7620
 
     - path:
       - src/legacy/ascend910/framework
@@ -205,7 +207,7 @@ repositories:
     - path:
       - src/legacy/ascend910/algorithm
       committers:
-      - gitcode_id: chengym
+      - gitcode_id: bz_lee
       - gitcode_id: chenhao_
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
@@ -222,7 +224,7 @@ repositories:
     - path:
       - src/legacy/ascend950/service/collective/alg
       committers:
-      - gitcode_id: chengym
+      - gitcode_id: bz_lee
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
 
@@ -308,12 +310,13 @@ repositories:
       - test
       committers:
       - gitcode_id: dingweiqin_57
-      - gitcode_id: chengym
+      - gitcode_id: bz_lee
       - gitcode_id: chenke2026
       - gitcode_id: Innoecho
       - gitcode_id: chenhao_
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
+      - gitcode_id: temper7620
 
     - path:
       - test/hccl_vm
