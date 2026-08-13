@@ -58,6 +58,7 @@ repositories:
   - gitcode_id: peiyang
   - gitcode_id: yangyongqiang0606
   - gitcode_id: Mexyy
+  - gitcode_id: ClarkXie
   entry_configs:
   - path:
     - inc/external
