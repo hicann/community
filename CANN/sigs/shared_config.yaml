@@ -20,3 +20,9 @@ entry_configs:
     - gitcode_id: shentukangjun
     - gitcode_id: Larry_liuyi
     - gitcode_id: tanghaoran7
+  - path:
+    - .gitsubmodule
+    committers:
+    - gitcode_id: songchangxia
+    - gitcode_id: hanxiaolong
+    - gitcode_id: songkunpeng
