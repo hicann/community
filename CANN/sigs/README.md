@@ -10,7 +10,7 @@ CANN社区由多个Special Interest Groups（SIGs）组成，每个SIG负责特�
 | [asnumpy](./asnumpy/README.md) | 深度支持昇腾NPU并高度兼容numpy接口的轻量级Python数学运算库，基于pybind11封装华为Ascend C算子库。                        |
 | [cannbot](./cannbot/README.md) | CANN社区Agent智能体兴趣小组，为社区提供AI辅助开发、算子生成、生态建设的智能体最佳实践。                                      |
 | [catlass](./catlass/README.md) | 昇腾算子模板库，聚焦于提供高性能矩阵乘类算子基础模板的代码库，负责CATLASS的版本规划与技术方案。                                    |
-| [crypto](./crypto/README.md) | 围绕昇腾NPU打造高性能密码软件库，作为CANN生态的密码计算公共能力层，提供高性能密码算子与算法实现，补齐AI安全、隐私、可信场景的密码计算能力。 |
+| [crypto](./crypto/README.md) | 密码学兴趣小组，围绕昇腾NPU打造高性能密码软件库，提供丰富的密码算子与算法实现。 |
 | [doc](./doc/README.md) | 管理CANN开源开放项目的文档开发工作，致力于为开发者提供具备竞争力的文档体验。                                               |
 | [driver](./driver/README.md) | 专注于CANN生态中驱动软件的设计、开发、维护与性能优化，提供基础驱动、设备管理、资源管理及调度、通信能力等功能。                              |
 | [electrical-engineering](./electrical-engineering/README.md) | 电力行业算子库兴趣小组，联合电网、电力行业科研院所、设备厂家等，补齐和完善电力领域在仿真求解、负荷预测、装备巡检等场景的算子库。                       |

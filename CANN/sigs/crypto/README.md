@@ -1,6 +1,6 @@
 # crypto SIG
 
-crypto SIG 是聚焦密码计算的兴趣小组，围绕昇腾 NPU 打造高性能密码软件库，作为 CANN 生态的密码计算公共能力层，致力于补齐"可调用、可验证、可优化"的 NPU 密码计算底座，支撑可信 AI 与数据安全。
+crypto SIG 是密码学兴趣小组，围绕昇腾 NPU 打造高性能密码软件库，提供丰富的密码算子与算法实现。
 
 # 工作目标
 
@@ -26,6 +26,7 @@ crypto SIG 是聚焦密码计算的兴趣小组，围绕昇腾 NPU 打造高性�
 - 王雯哲[@wenzhe_wang](https://gitcode.com/wenzhe_wang)
 - 纪昌龙[@changlongji](https://gitcode.com/changlongji)
 - 王江波[@Jiangbowang](https://gitcode.com/Jiangbowang)
+- 袁壄[@jfcm1024](https://gitcode.com/jfcm1024)
 
 # 社区运作
 
