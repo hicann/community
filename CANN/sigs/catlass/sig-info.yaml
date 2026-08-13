@@ -21,6 +21,7 @@ repositories:
   - gitcode_id: xiaoting624
   - gitcode_id: chenma
   - gitcode_id: mdrumond
+  - gitcode_id: weixin_63557130
   entry_configs: 
   - path: 
     - tools
