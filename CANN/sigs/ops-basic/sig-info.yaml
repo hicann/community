@@ -17,6 +17,7 @@ repositories:
   - gitcode_id: wangrui_
   - gitcode_id: zl_hw
   - gitcode_id: pingchuantang
+  - gitcode_id: pengjiahao96
   entry_configs:
   - path:
     - aicpu_common
