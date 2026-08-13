@@ -3,22 +3,22 @@
 ## CANN NEXT系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260722 | 昇腾950NPU架构白皮书深度解读 |  | [链接](./slides/950/20260722) | [链接](https://www.bilibili.com/video/BV15Cgk6gETw/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260722 | 昇腾950NPU架构白皮书深度解读 | - | [链接](./slides/950/20260722) | [链接](https://www.bilibili.com/video/BV15Cgk6gETw/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260629 | Ascend C面向Tensor编程全新升级：Tensor API | sig-ascendc | [链接](./slides/sig-ascendc/20260629) | [链接](https://www.bilibili.com/video/BV1dfKU6UEGZ/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260626 | Vector Function高性能编程指南（二） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260626) | [链接](https://www.bilibili.com/video/BV1ZH7V6jEYW/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260625 | Vector Function高性能编程指南（一） | sig-ops-basic | [链接](./slides/sig-ops-basic/20260625) | [链接](https://www.bilibili.com/video/BV1ZD786hEiG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260624 | 基于昇腾的OSP-Next文生视频模型HiF8训推优化实践 |  | [链接](./slides/950/20260624) | [链接](https://www.bilibili.com/video/BV1YHjZ6wEZB/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260624 | 基于昇腾的OSP-Next文生视频模型HiF8训推优化实践 | - | [链接](./slides/950/20260624) | [链接](https://www.bilibili.com/video/BV1YHjZ6wEZB/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260623 | Mega MoE技术介绍 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20260623) | [链接](https://www.bilibili.com/video/BV1XWj26cEGh/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260609 | cann-samples:算子性能优化经验分享 | sig-ops-basic | [链接](./slides/sig-ops-basic/20260609) | [链接](https://www.bilibili.com/video/BV1QuEE69EdD/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260608 | Regbase进阶编程&调优工具FlashVF实操演练 |  | [链接](./slides/950/20260608) | [链接](https://www.bilibili.com/video/BV1KmEg6dEmE/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260608 | Regbase进阶编程&调优工具FlashVF实操演练 | - | [链接](./slides/950/20260608) | [链接](https://www.bilibili.com/video/BV1KmEg6dEmE/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260326 | PTO ISA带你快速上手Ascend 950 | sig-pto | [链接](./slides/950/20260326) | [链接](https://www.bilibili.com/video/BV1eLX8BuETT/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260324 | HCCL集合通信专用引擎CCU技术介绍 | sig-hccl | [链接](./slides/950/20260324) | [链接](https://www.bilibili.com/video/BV1AEQmBTEWy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260323 | HiFloat8数据格式及其训推应用 |  | [链接](./slides/950/20260323) | [链接](https://www.bilibili.com/video/BV1cDXwBrEWR/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260320 | 探索Ascend 950的性能天花板 |  | [链接](./slides/950/20260320) | [链接](https://www.bilibili.com/video/BV1fhAHzHERg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260319 | 加速开发、释放生产力的必备利器 |  | [链接](./slides/950/20260319) | [链接](https://www.bilibili.com/video/BV1uPA7zsEXy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260318 | 面向Ascend 950的编程语言选型 |  | [链接](./slides/950/20260318) | [链接](https://www.bilibili.com/video/BV1egwkzYEUs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260317 | CANN 算子开发全链路体验升级 |  | [链接](./slides/950/20260317) | [链接](https://www.bilibili.com/video/BV1RGwdzzEXk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260316 | 面向Ascend 950，CANN技术架构的变与不变 |  | [链接](./slides/950/20260316) | [链接](https://www.bilibili.com/video/BV1LAw7zwEnt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260323 | HiFloat8数据格式及其训推应用 | - | [链接](./slides/950/20260323) | [链接](https://www.bilibili.com/video/BV1cDXwBrEWR/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260320 | 探索Ascend 950的性能天花板 | - | [链接](./slides/950/20260320) | [链接](https://www.bilibili.com/video/BV1fhAHzHERg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260319 | 加速开发、释放生产力的必备利器 | - | [链接](./slides/950/20260319) | [链接](https://www.bilibili.com/video/BV1uPA7zsEXy/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260318 | 面向Ascend 950的编程语言选型 | - | [链接](./slides/950/20260318) | [链接](https://www.bilibili.com/video/BV1egwkzYEUs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260317 | CANN 算子开发全链路体验升级 | - | [链接](./slides/950/20260317) | [链接](https://www.bilibili.com/video/BV1RGwdzzEXk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260316 | 面向Ascend 950，CANN技术架构的变与不变 | - | [链接](./slides/950/20260316) | [链接](https://www.bilibili.com/video/BV1LAw7zwEnt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260313 | 面向Ascend 950的性能调优必修课 | sig-tools | [链接](./slides/sig-tools/20260313) | [链接](https://www.bilibili.com/video/BV1oQcSz9Eqm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260309 | 面向Ascend 950的算子编程必修课(PyPTO) | sig-pto | [链接](./slides/sig-pto/20260309-20260312) | [链接](https://www.bilibili.com/video/BV15yPDzFEhc/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260302 | 面向Ascend 950的算子编程必修课(Ascend C) | sig-ascendc | [链接](./slides/sig-ascendc/20260302-20260306) | [链接](https://www.bilibili.com/video/BV12fAdzcEDe/?spm_id_from=333.1387.collection.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -26,10 +26,10 @@
 ## DeepSeek-V4系列直播
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260429 | DeepSeek-V4 昇腾首发：DSL 助力 DeepSeek-V4 快速适配与调优 |  | [链接](./slides/DeepSeek-V4/20260429) | [链接](https://www.bilibili.com/video/BV1vZ9SBNEPb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260428 | DeepSeek-V4 昇腾首发：基于TorchTitan的DeepSeek-V4昇腾续训练优化实践 |  | [链接](./slides/DeepSeek-V4/20260428) | [链接](https://www.bilibili.com/video/BV1639kBWEXd/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260427 | DeepSeek-V4 昇腾首发：基于昇腾950的DeepSeek-V4算子亲和优化实践 |  | [链接](./slides/DeepSeek-V4/20260427) | [链接](https://www.bilibili.com/video/BV1hEoCBEEAt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260424 | DeepSeek-V4 昇腾首发：基于CANN的训推优化实践 |  | [链接](./slides/DeepSeek-V4/20260424) | [链接](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260429 | DeepSeek-V4 昇腾首发：DSL 助力 DeepSeek-V4 快速适配与调优 | sig-recipes、sig-pto | [链接](./slides/DeepSeek-V4/20260429) | [链接](https://www.bilibili.com/video/BV1vZ9SBNEPb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260428 | DeepSeek-V4 昇腾首发：基于TorchTitan的DeepSeek-V4昇腾续训练优化实践 | sig-recipes | [链接](./slides/DeepSeek-V4/20260428) | [链接](https://www.bilibili.com/video/BV1639kBWEXd/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260427 | DeepSeek-V4 昇腾首发：基于昇腾950的DeepSeek-V4算子亲和优化实践 | sig-recipes | [链接](./slides/DeepSeek-V4/20260427) | [链接](https://www.bilibili.com/video/BV1hEoCBEEAt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260424 | DeepSeek-V4 昇腾首发：基于CANN的训推优化实践 | sig-recipes | [链接](./slides/DeepSeek-V4/20260424) | [链接](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
 ## CANN开源开放系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
@@ -75,6 +75,11 @@
 | 20251030 | DeepSeek-R1 RL训练优化实践分享 | sig-recipes | [链接](./slides/sig-recipes/20251030) | [链接](https://www.bilibili.com/video/BV1bd1WBwEyu/?share_source=copy_web&vd_source=b6f9b8499e5d2ac52b70c4306c6f632c) | 
 | 20251016 | 稀疏Attention架构：CANN适配DeepSeek-V3.2-Exp 0day全解析 | sig-recipes | [链接](./slides/sig-recipes/20251016) | [链接](https://www.bilibili.com/video/BV1m4s8zCEjg/?share_source=copy_web&vd_source=b6f9b8499e5d2ac52b70c4306c6f632c) |
 
+## CANN + X系列直播
+| 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
+|--------|------|------|------|------|
+| 20260811 | 让大模型真正理解交通：TRIP交通推理大模型与智能体实践 | sig-intelligent-transportation-system | [链接](./slides/sig-intelligent-transportation-system/20260811) | [链接](https://www.bilibili.com/video/BV1wkuy6REJB/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)|
+
 ## CANNBot系列课程直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
@@ -99,25 +104,26 @@
 ## TileLang系列课程直播
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20251029 | TileLang Ascend：让AI算子开发更简单！ |  | [链接](./slides/sig-recipes/20251029) | [链接](https://www.bilibili.com/video/BV1bd1WBwEUM/?share_source=copy_web&vd_source=b6f9b8499e5d2ac52b70c4306c6f632c) |
-| 20260421 | TileLang 典型算子性能优化 |  | [链接](./slides/sig-recipes/20260421) | [链接](https://www.bilibili.com/video/BV1fronBPEyC/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260202 | TileLang-Ascend学习周 |  | [链接]() | [链接](https://www.bilibili.com/video/BV1EdFVzpEbg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260126 | TileLang-Ascend“Developer模式“ |  | [链接](./slides/sig-recipes/20260126) | [链接](https://www.bilibili.com/video/BV1HnzZBaETk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20251029 | TileLang Ascend：让AI算子开发更简单！ | - | [链接](./slides/sig-recipes/20251029) | [链接](https://www.bilibili.com/video/BV1bd1WBwEUM/?share_source=copy_web&vd_source=b6f9b8499e5d2ac52b70c4306c6f632c) |
+| 20260421 | TileLang 典型算子性能优化 | - | [链接](./slides/sig-recipes/20260421) | [链接](https://www.bilibili.com/video/BV1fronBPEyC/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260202 | TileLang-Ascend学习周 | - | [链接]() | [链接](https://www.bilibili.com/video/BV1EdFVzpEbg/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260126 | TileLang-Ascend“Developer模式“ | - | [链接](./slides/sig-recipes/20260126) | [链接](https://www.bilibili.com/video/BV1HnzZBaETk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
 ## CANN 线下meetup
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260627 | CANN开源社区 线下meetup 上海站 |  | [链接](./slides/meetup/20260627) | [链接](https://www.bilibili.com/video/BV1emKQ69Esb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260523 | CANN核心技术演进与昇腾950集群关键技术研讨 | | [链接](./slides/meetup/20260523) |  |
-| 20260418 | CANN开源社区 线下meetup 北京站 |  | [链接](./slides/meetup/20260418) | [链接](https://www.bilibili.com/video/BV1Sfd2B9EEn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20251220 | CANN开源社区 线下meetup 杭州站 |  | [链接](./slides/meetup/20251220) | [链接](https://www.bilibili.com/video/BV161iKBkEgj/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20251206 | CANN开源社区 线下meetup 深圳站 |  | [链接](./slides/meetup/20251206) | [链接](https://www.bilibili.com/video/BV1yJiTBJE3b/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20251115 | CANN开源社区 线下meetup 北京站 |  | [链接](./slides/meetup/20251115) | [链接](https://www.bilibili.com/video/BV1yDUVBiEQr/?spm_id_from=333.1387.search.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f)  | 
+| 20260808 | CANN开源社区 线下meetup 杭州站 | - | [链接](./slides/meetup/20260808) | [链接](https://www.bilibili.com/video/BV173ud61Eba/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260627 | CANN开源社区 线下meetup 上海站 | - | [链接](./slides/meetup/20260627) | [链接](https://www.bilibili.com/video/BV1emKQ69Esb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260523 | CANN核心技术演进与昇腾950集群关键技术研讨 | - | [链接](./slides/meetup/20260523) | - |
+| 20260418 | CANN开源社区 线下meetup 北京站 | - | [链接](./slides/meetup/20260418) | [链接](https://www.bilibili.com/video/BV1Sfd2B9EEn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20251220 | CANN开源社区 线下meetup 杭州站 | - | [链接](./slides/meetup/20251220) | [链接](https://www.bilibili.com/video/BV161iKBkEgj/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20251206 | CANN开源社区 线下meetup 深圳站 | - | [链接](./slides/meetup/20251206) | [链接](https://www.bilibili.com/video/BV1yJiTBJE3b/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20251115 | CANN开源社区 线下meetup 北京站 | - | [链接](./slides/meetup/20251115) | [链接](https://www.bilibili.com/video/BV1yDUVBiEQr/?spm_id_from=333.1387.search.video_card.click&vd_source=40a01afa50d31f7f76277e5baa2faa1f)  | 
 
 ## CANN 竞赛活动
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
-| 20260721 | CANN算子天梯赛6月赛题评析与7月赛题解析 |  | [链接](./slides/cann-learning-hub/20260721) | [链接](https://www.bilibili.com/video/BV1KWKh6SEfS/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260521 | CANN社区开发者成长路径介绍+算子天梯赛发布 |  | [链接](./slides/cann-learning-hub/20260521) | [链接](https://www.bilibili.com/video/BV16mLb6oEvs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
-| 20260511 | CANN算子挑战赛(江山赛区)赛题和评分规则解读 |  | [链接](./slides/sig-ops-transformer/20260511) | [链接](https://www.bilibili.com/video/BV1r3546UE5h/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260721 | CANN算子天梯赛6月赛题评析与7月赛题解析 | - | [链接](./slides/cann-learning-hub/20260721) | [链接](https://www.bilibili.com/video/BV1KWKh6SEfS/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260521 | CANN社区开发者成长路径介绍+算子天梯赛发布 | - | [链接](./slides/cann-learning-hub/20260521) | [链接](https://www.bilibili.com/video/BV16mLb6oEvs/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260511 | CANN算子挑战赛(江山赛区)赛题和评分规则解读 | - | [链接](./slides/sig-ops-transformer/20260511) | [链接](https://www.bilibili.com/video/BV1r3546UE5h/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
