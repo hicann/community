@@ -153,6 +153,9 @@ repositories:
     - gitcode_id: pingchuantang
       name: 汤平川
       email: tangpingchuan@huawei.com
+    - gitcode_id: wangrui_
+      name: 王瑞
+      email: wangrui124@huawei.com
   - path:
     - quant
     committers:
@@ -238,6 +241,9 @@ repositories:
     - gitcode_id: pingchuantang
       name: 汤平川
       email: tangpingchuan@huawei.com
+    - gitcode_id: wangrui_
+      name: 王瑞
+      email: wangrui124@huawei.com
   - path:
     - vfusion
     - loss
