@@ -24,6 +24,8 @@ repositories:
   - gitcode_id: OpSphere
   - gitcode_id: fanyuwei_math
   - gitcode_id: gxj1123
+  - gitcode_id: vINyLogY
+  - gitcode_id: Deng_Pan
 - repo:
   - cann/cannbot-dsl
   committers:
