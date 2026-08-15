@@ -156,6 +156,9 @@ repositories:
     - gitcode_id: wangrui_
       name: 王瑞
       email: wangrui124@huawei.com
+    - gitcode_id: qianzehong
+      name: 钱泽洪
+      email: qianzehong@huawei.com
   - path:
     - quant
     committers:
@@ -195,6 +198,9 @@ repositories:
     - gitcode_id: pingchuantang
       name: 汤平川
       email: tangpingchuan@huawei.com
+    - gitcode_id: qianzehong
+      name: 钱泽洪
+      email: qianzehong@huawei.com
   - path:
     - control
     committers:
@@ -244,6 +250,9 @@ repositories:
     - gitcode_id: wangrui_
       name: 王瑞
       email: wangrui124@huawei.com
+    - gitcode_id: qianzehong
+      name: 钱泽洪
+      email: qianzehong@huawei.com
   - path:
     - vfusion
     - loss
@@ -264,6 +273,9 @@ repositories:
     - gitcode_id: pingchuantang
       name: 汤平川
       email: tangpingchuan@huawei.com
+    - gitcode_id: qianzehong
+      name: 钱泽洪
+      email: qianzehong@huawei.com
   - path:
     - rnn
     - pooling
@@ -283,6 +295,9 @@ repositories:
     - gitcode_id: pingchuantang
       name: 汤平川
       email: tangpingchuan@huawei.com
+    - gitcode_id: qianzehong
+      name: 钱泽洪
+      email: qianzehong@huawei.com
   - path:
     - matmul
     committers:
@@ -445,6 +460,9 @@ repositories:
     - gitcode_id: pingchuantang
       name: 汤平川
       email: tangpingchuan@huawei.com
+    - gitcode_id: qianzehong
+      name: 钱泽洪
+      email: qianzehong@huawei.com
 - repo:
   - cann/ops-tensor
   committers:
