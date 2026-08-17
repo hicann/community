@@ -757,3 +757,12 @@ repositories:
   - gitcode_id: gcw_9tG1ncgm
   - gitcode_id: pingchuantang
   - gitcode_id: nickzhou96
+- repo:
+  - cann/ops-ras
+  committers:
+  - gitcode_id: loov1
+  - gitcode_id: rxtfeng
+  - gitcode_id: FelixTang7
+  - gitcode_id: yue-ma
+  - gitcode_id: yu-xinjie62
+  - gitcode_id: chenxingyu18
