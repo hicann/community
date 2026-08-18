@@ -325,3 +325,21 @@ repositories:
       - gitcode_id: virtual_runtime
       - gitcode_id: ZhanPhil
       - gitcode_id: zheng555
+
+    - path:
+      - src/base_comm/primitives/api_c_adpt/hcomm_c_adpt.h
+      - src/base_comm/primitives/api_c_adpt/hcomm_c_adpt_common.h
+      - src/base_comm/primitives/api_c_adpt/hcomm_result_defs.h
+      - src/base_comm/primitives/api_c_adpt/endpoint_map.h
+      - src/base_comm/primitives/api_c_adpt/aicpu_ts_primitives_c_adpt.h
+      - src/base_comm/primitives/api_c_adpt/aicpu_ts_sync_data_c_adpt.h
+      - src/base_comm/primitives/api_c_adpt/hccl_comm_socket_c_adpt.h
+      - src/base_comm/primitives/api_c_adpt/nic_plugin/hcomm_nic_plugin.h
+      - src/base_comm/resources/endpoints/endpoint.h
+      - src/base_comm/resources/endpoint_pairs/channels/channel.h
+      - src/base_comm/resources/reged_mems/reged_mem_mgr.h
+      - src/base_comm/resources/comm_engine_res/threads/thread.h
+      committers:
+      - gitcode_id: yanyefeng
+      - gitcode_id: yanzhenghang
+      - gitcode_id: wenxuemin
