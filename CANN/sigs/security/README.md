@@ -14,15 +14,13 @@
 - 胡占锋[@HZFeng](https://gitcode.com/HZFeng), *huzhanfeng@huawei.com*
 
 ### Committer列表
-- 江起明[@cage_jiang](https://gitcode.com/cage_jiang), *jiang.qiming@hisilicon.com*
 - 李涛[@charly_litao](https://gitcode.com/charly_litao), *charly.litao@huawei.com*
-- 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
+- 王民波[@wang-minbo](https://gitcode.com/wang-minbo), *wangminbo1@hisilicon.com*
 - 王龙[@wanglong9](https://gitcode.com/wanglong9), *wanglong9@huawei.com*
 - 汤浩然[@tanghaoran7](https://gitcode.com/tanghaoran7), *tanghaoran7@huawei.com*
-- 宫少博[@gongpipi](https://gitcode.com/gongpipi), *gongshaobo2@huawei.com*
-- 何太航[@Ezreal007](https://gitcode.com/Ezreal007), *hetaihang@huawei.com*
+- 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
 - 刘志强[@JL1234](https://gitcode.com/JL1234), *liuzhiqiang1@huawei.com*
-- 刘拓[@IceT_5](https://gitcode.com/IceT_5), *liutuo10@huawei.com*
+- 赵林林[@zhaolinlin](https://gitcode.com/zhaolinlin), *zhaolinlin14@huawei.com*
 
 # 社区运作
 
