@@ -355,6 +355,9 @@ repositories:
     - gitcode_id: LiuZonggu
       name: 柳宗谷
       email: liuzonggu1@huawei.com
+    - gitcode_id: linruihan
+      name: 林睿涵
+      email: linruihan@huawei.com
   - path:
     - experimental
     committers:
@@ -463,6 +466,9 @@ repositories:
     - gitcode_id: qianzehong
       name: 钱泽洪
       email: qianzehong@huawei.com
+    - gitcode_id: linruihan
+      name: 林睿涵
+      email: linruihan@huawei.com
 - repo:
   - cann/ops-tensor
   committers:
