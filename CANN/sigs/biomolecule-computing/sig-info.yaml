@@ -1,0 +1,34 @@
+name: biomolecule-computing
+description: 面向生命科学垂直领域的算子库，聚焦生物分子计算，构建“物理机理＋数据驱动”双轮驱动的领域计算层，提供基于 CANN 的高性能原生算子及算法样例。
+mailing_list: bioinfo@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-Biomolecule-Computing
+committers: []
+repositories:
+- repo:
+  - cann/bio-ops-molecule
+  committers:
+  - gitcode_id: cpl_zy
+    name: 李政毅
+    email: yy11code@163.com
+  - gitcode_id: gcw_kMzylTxR
+    name: 刘士超
+    email: liushichao2@huawei.com
+  - gitcode_id: gcw_8EkgHHri
+    name: 张君宇
+    email: larmelave@sina.com
+  - gitcode_id: gcw_dv9EDi4O
+    name: 刘凯明
+    email: m13725534160@163.com
+  - gitcode_id: liangyuwei1
+    name: 梁宇为
+    email: liangyuwei@huawei.com
+  - gitcode_id: starwinner
+    name: 张涛涛
+    email: starwinner@yeah.net
+  - gitcode_id: zh_liu
+    name: 刘子恒
+    email: liuziheng@huawei.com
+  - gitcode_id: wujian99
+    name: 伍俭
+    email: 170985729@qq.com
+  entry_configs: []

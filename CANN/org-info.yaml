@@ -400,3 +400,23 @@ sigs:
     - gitcode_id: chenjch
       name: 陈嘉成
       email: jiacheng1989@gmail.com
+  - sig_name: biomolecule-computing
+    maintainers:
+    - gitcode_id: GUO_DONG_2026
+      name: 郭东
+      email: guo_dong@gzlab.ac.cn
+    - gitcode_id: yliuil
+      name: 刘钰
+      email: yliuil@cpl.ac.cn
+    - gitcode_id: steve777
+      name: 刘维
+      email: liuwei_624@126.com
+    - gitcode_id: lbchw
+      name: 刘炳成
+      email: xjtlbc@163.com
+    - gitcode_id: haiboxie
+      name: 谢海波
+      email: haibo_xie@hotmail.com
+    - gitcode_id: huawei_zhoufanke
+      name: 周凡珂
+      email: fancochou@foxmail.com

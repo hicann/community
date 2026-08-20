@@ -8,6 +8,7 @@ CANN社区由多个Special Interest Groups（SIGs）组成，每个SIG负责特�
 | [ai-for-ran](./ai-for-ran/README.md) | 面向 6G 无线接入网智能化，聚焦信道表征与估计、无反馈 MIMO、多基站协作与智能定位等通信专用 AI 样例。 |
 | [ascendc](./ascendc/README.md) | Ascend C是面向昇腾AI处理器的专用算子开发语言，提供对底层芯片的完整编程能力，助力实现算子极致性能。                                 |
 | [asnumpy](./asnumpy/README.md) | 深度支持昇腾NPU并高度兼容numpy接口的轻量级Python数学运算库，基于pybind11封装华为Ascend C算子库。                        |
+| [biomolecule-computing](./biomolecule-computing/README.md) | 面向生命科学领域，聚焦多组学数据处理、生物分子模拟和生物基础模型训练等核心场景，补齐和完善昇腾原生行业算子能力。                        |
 | [cannbot](./cannbot/README.md) | CANN社区Agent智能体兴趣小组，为社区提供AI辅助开发、算子生成、生态建设的智能体最佳实践。                                      |
 | [catlass](./catlass/README.md) | 昇腾算子模板库，聚焦于提供高性能矩阵乘类算子基础模板的代码库，负责CATLASS的版本规划与技术方案。                                    |
 | [crypto](./crypto/README.md) | 密码学兴趣小组，围绕昇腾NPU打造高性能密码软件库，提供丰富的密码算子与算法实现。 |
