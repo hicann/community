@@ -369,12 +369,15 @@ sigs:
       email: wuwei1982@hotmail.com
   - sig_name: embodied-ai
     maintainers:
-    - gitcode_id: NJU_GaoYang
-      name: 高阳
-      email: gaoy@nju.edu.cn
-    - gitcode_id: NJU_Zixuan
-      name: 陈子璇
-      email: chenzx@nju.edu.cn
+      - gitcode_id: NJU_GaoYang
+        name: 高阳
+        email: gaoy@nju.edu.cn
+      - gitcode_id: IAII_XuKai
+        name: 徐凯
+        email: kxu@iaii.ac.cn
+      - gitcode_id: weinanzhang
+        name: 张伟男
+        email: wnzhang@ir.hit.edu.cn
   - sig_name: crypto
     maintainers:
       - gitcode_id: hchengv

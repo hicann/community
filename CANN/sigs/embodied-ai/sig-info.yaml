@@ -3,6 +3,69 @@ description: 面向具身智能完整范畴的 CANN 社区 SIG，聚焦机器人
 mailing_list: embodied-ai@cann.osinfra.cn
 meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-embodied-ai
 
-committers: []
+committers:
+- gitcode_id: fromandto
+  name: 赵昊
+  email: zhaohao@air.tsinghua.edu.cn
+- gitcode_id: JingHuo
+  name: 霍静
+  email: huojing@nju.edu.cn
+- gitcode_id: xxlong
+  name: 龙霄潇
+  email: xxlong@nju.edu.cn
+- gitcode_id: huanghu7
+  name: 黄虎
+  email: huanghu7@126.com
+- gitcode_id: NJU_JIEQI
+  name: 史桀绮
+  email: isjieqi@nju.edu.cn
+- gitcode_id: NJU_WenbinLi
+  name: 李文斌
+  email: liwenbin@nju.edu.cn
+- gitcode_id: NJU_Zixuan
+  name: 陈子璇
+  email: chenzx@nju.edu.cn
+- gitcode_id: huangwayne28
+  name: 黄伟
+  email: huangwei188@hisilicon.com
+- gitcode_id: rous_zhang
+  name: 张心放
+  email: zhangxinfang5@hisilicon.com
+- gitcode_id: NJU_Taihang
+  name: 甄泰航
+  email: taihangzhen@smail.nju.edu.cn
+- gitcode_id: NJU_zhiping
+  name: 吴志平
+  email: zhipingwu@smail.nju.edu.cn
+- gitcode_id: NJU_YouWu
+  name: 吴优
+  email: you@smail.nju.edu.cn
+- gitcode_id: py_wang
+  name: 王沛杨
+  email: py_wang@smail.nju.edu.cn
+- gitcode_id: hao-xu
+  name: 许昊
+  email: juevesxu@163.com
+- gitcode_id: jy_gong
+  name: 龚靖尧
+  email: gongjy.cs@foxmail.com
+- gitcode_id: NJU_ChuCheng
+  name: 周杨程煜
+  email: zhouyangchengyu@whu.edu.cn
+- gitcode_id: NJU_JingWang
+  name: 王晶
+  email: 221900040@smail.nju.edu.cn
+- gitcode_id: xuan_lv
+  name: 吕轩
+  email: xlvnudt@nudt.edu.cn
 
-repositories: []
+repositories:
+- repo:
+  - cann/embodied-manipulation
+  - cann/embodied-locomotion
+  - cann/embodied-navigation
+  - cann/embodied-world-model
+  - cann/embodied-train
+  - cann/embodied-deploy
+  - cann/embodied-benchmarks
+  - cann/embodied-hardware-adapters
