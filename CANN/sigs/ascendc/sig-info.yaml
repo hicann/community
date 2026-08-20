@@ -33,6 +33,7 @@ repositories:
   - gitcode_id: Lycheeeee
   - gitcode_id: chentianyu19
   - gitcode_id: louyuxuan
+  - gitcode_id: YANXI_ZHAO
   entry_configs:
   - path:
     - cmake
@@ -197,6 +198,7 @@ repositories:
   - gitcode_id: wulinyu
   - gitcode_id: Lycheeeee
   - gitcode_id: louyuxuan
+  - gitcode_id: YANXI_ZHAO
   entry_configs:
   - path:
     - cpudebug/include
