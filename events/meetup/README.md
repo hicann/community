@@ -62,6 +62,8 @@
 ## CANN Insight系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260820 | AMCT-Pruning结构化剪枝技术 | sig-tools | [链接](./slides/sig-tools/20260820) | [链接](https://www.bilibili.com/video/BV1r38c6UENH/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260819 | AMCT-LLM量化能力发布解读：主流网络与PTQ算法实践 | sig-tools | [链接](./slides/sig-tools/20260819) | [链接](https://www.bilibili.com/video/BV1Te8J62EAm/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260817 | GE静态shape多流并行增强技术 | sig-ge | [链接](./slides/sig-ge/20260817) | [链接](https://www.bilibili.com/video/BV1BXbi6yE9i/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260716 | 高性能Matrix(Cube)算子开发实践 | sig-ascendc | [链接](./slides/sig-ascendc/20260716) | [链接](https://www.bilibili.com/video/BV16AKG6nEjz/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260715 | Ascend C高性能Vector算子编程实践 | sig-ascendc | [链接](./slides/sig-ascendc/20260715) | [链接](https://www.bilibili.com/video/BV14NNq6AE2v/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
