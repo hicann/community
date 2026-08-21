@@ -16,11 +16,8 @@
 
 ### Committer列表
 - 严正行[@yanzhenghang](https://gitcode.com/yanzhenghang), *625612333@qq.com*
-- 殷鼎[@yin_ding](https://gitcode.com/yin_ding), *yinding0822@qq.com*
-- 李连林[@lilianlin_hw](https://gitcode.com/lilianlin_hw), *lilianlin@huawei.com*
 - 杨小渊[@yangxiaoyuan](https://gitcode.com/yangxiaoyuan), *yangxiaoyuan3@huawei.com*
 - 李标智[@bz_lee](https://gitcode.com/bz_lee), *libiaozhi1@huawei.com*
-- 李刚[@ccl_ligang](https://gitcode.com/ccl_ligang), *ligang76@huawei.com*
 - 钟琴[@zhongqin2020](https://gitcode.com/zhongqin2020), *zhongqin3@huawei.com*
 - 劳大钊[@laodazhao1](https://gitcode.com/laodazhao1), *laodazhao@huawei.com*
 - 陈毅[@chenyia](https://gitcode.com/chenyia), *chenyi163@huawei.com*
@@ -32,10 +29,17 @@
 - 朱晶晶[@zhujingjing](https://gitcode.com/zhujingjing), *zhujingjing6@huawei.com*
 - 李沛洋[@peiyang](https://gitcode.com/peiyang), *lipeiyang@huawei.com*
 - 张兴平[@zhangxp1030](https://gitcode.com/zhangxp1030), *zhangxingping4@huawei.com*
-- 郑楷[@hey_yahei](https://gitcode.com/hey_yahei), *zhengkai38@huawei.com*
 - 赵智慧[@zhaozhihui](https://gitcode.com/zhaozhihui), *zhaozhihui5@huawei.com*
 - 李宁[@lining23666](https://gitcode.com/lining23666), *lining.li@huawei.com*
 - 游宵[@youyx](https://gitcode.com/youyx), *youxiao@huawei.com*
+- 丁炜秦[@dingweiqin_57](https://gitcode.com/dingweiqin_57), *dingweiqin@huawei.com*
+- 陈浩[@chenhao_](https://gitcode.com/chenhao_), *chenhao424@huawei.com*
+- 杨邵华[@yangshaohua](https://gitcode.com/yangshaohua), *yangshaohua7@huawei.com*
+- 陈量[@chenliang267](https://gitcode.com/chenliang267), *chenliang318@huawei.com*
+- 林叶峰[@linyf950](https://gitcode.com/linyf950), *linyefeng2@huawei.com*
+- 欧阳茜[@ouyangxizi](https://gitcode.com/ouyangxizi), *ouyangxi2@huawei.com*
+- 杨连祥[@yanglianxiang2](https://gitcode.com/yanglianxiang2), *yanglianxiang2@huawei.com*
+- 施秉辰[@one_random](https://gitcode.com/one_random), *shibingchen@huawei.com*
 
 # 社区运作
 

@@ -25,33 +25,74 @@ repositories:
   - cann/hccl
   committers:
   - gitcode_id: yanyefeng
+    name: 颜业峰
+    email: yanyefeng@huawei.com
   - gitcode_id: wenxuemin
+    name: 文学敏
+    email: wenxuemin@huawei.com
   - gitcode_id: leabclove
+    name: 程祥乐
+    email: chengxiangle1@huawei.com
   - gitcode_id: yanzhenghang
-  - gitcode_id: lilianlin_hw
+    name: 严正行
+    email: yanzhenghang@huawei.com
   - gitcode_id: yangxiaoyuan
+    name: 杨小渊
+    email: yangxiaoyuan3@huawei.com
   - gitcode_id: bz_lee
-  - gitcode_id: ccl_ligang
+    name: 李标智
+    email: libiaozhi1@huawei.com
   - gitcode_id: zhongqin2020
+    name: 钟琴
+    email: zhongqin3@huawei.com
   - gitcode_id: laodazhao1
+    name: 劳大钊
+    email: laodazhao@huawei.com
   - gitcode_id: chenyia
+    name: 陈毅
+    email: chenyi163@huawei.com
   - gitcode_id: hulk1997
+    name: 胡林康
+    email: hulinkang1@huawei.com
   - gitcode_id: Innoecho
+    name: 孙哲芃
+    email: sunzhepeng@huawei.com
   - gitcode_id: lilin_137
+    name: 李琳
+    email: lilin137@huawei.com
   - gitcode_id: chenke2026
+    name: 陈轲
+    email: chenke54@huawei.com
   - gitcode_id: temper7620
+    name: 王超
+    email: w.wangchao@huawei.com
   - gitcode_id: zhangxp1030
+    name: 张兴平
+    email: zhangxingping4@huawei.com
   - gitcode_id: dingweiqin_57
-  - gitcode_id: abiggg
+    name: 丁炜秦
+    email: dingweiqin@huawei.com
   - gitcode_id: chenhao_
+    name: 陈浩
+    email: chenhao424@huawei.com
   - gitcode_id: yangshaohua
+    name: 杨邵华
+    email: yangshaohua7@huawei.com
   - gitcode_id: chenliang267
+    name: 陈量
+    email: chenliang318@huawei.com
   - gitcode_id: linyf950
-  - gitcode_id: chengym
-  - gitcode_id: ccNeo824
+    name: 林叶峰
+    email: linyefeng2@huawei.com
   - gitcode_id: ouyangxizi
+    name: 欧阳茜
+    email: ouyangxi2@huawei.com
   - gitcode_id: yanglianxiang2
-  - gitcode_id: zhuyiming3
+    name: 杨连祥
+    email: yanglianxiang2@huawei.com
+  - gitcode_id: one_random
+    name: 施秉辰
+    email: shibingchen@huawei.com
 
   entry_configs:
     - path:
@@ -61,46 +102,86 @@ repositories:
       - scripts
       committers:
       - gitcode_id: bz_lee
+        name: 李标智
+        email: libiaozhi1@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - examples
       committers:
       - gitcode_id: zhangxp1030
+        name: 张兴平
+        email: zhangxingping4@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - include
       committers:
       - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - classify_rule.yaml
       - blacklist.txt
       committers:
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - test/st/algorithm
       committers:
       - gitcode_id: whk19940509
+        name: 吴昊堃
+        email: wuhaokun1@huawei.com
       - gitcode_id: virtual_runtime
+        name: 余浩
+        email: huawei.yuhao@huawei.com
       - gitcode_id: ZhanPhil
+        name: 詹海峰
+        email: zhanhaifeng1@huawei.com
       - gitcode_id: zheng555
+        name: 崔正
+        email: cuizheng2@huawei.com
 
     - path:
       - docs
       committers:
       - gitcode_id: flyswa
+        name: 臧燕
+        email: zangyan@huawei.com
       - gitcode_id: claire8090
+        name: 袁滔
+        email: yuantao27@h-partners.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - docs/zh/rfcs
@@ -108,39 +189,87 @@ repositories:
       - CONTRIBUTING.md
       committers:
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
       - gitcode_id: leabclove
+        name: 程祥乐
+        email: chengxiangle1@huawei.com
 
 - repo:
   - cann/hcomm
   committers:
   - gitcode_id: yanyefeng
+    name: 颜业峰
+    email: yanyefeng@huawei.com
   - gitcode_id: wenxuemin
+    name: 文学敏
+    email: wenxuemin@huawei.com
   - gitcode_id: leabclove
+    name: 程祥乐
+    email: chengxiangle1@huawei.com
   - gitcode_id: yanzhenghang
-  - gitcode_id: lilianlin_hw
+    name: 严正行
+    email: yanzhenghang@huawei.com
   - gitcode_id: yangxiaoyuan
+    name: 杨小渊
+    email: yangxiaoyuan3@huawei.com
   - gitcode_id: bz_lee
-  - gitcode_id: ccl_ligang
+    name: 李标智
+    email: libiaozhi1@huawei.com
   - gitcode_id: zhongqin2020
+    name: 钟琴
+    email: zhongqin3@huawei.com
   - gitcode_id: laodazhao1
+    name: 劳大钊
+    email: laodazhao@huawei.com
   - gitcode_id: chenyia
+    name: 陈毅
+    email: chenyi163@huawei.com
   - gitcode_id: hulk1997
+    name: 胡林康
+    email: hulinkang1@huawei.com
   - gitcode_id: Innoecho
+    name: 孙哲芃
+    email: sunzhepeng@huawei.com
   - gitcode_id: lilin_137
+    name: 李琳
+    email: lilin137@huawei.com
   - gitcode_id: chenke2026
+    name: 陈轲
+    email: chenke54@huawei.com
   - gitcode_id: temper7620
+    name: 王超
+    email: w.wangchao@huawei.com
   - gitcode_id: zhangxp1030
+    name: 张兴平
+    email: zhangxingping4@huawei.com
   - gitcode_id: dingweiqin_57
-  - gitcode_id: abiggg
+    name: 丁炜秦
+    email: dingweiqin@huawei.com
   - gitcode_id: chenhao_
+    name: 陈浩
+    email: chenhao424@huawei.com
   - gitcode_id: yangshaohua
+    name: 杨邵华
+    email: yangshaohua7@huawei.com
   - gitcode_id: chenliang267
+    name: 陈量
+    email: chenliang318@huawei.com
   - gitcode_id: linyf950
-  - gitcode_id: chengym
-  - gitcode_id: ccNeo824
+    name: 林叶峰
+    email: linyefeng2@huawei.com
   - gitcode_id: ouyangxizi
+    name: 欧阳茜
+    email: ouyangxi2@huawei.com
   - gitcode_id: yanglianxiang2
+    name: 杨连祥
+    email: yanglianxiang2@huawei.com
+  - gitcode_id: one_random
+    name: 施秉辰
+    email: shibingchen@huawei.com
 
   entry_configs:
     - path:
@@ -158,8 +287,14 @@ repositories:
       - externel_depends
       committers:
       - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - src/legacy/ascend950/framework
@@ -167,8 +302,14 @@ repositories:
       - src/coll_communicator_mgr
       committers:
       - gitcode_id: dingweiqin_57
+        name: 丁炜秦
+        email: dingweiqin@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - src/legacy/ascend950/common
@@ -176,75 +317,147 @@ repositories:
       - src/base_comm
       committers:
       - gitcode_id: Innoecho
+        name: 孙哲芃
+        email: sunzhepeng@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
       - gitcode_id: temper7620
+        name: 王超
+        email: w.wangchao@huawei.com
 
     - path:
       - src/legacy/ascend910/common
       - src/legacy/ascend910/platform
       committers:
       - gitcode_id: Innoecho
+        name: 孙哲芃
+        email: sunzhepeng@huawei.com
       - gitcode_id: chenhao_
+        name: 陈浩
+        email: chenhao424@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
       - gitcode_id: leabclove
+        name: 程祥乐
+        email: chengxiangle1@huawei.com
       - gitcode_id: temper7620
+        name: 王超
+        email: w.wangchao@huawei.com
 
     - path:
       - src/legacy/ascend910/framework
       committers:
       - gitcode_id: dingweiqin_57
+        name: 丁炜秦
+        email: dingweiqin@huawei.com
       - gitcode_id: chenhao_
+        name: 陈浩
+        email: chenhao424@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
       - gitcode_id: leabclove
+        name: 程祥乐
+        email: chengxiangle1@huawei.com
 
     - path:
       - src/legacy/ascend910/algorithm
       committers:
       - gitcode_id: bz_lee
+        name: 李标智
+        email: libiaozhi1@huawei.com
       - gitcode_id: chenhao_
+        name: 陈浩
+        email: chenhao424@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
       - gitcode_id: leabclove
+        name: 程祥乐
+        email: chengxiangle1@huawei.com
 
     - path:
       - src/base_comm/resources/hccp
       committers:
       - gitcode_id: chenke2026
+        name: 陈轲
+        email: chenke54@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - src/legacy/ascend950/service/collective/alg
       committers:
       - gitcode_id: bz_lee
+        name: 李标智
+        email: libiaozhi1@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - examples
       committers:
       - gitcode_id: zhangxp1030
+        name: 张兴平
+        email: zhangxingping4@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - src/legacy/ascend910/framework/device/aicpu_kfc
       - test/ut/aicpu_kfc
       committers:
       - gitcode_id: wqtshg_wt
+        name: 王涛
+        email: wangtao123@huawei.com
       - gitcode_id: yanqingshang
+        name: 闫庆尚
+        email: yanqingshang@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
 
     - path:
       - src/base_comm/resources/hccp/inc/network
       committers:
       - gitcode_id: yangxiaoyuan
+        name: 杨小渊
+        email: yangxiaoyuan3@huawei.com
       - gitcode_id: zhongqin2020
+        name: 钟琴
+        email: zhongqin3@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - src/base_comm/resources/hccp/external_depends
@@ -266,30 +479,54 @@ repositories:
       - src/base_comm/resources/hccp/rdma_agent/peer/CMakeLists.txt
       committers:
       - gitcode_id: yangxiaoyuan
+        name: 杨小渊
+        email: yangxiaoyuan3@huawei.com
       - gitcode_id: zhongqin2020
+        name: 钟琴
+        email: zhongqin3@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - classify_rule.yaml
       - blacklist.txt
       committers:
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - src/legacy/ascend910/common/error_code/error_code.cc
       committers:
       - gitcode_id: ycm0028
+        name: 叶成美
+        email: yechengmei@huawei.com
 
     - path:
       - docs
       committers:
       - gitcode_id: flyswa
+        name: 臧燕
+        email: zangyan@huawei.com
       - gitcode_id: claire8090
+        name: 袁滔
+        email: yuantao27@h-partners.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
 
     - path:
       - docs/zh/rfcs
@@ -297,28 +534,58 @@ repositories:
       - CONTRIBUTING.md
       committers:
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
       - gitcode_id: leabclove
+        name: 程祥乐
+        email: chengxiangle1@huawei.com
 
     - path:
       - test
       committers:
       - gitcode_id: dingweiqin_57
+        name: 丁炜秦
+        email: dingweiqin@huawei.com
       - gitcode_id: bz_lee
+        name: 李标智
+        email: libiaozhi1@huawei.com
       - gitcode_id: chenke2026
+        name: 陈轲
+        email: chenke54@huawei.com
       - gitcode_id: Innoecho
+        name: 孙哲芃
+        email: sunzhepeng@huawei.com
       - gitcode_id: chenhao_
+        name: 陈浩
+        email: chenhao424@huawei.com
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
       - gitcode_id: temper7620
+        name: 王超
+        email: w.wangchao@huawei.com
 
     - path:
       - test/hccl_vm
       committers:
       - gitcode_id: whk19940509
+        name: 吴昊堃
+        email: wuhaokun1@huawei.com
       - gitcode_id: virtual_runtime
+        name: 余浩
+        email: huawei.yuhao@huawei.com
       - gitcode_id: ZhanPhil
+        name: 詹海峰
+        email: zhanhaifeng1@huawei.com
       - gitcode_id: zheng555
+        name: 崔正
+        email: cuizheng2@huawei.com
 
     - path:
       - src/base_comm/primitives/api_c_adpt/hcomm_c_adpt.h
@@ -335,5 +602,11 @@ repositories:
       - src/base_comm/resources/comm_engine_res/threads/thread.h
       committers:
       - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
       - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
