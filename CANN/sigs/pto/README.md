@@ -74,6 +74,8 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
 - 王兵 [@wangbing110](https://gitcode.com/wangbing110), *wangbing110@huawei.com*
 - 刘鑫炜 [@xinweiliu](https://gitcode.com/xinweiliu), *liuxinwei12@huawei.com*
+- 刘卢芳 [@liulufang_gitcode](https://gitcode.com/liulufang_gitcode), *liulufang1@hisilicon.com*
+- 李圣贤[@li-shengxian3](https://gitcode.com/li-shengxian3), *lishengxian3@hisilicon.com*
 
 #### PTO仓库: https://gitcode.com/cann/pto-isa
 
