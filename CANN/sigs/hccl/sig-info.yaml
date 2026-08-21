@@ -285,6 +285,8 @@ repositories:
       - src/legacy/ascend910/framework/CMakeLists.txt
       - src/legacy/ascend910/algorithm/CMakeLists.txt
       - externel_depends
+      - src/legacy/ascend950/framework/env_config
+      - src/legacy/ascend910/framework/common/src/config
       committers:
       - gitcode_id: yanzhenghang
         name: 严正行
