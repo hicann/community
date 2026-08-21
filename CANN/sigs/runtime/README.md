@@ -76,7 +76,6 @@ Runtime 是连接算子编译、图执行、调度器、通信库与NPU硬件的
 * 翟沛超 [@ZhaiPeiChao](https://gitcode.com/ZhaiPeiChao), *[zhaipeichao@huawei.com](mailto:zhaipeichao@huawei.com)*
 * 张磊 [@zlmay007](https://gitcode.com/zlmay007), *[re.zhanglei@huawei.com](mailto:re.zhanglei@huawei.com)*
 * 温帆 [@Turing_JasonWen](https://gitcode.com/Turing_JasonWen), *[hw.wenfan@huawei.com](mailto:hw.wenfan@huawei.com)*
-* 常海迅 [@changhaixun](https://gitcode.com/changhaixun), *[changhaixun@huawei.com](mailto:changhaixun@huawei.com)*
 * 薛蕾 [@Axiaolei](https://gitcode.com/Axiaolei), *[xuelei1@huawei.com](mailto:xuelei1@huawei.com)*
 * 曾益刚 [@gcw_9B2nSsjo](https://gitcode.com/gcw_9B2nSsjo), *[zengyigang@huawei.com](mailto:zengyigang@huawei.com)*
 * 孙娜娜 [@sunnana_004434229](https://gitcode.com/sunnana_004434229), *[sunnana@huawei.com](mailto:sunnana@huawei.com)*
@@ -91,6 +90,9 @@ Runtime 是连接算子编译、图执行、调度器、通信库与NPU硬件的
 * 千钊 [@phy-zhao](https://gitcode.com/phy-zhao), *[qianzhao1@huawei.com](mailto:qianzhao1@huawei.com)*
 * 陈瑛琰 [@vaceciliachen](https://gitcode.com/vaceciliachen), *[chenyingyan2@hisilicon.com](mailto:chenyingyan2@hisilicon.com)*
 * 韩瑞 [@Henry_ascend](https://gitcode.com/Henry_ascend), *[hanrui21@huawei.com](mailto:hanrui21@huawei.com)*
+* 强龙 [@dragon_q](https://gitcode.com/dragon_q), *[qianglong@huawei.com](mailto:qianglong@huawei.com)*
+* 魏莹 [@weiying_101](https://gitcode.com/weiying_101), *[weiying10@huawei.com](mailto:weiying10@huawei.com)*
+* 宋安印 [@SongAnyin](https://gitcode.com/SongAnyin), *[songanyin@huawei.com](mailto:songanyin@huawei.com)*
 
 **维测功能组件**
 
