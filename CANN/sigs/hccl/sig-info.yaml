@@ -63,7 +63,6 @@ repositories:
       - gitcode_id: bz_lee
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: chenhao_
 
     - path:
       - examples
@@ -71,7 +70,6 @@ repositories:
       - gitcode_id: zhangxp1030
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: chenhao_
 
     - path:
       - include
@@ -171,7 +169,6 @@ repositories:
       - gitcode_id: dingweiqin_57
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: chenhao_
 
     - path:
       - src/legacy/ascend950/common
@@ -181,7 +178,6 @@ repositories:
       - gitcode_id: Innoecho
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: chenhao_
       - gitcode_id: temper7620
 
     - path:
@@ -219,7 +215,6 @@ repositories:
       - gitcode_id: chenke2026
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: chenhao_
 
     - path:
       - src/legacy/ascend950/service/collective/alg
@@ -274,7 +269,6 @@ repositories:
       - gitcode_id: zhongqin2020
       - gitcode_id: yanyefeng
       - gitcode_id: wenxuemin
-      - gitcode_id: chenhao_
 
     - path:
       - classify_rule.yaml
