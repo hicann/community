@@ -469,6 +469,30 @@ repositories:
     - gitcode_id: linruihan
       name: 林睿涵
       email: linruihan@huawei.com
+    - gitcode_id: shi-xiangyang225
+      name: 石向阳
+      email: 2678490361@qq.com
+  - path:
+    - torch_extension
+    committers:
+    - gitcode_id: tangweiwei2
+      name: 唐玮玮
+      email: tangweiwei2@huawei.com
+    - gitcode_id: chenqi317
+      name: 陈琦
+      email: chenqi317@huawei.com
+    - gitcode_id: liubo75
+      name: 刘波
+      email: liubo75@huawei.com
+    - gitcode_id: crystalhu
+      name: 胡碧霞
+      email: hubixia1@huawei.com
+    - gitcode_id: fanqirui
+      name: 范其瑞
+      email: fanqirui1@huawei.com
+    - gitcode_id: chaotang233
+      name: 唐超
+      email: tangchao47@hisilicon.com
 - repo:
   - cann/ops-tensor
   committers:
