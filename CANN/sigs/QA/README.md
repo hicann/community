@@ -23,9 +23,8 @@ QA（质量保障）项目团队对CANN社区发布软件进行测试，目标�
 ## Committer列表
 - 郭鑫[@guoxin_hw](https://gitcode.com/guoxin_hw), *guoxin31@huawei.com*
 - 王燕[@wangyan189](https://gitcode.com/wangyan189), *wangyan158@huawei.com*
-- 赵一剑[@black_piano](https://gitcode.com/wangyan189), *zhaoyijian2@h-partners.com*
 - 刘汉文[@liuhanwen8](https://gitcode.com/liuhanwen8), *liuhanwen8@huawei.com*
-- 余子鹏[@yzp_2024](https://gitcode.com/yzp_2024), *yuzipeng@huawei.com*
+- 俞子鹏[@yzp_2024](https://gitcode.com/yzp_2024), *yuzipeng@huawei.com*
 - 王蓓[@MionLAN](https://gitcode.com/MionLAN), *wangbei5@huawei.com*
 - 洪俊[@hongjun_nju](https://gitcode.com/hongjun_nju), *hongjun6@hisilicon.com*
 - 尚军芳[@JF_Shang](https://gitcode.com/JF_Shang), *shangjunfang@huawei.com*
