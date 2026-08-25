@@ -245,11 +245,11 @@
 
 #### 步骤1：修改org-info.yaml
 
-> 详细配置说明请参阅：[org-info.yaml文件指导说明](CANN/org-info-guidance.md)
+> 详细配置说明请参阅：[org-info.yaml文件指导说明](../../CANN/org-info-guidance.md)
 
 #### 步骤2：创建sig-info.yaml
 
-> 详细配置说明请参阅：[sig-info.yaml文件指导说明](CANN/sig-info-guidance.md)
+> 详细配置说明请参阅：[sig-info.yaml文件指导说明](../../CANN/sig-info-guidance.md)
 
 #### 步骤3：提交PR
 
@@ -297,14 +297,14 @@
 
 **PR1：修改org-info.yaml**（添加SIG定义和仓库）
 
-> 详细配置说明请参阅：[org-info.yaml文件指导说明](CANN/org-info-guidance.md)
+> 详细配置说明请参阅：[org-info.yaml文件指导说明](../../CANN/org-info-guidance.md)
 
 提交PR1，等待tsc_member评审合入（`/lgtm` + `/approve`）
 
 **PR2：创建SIG目录和文件**（PR1合入后）
 
 1. 在 `CANN/sigs/` 目录下创建新SIG目录：`your-new-sig/`
-2. 创建 `sig-info.yaml` 文件，详细配置说明请参阅：[sig-info.yaml文件指导说明](CANN/sig-info-guidance.md)
+2. 创建 `sig-info.yaml` 文件，详细配置说明请参阅：[sig-info.yaml文件指导说明](../../CANN/sig-info-guidance.md)
 3. 创建 `README.md` 文件（包含SIG介绍、会议时间、成员信息等）
 4. 提交PR2，等待tsc_member评审合入
 
