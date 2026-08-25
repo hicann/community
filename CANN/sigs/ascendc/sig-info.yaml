@@ -34,6 +34,7 @@ repositories:
   - gitcode_id: chentianyu19
   - gitcode_id: louyuxuan
   - gitcode_id: YANXI_ZHAO
+  - gitcode_id: ascendhjh
   entry_configs:
   - path:
     - cmake
@@ -59,6 +60,7 @@ repositories:
     - gitcode_id: munanhw
     - gitcode_id: ai_xin
     - gitcode_id: bianque
+    - gitcode_id: ascendhjh
   - path:
     - include
     committers:
@@ -179,6 +181,7 @@ repositories:
     - gitcode_id: ai_xin
     - gitcode_id: xun_zhuge
     - gitcode_id: changxianyu
+    - gitcode_id: ascendhjh
 - repo:
   - cann/asc-tools
   committers:
