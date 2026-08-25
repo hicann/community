@@ -73,8 +73,8 @@
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
-- 周文芳 [@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
-- 吴瑶 [@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*
+- 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
+- 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
 - 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
@@ -165,14 +165,13 @@
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
-- 周文芳 [@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
-- 吴瑶 [@wuyao51511](https://gitcode.com/wuyao51511), *wuyao61@h-partners.com*
+- 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
+- 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 
 # SIG订阅
 
 - [邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/ops-transformer.cann.osinfra.cn/)
-
 
 # 仓库清单
 

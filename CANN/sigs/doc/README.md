@@ -49,7 +49,7 @@ Committer列表：
 - 於欣洁[@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 蔡雯雯[@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍[@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
-- 周文芳[@zhouwenfang](https://gitcode.com/zhouwenfang), *zhouwenfang3@h-partners.com*
+- 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 
 ### cann-learning-hub
@@ -141,4 +141,3 @@ Committer列表：
 ## SIG订阅
 
 - [邮件列表](https://mailweb.cann.osinfra.cn/mailman3/lists/doc.cann.osinfra.cn/)
-

@@ -33,10 +33,10 @@ repositories:
   - gitcode_id: yu-xinjie62
   - gitcode_id: caiwenwen
   - gitcode_id: gitee-duhuiping
-  - gitcode_id: zhouwenfang
+  - gitcode_id: fengying555682
   - gitcode_id: zhuliangying
   - gitcode_id: yanglu-1
-  entry_configs: 
+  entry_configs:
   - path:
     - "*"
     committers:
@@ -101,4 +101,3 @@ repositories:
     - gitcode_id: Albertq
     - gitcode_id: jackwangc
     - gitcode_id: gcw_tgPdOLZT
-

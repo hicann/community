@@ -90,9 +90,9 @@ repositories:
     committers:
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: gitee-duhuiping
-    - gitcode_id: zhouwenfang
-    - gitcode_id: wuyao51511
+    - gitcode_id: fengying555682
     - gitcode_id: caiwenwen
+    - gitcode_id: yanglu-1
   - path:
     - image/crop_and_resize
     committers:
@@ -222,9 +222,9 @@ repositories:
     - gitcode_id: tang-lei01
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: gitee-duhuiping
-    - gitcode_id: zhouwenfang
-    - gitcode_id: wuyao51511
+    - gitcode_id: fengying555682
     - gitcode_id: caiwenwen
+    - gitcode_id: yanglu-1
     - gitcode_id: LiWei79
     - gitcode_id: luowen203_gg123
     - gitcode_id: renruhai
@@ -271,9 +271,9 @@ repositories:
     committers:
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: gitee-duhuiping
-    - gitcode_id: zhouwenfang
-    - gitcode_id: wuyao51511
+    - gitcode_id: fengying555682
     - gitcode_id: caiwenwen
+    - gitcode_id: yanglu-1
   - path:
     - conversion/as_strided
     - conversion/clip_by_value_v2

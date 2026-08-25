@@ -46,15 +46,15 @@ repositories:
     - gitcode_id: gitee-duhuiping
       name: 杜慧萍
       email: duhuiping@h-partners.com
-    - gitcode_id: zhouwenfang
-      name: 周文芳
-      email: zhouwenfang3@h-partners.com
-    - gitcode_id: wuyao51511
-      name: 吴瑶
-      email: wuyao61@h-partners.com
+    - gitcode_id: fengying555682
+      name: 冯英
+      email: fengying27@h-partners.com
     - gitcode_id: caiwenwen
       name: 蔡雯雯
       email: caiwenwen6@h-partners.com
+    - gitcode_id: yanglu-1
+      name: 杨露
+      email: yanglou1@h-partners.com
   - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"
@@ -393,7 +393,7 @@ repositories:
       email: wangxing73@huawei.com
     - gitcode_id: su-yueming
       name: 苏跃明
-      email: suyueming@huawei.com  
+      email: suyueming@huawei.com
     - gitcode_id: chaotang233
       name: 唐超
       email: tangchao47@hisilicon.com
