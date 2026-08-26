@@ -33,13 +33,219 @@ repositories:
     - gitcode_id: make_pto
     - gitcode_id: shi-dingkun
   entry_configs:
+  # documentation
   - path:
     - docs
+    - CONTRIBUTION.md
+    - CONTRIBUTION_en.md
     committers:
     - gitcode_id: linjiashu
     - gitcode_id: yinjie27_
     - gitcode_id: lyz0328
     - gitcode_id: foundea
+  # agent
+  - path:
+    - .agents
+    - .opencode
+    - AGENTS.md
+    committers:
+    - gitcode_id: wangzheng97
+    - gitcode_id: foundea
+    - gitcode_id: congqiannan
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+  # codegen
+  - path:
+    - framework/src/codegen
+    committers:
+    - gitcode_id: huanglu
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+    - gitcode_id: make_pto
+  # conv
+  - path:
+    - framework/src/interface/tileop/conv
+    committers:
+    - gitcode_id: xinweiliu
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+  # cube
+  - path:
+    - framework/src/interface/tileop/cube
+    committers:
+    - gitcode_id: dai-zhentao
+    - gitcode_id: gguuaanngg
+    - gitcode_id: cam_bxh
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+    - gitcode_id: tsungl4
+    - gitcode_id: make_pto
+  # distributed
+  - path:
+    - framework/src/interface/tileop/distributed
+    - python/pypto/experimental/shmem.py
+    - python/src/bindings/distributed.cpp
+    committers:
+    - gitcode_id: codehjp423
+    - gitcode_id: gaoxingwang
+    - gitcode_id: yinjie27_
+    - gitcode_id: tsungl4
+    - gitcode_id: cam_bxh
+    - gitcode_id: linjiashu
+  # frontend
+  - path:
+    - framework/include/core
+    - framework/include/ir
+    - framework/include/tilefwk
+    - framework/src/interface/cache
+    - framework/src/interface/compiler_monitor
+    - framework/src/interface/configs
+    - framework/src/interface/core
+    - framework/src/interface/function
+    - framework/src/interface/inner
+    - framework/src/interface/interpreter
+    - framework/src/interface/ir
+    - framework/src/interface/plugin
+    - framework/src/interface/program
+    - framework/src/interface/schema
+    - framework/src/interface/tensor
+    - framework/src/interface/utils
+    - python/pypto/frontend
+    - python/pypto/pil
+    - python/src/bindings/ir
+    - tools/verifier
+    - python/pypto/_op_wrapper.py
+    committers:
+    - gitcode_id: tsungl4
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+    - gitcode_id: DCGDDD
+    - gitcode_id: gaoxiang618
+    - gitcode_id: make_pto
+  # integration
+  - path:
+    - cmake
+    - .gitcode
+    - scripts
+    - build_ci.py
+    - .clang-format
+    - classify_rule.yaml
+    - CMakeLists.txt
+    - conftest.py
+    - .pre-commit-config.yaml
+    - pyproject.toml
+    - pytest.ini
+    - setup.py
+    committers:
+    - gitcode_id: yinjie27_
+    - gitcode_id: DCGDDD
+    - gitcode_id: jason_yuan_ye
+    - gitcode_id: linjiashu
+  # lite
+  - path:
+    - framework/src/codegen/npu/litenpu
+    committers:
+    - gitcode_id: make_pto
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+  # machine
+  - path:
+    - framework/src/adapter
+    - framework/src/cann_host_runtime
+    - framework/src/interface/machine
+    - framework/src/machine
+    - framework/src/utils
+    - framework/include/tile_fwk_bundle
+    - python/pypto/pypto_impl
+    - tools/profiling
+    - tools/schema
+    - tools/scripts
+    - tools/runtime_verifier
+    - python/pypto/platform.py
+    - python/pypto/runtime.py
+    - python/src/bindings/platform.cpp
+    - python/src/bindings/runtime.cpp
+    - tools/gen_swimlane.sh
+    committers:
+    - gitcode_id: jason_yuan_ye
+    - gitcode_id: gaoxingwang
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+    - gitcode_id: tsungl4
+  # operation
+  - path:
+    - framework/src/interface/operation
+    - framework/src/interface/tileop
+    - python/pypto/op
+    - python/pypto/experimental/gather.py
+    - python/pypto/experimental/operation.py
+    - python/pypto/operation.py
+    - python/src/bindings/operation.cpp
+    committers:
+    - gitcode_id: dai-zhentao
+    - gitcode_id: gguuaanngg
+    - gitcode_id: cam_bxh
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+    - gitcode_id: tsungl4
+    - gitcode_id: make_pto
+  # operator
+  - path:
+    - examples
+    - framework/src/operator
+    - models
+    - python/pypto/operator.py
+    committers:
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+    - gitcode_id: DCGDDD
+    - gitcode_id: jason_yuan_ye
+  # pass
+  - path:
+    - framework/include/ir/transforms
+    - framework/src/interface/ir/transforms
+    - framework/src/passes
+    - framework/src/platform
+    - python/pypto/pass_config.py
+    - python/src/bindings/pass_config.cpp
+    committers:
+    - gitcode_id: zhangyuebing
+    - gitcode_id: ym-HW
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+    - gitcode_id: gaoxiang618
+    - gitcode_id: make_pto
+  # pypto_pro
+  - path:
+    - python/pypto_pro
+    - python/src/bindings/pypto_pro
+    - framework/include/pypto_pro
+    - framework/src/interface/pypto_pro
+    committers:
+    - gitcode_id: gaoxiang618
+    - gitcode_id: wangbing110
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+  # simulation
+  - path:
+    - framework/src/cost_model
+    - python/pypto/cost_model.py
+    - python/src/bindings/cost_model.cpp
+    committers:
+    - gitcode_id: zhiweiyuan
+    - gitcode_id: make_pto
+    - gitcode_id: yinjie27_
+    - gitcode_id: linjiashu
+  # vector
+  - path:
+    - framework/src/interface/tileop/vector
+    committers:
+    - gitcode_id: make_pto
+    - gitcode_id: yinjie27_
+    - gitcode_id: DCGDDD
+    - gitcode_id: jason_yuan_ye
+    - gitcode_id: linjiashu
+    - gitcode_id: congqiannan
   branch_configs:
   - branch:
     - 0.2.0
