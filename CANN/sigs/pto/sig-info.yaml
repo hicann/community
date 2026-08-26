@@ -31,6 +31,7 @@ repositories:
     - gitcode_id: zhiweiyuan
     - gitcode_id: xinweiliu
     - gitcode_id: make_pto
+    - gitcode_id: shi-dingkun
   entry_configs:
   - path:
     - docs
