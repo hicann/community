@@ -74,6 +74,8 @@ Embodied-AI SIG 建设四个核心算法方向和四个公共使能方向。
 - 黄虎 [@huanghu7](https://gitcode.com/huanghu7), *huanghu7@126.com*
 - 史桀绮 [@NJU_JIEQI](https://gitcode.com/NJU_JIEQI), *isjieqi@nju.edu.cn*
 - 李文斌 [@NJU_WenbinLi](https://gitcode.com/NJU_WenbinLi), *liwenbin@nju.edu.cn*
+- 刘志远 [@zhiyuanliu](https://gitcode.com/zhiyuanliu), *zhiyuanl@seu.edu.cn*
+- 纪德益 [@jankyee26](https://gitcode.com/jankyee26), *jideyi@kokoni3d.com*
 - 陈子璇 [@NJU_Zixuan](https://gitcode.com/NJU_Zixuan), *chenzx@nju.edu.cn*
 - 黄伟 [@huangwayne28](https://gitcode.com/huangwayne28), *huangwei188@hisilicon.com*
 - 张心放 [@rous_zhang](https://gitcode.com/rous_zhang), *zhangxinfang5@hisilicon.com*
