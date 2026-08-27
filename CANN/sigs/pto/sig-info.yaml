@@ -32,6 +32,7 @@ repositories:
     - gitcode_id: xinweiliu
     - gitcode_id: make_pto
     - gitcode_id: shi-dingkun
+    - gitcode_id: lululu40888
   entry_configs:
   # documentation
   - path:
@@ -58,7 +59,7 @@ repositories:
   - path:
     - framework/src/codegen
     committers:
-    - gitcode_id: huanglu
+    - gitcode_id: lululu40888
     - gitcode_id: yinjie27_
     - gitcode_id: linjiashu
     - gitcode_id: make_pto
@@ -80,6 +81,7 @@ repositories:
     - gitcode_id: linjiashu
     - gitcode_id: tsungl4
     - gitcode_id: make_pto
+    - gitcode_id: shi-dingkun
   # distributed
   - path:
     - framework/src/interface/tileop/distributed
@@ -189,6 +191,8 @@ repositories:
     - gitcode_id: linjiashu
     - gitcode_id: tsungl4
     - gitcode_id: make_pto
+    - gitcode_id: shi-dingkun
+    - gitcode_id: xinweiliu
   # operator
   - path:
     - examples
