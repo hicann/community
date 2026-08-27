@@ -280,6 +280,8 @@ repositories:
     - gitcode_id: xinweiliu
     - gitcode_id: liulufang_gitcode
     - gitcode_id: li-shengxian3
+    - gitcode_id: lim-jiunnbin
+    - gitcode_id: pan-boyi
   branch_configs: []
 
 - repo:
