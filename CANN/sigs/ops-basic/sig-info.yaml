@@ -74,6 +74,7 @@ repositories:
   - gitcode_id: zl_hw
   - gitcode_id: pingchuantang
   - gitcode_id: yue-ma
+  - gitcode_id: yourealize
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -104,6 +105,7 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: yue-ma
+    - gitcode_id: yourealize
   - path:
     - image/grid_sample
     - image/grid_sample2_d
@@ -122,6 +124,7 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: yue-ma
+    - gitcode_id: yourealize
   - path:
     - image/image_warp_offsets
     committers:
@@ -133,6 +136,7 @@ repositories:
     - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: yue-ma
+    - gitcode_id: yourealize
   - path:
     - image/resize_bicubic_v2
     - image/resize_bicubic_v2_grad
@@ -156,6 +160,7 @@ repositories:
     - gitcode_id: liu-wei
     - gitcode_id: pingchuantang
     - gitcode_id: yue-ma
+    - gitcode_id: yourealize
   - path:
     - image/resize_nearest_neighbor_v2
     - image/resize_nearest_neighbor_v2_grad
@@ -189,6 +194,7 @@ repositories:
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: yue-ma
+    - gitcode_id: yourealize
   - path:
     - objdetect/iou_v2
     - objdetect/non_max_suppression_v6
