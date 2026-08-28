@@ -60,6 +60,7 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 刘鑫炜 [@xinweiliu](https://gitcode.com/xinweiliu), *liuxinwei12@huawei.com*
 - 马可 [@make_pto](https://gitcode.com/make_pto), *make4@huawei.com*
 - 时定坤 [@shi-dingkun](https://gitcode.com/shi-dingkun), *shidingkun1@huawei.com*
+- 黄璐 [@lululu40888](https://gitcode.com/lululu40888), *huanglu22@hisilicon.com*
 
 #### GYM仓库: https://gitcode.com/cann/pypto-gym
 
