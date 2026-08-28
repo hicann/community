@@ -27,9 +27,9 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 ### Maintainer列表
 - 沈敏 [@OpSphere](https://gitcode.com/OpSphere), *shenmin3@huawei.com*
 - 陆玲辉 [@linghuis](https://gitcode.com/linghuis), *lulinghui@huawei.com*
+- 金炯 [@jon_jin](https://gitcode.com/jon_jin), *jinjiong@hisilicon.com*
 
 ### Committer列表
-- 金炯 [@jon_jin](https://gitcode.com/jon_jin), *jinjiong@hisilicon.com*
 - 闫勇良 [@benwallace52](https://gitcode.com/benwallace52), *yanyongliang@huawei.com*
 - 韩睿 [@hanrui22](https://gitcode.com/hanrui22), *hanrui2@huawei.com*
 - 邓国杰 [@dengguojie](https://gitcode.com/dengguojie), *dengguojie@huawei.com*

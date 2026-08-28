@@ -297,6 +297,9 @@ sigs:
       - gitcode_id: linghuis
         name: 陆玲辉
         email: lulinghui@huawei.com
+      - gitcode_id: jon_jin
+        name: 金炯
+        email: jinjiong@hisilicon.com
   - sig_name: ops-linear-algebra
     maintainers:
       - gitcode_id: wangzitao_leo
