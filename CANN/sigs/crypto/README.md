@@ -43,4 +43,4 @@ crypto SIG 是密码学兴趣小组，围绕昇腾 NPU 打造高性能密码软�
 
 仓库地址：
 
-- https://gitcode.com/cann/crypto （密码库主仓，规划建设中）
+- https://gitcode.com/cann/crypto （密码库主仓）
