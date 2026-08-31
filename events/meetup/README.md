@@ -81,6 +81,10 @@
 ## CANN + X系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260827 | 视触融合、灵巧操作到世界模型：具身智能从算法创新到工程落地实践 | sig-embodied-ai | [链接](./slides/sig-embodied-ai/20260827) | [链接](https://www.bilibili.com/video/BV17HtF6KEpn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)|
+| 20260826 | 昇腾NPU原生训练的三维重建基础模型与4D世界模型 | sig-embodied-ai | [链接](./slides/sig-embodied-ai/20260826) | [链接](https://www.bilibili.com/video/BV19jhc6uEuh/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)|
+| 20260825 | 迈向通用具身操作--训练时计算与推理时计算 | sig-embodied-ai | [链接](./slides/sig-embodied-ai/20260825) | [链接](https://www.bilibili.com/video/BV1zk8S6QEog/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)|
+| 20260824 | Crypto for AI：在不信任的世界里，实现可信的智能 | sig-crypto | [链接](./slides/sig-crypto/20260824) | [链接](https://www.bilibili.com/video/BV1qkhM6vE5A/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)|
 | 20260811 | 让大模型真正理解交通：TRIP交通推理大模型与智能体实践 | sig-intelligent-transportation-system | [链接](./slides/sig-intelligent-transportation-system/20260811) | [链接](https://www.bilibili.com/video/BV1wkuy6REJB/?vd_source=40a01afa50d31f7f76277e5baa2faa1f)|
 
 ## CANNBot系列课程直播
