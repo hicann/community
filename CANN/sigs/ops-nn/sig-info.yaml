@@ -159,6 +159,9 @@ repositories:
     - gitcode_id: qianzehong
       name: 钱泽洪
       email: qianzehong@huawei.com
+    - gitcode_id: chenxingyu18
+      name: 陈兴宇
+      email: chenxingyu18@huawei.com
   - path:
     - quant
     committers:
@@ -253,6 +256,9 @@ repositories:
     - gitcode_id: qianzehong
       name: 钱泽洪
       email: qianzehong@huawei.com
+    - gitcode_id: chenxingyu18
+      name: 陈兴宇
+      email: chenxingyu18@huawei.com
   - path:
     - vfusion
     - loss
@@ -298,6 +304,9 @@ repositories:
     - gitcode_id: qianzehong
       name: 钱泽洪
       email: qianzehong@huawei.com
+    - gitcode_id: chenxingyu18
+      name: 陈兴宇
+      email: chenxingyu18@huawei.com
   - path:
     - matmul
     committers:
@@ -331,6 +340,9 @@ repositories:
     - gitcode_id: liuyang_806
       name: 刘泱
       email: liuyang930@hisilicon.com
+    - gitcode_id: rueenov11
+      name: 朱如意
+      email: zhuruyi@huawei.com
   - path:
     - conv
     committers:
@@ -358,6 +370,9 @@ repositories:
     - gitcode_id: linruihan
       name: 林睿涵
       email: linruihan@huawei.com
+    - gitcode_id: chenxingyu18
+      name: 陈兴宇
+      email: chenxingyu18@huawei.com
   - path:
     - experimental
     committers:
