@@ -91,6 +91,9 @@ sigs:
       - gitcode_id: HZFeng
         name: 胡占锋
         email: huzhanfeng@huawei.com
+      - gitcode_id: zhanghongge
+        name: 张红鸽
+        email: zhanghongge@huawei.com
   - sig_name: infrastructure
     maintainers:
       - gitcode_id: songchangxia
