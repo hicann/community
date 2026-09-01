@@ -30,3 +30,10 @@ repositories:
   committers:
   - gitcode_id: liujun2025
   - gitcode_id: yang-jiwei
+- repo:
+  - cann/cannbot-relay
+  committers:
+  - gitcode_id: zhou-qilong
+  - gitcode_id: qwren
+  - gitcode_id: guanxinghua
+  - gitcode_id: hangdu
