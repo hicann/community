@@ -117,6 +117,8 @@ repositories:
     - python/src/bindings/ir
     - tools/verifier
     - python/pypto/_op_wrapper.py
+    - framework/include/ir/transforms
+    - framework/src/interface/ir/transforms
     committers:
     - gitcode_id: tsungl4
     - gitcode_id: yinjie27_
@@ -206,8 +208,6 @@ repositories:
     - gitcode_id: jason_yuan_ye
   # pass
   - path:
-    - framework/include/ir/transforms
-    - framework/src/interface/ir/transforms
     - framework/src/passes
     - framework/src/platform
     - python/pypto/pass_config.py
