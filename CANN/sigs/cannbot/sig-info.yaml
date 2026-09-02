@@ -37,3 +37,17 @@ repositories:
   - gitcode_id: qwren
   - gitcode_id: guanxinghua
   - gitcode_id: hangdu
+- repo:
+  - cann/cannbot
+  committers:
+  - gitcode_id: songkai111
+  - gitcode_id: qq_37913898
+  - gitcode_id: benwallace52
+  - gitcode_id: hanrui22
+  - gitcode_id: dengguojie
+  - gitcode_id: rxtfeng
+  - gitcode_id: wangzheng97
+  - gitcode_id: pingchuantang
+  - gitcode_id: xutianze
+  - gitcode_id: zihengwang2
+  - gitcode_id: hedi0515
