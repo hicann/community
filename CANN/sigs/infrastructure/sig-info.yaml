@@ -34,6 +34,7 @@ repositories:
   - gitcode_id: songchangxia
   - gitcode_id: shentukangjun
   - gitcode_id: mywaaagh_admin
+  - gitcode_id: Larry_liuyi
 - repo:
   - cann/manifest
   committers:
