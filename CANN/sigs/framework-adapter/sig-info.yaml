@@ -13,7 +13,9 @@ repositories:
   - gitcode_id: xuyujun
   - gitcode_id: zhaowei1936
   - gitcode_id: zzyyjj012
-  - gitcode_id: caojingyi
+  - gitcode_id: hwcaifubi
+  - gitcode_id: wanghui0
+  - gitcode_id: zhuofanshen
 
 - repo:
   - cann/xla-npu

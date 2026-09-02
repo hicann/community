@@ -38,10 +38,23 @@
 - 许虞俊[@xuyujun](https://gitcode.com/xuyujun), *xuyujun5@hisilicon.com*
 - 位金弈[@lrwei0709](https://gitcode.com/lrwei0709), *weijinyi3@huawei.com*
 - 潘超[@panchao-gitcode](https://gitcode.com/panchao-gitcode), *panchao13@huawei.com*
+- 赵伟[@zhaowei1936](https://gitcode.com/zhaowei1936), *zhaowei6@huawei.com*
+- 杨喆军[@zzyyjj012](https://gitcode.com/zzyyjj012), *yangzj012@qq.com*
 - 梅贤昌[@gcw_w18ytwbi](https://gitcode.com/gcw_w18ytwbi), *meixianchang@huawei.com*
 - 朱珉[@JaydenChu](https://gitcode.com/JaydenChu), *zhumin54@huawei.com*
 - 栾超伟[@luanchaowei](https://gitcode.com/luanchaowei), *luanchaowei3@huawei.com*
 - 邢智雄[@xingzhixiong](https://gitcode.com/xingzhixiong), *xingzhixiong@huawei.com*
+
+### torchtitan-npu细分子领域Committer（模块Committer）
+
+细分领域Committer仅对各自看护的目录拥有LGTM权限。
+
+#### torchao_npu committer列表
+- 王辉[@wanghui0](https://gitcode.com/wanghui0), *wanghui432@huawei.com*
+- 沈卓凡[@zhuofanshen](https://gitcode.com/zhuofanshen), *shenzhuofan@huawei.com*
+
+#### 高可用模块 committer列表
+- 蔡福璧[@hwcaifubi](https://gitcode.com/hwcaifubi), *caifubi1@huawei.com*
 
 
 ## 社区运作
