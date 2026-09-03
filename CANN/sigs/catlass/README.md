@@ -25,38 +25,47 @@ CATLASS API 架构图：
 
 ## 仓库清单
 
-- ### CATLASS: [https://gitcode.com/cann/catlass](https://gitcode.com/cann/catlass)
+### CATLASS: [https://gitcode.com/cann/catlass](https://gitcode.com/cann/catlass)
 
-- #### 简介：CATLASS 算子模板库主仓，提供 CATLASS 算子模板头文件、使用样例及调试工具等
+#### 简介：CATLASS 算子模板库主仓，提供 CATLASS 算子模板头文件、使用样例及调试工具等。
 
-- #### Committer列表
-  - 张云淞[@triwooder](https://gitcode.com/jtriwooder), *<zhangyunsong3@huawei.com>*
-  - 祝松祥[@weixin_42818618](https://gitcode.com/weixin_42818618), *<zhusongxiang1@huawei.com>*
-  - 陶源[@yuantao_](https://gitcode.com/yuantao_), *<taoyuan15@h-partners.com>*
-  - 龙吉晖[@longjihui](https://gitcode.com/longjihui), *<longjihui@huawei.com>*
-  - 孙昊[@sunhao_hw](https://gitcode.com/sunhao_hw), *<sunhao164@h-partners.com>*
-  - 金修浪[@jxlang](https://gitcode.com/jxlang), *<jinxiulang@huawei.com>*
-  - 徐汉儒[@hanru-xu](https://gitcode.com/hanru-xu), *<xuhanru@huawei.com>*
-  - 龚思维[@gong-siwei](https://gitcode.com/gong-siwei), *<gongsiwei@huawei.com>*（[mstuner_catlass](https://gitcode.com/cann/catlass/blob/master/tools/tuner/README.md)工具**Committer**）
-  - 陈民安[@chenma](https://gitcode.com/chenma), *<chenminan@hisilicon.com>*
-  - MarioDrumond[@mdrumond](https://gitcode.com/mdrumond), *<mario.paulo.oliveira@huawei.com>*
-  - 高道兴[@weixin_63557130](https://gitcode.com/weixin_63557130), *<2829025546@qq.com>*
+#### Committer列表
+- 张云淞[@triwooder](https://gitcode.com/triwooder), *<zhangyunsong3@huawei.com>*
+- 祝松祥[@weixin_42818618](https://gitcode.com/weixin_42818618), *<zhusongxiang1@huawei.com>*
+- 陶源[@yuantao_](https://gitcode.com/yuantao_), *<taoyuan15@h-partners.com>*
+- 龙吉晖[@longjihui](https://gitcode.com/longjihui), *<longjihui@huawei.com>*
+- 孙昊[@sunhao_hw](https://gitcode.com/sunhao_hw), *<sunhao164@h-partners.com>*
+- 金修浪[@jxlang](https://gitcode.com/jxlang), *<jinxiulang@huawei.com>*
+- 龚思维[@gong-siwei](https://gitcode.com/gong-siwei), *<gongsiwei@huawei.com>*（[mstuner_catlass](https://gitcode.com/cann/catlass/blob/master/tools/tuner/README.md)工具**Committer**）
+- 陈民安[@chenma](https://gitcode.com/chenma), *<chenminan@hisilicon.com>*
+- MarioDrumond[@mdrumond](https://gitcode.com/mdrumond), *<mario.paulo.oliveira@huawei.com>*
+- 高道兴[@weixin_63557130](https://gitcode.com/weixin_63557130), *<2829025546@qq.com>*
+
+### CATCCOS: [https://gitcode.com/cann/catccos](https://gitcode.com/cann/catccos)
+
+#### 简介：CATCCOS计算-通信融合算子模板库，聚焦于提供高性能计算通信融合类算子基础模板。
+
+#### Committer列表
+- 尹祺然[@nino888](https://gitcode.com/nino888), *<yinqiran1@huawei.com>*
+- 张云淞[@triwooder](https://gitcode.com/triwooder), *<zhangyunsong3@huawei.com>*
+- 李绍勋[@lishaoxun](https://gitcode.com/lishaoxun), *<lishaoxun1@huawei.com>*
 
 ## 项目路标
 
-- 2026Q1
-  - 新增对下一代昇腾硬件平台的支持
-  - 新增模板样例10+，包括W4A4量化算子模板样例
-  - 新增资料文档10+，示例自定义算子开发和集成流程
-  - 优化Tensor封装
-- 2026Q2：
-  - 新增Matmul样例10+，Conv样例5+，FA样例5+，展示不同功能特性的开发流程和优化技巧
-  - 针对Matmul/GroupMamtul算子持续挖掘收益
-  - 提供Trmm/Symm等更多优化示例
+### CATLASS Roadmap
 
-## TOP外部优秀贡献者
+- [CATLASS Roadmap (2026 Q1&Q2)](https://gitcode.com/cann/catlass/issues/136)；
+- [CATLASS Roadmap (2026 Q3)](https://gitcode.com/cann/catlass/issues/399)；
 
-- 陆璐[@Lulu_scut](https://gitcode.com/Lulu_scut), *<lul@scut.edu.cn>*
+### CATCCOS Roadmap
+
+- [CATCCOS Roadmap (2026 Q3)](https://gitcode.com/cann/catccos/issues/14)；
+
+## 社区优秀贡献者
+
+- 华南理工大学 陆璐老师团队
+- 科大讯飞 研究院工程组
+- 中国海洋大学 王胜科老师团队
 
 ## 社区运作
 
