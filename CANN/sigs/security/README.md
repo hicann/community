@@ -29,7 +29,7 @@
 - 周代金[@gcw_UQE6G7Ro](https://gitcode.com/gcw_UQE6G7Ro), *zhoudaijin@huawei.com*
 - 朱征[@weixin_39767879](https://gitcode.com/weixin_39767879), *zhuzheng3@huawei.com*
 - 杨泽明[@paoding](https://gitcode.com/paoding), *yangzeming1@huawei.com*
-- 刘括[@IceT_5](https://gitcode.com/IceT_5), *liutuo10@huawei.com*
+- 刘拓[@IceT_5](https://gitcode.com/IceT_5), *liutuo10@huawei.com*
 - 陈一雄[@chenyx_2012](https://gitcode.com/chenyx_2012), *975102023@qq.com*
 
 # 社区运作
