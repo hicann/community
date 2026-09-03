@@ -31,7 +31,7 @@ repositories:
   - gitcode_id: liujun2025
   - gitcode_id: yang-jiwei
 - repo:
-  - cann/cannbot-relay
+  - cann/cannbot-sentry
   committers:
   - gitcode_id: zhou-qilong
   - gitcode_id: qwren
