@@ -16,11 +16,15 @@ repositories:
   - gitcode_id: xutianze
   - gitcode_id: zihengwang2
   - gitcode_id: hedi0515
+  entry_configs:
+  - path:
+    - plugins-community/ascendc-port-orchestrator
+    committers:
+    - gitcode_id: junming222
 - repo:
   - cann/cann-bench
   committers:
   - gitcode_id: su-yueming
-  - gitcode_id: OpSphere
   - gitcode_id: fanyuwei_math
   - gitcode_id: gxj1123
   - gitcode_id: vINyLogY
@@ -30,6 +34,8 @@ repositories:
   committers:
   - gitcode_id: liujun2025
   - gitcode_id: yang-jiwei
+  - gitcode_id: gcw_9tG1ncgm
+  - gitcode_id: keloJW
 - repo:
   - cann/cannbot-sentry
   committers:
