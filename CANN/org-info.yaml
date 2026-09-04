@@ -426,3 +426,14 @@ sigs:
     - gitcode_id: huawei_zhoufanke
       name: 周凡珂
       email: fancochou@foxmail.com
+  - sig_name: multimodal-ai
+    maintainers:
+      - gitcode_id: gcw_9tG1ncgm
+        name: 陈振宇
+        email: zychen@nju.edu.cn
+      - gitcode_id: willtongji
+        name: 王伟
+        email: wwang@dase.ecnu.edu.cn
+      - gitcode_id: sundirac
+        name: 孙若愚
+        email: sunruoyu@cuhk.edu.cn

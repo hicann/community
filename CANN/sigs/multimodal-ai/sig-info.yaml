@@ -1,0 +1,54 @@
+name: multimodal-ai
+description: 面向多模态模型关键计算链路的 CANN 社区 SIG，以多模态算子为核心，开展模型计算图拆解、算子抽象与优化，基于新算子重构典型多模态模型 Sample，并对多模态算子及重构后模型进行统一评测，形成从模型需求、算子建设到模型重构与评测验证的协同闭环。
+mailing_list: multimodal-ai@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-multimodal-ai
+
+committers:
+- gitcode_id: Chunrong
+  name: 房春荣
+  email: fangchunr@nju.edu.cn
+- gitcode_id: chcoliang
+  name: 陈淙靓
+  email: chencongliang@slai.edu.cn
+- gitcode_id: xfwang_ecnu
+  name: 王祥丰
+  email: xfwang@cs.ecnu.edu.cn
+- gitcode_id: dingtian_sribd
+  name: 丁添
+  email: dingtian@autokernel.cn
+- gitcode_id: gcw_yVZogt1f
+  name: 张犬俊
+  email: quanjunzhang@njust.edu.cn
+- gitcode_id: keloJW
+  name: 刘佳玮
+  email: jwliu@nju.edu.cn
+- gitcode_id: llimwang
+  name: 王林木
+  email: wanglinmu@huawei.com
+- gitcode_id: zhuxiaosixu
+  name: 雷森
+  email: leisen@huawei.com
+- gitcode_id: bjisdbvjhbsdvk
+  name: 李恒琼
+  email: 870124465@qq.com
+- gitcode_id: jiangyaoguo
+  name: 姜耀国
+  email: jiangyaoguo@outlook.com
+- gitcode_id: weixin_49894702
+  name: 周强
+  email: 313670770@qq.com
+- gitcode_id: songkai111
+  name: 宋恺
+  email: songkai16@huawei.com
+- gitcode_id: qq_33935895
+  name: 高新宇
+  email: xinyugao@smail.nju.edu.cn
+- gitcode_id: Morgan121250
+  name: 王思议
+  email: morgan121250@qq.com
+
+repositories:
+- repo:
+  - cann/multimodal-ops
+  - cann/multimodal-samples
+  - cann/multimodal-bench
