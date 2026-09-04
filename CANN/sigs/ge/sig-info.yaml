@@ -34,7 +34,6 @@ repositories:
   - gitcode_id: shengnan666
   - gitcode_id: hugo111
   - gitcode_id: yuht9
-  - gitcode_id: fu-jun2
   entry_configs: []
 
 - repo:
@@ -50,7 +49,6 @@ repositories:
   - gitcode_id: zhanj
   - gitcode_id: hugo111
   - gitcode_id: yuht9
-  - gitcode_id: fu-jun2
   - gitcode_id: xchu42
   - gitcode_id: zhangfan_hanq
   - gitcode_id: zhujingjing
@@ -177,4 +175,3 @@ repositories:
   - gitcode_id: shengnan666
   - gitcode_id: medivh-x
   - gitcode_id: zhanj
-  - gitcode_id: fu-jun2
