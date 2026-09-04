@@ -36,42 +36,15 @@ repositories:
   - gitcode_id: yanzhenghang
     name: 严正行
     email: yanzhenghang@huawei.com
-  - gitcode_id: yangxiaoyuan
-    name: 杨小渊
-    email: yangxiaoyuan3@huawei.com
   - gitcode_id: bz_lee
     name: 李标智
     email: libiaozhi1@huawei.com
-  - gitcode_id: zhongqin2020
-    name: 钟琴
-    email: zhongqin3@huawei.com
-  - gitcode_id: laodazhao1
-    name: 劳大钊
-    email: laodazhao@huawei.com
   - gitcode_id: chenyia
     name: 陈毅
     email: chenyi163@huawei.com
-  - gitcode_id: hulk1997
-    name: 胡林康
-    email: hulinkang1@huawei.com
-  - gitcode_id: Innoecho
-    name: 孙哲芃
-    email: sunzhepeng@huawei.com
-  - gitcode_id: lilin_137
-    name: 李琳
-    email: lilin137@huawei.com
-  - gitcode_id: chenke2026
-    name: 陈轲
-    email: chenke54@huawei.com
-  - gitcode_id: temper7620
-    name: 王超
-    email: w.wangchao@huawei.com
   - gitcode_id: zhangxp1030
     name: 张兴平
     email: zhangxingping4@huawei.com
-  - gitcode_id: dingweiqin_57
-    name: 丁炜秦
-    email: dingweiqin@huawei.com
   - gitcode_id: chenhao_
     name: 陈浩
     email: chenhao424@huawei.com
@@ -84,15 +57,21 @@ repositories:
   - gitcode_id: linyf950
     name: 林叶峰
     email: linyefeng2@huawei.com
-  - gitcode_id: ouyangxizi
-    name: 欧阳茜
-    email: ouyangxi2@huawei.com
   - gitcode_id: yanglianxiang2
     name: 杨连祥
     email: yanglianxiang2@huawei.com
-  - gitcode_id: one_random
-    name: 施秉辰
-    email: shibingchen@huawei.com
+  - gitcode_id: weixin_43960572
+    name: 袁堂植
+    email: yuantangzhi@huawei.com
+  - gitcode_id: zhongyu1
+    name: 钟宇
+    email: zhongyu37@huawei.com
+  - gitcode_id: adum
+    name: 张鑫
+    email: zhangxin536@huawei.com
+  - gitcode_id: silencesirius
+    name: 蔡鑫
+    email: caixin21@huawei.com
 
   entry_configs:
     - path:
@@ -270,6 +249,12 @@ repositories:
   - gitcode_id: one_random
     name: 施秉辰
     email: shibingchen@huawei.com
+  - gitcode_id: Flashfuture
+    name: 兰泽泽
+    email: lanzeze@huawei.com
+  - gitcode_id: LQ_OY
+    name: 欧阳志康
+    email: ouyangzhikang@huawei.com
 
   entry_configs:
     - path:

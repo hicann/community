@@ -40,6 +40,12 @@
 - 欧阳茜[@ouyangxizi](https://gitcode.com/ouyangxizi), *ouyangxi2@huawei.com*
 - 杨连祥[@yanglianxiang2](https://gitcode.com/yanglianxiang2), *yanglianxiang2@huawei.com*
 - 施秉辰[@one_random](https://gitcode.com/one_random), *shibingchen@huawei.com*
+- 袁堂植[@weixin_43960572](https://gitcode.com/weixin_43960572), *yuantangzhi@huawei.com*
+- 钟宇[@zhongyu1](https://gitcode.com/zhongyu1), *zhongyu37@huawei.com*
+- 张鑫[@adum](https://gitcode.com/adum), *zhangxin536@huawei.com*
+- 兰泽泽[@Flashfuture](https://gitcode.com/Flashfuture), *lanzeze@huawei.com*
+- 蔡鑫[@silencesirius](https://gitcode.com/silencesirius), *caixin21@huawei.com*
+- 欧阳志康[@LQ_OY](https://gitcode.com/LQ_OY), *ouyangzhikang@huawei.com*
 
 # 社区运作
 
