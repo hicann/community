@@ -176,6 +176,7 @@ repositories:
     - gitcode_id: guijianwei
     - gitcode_id: luwei_1104
     - gitcode_id: wangxun21
+    - gitcode_id: kdy18482276080
 
   - path:
     - ffn
@@ -208,6 +209,7 @@ repositories:
     - gitcode_id: kknan
     - gitcode_id: wuyi_huawei
     - gitcode_id: shi-rui
+    - gitcode_id: kdy18482276080
 
   - path:
     - mc2
@@ -245,6 +247,7 @@ repositories:
     - gitcode_id: juyangokok
     - gitcode_id: cpy_123456
     - gitcode_id: guoqiuhao
+    - gitcode_id: kdy18482276080
 
   - path:
     - posembedding
@@ -266,10 +269,12 @@ repositories:
     - gitcode_id: hz36amy_00
     - gitcode_id: luwei_1104
     - gitcode_id: wangxun21
+    - gitcode_id: kdy18482276080
   
   - path:
     - mhc
     - experimental/mhc
     committers:
     - gitcode_id: luwei_1104
+    - gitcode_id: kdy18482276080
     - gitcode_id: wangxun21

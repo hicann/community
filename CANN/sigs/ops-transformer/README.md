@@ -95,6 +95,7 @@
 - 桂建伟 [@guijianwei](https://gitcode.com/guijianwei), *guijianwei@huawei.com*
 - 陆威 [@luwei_1104](https://gitcode.com/luwei_1104), *luwei44@huawei.com*
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
+- 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -106,6 +107,7 @@
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
 - 陈鹏屹 [@cpy_123456](https://gitcode.com/cpy_123456), *chenpengyi@huawei.com*
 - 郭秋毫 [@guoqiuhao](https://gitcode.com/guoqiuhao), *guoqiuhao1@huawei.com*
+- 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 
 ## mc2 committer列表：
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
@@ -132,6 +134,7 @@
 - 徐柯南 [@kknan](https://gitcode.com/kknan), *xukenan@huawei.com*
 - 吴奕 [@wuyi_huawei](https://gitcode.com/wuyi_huawei), *wuyi36@hisilicon.com*
 - 石睿 [@shi-rui](https://gitcode.com/shi-rui), *shirui17@huawei.com*
+- 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 
 ## posembedding committer列表：
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
@@ -145,6 +148,7 @@
 - 周扬帆 [@hz36amy_00](https://gitcode.com/hz36amy_00), *zhouyangfan8@huawei.com*
 - 陆威 [@luwei_1104](https://gitcode.com/luwei_1104), *luwei44@huawei.com*
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
+- 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 
 ## attention committer列表：
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
@@ -173,9 +177,11 @@
 - 桂建伟 [@guijianwei](https://gitcode.com/guijianwei), *guijianwei@huawei.com*
 - 陆威 [@luwei_1104](https://gitcode.com/luwei_1104), *luwei44@huawei.com*
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
+- 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 
 ## mhc committer列表:
 - 陆威 [@luwei_1104](https://gitcode.com/luwei_1104), *luwei44@huawei.com*
+- 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
 
 ## 资料 committer列表：
