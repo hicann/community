@@ -104,3 +104,19 @@ repositories:
     name: 周臻
     email: zzhou602@seu.edu.cn
   entry_configs: []
+
+- repo:
+  - cann/its-trip-app
+  committers:
+  - gitcode_id: JNSYY
+    name: 史云阳
+    email: JNSYY@noreply.gitcode.com
+  - gitcode_id: zhenz2020
+    name: 周臻
+    email: zzhou602@seu.edu.cn
+  - gitcode_id: sunnyzcyyy 
+    name: 张晨洋
+    email: Sunny_zhang@seu.edu.cn
+  - gitcode_id: Luz7818
+    name: 李沐泽
+    email: 213230392@seu.seu.cn

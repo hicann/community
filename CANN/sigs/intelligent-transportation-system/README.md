@@ -37,6 +37,15 @@ Intelligent Transportation System SIG 初期主要围绕以下三个方向开展
 
 该方向将连接交通事件理解、知识调取、风险研判、方案生成、仿真验证和管控下发等环节，推动交通大模型从单点问答走向可验证、可执行、可落地的行业应用。
 
+### its-trip-app
+
+[`its-trip-app`](https://gitcode.com/cann/its-trip-app) 位于 CANN / Ascend 生态之上的交通行业 AI 应用层，是 Intelligent Transportation System SIG 面向交通运输领域的行业应用参考实现集合。
+
+该仓库围绕交通事件研判、交通运行分析、交通管控决策、交通智能体等典型行业场景，集成 CANN / Ascend 生态能力以及 SIG 内交通大模型、算法和工具，形成可运行、可复现、可扩展的应用参考实现。
+
+`its-trip-app` 重点关注行业应用落地和端到端场景验证，与 `its-trip` 的交通垂域大模型及智能决策核心能力形成上下游协同：`its-trip` 提供模型、推理和决策能力，`its-trip-app` 负责将相关能力组织为面向实际交通场景的完整应用。
+
+
 ## 成员
 
 ### Maintainer 列表
@@ -104,11 +113,27 @@ Intelligent Transportation System SIG 初期主要围绕以下三个方向开展
 
   * 邮箱：[zzhou602@seu.edu.cn](mailto:zzhou602@seu.edu.cn)
 
+#### its-trip-app
+
+* 史云阳 `@JNSYY`
+
+  * 邮箱：[JNSYY@noreply.gitcode.com](mailto:JNSYY@noreply.gitcode.com)
+* 周臻 `@zhenz2020`
+
+  * 邮箱：[zzhou602@seu.edu.cn](mailto:zzhou602@seu.edu.cn)
+* 张晨洋`@sunnyzcyyy`
+
+  * 邮箱：[Sunny_zhang@seu.edu.cn](mailto:Sunny_zhang@seu.edu.cn)
+* 李沐泽`@Luz7818`
+
+  * 邮箱：[213230392@seu.seu.cn](mailto:213230392@seu.seu.cn)
+  
 ## 仓库清单
 
 * [its-matrix-computation](https://gitcode.com/cann/its-matrix-computation)
 * [its-stable-llm](https://gitcode.com/cann/its-stable-llm)
 * [its-trip](https://gitcode.com/cann/its-trip)
+* [its-trip-app](https://gitcode.com/cann/its-trip-app)
 
 ## 社区运作
 
