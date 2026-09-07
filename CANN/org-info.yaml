@@ -437,3 +437,30 @@ sigs:
       - gitcode_id: sundirac
         name: 孙若愚
         email: sunruoyu@cuhk.edu.cn
+
+  - sig_name: Financial Engineering
+    maintainers:
+      - gitcode_id: gcw_MYVF23f8
+        name: 江瀚澄
+        email: jianghancheng_hf@163.com
+      - gitcode_id: danaodai2
+        name: 陈嘉远
+        email: chenjiayuan1077@163.com
+      - gitcode_id: huatee
+        name: 程黎明
+        email: chengliming@huawei.com
+      - gitcode_id: dongzihaotajiu
+        name: 付明亮
+        email: fumingliang1@huawei.com
+
+  - sig_name: Manufacturing
+    maintainers:
+      - gitcode_id: laozhuang7271
+        name: 庄瑞炎
+        email: 15617240@qq.com
+      - gitcode_id: debrencc
+        name: 曹杰文
+        email: caojiewen@huawei.com
+      - gitcode_id: huatee
+        name: 程黎明
+        email: chengliming@huawei.com
