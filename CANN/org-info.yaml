@@ -438,7 +438,7 @@ sigs:
         name: 孙若愚
         email: sunruoyu@cuhk.edu.cn
 
-  - sig_name: Financial Engineering
+  - sig_name: financial-engineering
     maintainers:
       - gitcode_id: gcw_MYVF23f8
         name: 江瀚澄
@@ -453,7 +453,7 @@ sigs:
         name: 付明亮
         email: fumingliang1@huawei.com
 
-  - sig_name: Manufacturing
+  - sig_name: manufacturing
     maintainers:
       - gitcode_id: laozhuang7271
         name: 庄瑞炎
