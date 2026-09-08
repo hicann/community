@@ -1,0 +1,25 @@
+name: financial-engineering
+description: 面向金融工程垂直领域的特别兴趣小组，聚焦金融AI基础设施的智能化与算力精细化运营需求，覆盖金融时序预测与潮汐调度、大尺寸 MoE 部署推理、金融多模态训推等核心场景。
+mailing_list: fin-eng@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/fin-eng
+
+committers:
+- gitcode_id: fay625
+  name: 费秀宏
+  email: fay625@sina.cn
+- gitcode_id: HongEvan
+  name: 洪文焕
+  email: hongwith@qq.com
+- gitcode_id: linjialq
+  name: 刘童
+  email: bjcrystal@126.com
+- gitcode_id: flysun55
+  name: 周家申
+  email: flysun55@163.com
+- gitcode_id: xingzhang8023
+  name: 张兴
+  email: zhangxing8@huawei.com
+repositories:
+- repo:
+  - cann/fin-ops-lib
+  - cann/fin-recipes

@@ -1,0 +1,31 @@
+name: manufacturing
+description: 面向制造业垂直领域的特别兴趣小组，覆盖工业软件、工业视觉等核心场景，聚焦制造业领域常用的三维视觉算法和智能制造解决方案领域的计算需求。
+mailing_list: manufacturing@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/manufacturing
+
+committers:
+- gitcode_id: lizihe11
+  name: 李梓和
+  email: lizihe@ncti-gba.cn
+- gitcode_id: engineer566
+  name: 伍宇明
+  email: ferriswym@163.com
+- gitcode_id: junyi-wen
+  name: 文君逸
+  email: meng-duo@qq.com
+- gitcode_id: sumwailiu
+  name: 刘心唯
+  email: 798465811@qq.com
+- gitcode_id: weixin_43555315
+  name: 林洁
+  email: llinjie1024@163.com
+- gitcode_id: Xu_Yongjia
+  name: 许永佳
+  email: 2359865877@qq.com
+- gitcode_id: YANGPuxu
+  name: 杨普旭
+  email: yingtao0427@gmail.com
+repositories:
+- repo:
+  - cann/mfg-ops-cax
+  - cann/mfg-ops-vision
