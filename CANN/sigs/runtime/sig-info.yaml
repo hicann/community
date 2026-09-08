@@ -81,6 +81,7 @@ repositories:
     - gitcode_id: zhuliangying
     - gitcode_id: newstarzj
     - gitcode_id: chenhao_1209
+    - gitcode_id: fujun19
   - path:
     - src/aicpu_sched
     - src/queue_schedule
