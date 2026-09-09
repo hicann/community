@@ -141,6 +141,9 @@ sigs:
       - gitcode_id: LiuXinxin23
         name: 刘鑫鑫
         email: liuxinxin23@hisilicon.com
+      - gitcode_id: diaoyingyu
+        name: 刁莹煜
+        email: diaoyingyu1@hisilicon.com
   - sig_name: ascendc
     maintainers:
       - gitcode_id: xun_zhuge

@@ -61,9 +61,9 @@
 - 韩树发 [[@fafahan]](https://gitcode.com/fafahan), *hanshufa1@hisilicon.com*
 - 夏兵 [[@xbjlu]](https://gitcode.com/xbjlu), *bing.xia@huawei.com*
 - 刘鑫鑫 [[@LiuXinxin23]](https://gitcode.com/LiuXinxin23), *liuxinxin23@hisilicon.com*
+- 刁莹煜 [[@diaoyingyu]](https://gitcode.com/diaoyingyu), *diaoyingyu1@hisilicon.com*
 
 #### Committer列表
-- 刁莹煜 [[@diaoyingyu]](https://gitcode.com/diaoyingyu), *diaoyingyu1@hisilicon.com*
 - 许可 [[@keke_x]](https://gitcode.com/keke_x), *xuke99@hisilicon.com*
 - 皮华立 [[@hiliPP]](https://gitcode.com/hiliPP), *pihuali@hisilicon.com*
 - 邹楠 [[@znmax]](https://gitcode.com/znmax), *zounan1@hisilicon.com*

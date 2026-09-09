@@ -7,7 +7,6 @@ repositories:
 - repo:
   - cann/cann-recipes-infer
   committers:
-  - gitcode_id: diaoyingyu
   - gitcode_id: keke_x
   - gitcode_id: rous_zhang
   - gitcode_id: znmax
