@@ -12,6 +12,8 @@ repositories:
   - gitcode_id: chen_vvjob
   - gitcode_id: Langjitianyatiantian
   - gitcode_id: lixuanfu
+  - gitcode_id: yangyang4536
+  - gitcode_id: xbyb26
 
 - repo:
   - cann/diffrast
@@ -20,3 +22,5 @@ repositories:
   - gitcode_id: Co_Re
   - gitcode_id: chen_vvjob
   - gitcode_id: Langjitianyatiantian
+  - gitcode_id: yangyang4536
+  - gitcode_id: xbyb26

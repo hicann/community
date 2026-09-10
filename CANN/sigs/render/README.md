@@ -20,6 +20,8 @@ Render SIG 是聚焦渲染库的兴趣小组，致力于在昇腾AI处理器上�
 ## Committer 列表
 
 - 李选富[@lixuanfu](https://gitcode.com/lixuanfu), *lixuanfu@huawei.com*
+- 周业波[@xbyb26](https://gitcode.com/xbyb26), *zhouyebo1@huawei.com*
+- 杨杨[@yangyang4536](https://gitcode.com/yangyang4536), *yangyang566@huawei.com*
 
 # 社区运作
 

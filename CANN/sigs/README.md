@@ -34,7 +34,7 @@ CANN社区由多个Special Interest Groups（SIGs）组成，每个SIG负责特�
 | [security](./security/README.md) | 致力于提升CANN开源社区的网络安全质量与竞争力，并持续做好应急响应。                                                    |
 | [shmem](./shmem/README.md) | 致力于面向昇腾AI集群的分布式共享内存编程库的设计、开发与维护，遵循OpenSHMEM标准，为多机多卡场景提供统一的全局地址空间抽象与高性能通信能力。            |
 | [tools](./tools/README.md) | 工具SIG，提供CANN开发、调试、测试等相关工具链支持。                                                          |
-
+| [render](./render/README.md) | 致力于在昇腾AI处理器上实现3D GS、3D MESH等3D表征的高性能可微渲染处理。                                                          |
 
 ## 如何参与
 
