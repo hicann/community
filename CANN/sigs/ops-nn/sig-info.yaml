@@ -343,6 +343,9 @@ repositories:
     - gitcode_id: rueenov11
       name: 朱如意
       email: zhuruyi@huawei.com
+    - gitcode_id: zhaoyingchao2
+      name: 赵颖超
+      email: zhaoyingchao1@hisilicon.com
   - path:
     - conv
     committers:

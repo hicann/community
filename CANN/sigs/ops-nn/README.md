@@ -85,6 +85,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 石向阳[@shi-xiangyang225](https://gitcode.com/shi-xiangyang225), *2678490361@qq.com*
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
 - 朱如意[@rueenov11](https://gitcode.com/rueenov11), *zhuruyi@huawei.com*
+- 赵颖超[@zhaoyingchao2](https://gitcode.com/zhaoyingchao2), *zhaoyingchao1@hisilicon.com*
 
 ### 细分领域：
 ### foreach、activation、norm committer列表：
@@ -155,6 +156,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 徐炳麟[@xubinglin](https://gitcode.com/xubinglin), *xubinglin@huawei.com*
 - 刘泱[@liuyang_806](https://gitcode.com/liuyang_806/), *liuyang930@hisilicon.com*
 - 朱如意[@rueenov11](https://gitcode.com/rueenov11), *zhuruyi@huawei.com*
+- 赵颖超[@zhaoyingchao2](https://gitcode.com/zhaoyingchao2), *zhaoyingchao1@hisilicon.com*
 
 ### conv committer列表：
 - 郑李磊[@lileizheng](https://gitcode.com/lileizheng), *zhenglilei@huawei.com*
