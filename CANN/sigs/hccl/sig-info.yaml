@@ -177,6 +177,66 @@ repositories:
         name: 程祥乐
         email: chengxiangle1@huawei.com
 
+    - path:
+      - src/hccl.map
+      - src/es_hccl.map
+      - src/opgraph_hccl.map
+      - src/scatter_aicpu_kernel.map
+      - src/common/hcomm_dlsym/hccl_compat.map
+      - src/common/hcomm_dlsym/hccl_kernel_compat.map
+      - test/st/algorithm/utils/src/aicpu/scatter_aicpu_kernel_st.map
+      - src/hccl.cmake
+      - src/scatter_aicpu_kernel.cmake
+      - src/common/hcomm_dlsym/hccl_compat.cmake
+      - src/common/hcomm_dlsym/hccl_kernel_compat.cmake
+      - test/st/algorithm/utils/src/aicpu/CMakeLists.txt
+      - CMakeLists.txt
+      - src/CMakeLists.txt
+      committers:
+      - gitcode_id: chenyia
+        name: 陈毅
+        email: chenyi163@huawei.com
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
+      - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
+      - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
+
+    - path:
+      - src/ops/CMakeLists.txt
+      - src/ops/op_common/CMakeLists.txt
+      - src/ops/all_gather/CMakeLists.txt
+      - src/ops/all_gather_v/CMakeLists.txt
+      - src/ops/all_reduce/CMakeLists.txt
+      - src/ops/all_to_all_v/CMakeLists.txt
+      - src/ops/barrier/CMakeLists.txt
+      - src/ops/batch_send_recv/CMakeLists.txt
+      - src/ops/broadcast/CMakeLists.txt
+      - src/ops/interface_graph_mode/CMakeLists.txt
+      - src/ops/recv/CMakeLists.txt
+      - src/ops/reduce/CMakeLists.txt
+      - src/ops/reduce_scatter/CMakeLists.txt
+      - src/ops/reduce_scatter_v/CMakeLists.txt
+      - src/ops/scatter/CMakeLists.txt
+      - src/ops/send/CMakeLists.txt
+      committers:
+      - gitcode_id: chenyia
+        name: 陈毅
+        email: chenyi163@huawei.com
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
+      - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
+      - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
+
 - repo:
   - cann/hcomm
   committers:
@@ -594,6 +654,64 @@ repositories:
       - gitcode_id: yanzhenghang
         name: 严正行
         email: yanzhenghang@huawei.com
+      - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
+
+    - path:
+      - src/legacy/ascend910/algorithm/hccl_alg.map
+      - src/legacy/ascend910/framework/aicpu_custom.map
+      - src/legacy/ascend910/framework/ccl_kernel.map
+      - src/legacy/ascend910/framework/hcomm.map
+      - src/legacy/ascend910/hccd/hccd.map
+      - src/legacy/ascend910/platform/ccl_kernel_plf.map
+      - src/legacy/ascend910/platform/hccl_plf.map
+      - src/legacy/ascend950/ccl_dpu.map
+      - src/legacy/ascend950/hccl_v2.map
+      - src/legacy/ascend950/framework/topo/topo_addr_info/topoaddrinfo.map
+      - experimental/base_comm/nic_plugin/nic_plugin.map
+      - src/legacy/ascend910/algorithm/hccl_alg.cmake
+      - src/legacy/ascend910/framework/aicpu_custom.cmake
+      - src/legacy/ascend910/framework/ccl_kernel.cmake
+      - src/legacy/ascend910/framework/hcomm.cmake
+      - src/legacy/ascend910/platform/ccl_kernel_plf.cmake
+      - src/legacy/ascend910/platform/hccl_plf.cmake
+      - src/legacy/ascend950/ccl_dpu.cmake
+      - src/legacy/ascend950/hccl_v2.cmake
+      - src/legacy/ascend950/framework/topo/topo_addr_info/CMakeLists.txt
+      - experimental/base_comm/nic_plugin/CMakeLists.txt
+      committers:
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
+      - gitcode_id: wenxuemin
+        name: 文学敏
+        email: wenxuemin@huawei.com
+      - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
+
+    - path:
+      - src/base_comm/resources/hccp/netco/net_co.map
+      - src/base_comm/resources/hccp/rdma_agent/adapter/ra_adp.map
+      - src/base_comm/resources/hccp/rdma_agent/client/ra.map
+      - src/base_comm/resources/hccp/rdma_agent/hdc/ra_hdc.map
+      - src/base_comm/resources/hccp/rdma_agent/peer/ra_peer.map
+      - src/base_comm/resources/hccp/rdma_service/rs.map
+      - src/base_comm/resources/hccp/rdma_service/rs_device.map
+      - src/base_comm/resources/hccp/stub_tsd/tsd_eventclient.map
+      - src/base_comm/resources/hccp/netco/CMakeLists.txt
+      - src/base_comm/resources/hccp/stub_tsd/CMakeLists.txt
+      committers:
+      - gitcode_id: yangxiaoyuan
+        name: 杨小渊
+        email: yangxiaoyuan3@huawei.com
+      - gitcode_id: zhongqin2020
+        name: 钟琴
+        email: zhongqin3@huawei.com
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
       - gitcode_id: wenxuemin
         name: 文学敏
         email: wenxuemin@huawei.com
