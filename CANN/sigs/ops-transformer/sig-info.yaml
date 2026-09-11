@@ -231,6 +231,7 @@ repositories:
     - gitcode_id: luobaiqing
     - gitcode_id: tgwsakiko_
     - gitcode_id: captainmiaow
+    - gitcode_id: zhong-zixin
 
   - path:
     - moe

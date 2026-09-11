@@ -97,6 +97,7 @@
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
+- 钟梓莘 [@zhong-zixin](https://gitcode.com/zhong-zixin), *zhongzixin@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -121,6 +122,7 @@
 - 罗柏清 [@luobaiqing](https://gitcode.com/luobaiqing), *luobaiqing1@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
 - 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
+- 钟梓莘 [@zhong-zixin](https://gitcode.com/zhong-zixin), *zhongzixin@huawei.com*
 
 ## ffn committer列表：
 - 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
