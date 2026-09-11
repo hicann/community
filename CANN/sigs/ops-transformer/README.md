@@ -97,7 +97,7 @@
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
-- 钟梓莘 [@zhong-zixin](https://gitcode.com/zhong-zixin), *zhongzixin@huawei.com*
+- 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -111,6 +111,7 @@
 - 郭秋毫 [@guoqiuhao](https://gitcode.com/guoqiuhao), *guoqiuhao1@huawei.com*
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
+- 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
 
 ## mc2 committer列表：
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
@@ -155,6 +156,7 @@
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
+- 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
 
 ## attention committer列表：
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
@@ -185,6 +187,7 @@
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
+- 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
 
 ## mhc committer列表:
 - 陆威 [@luwei_1104](https://gitcode.com/luwei_1104), *luwei44@huawei.com*
