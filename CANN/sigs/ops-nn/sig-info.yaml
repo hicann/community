@@ -361,6 +361,9 @@ repositories:
     - gitcode_id: zhaoyingchao2
       name: 赵颖超
       email: zhaoyingchao1@hisilicon.com
+    - gitcode_id: oscillated
+      name: 陈律丞
+      email: chenlyucheng@huawei.com
   - path:
     - conv
     committers:
