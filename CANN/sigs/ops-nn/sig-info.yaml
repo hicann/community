@@ -162,6 +162,9 @@ repositories:
     - gitcode_id: chenxingyu18
       name: 陈兴宇
       email: chenxingyu18@huawei.com
+    - gitcode_id: yourealize
+      name: 陈展熹
+      email: chenzhanxi1@huawei.com
   - path:
     - quant
     committers:
@@ -204,6 +207,9 @@ repositories:
     - gitcode_id: qianzehong
       name: 钱泽洪
       email: qianzehong@huawei.com
+    - gitcode_id: yourealize
+      name: 陈展熹
+      email: chenzhanxi1@huawei.com
   - path:
     - control
     committers:
@@ -259,6 +265,9 @@ repositories:
     - gitcode_id: chenxingyu18
       name: 陈兴宇
       email: chenxingyu18@huawei.com
+    - gitcode_id: yourealize
+      name: 陈展熹
+      email: chenzhanxi1@huawei.com
   - path:
     - vfusion
     - loss
@@ -282,6 +291,9 @@ repositories:
     - gitcode_id: qianzehong
       name: 钱泽洪
       email: qianzehong@huawei.com
+    - gitcode_id: yourealize
+      name: 陈展熹
+      email: chenzhanxi1@huawei.com
   - path:
     - rnn
     - pooling
@@ -307,6 +319,9 @@ repositories:
     - gitcode_id: chenxingyu18
       name: 陈兴宇
       email: chenxingyu18@huawei.com
+    - gitcode_id: yourealize
+      name: 陈展熹
+      email: chenzhanxi1@huawei.com
   - path:
     - matmul
     committers:
@@ -490,6 +505,9 @@ repositories:
     - gitcode_id: shi-xiangyang225
       name: 石向阳
       email: 2678490361@qq.com
+    - gitcode_id: yourealize
+      name: 陈展熹
+      email: chenzhanxi1@huawei.com
   - path:
     - torch_extension
     committers:

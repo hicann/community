@@ -86,6 +86,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
 - 朱如意[@rueenov11](https://gitcode.com/rueenov11), *zhuruyi@huawei.com*
 - 赵颖超[@zhaoyingchao2](https://gitcode.com/zhaoyingchao2), *zhaoyingchao1@hisilicon.com*
+- 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 
 ### 细分领域：
 ### foreach、activation、norm committer列表：
@@ -98,6 +99,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
+- 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 
 ### quant committer列表：
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
@@ -113,6 +115,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 刘泱[@liuyang_806](https://gitcode.com/liuyang_806/), *liuyang930@hisilicon.com*
 - 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
+- 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 
 ### control committer列表：
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
@@ -128,6 +131,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
+- 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 
 ### vfusion、loss、optim committer列表：
 - 於欣洁[@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
@@ -136,6 +140,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 - 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
+- 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 
 ### rnn、pooling committer列表：
 - 刘闯[@liuchuangdev](https://gitcode.com/liuchuangdev), *liuchuang51@huawei.com*
@@ -145,6 +150,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
+- 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 
 ### matmul committer列表：
 - 范其瑞[@fanqirui](https://gitcode.com/fanqirui), *fanqirui1@huawei.com*
