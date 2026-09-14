@@ -27,6 +27,7 @@ repositories:
   - gitcode_id: james88liu
   - gitcode_id: linyt_86
   - gitcode_id: hyolee
+  - gitcode_id: vector5
   entry_configs:
   - path:
     - include
@@ -60,6 +61,7 @@ repositories:
     - gitcode_id: YeZZzzz1
     - gitcode_id: jiangxinyu3
     - gitcode_id: gcw_hhwuOOa5
+    - gitcode_id: vector5
   - path:
     - src/host/init
     committers:
@@ -72,6 +74,7 @@ repositories:
     - gitcode_id: YeZZzzz1
     - gitcode_id: jiangxinyu3
     - gitcode_id: songmingyang
+    - gitcode_id: vector5
   - path:
     - src/host/team
     - src/device/team
@@ -109,6 +112,7 @@ repositories:
     - gitcode_id: shi_nanxiang
     - gitcode_id: Joyce_An
     - gitcode_id: gcw_hhwuOOa5  
+    - gitcode_id: vector5
   - path:
     - src/host/data_plane
     - src/host/sync
@@ -157,3 +161,4 @@ repositories:
     - gitcode_id: YeZZzzz1
     - gitcode_id: songmingyang
     - gitcode_id: jiangxinyu3
+    - gitcode_id: vector5
