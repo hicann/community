@@ -9,7 +9,7 @@ CANN社区非常重视社区版本的安全性，CANN安全团队负责接收、
 如果您认为 CANN 产品存在一个疑似安全漏洞，我们希望您将漏洞上报给CANN 社区，并与我们配合以负责任的方式修复和披露该问题。
 
 ### 邮件上报方式
-您可以通过email将CANN产品的潜在安全漏洞发送到CANN[security SIG邮箱](security@cann.osinfra.cn)。因为漏洞信息比较敏感，建议您使用安全团队邮箱[PGP公钥](PGP/CANN_public_key.asc)对邮件信息进行加密。 安全团队成员信息详见[security SIG介绍](../CANN/sigs/security/README.md)。
+您可以通过email将CANN产品的潜在安全漏洞发送到CANN[security SIG邮箱](mailto:security@cann.osinfra.cn)。因为漏洞信息比较敏感，建议您使用安全团队邮箱[PGP公钥](PGP/CANN_public_key.asc)对邮件信息进行加密。 安全团队成员信息详见[security SIG介绍](../CANN/sigs/security/README.md)。
 
 ### 邮件上报内容
 为了便于快速的确认和验证疑似漏洞，请在漏洞上报邮件中包含但不限于以下内容：
