@@ -22,6 +22,7 @@ CANN社区由多个Special Interest Groups（SIGs）组成，每个SIG负责特�
 | [infrastructure](./infrastructure/README.md) | CANN社区基础设施聚焦为CANN相关的开源项目提供易用，高效，安全的开发者和用户服务。                                           |
 | [intelligent-transportation-system](./intelligent-transportation-system/README.md) | 交通行业垂直领域兴趣小组，聚焦交通大数据分析、交通网络优化计算和交通大模型智能决策等场景，推进交通行业算子库、工具链和示例应用在 CANN 生态中的建设与落地。       |
 | [material-chemical-engineering](./material-chemical-engineering/README.md) | 面向材料化学、流程工业的垂直领域算子库，聚焦计算仿真、预测两大核心场景，填补通用算子库与工业落地之间的“最后一公里”。                            |
+| [multimodal-ai](./multimodal-ai/README.md) | 面向多模态AI场景，以算子开发为基础、典型模型重构为验证、评测工具链与基准数据为反馈牵引，三位一体协同形成多模态计算能力的建设闭环。 |
 | [ops-basic](./ops-basic/README.md) | 负责维护和开发深度学习框架中核心、基础算子（数学计算、张量变换、随机数、计算机视觉）的兴趣小组，提供高性能、高可靠性的基础运算组件。                     |
 | [ops-linear-algebra](./ops-linear-algebra/README.md) | 算子线性代数领域相关的兴趣小组，负责线性代数基础算子能力建设与维护，如BLAS标准相关线性代数等算子。                                    |
 | [ops-nn](./ops-nn/README.md) | 神经网络相关算子研发兴趣小组，负责如矩阵乘、卷积、激活等神经网络常用算子。                                                  |
