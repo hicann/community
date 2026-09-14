@@ -19,6 +19,18 @@ committers:
 - gitcode_id: xingzhang8023
   name: 张兴
   email: zhangxing8@huawei.com
+- gitcode_id: gcw_MYVF23f8
+  name: 江瀚澄
+  email: jianghancheng_hf@163.com
+- gitcode_id: danaodai2
+  name: 陈嘉远
+  email: chenjiayuan1077@163.com
+- gitcode_id: huatee
+  name: 程黎明
+  email: chengliming@huawei.com
+- gitcode_id: dongzihaotajiu
+  name: 付明亮
+  email: fumingliang1@huawei.com
 repositories:
 - repo:
   - cann/fin-ops-lib

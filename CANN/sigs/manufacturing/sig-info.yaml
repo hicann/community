@@ -25,6 +25,15 @@ committers:
 - gitcode_id: YANGPuxu
   name: 杨普旭
   email: yingtao0427@gmail.com
+- gitcode_id: laozhuang7271
+  name: 庄瑞炎
+  email: 15617240@qq.com
+- gitcode_id: debrencc
+  name: 曹杰文
+  email: caojiewen@huawei.com
+- gitcode_id: huatee
+  name: 程黎明
+  email: chengliming@huawei.com
 repositories:
 - repo:
   - cann/mfg-ops-cax
