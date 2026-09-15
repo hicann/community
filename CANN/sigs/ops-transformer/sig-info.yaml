@@ -179,6 +179,7 @@ repositories:
     - gitcode_id: wangxun21
     - gitcode_id: kdy18482276080
     - gitcode_id: Julius47
+    - gitcode_id: huang-wei-chen
 
   - path:
     - ffn
@@ -190,6 +191,7 @@ repositories:
     - gitcode_id: mabing1118
     - gitcode_id: jiang-lirui
     - gitcode_id: chaotang233
+    - gitcode_id: huang-wei-chen
 
   - path:
     - gmm
