@@ -98,12 +98,37 @@ oil-gas-ops-prospect 基于 CANN 9.0.0 完成开源测试，共计执行 18 组�
 | 10 | real_irfft 重建与往返 | 半谱重建实信号，往返误差与 `torch.fft.irfft(..., norm="ortho")` 对齐 | PASS |
 | 11 | real_rfft / real_irfft 反向 | 多 shape/dim 反向与 CPU `torch.fft` 对拍 | PASS |
 | 12 | real_rfft / real_irfft 大形态 | 三维潜变量形态与 `128^3` 往返/反向；默认示例可运行 | PASS |
-| 13 | 算子文档 | 算子清单、数学定义、约束、接口列表与实现一致；快速入门与开发指南可跟随 | PASS |
+| 13 | 算子文档 | 交付文档齐全（README、LICENSE、SECURITY、文档导航及入门/使用/开发文档共 16 份）；核对应子清单、公开接口与 `--pkg` / `--install` / `-u` 入口。文档列表与检查项见下表「文档测试」 | PASS |
 | 14 | 编译出包 | `bash build.sh --help` 合法选项可打印；`--soc` / `--ops` / `-j` 可组合；产出 OPP `.run` 与 Python whl | PASS |
 | 15 | 安装与卸载 | OPP 写入 customize vendor；`pip install` / `pip uninstall oil-gas-ops-prospect` 可执行 | PASS |
 | 16 | 公开接口冒烟 | `complex_mul` / `fused_bias_softmax` / `fused_softmax_grad` / `real_rfft` / `real_irfft` 可导入；CPU 回退前反向可跑通 | PASS |
 | 17 | 可靠性 | 非法输入被切分侧拒绝；融合算子保持原地写回；非 NPU 自动回退且接口语义不变 | PASS |
 | 18 | 配套兼容 | CANN 9.0.0 + 配套 PyTorch / torch_npu 可完成编译、安装与算子验证 | PASS |
+
+#### 文档测试
+
+第 13 组「算子文档」由 `python3 tests/opensource_gates.py docs` 执行（全量 `-u` 的 `docs_gate`）。
+检查下列交付文档文件存在，并核对应关键词/章节，确保与对外接口、构建入口一致。
+
+| 序号 | 文档 | 测试内容 | 结果 |
+| --- | --- | --- | --- |
+| 1 | `README.md`（项目入口） | 仓名与两类后端交付物；三种构建入口；测试入口 `-u` | PASS |
+| 2 | `LICENSE`（许可证） | Apache License 2.0 全文 | PASS |
+| 3 | `SECURITY.md`（安全声明） | 运行/构建安全建议；公网地址声明表 | PASS |
+| 4 | `CONTRIBUTING.md`（贡献指南） | 贡献流程、提交前自检与 PR/CI 要求 | PASS |
+| 5 | `CHANGELOG.md`（变更记录） | 语义化版本变更记录，含 Unreleased | PASS |
+| 6 | `docs/README.md`（文档导航） | 入门/使用/开发/社区文档索引可跳转 | PASS |
+| 7 | `docs/QUICKSTART.md`（快速入门） | 环境前置、三种构建入口、最短调用路径 | PASS |
+| 8 | `docs/zh/context/quick_install.md`（环境部署） | CANN Toolkit/Ops、Triton-Ascend 安装与环境变量 | PASS |
+| 9 | `docs/zh/context/dir_structure.md`（目录结构） | 仓库各目录职责与 `build.sh` 入口说明 | PASS |
+| 10 | `docs/zh/op_list.md`（算子列表） | 6 个已交付算子的数学定义、输入输出与约束 | PASS |
+| 11 | `docs/zh/api_list.md`（接口列表） | Python 公开接口与 aclnn 两段式入口、环境变量 | PASS |
+| 12 | `docs/zh/invocation/quick_op_invocation.md`（算子调用） | Python / aclnn 端到端调用示例 | PASS |
+| 13 | `docs/zh/context/build.md`（编译参数说明） | 根目录三种构建入口与 `-u` 测试选项 | PASS |
+| 14 | `docs/zh/develop/operator_development_guide.md`（算子开发指南） | 新增 AscendC / Triton 算子的目录、注册、编译、封装与验收步骤 | PASS |
+| 15 | `docs/zh/develop/precision_acceptance_template.md`（精度验收模板） | PR 精度报告模板与验收项 | PASS |
+| 16 | `docs/zh/debug/op_debug_prof.md`（调试与性能分析） | AI Core Host/Kernel 调试与 msProf 上板采集 | PASS |
+
 
 ## 5. DFX专项质量评估
 
