@@ -62,6 +62,14 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 管兴华 [@guanxinghua](https://gitcode.com/guanxinghua), *guanxinghua@huawei.com*
 - 杜航 [@hangdu](https://gitcode.com/hangdu), *duhang8@huawei.com*
 
+**cann/cannbot-knowledge**
+- 韩树发 [@fafahan](https://gitcode.com/fafahan), *hanshufa1@hisilicon.com*
+- 汪超 [@qq_41667743](https://gitcode.com/qq_41667743), *wangchao725@huawei.com*
+- 张昊卓 [@zhanghz1](https://gitcode.com/zhanghz1), *zhanghaozhuo1@hisilicon.com*
+- 王少钧 [@wangsj0012](https://gitcode.com/wangsj0012), *wangshaojun11@huawei.com*
+- 沈铮 [@zhengshencn_hwca](https://gitcode.com/zhengshencn_hwca), *zheng.shen@huawei.com*
+- 王祥丰 [@xfwang_ecnu](https://gitcode.com/xfwang_ecnu), *xfwang@cs.ecnu.edu.cn*
+
 # SIG订阅
 
 - [邮件列表](https://mailweb.cann.osinfra.cn/mailman3/lists/cannbot.cann.osinfra.cn/)
@@ -73,3 +81,4 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - https://gitcode.com/cann/cann-bench
 - https://gitcode.com/cann/cannbot-dsl
 - https://gitcode.com/cann/cannbot-sentry
+- https://gitcode.com/cann/cannbot-knowledge

@@ -57,3 +57,12 @@ repositories:
   - gitcode_id: xutianze
   - gitcode_id: zihengwang2
   - gitcode_id: hedi0515
+- repo:
+  - cann/cannbot-knowledge
+  committers:
+  - gitcode_id: fafahan
+  - gitcode_id: qq_41667743
+  - gitcode_id: zhanghz1
+  - gitcode_id: wangsj0012
+  - gitcode_id: zhengshencn_hwca
+  - gitcode_id: xfwang_ecnu
