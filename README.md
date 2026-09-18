@@ -34,7 +34,7 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
 ## 签署 CLA
 
-参与项目贡献前，请根据您的贡献者身份签署相应的贡献者许可协议（CLA）。具体操作步骤请参阅：[CLA 使用指南](https://gitcode.com/cann/infrastructure/blob/main/docs/cla/cla使用指南.md)。
+参与项目贡献前，请根据您的贡献者身份签署相应的贡献者许可协议（CLA）。具体操作步骤请参阅：[CLA 使用指南](https://gitcode.com/cann/infrastructure/blob/master/docs/cla/cla使用指南.md)。
 
 ## 参与贡献
 
@@ -44,11 +44,11 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
 #### 参与社区会议
 
-如需参加社区 TSC/PMC/SIGs 等组织会议，请访问[社区会议看板](https://meeting.osinfra.cn/cann)获取详细信息。社区提供[会议材料模板](templates/ppt_template.pptx)，您可在对应会议白板上申报议题。具体操作步骤请参阅：[社区会议指南](https://gitcode.com/cann/infrastructure/blob/main/docs/meeting/CANN社区会议指南.md#二如何参与会议)。
+如需参加社区 TSC/PMC/SIGs 等组织会议，请访问[社区会议看板](https://meeting.osinfra.cn/cann)获取详细信息。社区提供[会议材料模板](templates/ppt_template.pptx)，您可在对应会议白板上申报议题。具体操作步骤请参阅：[社区会议指南](https://gitcode.com/cann/infrastructure/blob/master/docs/meeting/CANN社区会议指南.md#二如何参与会议)。
 
 #### 参与社区邮件讨论
 
-关注社区 TSC/PMC/SIGs 等组织动态的用户，可通过订阅[社区邮件列表](https://mailweb.cann.osinfra.cn/postorius/lists/)获取最新消息和历史信息归档（包括会议通知、会议纪要等），并且通过邮件参与讨论、发起讨论、求助、申报会议议题等。具体操作步骤请参阅：[邮件列表使用指南](https://gitcode.com/cann/infrastructure/blob/main/docs/mail-list/邮件列表使用指南.md)。
+关注社区 TSC/PMC/SIGs 等组织动态的用户，可通过订阅[社区邮件列表](https://mailweb.cann.osinfra.cn/postorius/lists/)获取最新消息和历史信息归档（包括会议通知、会议纪要等），并且通过邮件参与讨论、发起讨论、求助、申报会议议题等。具体操作步骤请参阅：[邮件列表使用指南](https://gitcode.com/cann/infrastructure/blob/master/docs/mail-list/邮件列表使用指南.md)。
 
 #### 提交Issue/处理Issue任务
 
@@ -66,7 +66,7 @@ CANN 社区基于 GitCode 的 Issue 管理功能，完整记录每个开发者 I
 
 #### 组织会议
 
-成为社区贡献者后，您将获得组织会议的权限，可进行会议创建、修改、删除等操作。具体操作步骤请参阅：[社区会议指南](https://gitcode.com/cann/infrastructure/blob/main/docs/meeting/CANN社区会议指南.md#三如何组织会议)。
+成为社区贡献者后，您将获得组织会议的权限，可进行会议创建、修改、删除等操作。具体操作步骤请参阅：[社区会议指南](https://gitcode.com/cann/infrastructure/blob/master/docs/meeting/CANN社区会议指南.md#三如何组织会议)。
 
 #### 新建仓库及 CI 配置
 

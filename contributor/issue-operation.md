@@ -112,7 +112,7 @@
 
 ## 6. 📚 扩展资源
 
-- **[Robot 使用指南](https://gitcode.com/cann/infrastructure/blob/main/docs/robot/robot使用指南.md)** - 了解更多 Issue 操作命令及机器人功能
+- **[Robot 使用指南](https://gitcode.com/cann/infrastructure/blob/master/docs/robot/robot使用指南.md)** - 了解更多 Issue 操作命令及机器人功能
 ## ⚠️ 重要说明
 
 1. **安全漏洞处理**：涉及安全漏洞时，请选择"安全漏洞"类型，系统将启用特殊处理流程

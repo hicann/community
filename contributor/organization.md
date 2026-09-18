@@ -38,7 +38,7 @@
 - lgtm：请联系org-info.yaml中该SIG组的maintainers进行评审。评审通过后，由 maintainer评论/lgtm;
 - approved：联系该SIG组的maintainers进行批准。批准后，由maintainer评论 /approve。
 
-（4）PR合入后，您需要登录[社区会议平台](https://meeting.osinfra.cn/cann)的个人中心将gitcode账号与华为账号绑定，绑定GitCode ID后，CANN社区SIG maintainer、committer自动拥有创建会议权限。具体会议指导详见[会议指南](https://gitcode.com/cann/infrastructure/blob/main/docs/meeting/CANN%E7%A4%BE%E5%8C%BA%E4%BC%9A%E8%AE%AE%E6%8C%87%E5%8D%97.md)。
+（4）PR合入后，您需要登录[社区会议平台](https://meeting.osinfra.cn/cann)的个人中心将gitcode账号与华为账号绑定，绑定GitCode ID后，CANN社区SIG maintainer、committer自动拥有创建会议权限。具体会议指导详见[会议指南](https://gitcode.com/cann/infrastructure/blob/master/docs/meeting/CANN%E7%A4%BE%E5%8C%BA%E4%BC%9A%E8%AE%AE%E6%8C%87%E5%8D%97.md)。
 + 注意：<font color="red">权限每隔1小时刷新一次，配置后请耐心等待</font>
  
 （5）PR合入后，如果该SIG组需要新建邮件列表，需要maintainer在新建sig的community的Gitcode的PR里[@weixin_43493709](https://gitcode.com/weixin_43493709)，并描述："你好，需要新建邮件列表，邮件列表名为xxx@cann.osinfra.cn"（其中xxx代表sig名）。
@@ -78,9 +78,9 @@
 
 #### 第一步：移除SIG目录
 
-（1）在第一个PR合并后，在相应项目的 sigs 目录下删除对应SIG组目录；
+（1）Fork 并修改：Fork CANN/community 仓库，在相应项目的 sigs 目录下删除对应SIG组目录；
 
-（2）提交 PR：提交第二个 PR 至 master 分支（pr描述中需要附加评审纪要）；
+（2）提交 PR：提交 PR 至 master 分支（pr描述中需要附加评审纪要）；
 
 （3）✅通过审查并合入pr：此 PR 需获得 cann-cla/yes, lgtm, approved 三个标签后自动合入：
 - cann-cla/yes：CLA协议检查。机器人会自动检查您commits中的邮箱是否已签署CLA协议。若已签署，将添加此标签；若未签署，会添加cann-cla/no标签并留言提示;
@@ -105,12 +105,12 @@
 PMC变更流程详见[PMC治理章程](https://gitcode.com/cann/community/blob/master/governance/pmc-governance.md)。
 
 ### 权限配置
-1.  Fork 并修改：Fork `CANN/community` 仓库到您的个人账号，修改 `CANN/pmc.yaml` 。
+1.  Fork 并修改：Fork `CANN/community` 仓库到您的个人账号，修改 `CANN/PMC/pmc.yaml` 。
 2.  提交 PR：向 `CANN/community` 仓库的 `master` 分支提交 PR
 3.  ✅  通过审查并合入pr：您的 PR 需要获得以下三个标签才能被合并：
 
     - `cann-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `cann-cla/no` 标签并留言提示
-    - `lgtm`：请联系 `pmc.yaml` 文件中列出的 **pmc_members** 进行评审。评审通过后，pmc_member 评论 `/lgtm`，机器人会自动添加标签
+    - `lgtm`：请联系 `CANN/PMC/pmc.yaml` 文件中列出的 **pmc_members** 进行评审。评审通过后，pmc_member 评论 `/lgtm`，机器人会自动添加标签
     - `approved`：同样联系 **pmc_members** 进行批准。批准后，由pmc_members评论 `/approve`，机器人会自动添加标签
 
 
@@ -120,10 +120,10 @@ PMC变更流程详见[PMC治理章程](https://gitcode.com/cann/community/blob/m
 TSC变更流程详见[TSC治理章程](https://gitcode.com/cann/community/blob/master/governance/tsc-governance.md)。
 
 ### 权限配置
-1.  Fork 并修改：Fork `CANN/community` 仓库到您的个人账号，修改 `CANN/tsc.yaml` 。
+1.  Fork 并修改：Fork `CANN/community` 仓库到您的个人账号，修改 `CANN/TSC/tsc.yaml`（[tsc.yaml编写指南](../CANN/tsc-guidance.md)）。
 2.  提交 PR：向 `CANN/community` 仓库的 `master` 分支提交 PR
 3.  ✅  通过审查并合入pr：您的 PR 需要获得以下三个标签才能被合并：
 
     - `cann-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `cann-cla/no` 标签并留言提示
-    - `lgtm`：请联系 `tsc.yaml` 文件中列出的 **tsc_members** 进行评审。评审通过后，tsc_member 评论 `/lgtm`，机器人会自动添加标签
+    - `lgtm`：请联系 `CANN/TSC/tsc.yaml` 文件中列出的 **tsc_members** 进行评审。评审通过后，tsc_member 评论 `/lgtm`，机器人会自动添加标签
     - `approved`：同样联系 **tsc_members** 进行批准。批准后，由tsc_members评论 `/approve`，机器人会自动添加标签

@@ -142,10 +142,17 @@ git commit --amend
 
 ## 6. 推送变更到远程仓库
 
-准备代码审查时，将分支推送到 GitCode 上的 Fork 分支：
+准备代码审查时，将分支推送到 GitCode 上的 Fork 分支（首次推送使用 `-u` 建立本地分支与远程分支的关联）：
+```bash
+git push -u origin myfeature
+```
+
+若推送后对本地提交执行过 `git rebase`、`git commit --amend` 等改写历史的操作，需要强制推送覆盖远程分支：
 ```bash
 git push -f origin myfeature
 ```
+
+> ⚠️ **风险提示**：`-f`（--force）会用本地提交覆盖远程分支，远程分支上未被本地包含的提交将丢失。请仅在自己独占的分支上使用，禁止对 `master` 等公共分支强制推送。
 
 ## 7. 创建 Pull Request
 

@@ -105,7 +105,7 @@
 │  │   ├─ 创建 sig-info.yaml（配置maintainer/committer）                       │
 │  │   ├─ 创建 README.md（SIG介绍、会议时间、成员信息）                          │
 │  │   └─ 提交PR，获得tsc_member评审合入                                        │
-│  └─ 申请邮件列表（可选）：参阅[基础设施支撑矩阵](https://gitcode.com/cann/infrastructure/blob/main/docs/services.md) │
+│  └─ 申请邮件列表（可选）：参阅[基础设施支撑矩阵](https://gitcode.com/cann/infrastructure/blob/master/docs/services.md) │
 │                                                                             │
 │  第6步：绑定账号获取会议权限                                                  │
 │  ├─ 登录会议平台绑定GitCode账号与华为账号                                     │
@@ -311,8 +311,8 @@
 **步骤5：申请邮件列表（可选）**
 
 PR2合入后，如需新建邮件列表：
-- 参阅 [基础设施支撑矩阵](https://gitcode.com/cann/infrastructure/blob/main/docs/services.md) 获取邮件列表联系人
-- [邮件列表使用指南](https://gitcode.com/cann/infrastructure/blob/main/docs/mail-list/邮件列表使用指南.md)
+- 参阅 [基础设施支撑矩阵](https://gitcode.com/cann/infrastructure/blob/master/docs/services.md) 获取邮件列表联系人
+- [邮件列表使用指南](https://gitcode.com/cann/infrastructure/blob/master/docs/mail-list/邮件列表使用指南.md)
 
 **步骤6：绑定账号获取会议权限**
 
@@ -498,8 +498,8 @@ PR合入后：
 - [三方件建仓及分支命名指导](../third_party/third-party-repo-branch-guide.md)
 - [测试报告归档说明](../../QA/test-report/README.md)
 - [文档写作规范](../docs/document_writing_specs.md)
-- [会议指南](https://gitcode.com/cann/infrastructure/blob/main/docs/meeting/CANN社区会议指南.md)
-- [邮件列表指南](https://gitcode.com/cann/infrastructure/blob/main/docs/mail-list/邮件列表使用指南.md)
+- [会议指南](https://gitcode.com/cann/infrastructure/blob/master/docs/meeting/CANN社区会议指南.md)
+- [邮件列表指南](https://gitcode.com/cann/infrastructure/blob/master/docs/mail-list/邮件列表使用指南.md)
 
 ### 邮件订阅
 - [TSC邮件列表](https://mailweb.cann.osinfra.cn/mailman3/lists/tsc.cann.osinfra.cn/)

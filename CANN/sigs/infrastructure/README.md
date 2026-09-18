@@ -1,5 +1,5 @@
 # infrastructure SIG
-CANN社区基础设施聚焦为CANN相关的开源项目提供易用，高效，安全的开发者和用户服务，我们提供的所有服务可以通过[服务列表](https://gitcode.com/cann/infrastructure/blob/main/docs/services.md)进行了解
+CANN社区基础设施聚焦为CANN相关的开源项目提供易用，高效，安全的开发者和用户服务，我们提供的所有服务可以通过[服务列表](https://gitcode.com/cann/infrastructure/blob/master/docs/services.md)进行了解
 
 SIG更多介绍请通过 [我们的仓库](https://gitcode.com/cann/infrastructure) 进行了解
 
