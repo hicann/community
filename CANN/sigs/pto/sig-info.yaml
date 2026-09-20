@@ -237,6 +237,7 @@ repositories:
     - python/src/bindings/cost_model.cpp
     committers:
     - gitcode_id: zhiweiyuan
+    - gitcode_id: caodongdong
     - gitcode_id: make_pto
     - gitcode_id: yinjie27_
     - gitcode_id: linjiashu
