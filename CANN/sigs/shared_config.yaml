@@ -4,6 +4,7 @@ branch_configs:
     - 9.1.0
     - 9.1.0-beta.2
     - 9.2.0-beta.1
+    - 9.2.0
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
