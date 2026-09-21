@@ -100,6 +100,7 @@
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
 - 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
 - 陈黄威 [@huang-wei-chen](https://gitcode.com/huang-wei-chen), *chenhuangwei1@huawei.com*
+- 蒋家炜 [@jiangjiawei](https://gitcode.com/jiangjiawei), *jiangjiawei10@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -161,6 +162,7 @@
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
 - 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
+- 蒋家炜 [@jiangjiawei](https://gitcode.com/jiangjiawei), *jiangjiawei10@huawei.com*
 
 ## attention committer列表：
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
