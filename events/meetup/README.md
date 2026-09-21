@@ -3,6 +3,7 @@
 ## CANN NEXT系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20260916 | 低精度不迷路：昇腾950四大格式选型+MXFP4补偿算法实践 | - | [链接](./slides/950/20260916) | [链接](https://www.bilibili.com/video/BV1LJeA6dE7U/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260915 | Ascend 950组网架构与SHMEM/HIXL单边通信技术解析 | - | [链接](./slides/950/20260915) | [链接](https://www.bilibili.com/video/BV1AWes6YEdR/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260914 | 人芯对话：昇腾950算力落地算子的编程范式探索 | - | [链接](./slides/950/20260914) | [链接](https://www.bilibili.com/video/BV1vTe76cE3t/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260911 | 基于Qwen3.x看Ascend 950上如何进行推理优化 | - | [链接](./slides/950/20260911) | [链接](https://www.bilibili.com/video/BV1FgY76KEBe/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
