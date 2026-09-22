@@ -165,6 +165,7 @@ repositories:
     - image/resize_nearest_neighbor_v2
     - image/resize_nearest_neighbor_v2_grad
     - image/resize_upsample_trilinear
+    - image/rasterizer
     - image/upsample_bicubic2d
     - image/upsample_bicubic2d_aa
     - image/upsample_bicubic2d_aa_grad
