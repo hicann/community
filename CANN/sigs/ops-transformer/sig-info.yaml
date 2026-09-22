@@ -128,6 +128,7 @@ repositories:
     - gitcode_id: mabing1118
     - gitcode_id: jiang-lirui
     - gitcode_id: shen_weiling
+    - gitcode_id: lining_210
 
   - path:
     - "attention/common/op_kernel/vector_common.h"
@@ -181,6 +182,7 @@ repositories:
     - gitcode_id: Julius47
     - gitcode_id: huang-wei-chen
     - gitcode_id: xuchengyang
+    - gitcode_id: lining_210
 
   - path:
     - ffn
