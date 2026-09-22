@@ -53,7 +53,7 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 **cann/cannbot-dsl**
 - 刘俊 [@liujun2025](https://gitcode.com/liujun2025), *liuhao9@huawei.com*
 - 杨继伟 [@yang-jiwei](https://gitcode.com/yang-jiwei), *yangjiwei4@huawei.com*
-- 陈振宇 [@gcw_9tG1ncgm](https://gitcode.com/gcw_9tG1ncgm)
+- 陈振宇 [@gcw_9tG1ncgm](https://gitcode.com/gcw_9tG1ncgm), *zychen@nju.edu.cn*
 - 刘佳玮 [@keloJW](https://gitcode.com/keloJW), *eudemoniajw@gmail.com*
 
 **cann/cannbot-sentry**
