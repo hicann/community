@@ -22,10 +22,8 @@ repositories:
   - gitcode_id: gcw_hhwuOOa5
   - gitcode_id: qin437231
   - gitcode_id: YeZZzzz1
-  - gitcode_id: songmingyang
   - gitcode_id: jiangxinyu3
   - gitcode_id: james88liu
-  - gitcode_id: linyt_86
   - gitcode_id: hyolee
   - gitcode_id: vector5
   entry_configs:
@@ -73,7 +71,6 @@ repositories:
     - gitcode_id: victor7wang
     - gitcode_id: YeZZzzz1
     - gitcode_id: jiangxinyu3
-    - gitcode_id: songmingyang
     - gitcode_id: vector5
   - path:
     - src/host/team
@@ -98,7 +95,6 @@ repositories:
     - gitcode_id: YeZZzzz1
     - gitcode_id: lishaoxun
     - gitcode_id: james88liu
-    - gitcode_id: linyt_86
     - gitcode_id: hyolee
   - path:
     - src/host/transport
@@ -138,7 +134,6 @@ repositories:
     - gitcode_id: YeZZzzz1
     - gitcode_id: lishaoxun
     - gitcode_id: nino888
-    - gitcode_id: songmingyang
     - gitcode_id: jiangxinyu3
     - gitcode_id: Joyce_An
   - path:
@@ -159,6 +154,5 @@ repositories:
     - gitcode_id: gcw_hhwuOOa5
     - gitcode_id: qin437231
     - gitcode_id: YeZZzzz1
-    - gitcode_id: songmingyang
     - gitcode_id: jiangxinyu3
     - gitcode_id: vector5
