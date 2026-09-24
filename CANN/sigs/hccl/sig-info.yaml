@@ -90,6 +90,9 @@ repositories:
       - gitcode_id: zhangxp1030
         name: 张兴平
         email: zhangxingping4@huawei.com
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
 
     - path:
       - include
@@ -370,6 +373,9 @@ repositories:
       - gitcode_id: zhangxp1030
         name: 张兴平
         email: zhangxingping4@huawei.com
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
 
     - path:
       - src/legacy/ascend910/framework/device/aicpu_kfc
