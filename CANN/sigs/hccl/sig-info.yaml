@@ -312,6 +312,9 @@ repositories:
       - gitcode_id: Innoecho
         name: 孙哲芃
         email: sunzhepeng@huawei.com
+      - gitcode_id: temper7620
+        name: 王超
+        email: w.wangchao@huawei.com
 
     - path:
       - src/legacy/ascend910/common
@@ -323,6 +326,9 @@ repositories:
       - gitcode_id: chenhao_
         name: 陈浩
         email: chenhao424@huawei.com
+      - gitcode_id: temper7620
+        name: 王超
+        email: w.wangchao@huawei.com
 
     - path:
       - src/legacy/ascend910/framework
@@ -476,6 +482,9 @@ repositories:
       - gitcode_id: chenhao_
         name: 陈浩
         email: chenhao424@huawei.com
+      - gitcode_id: temper7620
+        name: 王超
+        email: w.wangchao@huawei.com
 
     - path:
       - test/hccl_vm
