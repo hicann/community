@@ -9,7 +9,7 @@
 - 5、负责社区Bug、issue和邮件列表等渠道反馈的问题分发处理。
 
 ## 职责与范围
-本SIG主要负责[ops-transformer](https://gitcode.com/cann/ops-transformer) 仓库的开发与维护：
+本SIG主要负责[ops-transformer](https://gitcode.com/cann/ops-transformer) 和 [ops-tilelang](https://gitcode.com/cann/ops-tilelang) 仓库的开发与维护：
 - ops-transformer(transformer算子)
     - 定位：提供transformer相关常用算子
     - 功能：开发和管理以下类别的算子：
@@ -221,3 +221,4 @@
 
 仓库地址：
 - https://gitcode.com/cann/ops-transformer
+- https://gitcode.com/cann/ops-tilelang

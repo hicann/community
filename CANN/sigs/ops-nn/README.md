@@ -10,7 +10,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 5、负责社区Bug、issue和邮件列表等渠道反馈的问题分发处理。
 
 ## 职责与范围
-本SIG主要负责[ops-nn](https://gitcode.com/cann/ops-nn) 仓库的开发与维护：
+本SIG主要负责[ops-nn](https://gitcode.com/cann/ops-nn) 和 [ops-tensor](https://gitcode.com/cann/ops-tensor) 仓库的开发与维护：
 - ops-nn(神经网络算子)
     - 定位：提供神经网络计算常用算子
     - 功能：开发和管理以下类别的算子：
@@ -225,3 +225,4 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 
 仓库地址：
 - https://gitcode.com/cann/ops-nn
+- https://gitcode.com/cann/ops-tensor
