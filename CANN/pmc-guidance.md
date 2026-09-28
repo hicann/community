@@ -21,6 +21,8 @@ pmc.yaml 是 YAML 格式文件，包含以下顶层字段：
 |--|--|--|--|
 | name | 字符串 |一层| 项目名称，此处是CANN |
 | description |  字符串 |一层| PMC描述信息 |
+| mailing_list | 字符串 |一层| PMC邮件列表地址 |
+| meeting_whiteboard_url | 字符串 |一层| PMC会议白板地址 |
 | pmc_members| 列表 | 一层|PMC对应的pmc_member名单 |
 | repositories| 列表 |一层| PMC所管辖的仓库信息 |
 
@@ -49,6 +51,8 @@ pmc.yaml 是 YAML 格式文件，包含以下顶层字段：
 # 组织/项目基本信息
 name: CANN  # 组织/项目名称
 description: 项目描述
+mailing_list: pmc@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/PMC
 pmc_members: 
   - gitcode_id: aaa
     name: aaa

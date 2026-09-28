@@ -21,6 +21,8 @@ tsc.yaml 是 YAML 格式文件，包含以下顶层字段：
 |--|--|--|--|
 | name | 字符串 |一层| 项目名称，此处是CANN |
 | description |  字符串 |一层| 项目描述信息 |
+| mailing_list | 字符串 |一层| TSC邮件列表地址 |
+| meeting_whiteboard_url | 字符串 |一层| TSC会议白板地址 |
 | tsc_members| 列表 | 一层|TSC对应的tsc_member名单 |
 
 上述tsc_members的每一条个人信息记录包含如下元素：
@@ -35,6 +37,8 @@ tsc.yaml 是 YAML 格式文件，包含以下顶层字段：
 # 组织/项目基本信息
 name: CANN  # 组织/项目名称
 description: 项目描述
+mailing_list: tsc@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/TSC
 tsc_members: 
   - gitcode_id: aaa
     name: aaa
