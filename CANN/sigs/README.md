@@ -16,11 +16,13 @@ CANN社区由多个Special Interest Groups（SIGs）组成，每个SIG负责特�
 | [driver](./driver/README.md) | 专注于CANN生态中驱动软件的设计、开发、维护与性能优化，提供基础驱动、设备管理、资源管理及调度、通信能力等功能。                              |
 | [electrical-engineering](./electrical-engineering/README.md) | 电力行业算子库兴趣小组，联合电网、电力行业科研院所、设备厂家等，补齐和完善电力领域在仿真求解、负荷预测、装备巡检等场景的算子库。                       |
 | [embodied-ai](./embodied-ai/README.md) | 面向具身智能领域，聚焦机器人操作、运动控制、视觉语言导航、世界模型、3D 感知与重建，以及模型训练、部署、评测和真实机器人硬件适配。                     |
+| [financial-engineering](./financial-engineering/README.md) | 面向金融工程垂直领域的特别兴趣小组，聚焦金融AI基础设施的智能化与算力精细化运营需求，覆盖金融时序预测与潮汐调度、大尺寸 MoE 部署推理、金融多模态训推等核心场景。 |
 | [framework-adapter](./framework-adapter/README.md) | 聚焦AI框架与昇腾芯片的深度适配，实现主流框架对昇腾硬件的原生支持，提高用户易用性并降低迁移成本。                                      |
 | [ge](./ge/README.md) | 图模式研发的技术兴趣小组，聚焦于图编译器与图执行引擎的设计、演进与工程实践，打造开放、易用、性能领先的图编译基础设施。                            |
 | [hccl](./hccl/README.md) | 提供集群通信库，开放底层基础通信能力，涵盖集合通信、点到点通信和单边通信等场景通信算子。                                           |
 | [infrastructure](./infrastructure/README.md) | CANN社区基础设施聚焦为CANN相关的开源项目提供易用，高效，安全的开发者和用户服务。                                           |
 | [intelligent-transportation-system](./intelligent-transportation-system/README.md) | 交通行业垂直领域兴趣小组，聚焦交通大数据分析、交通网络优化计算和交通大模型智能决策等场景，推进交通行业算子库、工具链和示例应用在 CANN 生态中的建设与落地。       |
+| [manufacturing](./manufacturing/README.md) | 面向制造业垂直领域的特别兴趣小组，覆盖工业软件、工业视觉等核心场景，聚焦制造业领域常用的三维视觉算法和智能制造解决方案领域的计算需求。 |
 | [material-chemical-engineering](./material-chemical-engineering/README.md) | 面向材料化学、流程工业的垂直领域算子库，聚焦计算仿真、预测两大核心场景，填补通用算子库与工业落地之间的“最后一公里”。                            |
 | [multimodal-ai](./multimodal-ai/README.md) | 面向多模态AI场景，以算子开发为基础、典型模型重构为验证、评测工具链与基准数据为反馈牵引，三位一体协同形成多模态计算能力的建设闭环。 |
 | [ops-basic](./ops-basic/README.md) | 负责维护和开发深度学习框架中核心、基础算子（数学计算、张量变换、随机数、计算机视觉）的兴趣小组，提供高性能、高可靠性的基础运算组件。                     |
