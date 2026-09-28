@@ -262,10 +262,10 @@ repositories:                         #repositories 字段会说明SIG组所管�
     committers:                        #entry组对应的committer名单 ，可选字段
     - gitcode_id: yyy
     - gitcode_id: zzz
-  - path: 									
+  - path:
     - siginfo.yaml
     - cmake/utils/setup.py
-    committers: 								
+    committers:
     - gitcode_id: uio
     - gitcode_id: asd
   branch_configs:                     #branch_configs 字段会说明仓库组所管理的分支组的信息
@@ -288,7 +288,7 @@ repositories:                         #repositories 字段会说明SIG组所管�
     - path:
       - siginfo.yaml
       - cmake/utils/setup.py
-      committers: 							
+      committers:
       - gitcode_id: uuu
       - gitcode_id: vvv
   - branch:                           #分支组，可以是一个分支，也可以是一组分支，可选字段
