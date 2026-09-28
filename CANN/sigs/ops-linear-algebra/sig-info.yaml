@@ -1,7 +1,7 @@
 name: ops-linear-algebra
 description:
 mailing_list: "ops-linear-algebra@cann.osinfra.cn"
-meeting_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-linear-algebra"
+meeting_whiteboard_url: "https://etherpad-cann.meeting.osinfra.cn/p/sig-ops-linear-algebra"
 committers: []
 repositories:
 - repo:
