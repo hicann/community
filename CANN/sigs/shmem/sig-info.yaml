@@ -1,7 +1,7 @@
 name: shmem
 description: 提供便携易用的多机多卡内存访问方式，加速通信或通算融合类算子开发。
-mailing_list:
-meeting_whiteboard_url:
+mailing_list: shmem@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-shmem
 mentors: []
 committers: []
 reviewers: []
