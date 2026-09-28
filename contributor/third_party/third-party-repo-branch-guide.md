@@ -44,13 +44,13 @@
 # 1. 获取上游社区发布版本发布件源码
 从 https://github.com/nlohmann/json/releases/tag/v3.12.0获取源码发布件
 
-# 2. 建立社区版目标分支：CANN/v3.12.0, 将CANN需要的*.tar.gz上传至此分支
+# 2. 建立社区版目标分支：cann/v3.12.0, 将CANN需要的*.tar.gz上传至此分支
 
 # 3. 推送源数据至社区分支
 
 # 4. 建立json的基线tag：v3.12.0，并准备最终Release发布
 
-# 5. 如需增加定制修改patch,在基线版本分支下CANN/v3.12.0提交新增patch，合入后发布tag:v3.12.0-h0,并准备最终Release发布
+# 5. 如需增加定制修改patch,在基线版本分支下cann/v3.12.0提交新增patch，合入后发布tag:v3.12.0-h0,并准备最终Release发布
 
 #### 第三步：最终仓库结构
 
