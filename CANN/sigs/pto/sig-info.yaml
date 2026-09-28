@@ -313,3 +313,11 @@ repositories:
         - gitcode_id: shengxinchen
         - gitcode_id: echo_stone
         - gitcode_id: kerwinair
+
+- repo:
+    - cann/pypto-vscode
+  committers:
+    - gitcode_id: sunmaxwell
+    - gitcode_id: jinwending
+  entry_configs: []
+  branch_configs: []

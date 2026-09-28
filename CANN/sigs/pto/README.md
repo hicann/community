@@ -91,6 +91,11 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 瞿柯林 [@qukelin](https://gitcode.com/qukelin), *qukelin@huawei.com*
 - 钱鑫海 [@bluesky901](https://gitcode.com/bluesky901), *qianxinhai@huawei.com*
 
+#### PyPTO-VSCode仓库: https://gitcode.com/cann/pypto-vscode
+
+- 孙志浩 [@sunmaxwell](https://gitcode.com/sunmaxwell), *sunzhihao1@huawei.com*
+- 金文鼎 [@jinwending](https://gitcode.com/jinwending), *jinwending1@huawei.com*
+
 # 社区运作
 
 ### 会议组织
