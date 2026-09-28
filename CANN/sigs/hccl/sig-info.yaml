@@ -137,9 +137,9 @@ repositories:
       - gitcode_id: flyswa
         name: 臧燕
         email: zangyan@huawei.com
-      - gitcode_id: claire8090
-        name: 袁滔
-        email: yuantao27@h-partners.com
+      - gitcode_id: yuwang-
+        name: 余旺
+        email: yuwang11@h-partners.com
 
     - path:
       - docs/zh/rfcs
@@ -439,21 +439,15 @@ repositories:
         email: wenxuemin@huawei.com
 
     - path:
-      - src/legacy/ascend910/common/error_code/error_code.cc
-      committers:
-      - gitcode_id: ycm0028
-        name: 叶成美
-        email: yechengmei@huawei.com
-
-    - path:
       - docs
+      - src/legacy/ascend910/common/error_code/error_code.cc
       committers:
       - gitcode_id: flyswa
         name: 臧燕
         email: zangyan@huawei.com
-      - gitcode_id: claire8090
-        name: 袁滔
-        email: yuantao27@h-partners.com
+      - gitcode_id: yuwang-
+        name: 余旺
+        email: yuwang11@h-partners.com
 
     - path:
       - docs/zh/rfcs
