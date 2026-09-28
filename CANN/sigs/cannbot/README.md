@@ -42,6 +42,7 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 王子恒 [@zihengwang2](https://gitcode.com/zihengwang2), *wangziheng8@huawei.com*
 - 贺迪 [@hedi0515](https://gitcode.com/hedi0515), *hedi7@huawei.com*
 - 曹峻铭 [@junming222](https://gitcode.com/junming222), *caojunming4@huawei.com*
+- 吴佳萍 [@w00934874](https://gitcode.com/w00934874), *wujiaping@huawei.com*
 
 **cann/cann-bench**
 - 苏跃明 [@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*

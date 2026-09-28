@@ -16,6 +16,7 @@ repositories:
   - gitcode_id: xutianze
   - gitcode_id: zihengwang2
   - gitcode_id: hedi0515
+  - gitcode_id: w00934874
   entry_configs:
   - path:
     - plugins-community/ascendc-port-orchestrator
