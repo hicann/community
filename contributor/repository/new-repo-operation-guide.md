@@ -37,7 +37,7 @@
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
 │  第1步：准备材料+申报议题（会议前任意时间）                                     │
-│  ├─ 下载模板：新建仓申报模板 v0.1.pptx       │
+│  ├─ 下载模板：新建仓申报模板 v0.2.pptx       │
 │  ├─ 填写：仓库名称、目标、技术方案、维护者等                                   │
 │  ├─ 申报方式：直接在TSC纪要填写议题                                          │
 │  └─ 格式：「1. XXX仓库新建申请 -- 申请人：XXX」                               │
@@ -275,7 +275,7 @@
 
 1. 准备两份PPT材料，可合一：
     - SIG申请：使用 [SIG组申报模板](https://gitcode.com/cann/community/blob/master/templates/SIG%E7%BB%84%E7%94%B3%E6%8A%A5%E6%A8%A1%E6%9D%BF%20v0.2.pptx)
-    - 建仓申请：使用 [新建仓申报模板](https://gitcode.com/cann/community/blob/master/templates/新建仓申报模板%20v0.1.pptx)
+    - 建仓申请：使用 [新建仓申报模板](https://gitcode.com/cann/community/blob/master/templates/新建仓申报模板%20v0.2.pptx)
 2. 在TSC纪要申报议题：
     ```
     XXX SIG新建申请及仓库新建 -- 申请人：张三
@@ -485,7 +485,7 @@ PR合入后：
 - [基础设施Issue](https://gitcode.com/cann/infrastructure/issues) - 建仓/CI配置申请
 
 ### 模板下载
-- [新建仓申报模板](https://gitcode.com/cann/community/blob/master/templates/新建仓申报模板%20v0.1.pptx)
+- [新建仓申报模板](https://gitcode.com/cann/community/blob/master/templates/新建仓申报模板%20v0.2.pptx)
 - [测试报告模板](https://gitcode.com/cann/community/blob/master/contributor/testing/test-templates/测试报告模板.md)
 - [会议PPT模板](https://gitcode.com/cann/community/blob/master/templates/ppt_template.pptx)
 
