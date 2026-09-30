@@ -22,6 +22,10 @@ repositories:
     - plugins-community/ascendc-port-orchestrator
     committers:
     - gitcode_id: junming222
+  - path:
+    - ops/ascendc-cross-gen-port-light
+    committers:
+    - gitcode_id: junming222
 - repo:
   - cann/cann-bench
   committers:
@@ -58,6 +62,12 @@ repositories:
   - gitcode_id: xutianze
   - gitcode_id: zihengwang2
   - gitcode_id: hedi0515
+  - gitcode_id: w00934874
+  entry_configs:
+  - path:
+    - plugins-community/ascendc-port-orchestrator
+    committers:
+    - gitcode_id: junming222
 - repo:
   - cann/cannbot-knowledge
   committers:
