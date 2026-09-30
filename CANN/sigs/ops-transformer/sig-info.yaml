@@ -299,3 +299,33 @@ repositories:
   - gitcode_id: kevin365
   - gitcode_id: jiawei_zhuang
   - gitcode_id: ChaoyangJi
+
+- repo:
+  - cann/ops-batchinvariant
+  committers:
+  - gitcode_id: ztj0209
+  - gitcode_id: monologue815
+  - gitcode_id: yu-xinjie62
+  - gitcode_id: crystalhu
+  - gitcode_id: cc-z
+  - gitcode_id: juyangokok
+  - gitcode_id: chaotang233
+  - gitcode_id: liujie12345678
+  - gitcode_id: east_yang
+  - gitcode_id: zhangshuoleiokok
+  - gitcode_id: yolic
+  - gitcode_id: yue-ma
+  - gitcode_id: kerten
+
+  entry_configs: 
+  - path:
+    - "*/*/docs/acl*.md"
+    - "*/*/README.md"
+    committers:
+    - gitcode_id: Ww7012
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: yanglu-1
+    - gitcode_id: gitee-duhuiping
+    - gitcode_id: zhouwenfang
+    - gitcode_id: wuyao51511
+    - gitcode_id: claire8090
