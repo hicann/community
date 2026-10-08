@@ -32,14 +32,16 @@ CATLASS API 架构图：
 #### Committer列表
 - 张云淞[@triwooder](https://gitcode.com/triwooder), *<zhangyunsong3@huawei.com>*
 - 祝松祥[@weixin_42818618](https://gitcode.com/weixin_42818618), *<zhusongxiang1@huawei.com>*
-- 陶源[@yuantao_](https://gitcode.com/yuantao_), *<taoyuan15@h-partners.com>*
+- 陶源[@yuantao_](https://gitcode.com/yuantao_), *<taoyuan18@huawei.com>*
 - 龙吉晖[@longjihui](https://gitcode.com/longjihui), *<longjihui@huawei.com>*
-- 孙昊[@sunhao_hw](https://gitcode.com/sunhao_hw), *<sunhao164@h-partners.com>*
+- 孙昊[@sunhao_hw](https://gitcode.com/sunhao_hw), *<sunhao203@huawei.com>*
 - 金修浪[@jxlang](https://gitcode.com/jxlang), *<jinxiulang@huawei.com>*
 - 龚思维[@gong-siwei](https://gitcode.com/gong-siwei), *<gongsiwei@huawei.com>*（[mstuner_catlass](https://gitcode.com/cann/catlass/blob/master/tools/tuner/README.md)工具**Committer**）
 - 陈民安[@chenma](https://gitcode.com/chenma), *<chenminan@hisilicon.com>*
 - MarioDrumond[@mdrumond](https://gitcode.com/mdrumond), *<mario.paulo.oliveira@huawei.com>*
 - 高道兴[@weixin_63557130](https://gitcode.com/weixin_63557130), *<2829025546@qq.com>*
+- 张浩波[@init__zhb__](https://gitcode.com/init__zhb__), *<zhanghaobo6@huawei.com>*
+- 倪宇昊[@CheaterAbec](https://gitcode.com/CheaterAbec), *<niyuhao2@huawei.com>*
 
 ### CATCCOS: [https://gitcode.com/cann/catccos](https://gitcode.com/cann/catccos)
 

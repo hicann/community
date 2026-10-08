@@ -21,6 +21,8 @@ repositories:
   - gitcode_id: chenma
   - gitcode_id: mdrumond
   - gitcode_id: weixin_63557130
+  - gitcode_id: init__zhb__
+  - gitcode_id: CheaterAbec
   entry_configs: 
   - path: 
     - tools
