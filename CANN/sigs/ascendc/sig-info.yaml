@@ -315,6 +315,8 @@ repositories:
   - gitcode_id: hyyisasleep
   - gitcode_id: gehaoxuan
   - gitcode_id: li_zeran
+  - gitcode_id: vla5924
+  - gitcode_id: vladimirlaz
   entry_configs:
   - path:
     - include
