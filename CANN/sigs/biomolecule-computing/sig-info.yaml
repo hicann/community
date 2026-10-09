@@ -10,15 +10,33 @@ repositories:
   - gitcode_id: cpl_zy
     name: 李政毅
     email: yy11code@163.com
+  - gitcode_id: LJC_ok
+    name: 李建成
+    email: 468869881@qq.com
+  - gitcode_id: Yaanng
+    name: 王伟扬
+    email: fearus@163.com
+  - gitcode_id: ctl_hw
+    name: 陈天伦
+    email: tianlunchen@outlook.com
   - gitcode_id: gcw_kMzylTxR
     name: 刘士超
     email: liushichao2@huawei.com
-  - gitcode_id: gcw_8EkgHHri
-    name: 张君宇
-    email: larmelave@sina.com
   - gitcode_id: gcw_dv9EDi4O
     name: 刘凯明
     email: m13725534160@163.com
+  - gitcode_id: zhujianwei
+    name: 祝建伟
+    email: zhujianwei14@huawei.com
+  - gitcode_id: weixin_49247797
+    name: 蔡钊
+    email: zhao.cai@163.com
+  - gitcode_id: whbull
+    name: 赵立宁
+    email: whbull@qq.com
+  - gitcode_id: leelei170
+    name: 李磊
+    email: 306963629@qq.com
   - gitcode_id: liangyuwei1
     name: 梁宇为
     email: liangyuwei@huawei.com

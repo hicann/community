@@ -28,18 +28,26 @@ Biomolecule Computing SIG（生物分子计算 SIG）是面向生命科学领域
 - 刘炳成 [@lbchw](https://gitcode.com/lbchw), xjtlbc@163.com
 - 谢海波 [@haiboxie](https://gitcode.com/haiboxie), haibo_xie@hotmail.com
 - 周凡珂 [@huawei_zhoufanke](https://gitcode.com/huawei_zhoufanke), fancochou@foxmail.com
+- 颜亚文 [@yanyawen](https://gitcode.com/yanyawen), yanyawen@huawei.com
+- 张君宇 [@gcw_8EkgHHri](https://gitcode.com/gcw_8EkgHHri), larmelave@sina.com
 ### Committer列表
 - 李政毅 [@cpl_zy](https://gitcode.com/cpl_zy), yy11code@163.com
+- 李建成 [@LJC_ok](https://gitcode.com/LJC_ok), 468869881@qq.com
+- 王伟扬 [@Yaanng](https://gitcode.com/Yaanng), fearus@163.com
+- 陈天伦 [@ctl_hw](https://gitcode.com/ctl_hw), tianlunchen@outlook.com
 - 刘士超 [@gcw_kMzylTxR](https://gitcode.com/gcw_kMzylTxR), liushichao2@huawei.com
-- 张君宇 [@gcw_8EkgHHri](https://gitcode.com/gcw_8EkgHHri), larmelave@sina.com
 - 刘凯明 [@gcw_dv9EDi4O](https://gitcode.com/gcw_dv9EDi4O), m13725534160@163.com
+- 祝建伟 [@zhujianwei](https://gitcode.com/zhujianwei), zhujianwei14@huawei.com
+- 蔡钊 [@weixin_49247797](https://gitcode.com/weixin_49247797), zhao.cai@163.com
+- 赵立宁 [@whbull](https://gitcode.com/whbull), whbull@qq.com
+- 李磊 [@leelei170](https://gitcode.com/leelei170), 306963629@qq.com
 - 梁宇为 [@liangyuwei1](https://gitcode.com/liangyuwei1), liangyuwei@huawei.com
 - 张涛涛 [@starwinner](https://gitcode.com/starwinner), starwinner@yeah.net
 - 刘子恒 [@zh_liu](https://gitcode.com/zh_liu), liuziheng@huawei.com
 - 伍俭 [@wujian99](https://gitcode.com/wujian99), 170985729@qq.com
 ## 社区运作
 ### 会议组织
-- 公开的会议时间：北京时间，一月一次例会，每月最后一周周五上午10:00~11:00
+- 公开的会议时间：北京时间，两周一次例会，单周(每月第一、第三周，节假日)跳过，周五上午10:00~11:00
 - [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-Biomolecule-Computing)
 - [会议地址](https://meeting.osinfra.cn/cann)
 ### 会议纪要

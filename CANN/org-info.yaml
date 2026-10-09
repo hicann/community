@@ -429,6 +429,12 @@ sigs:
     - gitcode_id: huawei_zhoufanke
       name: 周凡珂
       email: fancochou@foxmail.com
+    - gitcode_id: yanyawen
+      name: 颜亚文
+      email: yanyawen@huawei.com
+    - gitcode_id: gcw_8EkgHHri
+      name: 张君宇
+      email: larmelave@sina.com
   - sig_name: multimodal-ai
     maintainers:
       - gitcode_id: gcw_9tG1ncgm
