@@ -41,3 +41,11 @@ repositories:
   - gitcode_id: songchangxia
   - gitcode_id: shentukangjun
   - gitcode_id: yangbinhua
+- repo:
+  - cann/container-image
+  committers:
+  - gitcode_id: songchangxia
+  - gitcode_id: shentukangjun
+  - gitcode_id: mywaaagh_admin
+  - gitcode_id: Larry_liuyi
+  - gitcode_id: wangchuang616
