@@ -19,18 +19,21 @@ repositories:
   - gitcode_id: edconeone
     name: 陈昀
     email: edconeone@163.com
-  - gitcode_id: mappleo
-    name: 莫程翔
-    email: mochengxiang1@huawei.com
-  - gitcode_id: gcw_FHrfwZBn
-    name: 李博
-    email: libo49@huawei.com
   - gitcode_id: yuwenxing9698
     name: 余文星
     email: 2757147853@qq.com
-  - gitcode_id: gcw_SfNdEwkR
+  - gitcode_id: Thomas_Zhu
     name: 朱栋贤
     email: zhudongxian@huawei.com
+  - gitcode_id: weixin_45966301
+    name: 邱越
+    email: 1521050540@qq.com
+  - gitcode_id: weixin_38225275
+    name: 黎子毅
+    email: 491686106@qq.com
+  - gitcode_id: yaohaozhe1
+    name: 姚皓哲
+    email: yaohaozhe1@huawei.com
   entry_configs: []
 - repo:
   - cann/elec-ops-prediction
@@ -47,18 +50,21 @@ repositories:
   - gitcode_id: edconeone
     name: 陈昀
     email: edconeone@163.com
-  - gitcode_id: mappleo
-    name: 莫程翔
-    email: mochengxiang1@huawei.com
-  - gitcode_id: gcw_FHrfwZBn
-    name: 李博
-    email: libo49@huawei.com
   - gitcode_id: yuwenxing9698
     name: 余文星
     email: 2757147853@qq.com
-  - gitcode_id: gcw_SfNdEwkR
+  - gitcode_id: Thomas_Zhu
     name: 朱栋贤
     email: zhudongxian@huawei.com
+  - gitcode_id: weixin_45966301
+    name: 邱越
+    email: 1521050540@qq.com
+  - gitcode_id: weixin_38225275
+    name: 黎子毅
+    email: 491686106@qq.com
+  - gitcode_id: yaohaozhe1
+    name: 姚皓哲
+    email: yaohaozhe1@huawei.com
   entry_configs: []
 - repo:
   - cann/elec-ops-inspection
@@ -75,16 +81,19 @@ repositories:
   - gitcode_id: edconeone
     name: 陈昀
     email: edconeone@163.com
-  - gitcode_id: mappleo
-    name: 莫程翔
-    email: mochengxiang1@huawei.com
-  - gitcode_id: gcw_FHrfwZBn
-    name: 李博
-    email: libo49@huawei.com
   - gitcode_id: yuwenxing9698
     name: 余文星
     email: 2757147853@qq.com
-  - gitcode_id: gcw_SfNdEwkR
+  - gitcode_id: Thomas_Zhu
     name: 朱栋贤
     email: zhudongxian@huawei.com
+  - gitcode_id: weixin_45966301
+    name: 邱越
+    email: 1521050540@qq.com
+  - gitcode_id: weixin_38225275
+    name: 黎子毅
+    email: 491686106@qq.com
+  - gitcode_id: yaohaozhe1
+    name: 姚皓哲
+    email: yaohaozhe1@huawei.com
   entry_configs: []
