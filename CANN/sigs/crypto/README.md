@@ -19,14 +19,15 @@ crypto SIG 是密码学兴趣小组，围绕昇腾 NPU 打造高性能密码软�
 
 ## Committer 列表
 
-- 王伟嘉[@wwjcrypt](https://gitcode.com/wwjcrypt)
-- 郑昉昱[@zhengfy1028](https://gitcode.com/zhengfy1028)
-- 杨昊[@D4rk](https://gitcode.com/D4rk)
-- 李萌[@menglipku](https://gitcode.com/menglipku)
-- 王雯哲[@wenzhe_wang](https://gitcode.com/wenzhe_wang)
-- 纪昌龙[@changlongji](https://gitcode.com/changlongji)
-- 王江波[@Jiangbowang](https://gitcode.com/Jiangbowang)
-- 袁壄[@jfcm1024](https://gitcode.com/jfcm1024)
+- 王伟嘉[@wwjcrypt](https://gitcode.com/wwjcrypt)，*[wjwangcrypto@gmail.com](mailto:wjwangcrypto@gmail.com)*
+- 郑昉昱[@zhengfy1028](https://gitcode.com/zhengfy1028)，*[zhengfy1028@hotmail.com](mailto:zhengfy1028@hotmail.com)*
+- 杨昊[@D4rk](https://gitcode.com/D4rk)，*[crypto@d4rk.dev](mailto:crypto@d4rk.dev)*
+- 李萌[@menglipku](https://gitcode.com/menglipku)，*[meng.li@pku.edu.cn](mailto:meng.li@pku.edu.cn)*
+- 王雯哲[@wenzhe_wang](https://gitcode.com/wenzhe_wang)，*[wongwwz@foxmail.com](mailto:wongwwz@foxmail.com)*
+- 纪昌龙[@changlongji](https://gitcode.com/changlongji)，*[changlong.ji@mail.sdu.edu.cn](mailto:changlong.ji@mail.sdu.edu.cn)*
+- 王江波[@Jiangbowang](https://gitcode.com/Jiangbowang)，*[jiangbo.wang@mail.sdu.edu.cn](mailto:jiangbo.wang@mail.sdu.edu.cn)*
+- 袁壄[@jfcm1024](https://gitcode.com/jfcm1024)，*[yuanye44@huawei.com](mailto:yuanye44@huawei.com)*
+- 梅子豪[@zihaomei](https://gitcode.com/zihaomei)，*[zihao.mei@mail.sdu.edu.cn](mailto:zihao.mei@mail.sdu.edu.cn)*
 
 # 社区运作
 
@@ -43,4 +44,4 @@ crypto SIG 是密码学兴趣小组，围绕昇腾 NPU 打造高性能密码软�
 
 仓库地址：
 
-- https://gitcode.com/cann/crypto （密码库主仓）
+- [cann/crypto](https://gitcode.com/cann/crypto)（密码库主仓）
