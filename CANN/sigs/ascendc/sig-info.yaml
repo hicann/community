@@ -322,6 +322,14 @@ repositories:
     committers:
     - gitcode_id: ascendhjh
     - gitcode_id: qin437231
+  - path:
+    - experimental/asctile
+    committers:
+    - gitcode_id: vla5924
+    - gitcode_id: vladimirlaz
+    - gitcode_id: IlyaShein
+    - gitcode_id: mly4
+    - gitcode_id: alexflegontov
 
 - repo:
   - cann/atvc
