@@ -379,6 +379,9 @@ repositories:
     - gitcode_id: oscillated
       name: 陈律丞
       email: chenlyucheng@huawei.com
+    - gitcode_id: void_ptr
+      name: 鲍超俊
+      email: baochaojun@huawei.com
   - path:
     - conv
     committers:
