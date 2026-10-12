@@ -35,6 +35,11 @@
 | 20260427 | DeepSeek-V4 昇腾首发：基于昇腾950的DeepSeek-V4算子亲和优化实践 | sig-recipes | [链接](./slides/DeepSeek-V4/20260427) | [链接](https://www.bilibili.com/video/BV1hEoCBEEAt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260424 | DeepSeek-V4 昇腾首发：基于CANN的训推优化实践 | sig-recipes | [链接](./slides/DeepSeek-V4/20260424) | [链接](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
+## DeepSeek生态发布开源库解读系列
+| 20261009 | 拆解FlashMLA\DeepJit开源库：基于昇腾950稀疏Attention计算加速与JIT基础库构建 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20261009) | [链接](https://www.bilibili.com/video/BV17gpb6BE9R/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20261009 | 拆解DeepEP\DeepGEMM开源库：MoE通信与大模型矩阵计算加速 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20261009) | [链接](https://www.bilibili.com/video/BV17Mp46wEHk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20260930 | DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态 | - | [链接](./slides/DeepSeek/20260930) | [链接](https://www.bilibili.com/video/BV1guad64Eo9/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+
 ## CANN开源开放系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
@@ -66,6 +71,8 @@
 ## CANN Insight系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261010 | CANNBot-DSL：用 Agent Friendly 编程范式，生成高性能的复杂融合算子 | sig-cannbot | [链接](./slides/sig-cannbot/20261010) | [链接](https://www.bilibili.com/video/BV1irpu61EA6/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+| 20261010 | 2.8倍性能提升！基于CANN实现Kimi K3高性能推理 | sig-recipes | [链接](./slides/sig-recipes/20261010) | [链接](https://www.bilibili.com/video/BV1dppg62Egt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260820 | AMCT-Pruning结构化剪枝技术 | sig-tools | [链接](./slides/sig-tools/20260820) | [链接](https://www.bilibili.com/video/BV1r38c6UENH/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260819 | AMCT-LLM量化能力发布解读：主流网络与PTQ算法实践 | sig-tools | [链接](./slides/sig-tools/20260819) | [链接](https://www.bilibili.com/video/BV1Te8J62EAm/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260817 | GE静态shape多流并行增强技术 | sig-ge | [链接](./slides/sig-ge/20260817) | [链接](https://www.bilibili.com/video/BV1BXbi6yE9i/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
