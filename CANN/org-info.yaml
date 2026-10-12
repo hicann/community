@@ -32,6 +32,9 @@ sigs:
       - gitcode_id: crystalhu
         name: 胡碧霞
         email: hubixia1@huawei.com
+      - gitcode_id: chaotang233
+        name: 唐超
+        email: tangchao47@hisilicon.com
   - sig_name: ops-transformer
     maintainers:
     - gitcode_id: liudan12
