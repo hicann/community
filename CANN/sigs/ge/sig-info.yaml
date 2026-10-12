@@ -149,6 +149,11 @@ repositories:
       - gitcode_id: yangyongqiang0606
       - gitcode_id: zhujingjing
       - gitcode_id: wangxiaotian995
+  - path:
+    - inc/framework/om2
+    committers:
+    - gitcode_id: shengnan666
+    - gitcode_id: zhangfan_hanq
 - repo:
   - cann/metadef
   committers:
