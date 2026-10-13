@@ -12,6 +12,7 @@ committers:
 - gitcode_id: Jiangbowang
 - gitcode_id: jfcm1024
 - gitcode_id: zihaomei
+- gitcode_id: fullt
 repositories:
 - repo:
   - cann/crypto
@@ -25,4 +26,5 @@ repositories:
   - gitcode_id: Jiangbowang
   - gitcode_id: jfcm1024
   - gitcode_id: zihaomei
+  - gitcode_id: fullt
   entry_configs: []

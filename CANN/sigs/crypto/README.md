@@ -28,10 +28,11 @@ crypto SIG 是密码学兴趣小组，围绕昇腾 NPU 打造高性能密码软�
 - 王江波[@Jiangbowang](https://gitcode.com/Jiangbowang)，*[jiangbo.wang@mail.sdu.edu.cn](mailto:jiangbo.wang@mail.sdu.edu.cn)*
 - 袁壄[@jfcm1024](https://gitcode.com/jfcm1024)，*[yuanye44@huawei.com](mailto:yuanye44@huawei.com)*
 - 梅子豪[@zihaomei](https://gitcode.com/zihaomei)，*[zihao.mei@mail.sdu.edu.cn](mailto:zihao.mei@mail.sdu.edu.cn)*
+- 傅涛[@fullt](https://gitcode.com/fullt)，*[full.fu@huawei.com](mailto:full.fu@huawei.com)*
 
 # 社区运作
 
-- 月度例会，每月第一周 周四 16:00-17:30（北京时间）；具体时间与调整可关注下方纪要与邮件列表
+- 月度例会，每月第三周周三 14:00-15:00（北京时间）；具体时间与调整可关注下方纪要与邮件列表
 - [会议地址](https://meeting.osinfra.cn/cann/)
 - [议题申报](https://etherpad-cann.meeting.osinfra.cn/p/sig-crypto)
 - [会议纪要](https://etherpad-cann.meeting.osinfra.cn/p/sig-crypto)
