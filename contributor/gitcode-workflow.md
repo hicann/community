@@ -200,7 +200,7 @@ PR 提交后，请在评论中输入 "/compile" 触发门禁检查。检查时�
 
 3. **推送到远程回退分支**：
    ```bash
-   git push ${your_remote_name} myrevert
+   git push -u origin myrevert
    ```
 
 ### 9.2 处理提交冲突
