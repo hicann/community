@@ -79,6 +79,7 @@ git config --global user.email "email@your_GitCode_email"
    ```bash
    # 克隆远程仓库到本地
    git clone git@gitcode.com:${user_name}/${repository_name}.git
+   cd ${repository_name}
    
    # 设置上游仓库（被 Fork 的原始仓库）
    git remote add upstream git@gitcode.com:cann/${repository_name}.git
