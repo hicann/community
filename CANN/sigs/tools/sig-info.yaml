@@ -38,3 +38,10 @@ repositories:
     - gitcode_id: flyswa
     - gitcode_id: claire8090
     - gitcode_id: yanyefeng
+- repo:
+  - cann/npu-simulator
+  committers:
+  - gitcode_id: liujun2025
+  - gitcode_id: xiechengxuan
+  - gitcode_id: liangbinglong
+  - gitcode_id: fomichevoleg5
