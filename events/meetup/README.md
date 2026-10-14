@@ -36,9 +36,17 @@
 | 20260424 | DeepSeek-V4 昇腾首发：基于CANN的训推优化实践 | sig-recipes | [链接](./slides/DeepSeek-V4/20260424) | [链接](https://www.bilibili.com/video/BV1KLo5BfEdG/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
 ## DeepSeek生态发布开源库解读系列
+| 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
+|--------|------|------|------|------|
+| 20261012 | 拆解Tilelang\Tilekernels开源库：TileLang原生支持昇腾950背后的技术 | sig-ops-tilelang | [链接](./slides/sig-ops-tilelang/20261012) | [链接](https://www.bilibili.com/video/BV1yyp96HEFc/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20261009 | 拆解FlashMLA\DeepJit开源库：基于昇腾950稀疏Attention计算加速与JIT基础库构建 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20261009) | [链接](https://www.bilibili.com/video/BV17gpb6BE9R/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20261009 | 拆解DeepEP\DeepGEMM开源库：MoE通信与大模型矩阵计算加速 | sig-ops-transformer | [链接](./slides/sig-ops-transformer/20261009) | [链接](https://www.bilibili.com/video/BV17Mp46wEHk/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260930 | DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态 | - | [链接](./slides/DeepSeek/20260930) | [链接](https://www.bilibili.com/video/BV1guad64Eo9/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
+
+## 围绕DeepSeek V4.1，昇腾950端到端训推参考实践分享系列
+| 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
+|--------|------|------|------|------|
+| 20261013 | Ascend 950极低时延加速技巧：自定义通信编程与单机推理优化 | - | [链接](./slides/DeepSeek/20261013) | [链接](https://www.bilibili.com/video/BV1ztWw6NEie/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
 ## CANN开源开放系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
