@@ -103,6 +103,7 @@
 - 蒋家炜 [@jiangjiawei](https://gitcode.com/jiangjiawei), *jiangjiawei10@huawei.com*
 - 李宁 [@lining_210](https://gitcode.com/lining_210), *lining210@huawei.com*
 - 黄帅 [@huangshuai59](https://gitcode.com/huangshuai59), *huangshuai59@huawei.com*
+- 薛靖晖 [@xuejinghui](https://gitcode.com/xuejinghui), *xuejinghui@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
