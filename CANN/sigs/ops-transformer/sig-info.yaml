@@ -294,6 +294,7 @@ repositories:
     - gitcode_id: luwei_1104
     - gitcode_id: kdy18482276080
     - gitcode_id: wangxun21
+    - gitcode_id: xuejinghui
 - repo:
   - cann/ops-tilelang
   committers:

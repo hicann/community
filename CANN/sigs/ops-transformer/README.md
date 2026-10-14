@@ -205,6 +205,7 @@
 - 陆威 [@luwei_1104](https://gitcode.com/luwei_1104), *luwei44@huawei.com*
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
+- 薛靖晖 [@xuejinghui](https://gitcode.com/xuejinghui), *xuejinghui@huawei.com*
 
 ## 资料 committer列表：
 - 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
