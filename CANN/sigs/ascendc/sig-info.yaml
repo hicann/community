@@ -317,6 +317,7 @@ repositories:
   - gitcode_id: li_zeran
   - gitcode_id: vla5924
   - gitcode_id: vladimirlaz
+  - gitcode_id: hyolee
   entry_configs:
   - path:
     - include
