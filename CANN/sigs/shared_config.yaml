@@ -2,9 +2,13 @@ branch_configs:
   - branch:
     - 9.0.0
     - 9.1.0
+    - 9.1.0-beta.1
     - 9.1.0-beta.2
     - 9.2.0-beta.1
+    - 9.2.0-beta.2
     - 9.2.0
+    - 9.3.0-beta.1
+    - 9.3.0-beta.2
     committers:
     - gitcode_id: gcw_kUomxQ2l
     - gitcode_id: Andy-lb
@@ -12,6 +16,11 @@ branch_configs:
     - gitcode_id: jiangtao_rts
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: TianXL
+  - branch:
+    - 9.3.0-beta.3
+    committers:
+    - gitcode_id: tangweiwei2
+    - gitcode_id: shawn-hu
 entry_configs:
   - path:
     - .gitcode
