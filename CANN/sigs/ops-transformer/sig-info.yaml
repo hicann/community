@@ -221,15 +221,6 @@ repositories:
     - gitcode_id: shen_weiling
     - gitcode_id: lining_210
 
-  - path: # 稀疏FA arch22
-    - "attention/sparse_flash_attention/*/arch22"
-    - "attention/kv_quant_sparse_flash_attention/*/arch22"
-    - "attention/sparse_flash_mla/*/arch22"
-    - "attention/mixed_quant_sparse_flash_mla/*/arch22"
-    committers:
-    - gitcode_id: monologue815
-    - gitcode_id: cc-z
-    - gitcode_id: zzzzzzyf_
   - path: # 稀疏FA
     - "attention/sparse_flash_attention"
     - "attention/kv_quant_sparse_flash_attention"
@@ -244,16 +235,10 @@ repositories:
     - gitcode_id: jiang-lirui
     - gitcode_id: wangzhe123456789
     - gitcode_id: songjionghui
-
-  - path: # LI arch22
-    - "attention/lightning_indexer/*/arch22"
-    - "attention/lightning_indexer_v2/*/arch22"
-    - "attention/quant_lightning_indexer/*/arch22"
-    - "attention/quant_lightning_indexer_v2/*/arch22"
-    committers:
     - gitcode_id: monologue815
-    - gitcode_id: guijianwei
-    - gitcode_id: yu-xinjie62
+    - gitcode_id: cc-z
+    - gitcode_id: zzzzzzyf_
+
   - path: # LI
     - "attention/lightning_indexer"
     - "attention/lightning_indexer_v2"
@@ -265,14 +250,10 @@ repositories:
     - gitcode_id: jiang-lirui
     - gitcode_id: wangzhe123456789
     - gitcode_id: songjionghui
-
-  - path: # SLI arch22
-    - "attention/sparse_lightning_indexer/*/arch22"
-    - "attention/quant_sparse_lightning_indexer/*/arch22"
-    committers:
     - gitcode_id: monologue815
     - gitcode_id: guijianwei
     - gitcode_id: yu-xinjie62
+
   - path: # SLI
     - "attention/sparse_lightning_indexer"
     - "attention/quant_sparse_lightning_indexer"
@@ -281,6 +262,9 @@ repositories:
     - gitcode_id: jiang-lirui
     - gitcode_id: wangzhe123456789
     - gitcode_id: songjionghui
+    - gitcode_id: monologue815
+    - gitcode_id: guijianwei
+    - gitcode_id: yu-xinjie62
 
   - path: # 稠密FA伪量化
     - "attention/mixed_quant_flash_attn"
@@ -303,12 +287,6 @@ repositories:
     - gitcode_id: tang-hao-hw-gitcode
     - gitcode_id: yang-binrong
 
-  - path: # compressor arch22
-    - "attention/compressor/*/arch22"
-    committers:
-    - gitcode_id: monologue815
-    - gitcode_id: xuchengyang
-    - gitcode_id: guijianwei
   - path: # compressor
     - "attention/compressor"
     - "attention/compressor_grad"
@@ -316,6 +294,9 @@ repositories:
     committers:
     - gitcode_id: jiang-lirui
     - gitcode_id: shasha_an
+    - gitcode_id: monologue815
+    - gitcode_id: xuchengyang
+    - gitcode_id: guijianwei
     
   - path: # mla_prolog
     - "attention/mla_prolog"
